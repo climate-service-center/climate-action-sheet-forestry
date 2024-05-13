@@ -1,0 +1,16 @@
+*~
+\#*
+Untitled.ipynb
+core.*
+*/*/.ipynb_checkpoints
+Notebooks/*.png
+Notebooks/*/*.png
+Notebooks/*/*/*.png
+docs/_build/
+Notebooks/EOBS-Plots
+Notebooks/.ipynb_checkpoints
+.ipynb_checkpoints/
+Notebooks/*.csv
+
+
+
