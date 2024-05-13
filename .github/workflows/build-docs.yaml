@@ -41,4 +41,15 @@ jobs:
           conda list
       - name: build html 
         run: |
-          python -m sphinx -T -E -b html -d _build/doctrees -D language=en docs html 
+          #python -m sphinx -T -E -b html -d _build/doctrees -D language=en docs html
+          sphinx-build docs _build
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _build/
+          force_orphan: true
+
+
