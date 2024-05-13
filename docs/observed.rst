@@ -8,7 +8,7 @@ Parallel zur Untersuchung der Veränderung bei verschiedenen globalen Erwärmung
 .. image:: plots/EOBS_Annual_anomaly_deviation-2023_to_1971_2000_08212_08215_07334_Region_um_Karlsruheneu.png
 
 
-**Abbildung 2** zeigt die Temperatur und Niederschlagsanomlien von 1950 bis 2023 im Verlich zu dem 30-jährigen Mittel über die Jahre 1971 bis 2000. Für die Temperatur ist ein deutlicher Anstieg ab dem Jahr 2000 zu erkennen. In der Graphik der Niederschlagsanomalien sind die einzelnen Dürrejahre 2003, 2015 und 2018 bis 2020 kenntlich gemacht. Die Graphik der jährliche Anomalie mit den Dürrejahren hiermit_ erstellt.
+**Abbildung 2** zeigt die Temperatur und Niederschlagsanomlien von 1950 bis 2023 im Verlich zu dem 30-jährigen Mittel über die Jahre 1971 bis 2000. Für die Temperatur ist ein deutlicher Anstieg ab dem Jahr 2000 zu erkennen. In der Graphik der Niederschlagsanomalien sind die einzelnen Dürrejahre 2003, 2015 und 2018 bis 2020 kenntlich gemacht.
 
 Notebook
 ........
