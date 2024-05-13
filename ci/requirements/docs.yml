@@ -12,6 +12,7 @@ dependencies:
     - pillow
     - pip
     - sphinx_rtd_theme
+    - sphinx-book-theme
     - sphinx
     - pandoc
     - nbsphinx
