@@ -1,5 +1,5 @@
 #
-# climate-action-sheet-forestry Documentation build configuration file
+# climate-action-sheet-forestry documentation build configuration file
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.

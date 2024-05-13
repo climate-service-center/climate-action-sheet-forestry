@@ -13,12 +13,14 @@ Klima-Taten-Blatt
 | Development Status         | |status| |pipeline|                                 |
 +----------------------------+-----------------------------------------------------+
 
-Dieses Repository ist eine Sammlung aller durchgeführten Klimadatenanalysen, welche im Klima-Taten-Blatt für den Stadtwald Karlsruhe enthalten sind.
+
 
 .. image:: ../Titel.png
 
+Dieses Repository ist eine Sammlung aller durchgeführten Klimadatenanalysen, welche im Klima-Taten-Blatt für den Stadtwald Karlsruhe enthalten sind.	   
 Hier befinden sich die Skripte die zur Datenverarbeitung notwendig sind und die Grafiken und Tabellen des Klima-Taten-Blatts reproduzierbar erstellen. Es ist durch Hintergrundinformationen zur aktuellen Klimaentwicklung, zur Berechnung der globalen Erwärmungsstufen und zusätzlicher Analysen erweitert.
 
+Dieses Repository ist eine Sammlung von Klimadatenanalysen, die im Klima-Taten-Blatt für den Stadtwald Karlsruhe enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus dem Klima-Taten-Blatt. Darüber hinaus enthält das Repository Hintergrundinformationen zur Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 
 
 Kontakt
