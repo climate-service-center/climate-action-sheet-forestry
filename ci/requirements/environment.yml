@@ -1,0 +1,8 @@
+name: flyer_forestry-tests
+channels:
+    - conda-forge
+    - nodefaults
+dependencies:
+    - pytest
+    - pytest-cov
+    - pytest-env

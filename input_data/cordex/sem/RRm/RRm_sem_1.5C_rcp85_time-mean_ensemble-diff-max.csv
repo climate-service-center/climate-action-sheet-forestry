@@ -1,0 +1,2045 @@
+region,RRm_sem_1.5C_rcp85_time-mean_ensemble-diff-max,ci_name,ci_frequency,standard_name,units,mid_month
+01001_01059_Region_um_Flensburg,0.4612858295440674,RRm,sem,precipitation,mm day-1,1
+01001_01059_Region_um_Flensburg,0.5034096240997314,RRm,sem,precipitation,mm day-1,4
+01001_01059_Region_um_Flensburg,0.6316115856170654,RRm,sem,precipitation,mm day-1,7
+01001_01059_Region_um_Flensburg,0.40819334983825684,RRm,sem,precipitation,mm day-1,10
+01001_Flensburg,0.5139021873474121,RRm,sem,precipitation,mm day-1,1
+01001_Flensburg,0.5640888214111328,RRm,sem,precipitation,mm day-1,4
+01001_Flensburg,0.6596033573150635,RRm,sem,precipitation,mm day-1,7
+01001_Flensburg,0.38386964797973633,RRm,sem,precipitation,mm day-1,10
+01002_01057_01058_Region_um_Kiel,0.4175527095794678,RRm,sem,precipitation,mm day-1,1
+01002_01057_01058_Region_um_Kiel,0.4599454402923584,RRm,sem,precipitation,mm day-1,4
+01002_01057_01058_Region_um_Kiel,0.5470256805419922,RRm,sem,precipitation,mm day-1,7
+01002_01057_01058_Region_um_Kiel,0.4666478633880615,RRm,sem,precipitation,mm day-1,10
+01002_Kiel,0.4326350688934326,RRm,sem,precipitation,mm day-1,1
+01002_Kiel,0.5062665939331055,RRm,sem,precipitation,mm day-1,4
+01002_Kiel,0.5501666069030762,RRm,sem,precipitation,mm day-1,7
+01002_Kiel,0.4217362403869629,RRm,sem,precipitation,mm day-1,10
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.383408784866333,RRm,sem,precipitation,mm day-1,1
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.39216065406799316,RRm,sem,precipitation,mm day-1,4
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.5515353679656982,RRm,sem,precipitation,mm day-1,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.3538733720779419,RRm,sem,precipitation,mm day-1,10
+01003_Lübeck,0.38593292236328125,RRm,sem,precipitation,mm day-1,1
+01003_Lübeck,0.340948224067688,RRm,sem,precipitation,mm day-1,4
+01003_Lübeck,0.5609853267669678,RRm,sem,precipitation,mm day-1,7
+01003_Lübeck,0.3643909692764282,RRm,sem,precipitation,mm day-1,10
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.40863823890686035,RRm,sem,precipitation,mm day-1,1
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.43895840644836426,RRm,sem,precipitation,mm day-1,4
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.5465500354766846,RRm,sem,precipitation,mm day-1,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.4565277099609375,RRm,sem,precipitation,mm day-1,10
+01004_Neumünster,0.4090406894683838,RRm,sem,precipitation,mm day-1,1
+01004_Neumünster,0.413379430770874,RRm,sem,precipitation,mm day-1,4
+01004_Neumünster,0.5938448905944824,RRm,sem,precipitation,mm day-1,7
+01004_Neumünster,0.4919705390930176,RRm,sem,precipitation,mm day-1,10
+01051_Dithmarschen,0.7079224586486816,RRm,sem,precipitation,mm day-1,1
+01051_Dithmarschen,0.4961128234863281,RRm,sem,precipitation,mm day-1,4
+01051_Dithmarschen,0.6037702560424805,RRm,sem,precipitation,mm day-1,7
+01051_Dithmarschen,1.6610326766967773,RRm,sem,precipitation,mm day-1,10
+01053_Herzogtum Lauenburg,0.3375513553619385,RRm,sem,precipitation,mm day-1,1
+01053_Herzogtum Lauenburg,0.3953514099121094,RRm,sem,precipitation,mm day-1,4
+01053_Herzogtum Lauenburg,0.5360348224639893,RRm,sem,precipitation,mm day-1,7
+01053_Herzogtum Lauenburg,0.3664919137954712,RRm,sem,precipitation,mm day-1,10
+01054_Nordfriesland,0.6606597900390625,RRm,sem,precipitation,mm day-1,1
+01054_Nordfriesland,0.48233819007873535,RRm,sem,precipitation,mm day-1,4
+01054_Nordfriesland,0.6321600675582886,RRm,sem,precipitation,mm day-1,7
+01054_Nordfriesland,0.7678799629211426,RRm,sem,precipitation,mm day-1,10
+01055_Ostholstein,0.4460878372192383,RRm,sem,precipitation,mm day-1,1
+01055_Ostholstein,0.3967397212982178,RRm,sem,precipitation,mm day-1,4
+01055_Ostholstein,0.5630185604095459,RRm,sem,precipitation,mm day-1,7
+01055_Ostholstein,0.3673679828643799,RRm,sem,precipitation,mm day-1,10
+01056_Pinneberg,0.3761863708496094,RRm,sem,precipitation,mm day-1,1
+01056_Pinneberg,0.49640750885009766,RRm,sem,precipitation,mm day-1,4
+01056_Pinneberg,0.5843517780303955,RRm,sem,precipitation,mm day-1,7
+01056_Pinneberg,0.5808920860290527,RRm,sem,precipitation,mm day-1,10
+01057_Plön,0.4510948657989502,RRm,sem,precipitation,mm day-1,1
+01057_Plön,0.4913907051086426,RRm,sem,precipitation,mm day-1,4
+01057_Plön,0.53859543800354,RRm,sem,precipitation,mm day-1,7
+01057_Plön,0.45758652687072754,RRm,sem,precipitation,mm day-1,10
+01058_Rendsburg-Eckernförde,0.40000247955322266,RRm,sem,precipitation,mm day-1,1
+01058_Rendsburg-Eckernförde,0.4416928291320801,RRm,sem,precipitation,mm day-1,4
+01058_Rendsburg-Eckernförde,0.5510492324829102,RRm,sem,precipitation,mm day-1,7
+01058_Rendsburg-Eckernförde,0.47367238998413086,RRm,sem,precipitation,mm day-1,10
+01059_Schleswig-Flensburg,0.45990633964538574,RRm,sem,precipitation,mm day-1,1
+01059_Schleswig-Flensburg,0.5018179416656494,RRm,sem,precipitation,mm day-1,4
+01059_Schleswig-Flensburg,0.6308767795562744,RRm,sem,precipitation,mm day-1,7
+01059_Schleswig-Flensburg,0.4088308811187744,RRm,sem,precipitation,mm day-1,10
+01060_Segeberg,0.3861057758331299,RRm,sem,precipitation,mm day-1,1
+01060_Segeberg,0.4664914608001709,RRm,sem,precipitation,mm day-1,4
+01060_Segeberg,0.5424942970275879,RRm,sem,precipitation,mm day-1,7
+01060_Segeberg,0.42883801460266113,RRm,sem,precipitation,mm day-1,10
+01061_Steinburg,0.39687299728393555,RRm,sem,precipitation,mm day-1,1
+01061_Steinburg,0.5333006381988525,RRm,sem,precipitation,mm day-1,4
+01061_Steinburg,0.5977084636688232,RRm,sem,precipitation,mm day-1,7
+01061_Steinburg,0.9152216911315918,RRm,sem,precipitation,mm day-1,10
+01062_Stormarn,0.35843491554260254,RRm,sem,precipitation,mm day-1,1
+01062_Stormarn,0.44345951080322266,RRm,sem,precipitation,mm day-1,4
+01062_Stormarn,0.5226602554321289,RRm,sem,precipitation,mm day-1,7
+01062_Stormarn,0.3904595375061035,RRm,sem,precipitation,mm day-1,10
+02000_Hamburg,0.34469103813171387,RRm,sem,precipitation,mm day-1,1
+02000_Hamburg,0.5028157234191895,RRm,sem,precipitation,mm day-1,4
+02000_Hamburg,0.5206916332244873,RRm,sem,precipitation,mm day-1,7
+02000_Hamburg,0.4132263660430908,RRm,sem,precipitation,mm day-1,10
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.35074758529663086,RRm,sem,precipitation,mm day-1,1
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.47739720344543457,RRm,sem,precipitation,mm day-1,4
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.6538324356079102,RRm,sem,precipitation,mm day-1,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.3160226345062256,RRm,sem,precipitation,mm day-1,10
+03101_Braunschweig,0.38889241218566895,RRm,sem,precipitation,mm day-1,1
+03101_Braunschweig,0.47179746627807617,RRm,sem,precipitation,mm day-1,4
+03101_Braunschweig,0.667927622795105,RRm,sem,precipitation,mm day-1,7
+03101_Braunschweig,0.33975255489349365,RRm,sem,precipitation,mm day-1,10
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.33384180068969727,RRm,sem,precipitation,mm day-1,1
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.4633142948150635,RRm,sem,precipitation,mm day-1,4
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.7008669376373291,RRm,sem,precipitation,mm day-1,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.3940391540527344,RRm,sem,precipitation,mm day-1,10
+03102_Salzgitter,0.37108564376831055,RRm,sem,precipitation,mm day-1,1
+03102_Salzgitter,0.37809133529663086,RRm,sem,precipitation,mm day-1,4
+03102_Salzgitter,0.6531744003295898,RRm,sem,precipitation,mm day-1,7
+03102_Salzgitter,0.3459818363189697,RRm,sem,precipitation,mm day-1,10
+03103_03154_03151_Region_um_Wolfsburg,0.34228086471557617,RRm,sem,precipitation,mm day-1,1
+03103_03154_03151_Region_um_Wolfsburg,0.5243971347808838,RRm,sem,precipitation,mm day-1,4
+03103_03154_03151_Region_um_Wolfsburg,0.6464388370513916,RRm,sem,precipitation,mm day-1,7
+03103_03154_03151_Region_um_Wolfsburg,0.30997800827026367,RRm,sem,precipitation,mm day-1,10
+03103_Wolfsburg,0.34251153469085693,RRm,sem,precipitation,mm day-1,1
+03103_Wolfsburg,0.5919270515441895,RRm,sem,precipitation,mm day-1,4
+03103_Wolfsburg,0.6840493679046631,RRm,sem,precipitation,mm day-1,7
+03103_Wolfsburg,0.28939616680145264,RRm,sem,precipitation,mm day-1,10
+03151_Gifhorn,0.35619497299194336,RRm,sem,precipitation,mm day-1,1
+03151_Gifhorn,0.5261349678039551,RRm,sem,precipitation,mm day-1,4
+03151_Gifhorn,0.63123619556427,RRm,sem,precipitation,mm day-1,7
+03151_Gifhorn,0.3303103446960449,RRm,sem,precipitation,mm day-1,10
+03153_Goslar,0.3972969055175781,RRm,sem,precipitation,mm day-1,1
+03153_Goslar,0.6938505172729492,RRm,sem,precipitation,mm day-1,4
+03153_Goslar,0.8477404117584229,RRm,sem,precipitation,mm day-1,7
+03153_Goslar,0.5279433727264404,RRm,sem,precipitation,mm day-1,10
+03154_Helmstedt,0.3097323179244995,RRm,sem,precipitation,mm day-1,1
+03154_Helmstedt,0.4994642734527588,RRm,sem,precipitation,mm day-1,4
+03154_Helmstedt,0.7333970069885254,RRm,sem,precipitation,mm day-1,7
+03154_Helmstedt,0.30626678466796875,RRm,sem,precipitation,mm day-1,10
+03155_Northeim,0.3857240676879883,RRm,sem,precipitation,mm day-1,1
+03155_Northeim,0.36312055587768555,RRm,sem,precipitation,mm day-1,4
+03155_Northeim,0.6092922687530518,RRm,sem,precipitation,mm day-1,7
+03155_Northeim,0.3952585458755493,RRm,sem,precipitation,mm day-1,10
+03157_Peine,0.3536336421966553,RRm,sem,precipitation,mm day-1,1
+03157_Peine,0.42820167541503906,RRm,sem,precipitation,mm day-1,4
+03157_Peine,0.6526480913162231,RRm,sem,precipitation,mm day-1,7
+03157_Peine,0.37878966331481934,RRm,sem,precipitation,mm day-1,10
+03158_Wolfenbüttel,0.36039531230926514,RRm,sem,precipitation,mm day-1,1
+03158_Wolfenbüttel,0.38816285133361816,RRm,sem,precipitation,mm day-1,4
+03158_Wolfenbüttel,0.6987559795379639,RRm,sem,precipitation,mm day-1,7
+03158_Wolfenbüttel,0.3316441774368286,RRm,sem,precipitation,mm day-1,10
+03159_Göttingen,0.46207571029663086,RRm,sem,precipitation,mm day-1,1
+03159_Göttingen,0.4095132350921631,RRm,sem,precipitation,mm day-1,4
+03159_Göttingen,0.6425607204437256,RRm,sem,precipitation,mm day-1,7
+03159_Göttingen,0.4172677993774414,RRm,sem,precipitation,mm day-1,10
+03241_Region Hannover,0.33889496326446533,RRm,sem,precipitation,mm day-1,1
+03241_Region Hannover,0.3664376735687256,RRm,sem,precipitation,mm day-1,4
+03241_Region Hannover,0.6082253456115723,RRm,sem,precipitation,mm day-1,7
+03241_Region Hannover,0.39266443252563477,RRm,sem,precipitation,mm day-1,10
+03251_Diepholz,0.35869455337524414,RRm,sem,precipitation,mm day-1,1
+03251_Diepholz,0.4442462921142578,RRm,sem,precipitation,mm day-1,4
+03251_Diepholz,0.4673497676849365,RRm,sem,precipitation,mm day-1,7
+03251_Diepholz,0.3789466619491577,RRm,sem,precipitation,mm day-1,10
+03252_Hameln-Pyrmont,0.3116563558578491,RRm,sem,precipitation,mm day-1,1
+03252_Hameln-Pyrmont,0.4087944030761719,RRm,sem,precipitation,mm day-1,4
+03252_Hameln-Pyrmont,0.6303184032440186,RRm,sem,precipitation,mm day-1,7
+03252_Hameln-Pyrmont,0.42603421211242676,RRm,sem,precipitation,mm day-1,10
+03254_Hildesheim,0.3226895332336426,RRm,sem,precipitation,mm day-1,1
+03254_Hildesheim,0.4028441905975342,RRm,sem,precipitation,mm day-1,4
+03254_Hildesheim,0.6341392993927002,RRm,sem,precipitation,mm day-1,7
+03254_Hildesheim,0.4024038314819336,RRm,sem,precipitation,mm day-1,10
+03255_Holzminden,0.3126978874206543,RRm,sem,precipitation,mm day-1,1
+03255_Holzminden,0.37647414207458496,RRm,sem,precipitation,mm day-1,4
+03255_Holzminden,0.6279869079589844,RRm,sem,precipitation,mm day-1,7
+03255_Holzminden,0.38331806659698486,RRm,sem,precipitation,mm day-1,10
+03256_Nienburg (Weser),0.3519113063812256,RRm,sem,precipitation,mm day-1,1
+03256_Nienburg (Weser),0.4258699417114258,RRm,sem,precipitation,mm day-1,4
+03256_Nienburg (Weser),0.5247187614440918,RRm,sem,precipitation,mm day-1,7
+03256_Nienburg (Weser),0.39333927631378174,RRm,sem,precipitation,mm day-1,10
+03257_Schaumburg,0.3749973773956299,RRm,sem,precipitation,mm day-1,1
+03257_Schaumburg,0.41995906829833984,RRm,sem,precipitation,mm day-1,4
+03257_Schaumburg,0.6477859020233154,RRm,sem,precipitation,mm day-1,7
+03257_Schaumburg,0.44365835189819336,RRm,sem,precipitation,mm day-1,10
+03351_Celle,0.3668971061706543,RRm,sem,precipitation,mm day-1,1
+03351_Celle,0.45353150367736816,RRm,sem,precipitation,mm day-1,4
+03351_Celle,0.6180305480957031,RRm,sem,precipitation,mm day-1,7
+03351_Celle,0.38120830059051514,RRm,sem,precipitation,mm day-1,10
+03352_Cuxhaven,0.42818570137023926,RRm,sem,precipitation,mm day-1,1
+03352_Cuxhaven,0.5216653347015381,RRm,sem,precipitation,mm day-1,4
+03352_Cuxhaven,0.6549479961395264,RRm,sem,precipitation,mm day-1,7
+03352_Cuxhaven,0.850311279296875,RRm,sem,precipitation,mm day-1,10
+03353_Harburg,0.3484022617340088,RRm,sem,precipitation,mm day-1,1
+03353_Harburg,0.4737410545349121,RRm,sem,precipitation,mm day-1,4
+03353_Harburg,0.5594465732574463,RRm,sem,precipitation,mm day-1,7
+03353_Harburg,0.3476521968841553,RRm,sem,precipitation,mm day-1,10
+03354_Lüchow-Dannenberg,0.343425989151001,RRm,sem,precipitation,mm day-1,1
+03354_Lüchow-Dannenberg,0.4005279541015625,RRm,sem,precipitation,mm day-1,4
+03354_Lüchow-Dannenberg,0.49567484855651855,RRm,sem,precipitation,mm day-1,7
+03354_Lüchow-Dannenberg,0.342116117477417,RRm,sem,precipitation,mm day-1,10
+03355_Lüneburg,0.3489360809326172,RRm,sem,precipitation,mm day-1,1
+03355_Lüneburg,0.43178820610046387,RRm,sem,precipitation,mm day-1,4
+03355_Lüneburg,0.49906182289123535,RRm,sem,precipitation,mm day-1,7
+03355_Lüneburg,0.36186790466308594,RRm,sem,precipitation,mm day-1,10
+03356_Osterholz,0.3512578010559082,RRm,sem,precipitation,mm day-1,1
+03356_Osterholz,0.4952991008758545,RRm,sem,precipitation,mm day-1,4
+03356_Osterholz,0.6623930931091309,RRm,sem,precipitation,mm day-1,7
+03356_Osterholz,0.34342384338378906,RRm,sem,precipitation,mm day-1,10
+03357_Rotenburg (Wümme),0.34442925453186035,RRm,sem,precipitation,mm day-1,1
+03357_Rotenburg (Wümme),0.48835086822509766,RRm,sem,precipitation,mm day-1,4
+03357_Rotenburg (Wümme),0.6880571842193604,RRm,sem,precipitation,mm day-1,7
+03357_Rotenburg (Wümme),0.3740386962890625,RRm,sem,precipitation,mm day-1,10
+03358_Heidekreis,0.3355064392089844,RRm,sem,precipitation,mm day-1,1
+03358_Heidekreis,0.4758925437927246,RRm,sem,precipitation,mm day-1,4
+03358_Heidekreis,0.5982143878936768,RRm,sem,precipitation,mm day-1,7
+03358_Heidekreis,0.37444400787353516,RRm,sem,precipitation,mm day-1,10
+03359_Stade,0.3532438278198242,RRm,sem,precipitation,mm day-1,1
+03359_Stade,0.5453236103057861,RRm,sem,precipitation,mm day-1,4
+03359_Stade,0.6417732238769531,RRm,sem,precipitation,mm day-1,7
+03359_Stade,0.47071385383605957,RRm,sem,precipitation,mm day-1,10
+03360_Uelzen,0.358856201171875,RRm,sem,precipitation,mm day-1,1
+03360_Uelzen,0.42589330673217773,RRm,sem,precipitation,mm day-1,4
+03360_Uelzen,0.5099706649780273,RRm,sem,precipitation,mm day-1,7
+03360_Uelzen,0.37235796451568604,RRm,sem,precipitation,mm day-1,10
+03361_Verden,0.3364522457122803,RRm,sem,precipitation,mm day-1,1
+03361_Verden,0.4373908042907715,RRm,sem,precipitation,mm day-1,4
+03361_Verden,0.6413381099700928,RRm,sem,precipitation,mm day-1,7
+03361_Verden,0.3603247404098511,RRm,sem,precipitation,mm day-1,10
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.3293952941894531,RRm,sem,precipitation,mm day-1,1
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.4421062469482422,RRm,sem,precipitation,mm day-1,4
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.5135433673858643,RRm,sem,precipitation,mm day-1,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.34115076065063477,RRm,sem,precipitation,mm day-1,10
+03401_Delmenhorst,0.3637402057647705,RRm,sem,precipitation,mm day-1,1
+03401_Delmenhorst,0.44054627418518066,RRm,sem,precipitation,mm day-1,4
+03401_Delmenhorst,0.5726828575134277,RRm,sem,precipitation,mm day-1,7
+03401_Delmenhorst,0.32290005683898926,RRm,sem,precipitation,mm day-1,10
+03402_03452_03457_Region_um_Emden,0.39179956912994385,RRm,sem,precipitation,mm day-1,1
+03402_03452_03457_Region_um_Emden,0.5592203140258789,RRm,sem,precipitation,mm day-1,4
+03402_03452_03457_Region_um_Emden,0.4528388977050781,RRm,sem,precipitation,mm day-1,7
+03402_03452_03457_Region_um_Emden,0.7557492256164551,RRm,sem,precipitation,mm day-1,10
+03402_Emden,0.4882984161376953,RRm,sem,precipitation,mm day-1,1
+03402_Emden,0.5419270992279053,RRm,sem,precipitation,mm day-1,4
+03402_Emden,0.5025820732116699,RRm,sem,precipitation,mm day-1,7
+03402_Emden,1.1627521514892578,RRm,sem,precipitation,mm day-1,10
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.3531508445739746,RRm,sem,precipitation,mm day-1,1
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.49980616569519043,RRm,sem,precipitation,mm day-1,4
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.5356099605560303,RRm,sem,precipitation,mm day-1,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.37757277488708496,RRm,sem,precipitation,mm day-1,10
+03403_Oldenburg (Oldb),0.3668947219848633,RRm,sem,precipitation,mm day-1,1
+03403_Oldenburg (Oldb),0.5066485404968262,RRm,sem,precipitation,mm day-1,4
+03403_Oldenburg (Oldb),0.5301840305328369,RRm,sem,precipitation,mm day-1,7
+03403_Oldenburg (Oldb),0.36850953102111816,RRm,sem,precipitation,mm day-1,10
+03404_03459_05566_Region_um_Osnabrück,0.36888957023620605,RRm,sem,precipitation,mm day-1,1
+03404_03459_05566_Region_um_Osnabrück,0.4192619323730469,RRm,sem,precipitation,mm day-1,4
+03404_03459_05566_Region_um_Osnabrück,0.5176506042480469,RRm,sem,precipitation,mm day-1,7
+03404_03459_05566_Region_um_Osnabrück,0.31801867485046387,RRm,sem,precipitation,mm day-1,10
+03404_Osnabrück,0.3658241033554077,RRm,sem,precipitation,mm day-1,1
+03404_Osnabrück,0.4623255729675293,RRm,sem,precipitation,mm day-1,4
+03404_Osnabrück,0.4899482727050781,RRm,sem,precipitation,mm day-1,7
+03404_Osnabrück,0.34998273849487305,RRm,sem,precipitation,mm day-1,10
+03405_03455_Region_um_Wilhelmshaven,0.382859468460083,RRm,sem,precipitation,mm day-1,1
+03405_03455_Region_um_Wilhelmshaven,0.5767354965209961,RRm,sem,precipitation,mm day-1,4
+03405_03455_Region_um_Wilhelmshaven,0.5300805568695068,RRm,sem,precipitation,mm day-1,7
+03405_03455_Region_um_Wilhelmshaven,0.5247352123260498,RRm,sem,precipitation,mm day-1,10
+03405_Wilhelmshaven,0.5168123245239258,RRm,sem,precipitation,mm day-1,1
+03405_Wilhelmshaven,0.565608024597168,RRm,sem,precipitation,mm day-1,4
+03405_Wilhelmshaven,0.5231409072875977,RRm,sem,precipitation,mm day-1,7
+03405_Wilhelmshaven,0.8883376121520996,RRm,sem,precipitation,mm day-1,10
+03451_Ammerland,0.36386728286743164,RRm,sem,precipitation,mm day-1,1
+03451_Ammerland,0.5370910167694092,RRm,sem,precipitation,mm day-1,4
+03451_Ammerland,0.526353120803833,RRm,sem,precipitation,mm day-1,7
+03451_Ammerland,0.366652250289917,RRm,sem,precipitation,mm day-1,10
+03452_Aurich,0.4222615957260132,RRm,sem,precipitation,mm day-1,1
+03452_Aurich,0.5720875263214111,RRm,sem,precipitation,mm day-1,4
+03452_Aurich,0.4580674171447754,RRm,sem,precipitation,mm day-1,7
+03452_Aurich,1.0105619430541992,RRm,sem,precipitation,mm day-1,10
+03453_Cloppenburg,0.3422996997833252,RRm,sem,precipitation,mm day-1,1
+03453_Cloppenburg,0.48107290267944336,RRm,sem,precipitation,mm day-1,4
+03453_Cloppenburg,0.47207021713256836,RRm,sem,precipitation,mm day-1,7
+03453_Cloppenburg,0.33443617820739746,RRm,sem,precipitation,mm day-1,10
+03454_Emsland,0.33777332305908203,RRm,sem,precipitation,mm day-1,1
+03454_Emsland,0.4366934299468994,RRm,sem,precipitation,mm day-1,4
+03454_Emsland,0.5025637149810791,RRm,sem,precipitation,mm day-1,7
+03454_Emsland,0.3389854431152344,RRm,sem,precipitation,mm day-1,10
+03455_Friesland,0.35926294326782227,RRm,sem,precipitation,mm day-1,1
+03455_Friesland,0.5786962509155273,RRm,sem,precipitation,mm day-1,4
+03455_Friesland,0.5313029289245605,RRm,sem,precipitation,mm day-1,7
+03455_Friesland,0.460681676864624,RRm,sem,precipitation,mm day-1,10
+03456_Grafschaft Bentheim,0.3909447193145752,RRm,sem,precipitation,mm day-1,1
+03456_Grafschaft Bentheim,0.44101953506469727,RRm,sem,precipitation,mm day-1,4
+03456_Grafschaft Bentheim,0.6120774745941162,RRm,sem,precipitation,mm day-1,7
+03456_Grafschaft Bentheim,0.33649420738220215,RRm,sem,precipitation,mm day-1,10
+03457_Leer,0.3521707057952881,RRm,sem,precipitation,mm day-1,1
+03457_Leer,0.54526686668396,RRm,sem,precipitation,mm day-1,4
+03457_Leer,0.44121885299682617,RRm,sem,precipitation,mm day-1,7
+03457_Leer,0.43514084815979004,RRm,sem,precipitation,mm day-1,10
+03458_Oldenburg,0.36835575103759766,RRm,sem,precipitation,mm day-1,1
+03458_Oldenburg,0.47371768951416016,RRm,sem,precipitation,mm day-1,4
+03458_Oldenburg,0.5212135314941406,RRm,sem,precipitation,mm day-1,7
+03458_Oldenburg,0.33283424377441406,RRm,sem,precipitation,mm day-1,10
+03459_Osnabrück,0.3657698631286621,RRm,sem,precipitation,mm day-1,1
+03459_Osnabrück,0.45345044136047363,RRm,sem,precipitation,mm day-1,4
+03459_Osnabrück,0.5046432018280029,RRm,sem,precipitation,mm day-1,7
+03459_Osnabrück,0.32538294792175293,RRm,sem,precipitation,mm day-1,10
+03460_Vechta,0.3385024070739746,RRm,sem,precipitation,mm day-1,1
+03460_Vechta,0.45409464836120605,RRm,sem,precipitation,mm day-1,4
+03460_Vechta,0.4623117446899414,RRm,sem,precipitation,mm day-1,7
+03460_Vechta,0.35308289527893066,RRm,sem,precipitation,mm day-1,10
+03461_Wesermarsch,0.40900611877441406,RRm,sem,precipitation,mm day-1,1
+03461_Wesermarsch,0.49911928176879883,RRm,sem,precipitation,mm day-1,4
+03461_Wesermarsch,0.5624780654907227,RRm,sem,precipitation,mm day-1,7
+03461_Wesermarsch,0.5517129898071289,RRm,sem,precipitation,mm day-1,10
+03462_Wittmund,0.3641873598098755,RRm,sem,precipitation,mm day-1,1
+03462_Wittmund,0.6304218769073486,RRm,sem,precipitation,mm day-1,4
+03462_Wittmund,0.4582192897796631,RRm,sem,precipitation,mm day-1,7
+03462_Wittmund,0.6500346660614014,RRm,sem,precipitation,mm day-1,10
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.3653743267059326,RRm,sem,precipitation,mm day-1,1
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.4677412509918213,RRm,sem,precipitation,mm day-1,4
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.5851345062255859,RRm,sem,precipitation,mm day-1,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.4625678062438965,RRm,sem,precipitation,mm day-1,10
+04011_Bremen,0.3554046154022217,RRm,sem,precipitation,mm day-1,1
+04011_Bremen,0.4504106044769287,RRm,sem,precipitation,mm day-1,4
+04011_Bremen,0.633173942565918,RRm,sem,precipitation,mm day-1,7
+04011_Bremen,0.32794904708862305,RRm,sem,precipitation,mm day-1,10
+04012_03352_03461_Region_um_Bremerhaven,0.425067663192749,RRm,sem,precipitation,mm day-1,1
+04012_03352_03461_Region_um_Bremerhaven,0.4899775981903076,RRm,sem,precipitation,mm day-1,4
+04012_03352_03461_Region_um_Bremerhaven,0.6276295185089111,RRm,sem,precipitation,mm day-1,7
+04012_03352_03461_Region_um_Bremerhaven,0.7795047760009766,RRm,sem,precipitation,mm day-1,10
+04012_Bremerhaven,0.5214588642120361,RRm,sem,precipitation,mm day-1,1
+04012_Bremerhaven,0.4860951900482178,RRm,sem,precipitation,mm day-1,4
+04012_Bremerhaven,0.5937111377716064,RRm,sem,precipitation,mm day-1,7
+04012_Bremerhaven,1.376478672027588,RRm,sem,precipitation,mm day-1,10
+05111_05162_05158_05112_Region_um_Düsseldorf,0.6931240558624268,RRm,sem,precipitation,mm day-1,1
+05111_05162_05158_05112_Region_um_Düsseldorf,0.38237452507019043,RRm,sem,precipitation,mm day-1,4
+05111_05162_05158_05112_Region_um_Düsseldorf,0.5427660942077637,RRm,sem,precipitation,mm day-1,7
+05111_05162_05158_05112_Region_um_Düsseldorf,0.5113492012023926,RRm,sem,precipitation,mm day-1,10
+05111_Düsseldorf,0.7676317691802979,RRm,sem,precipitation,mm day-1,1
+05111_Düsseldorf,0.4767441749572754,RRm,sem,precipitation,mm day-1,4
+05111_Düsseldorf,0.5043115615844727,RRm,sem,precipitation,mm day-1,7
+05111_Düsseldorf,0.5768988132476807,RRm,sem,precipitation,mm day-1,10
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.6031804084777832,RRm,sem,precipitation,mm day-1,1
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.40691232681274414,RRm,sem,precipitation,mm day-1,4
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.576235294342041,RRm,sem,precipitation,mm day-1,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.43578433990478516,RRm,sem,precipitation,mm day-1,10
+05112_Duisburg,0.6600754261016846,RRm,sem,precipitation,mm day-1,1
+05112_Duisburg,0.3928492069244385,RRm,sem,precipitation,mm day-1,4
+05112_Duisburg,0.5681381225585938,RRm,sem,precipitation,mm day-1,7
+05112_Duisburg,0.4504098892211914,RRm,sem,precipitation,mm day-1,10
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.5609474182128906,RRm,sem,precipitation,mm day-1,1
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.4268612861633301,RRm,sem,precipitation,mm day-1,4
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.6285502910614014,RRm,sem,precipitation,mm day-1,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.4228336811065674,RRm,sem,precipitation,mm day-1,10
+05113_Essen,0.5909442901611328,RRm,sem,precipitation,mm day-1,1
+05113_Essen,0.43932342529296875,RRm,sem,precipitation,mm day-1,4
+05113_Essen,0.6265966892242432,RRm,sem,precipitation,mm day-1,7
+05113_Essen,0.4659605026245117,RRm,sem,precipitation,mm day-1,10
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.5444743633270264,RRm,sem,precipitation,mm day-1,1
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.3875095844268799,RRm,sem,precipitation,mm day-1,4
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.5774083137512207,RRm,sem,precipitation,mm day-1,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.3854985237121582,RRm,sem,precipitation,mm day-1,10
+05114_Krefeld,0.6594305038452148,RRm,sem,precipitation,mm day-1,1
+05114_Krefeld,0.4096720218658447,RRm,sem,precipitation,mm day-1,4
+05114_Krefeld,0.561171293258667,RRm,sem,precipitation,mm day-1,7
+05114_Krefeld,0.4082763195037842,RRm,sem,precipitation,mm day-1,10
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.5302836894989014,RRm,sem,precipitation,mm day-1,1
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.3489201068878174,RRm,sem,precipitation,mm day-1,4
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.5663738250732422,RRm,sem,precipitation,mm day-1,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.395418643951416,RRm,sem,precipitation,mm day-1,10
+05116_Mönchengladbach,0.4802180528640747,RRm,sem,precipitation,mm day-1,1
+05116_Mönchengladbach,0.3723728656768799,RRm,sem,precipitation,mm day-1,4
+05116_Mönchengladbach,0.5838005542755127,RRm,sem,precipitation,mm day-1,7
+05116_Mönchengladbach,0.3465604782104492,RRm,sem,precipitation,mm day-1,10
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.6730504035949707,RRm,sem,precipitation,mm day-1,1
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.42978644371032715,RRm,sem,precipitation,mm day-1,4
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.5845181941986084,RRm,sem,precipitation,mm day-1,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.5090816020965576,RRm,sem,precipitation,mm day-1,10
+05117_Mülheim an der Ruhr,0.6587669849395752,RRm,sem,precipitation,mm day-1,1
+05117_Mülheim an der Ruhr,0.42324399948120117,RRm,sem,precipitation,mm day-1,4
+05117_Mülheim an der Ruhr,0.5990700721740723,RRm,sem,precipitation,mm day-1,7
+05117_Mülheim an der Ruhr,0.5098822116851807,RRm,sem,precipitation,mm day-1,10
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.539170503616333,RRm,sem,precipitation,mm day-1,1
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.4052698612213135,RRm,sem,precipitation,mm day-1,4
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.5987114906311035,RRm,sem,precipitation,mm day-1,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.42965221405029297,RRm,sem,precipitation,mm day-1,10
+05119_Oberhausen,0.5756728649139404,RRm,sem,precipitation,mm day-1,1
+05119_Oberhausen,0.3855416774749756,RRm,sem,precipitation,mm day-1,4
+05119_Oberhausen,0.6243000030517578,RRm,sem,precipitation,mm day-1,7
+05119_Oberhausen,0.44757914543151855,RRm,sem,precipitation,mm day-1,10
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.7234897613525391,RRm,sem,precipitation,mm day-1,1
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.582526445388794,RRm,sem,precipitation,mm day-1,4
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.5372905731201172,RRm,sem,precipitation,mm day-1,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.6038815975189209,RRm,sem,precipitation,mm day-1,10
+05120_Remscheid,0.7859048843383789,RRm,sem,precipitation,mm day-1,1
+05120_Remscheid,0.605881929397583,RRm,sem,precipitation,mm day-1,4
+05120_Remscheid,0.5923962593078613,RRm,sem,precipitation,mm day-1,7
+05120_Remscheid,0.5314044952392578,RRm,sem,precipitation,mm day-1,10
+05122_05158_05124_05378_05120_Region_um_Solingen,0.7831995487213135,RRm,sem,precipitation,mm day-1,1
+05122_05158_05124_05378_05120_Region_um_Solingen,0.544677734375,RRm,sem,precipitation,mm day-1,4
+05122_05158_05124_05378_05120_Region_um_Solingen,0.5606653690338135,RRm,sem,precipitation,mm day-1,7
+05122_05158_05124_05378_05120_Region_um_Solingen,0.6065664291381836,RRm,sem,precipitation,mm day-1,10
+05122_Solingen,0.9071757793426514,RRm,sem,precipitation,mm day-1,1
+05122_Solingen,0.6032328605651855,RRm,sem,precipitation,mm day-1,4
+05122_Solingen,0.5508873462677002,RRm,sem,precipitation,mm day-1,7
+05122_Solingen,0.633796215057373,RRm,sem,precipitation,mm day-1,10
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.6710436344146729,RRm,sem,precipitation,mm day-1,1
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.5499041080474854,RRm,sem,precipitation,mm day-1,4
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.5666933059692383,RRm,sem,precipitation,mm day-1,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.5465538501739502,RRm,sem,precipitation,mm day-1,10
+05124_Wuppertal,0.6758337020874023,RRm,sem,precipitation,mm day-1,1
+05124_Wuppertal,0.5509130954742432,RRm,sem,precipitation,mm day-1,4
+05124_Wuppertal,0.6269800662994385,RRm,sem,precipitation,mm day-1,7
+05124_Wuppertal,0.5129876136779785,RRm,sem,precipitation,mm day-1,10
+05154_Kleve,0.39179909229278564,RRm,sem,precipitation,mm day-1,1
+05154_Kleve,0.4013214111328125,RRm,sem,precipitation,mm day-1,4
+05154_Kleve,0.6130039691925049,RRm,sem,precipitation,mm day-1,7
+05154_Kleve,0.36148524284362793,RRm,sem,precipitation,mm day-1,10
+05158_Mettmann,0.7431380748748779,RRm,sem,precipitation,mm day-1,1
+05158_Mettmann,0.4805440902709961,RRm,sem,precipitation,mm day-1,4
+05158_Mettmann,0.5620033740997314,RRm,sem,precipitation,mm day-1,7
+05158_Mettmann,0.5811929702758789,RRm,sem,precipitation,mm day-1,10
+05162_Rhein-Kreis Neuss,0.6423611640930176,RRm,sem,precipitation,mm day-1,1
+05162_Rhein-Kreis Neuss,0.3496134281158447,RRm,sem,precipitation,mm day-1,4
+05162_Rhein-Kreis Neuss,0.5332837104797363,RRm,sem,precipitation,mm day-1,7
+05162_Rhein-Kreis Neuss,0.4612617492675781,RRm,sem,precipitation,mm day-1,10
+05166_Viersen,0.46902012825012207,RRm,sem,precipitation,mm day-1,1
+05166_Viersen,0.38377952575683594,RRm,sem,precipitation,mm day-1,4
+05166_Viersen,0.5972111225128174,RRm,sem,precipitation,mm day-1,7
+05166_Viersen,0.35710442066192627,RRm,sem,precipitation,mm day-1,10
+05170_Wesel,0.49040496349334717,RRm,sem,precipitation,mm day-1,1
+05170_Wesel,0.4250173568725586,RRm,sem,precipitation,mm day-1,4
+05170_Wesel,0.5951840877532959,RRm,sem,precipitation,mm day-1,7
+05170_Wesel,0.4238440990447998,RRm,sem,precipitation,mm day-1,10
+05314_05382_Region_um_Bonn,0.6847429275512695,RRm,sem,precipitation,mm day-1,1
+05314_05382_Region_um_Bonn,0.4276854991912842,RRm,sem,precipitation,mm day-1,4
+05314_05382_Region_um_Bonn,0.5917425155639648,RRm,sem,precipitation,mm day-1,7
+05314_05382_Region_um_Bonn,0.5468065738677979,RRm,sem,precipitation,mm day-1,10
+05314_Bonn,0.6332697868347168,RRm,sem,precipitation,mm day-1,1
+05314_Bonn,0.3678591251373291,RRm,sem,precipitation,mm day-1,4
+05314_Bonn,0.6065874099731445,RRm,sem,precipitation,mm day-1,7
+05314_Bonn,0.5707190036773682,RRm,sem,precipitation,mm day-1,10
+05315_Köln,0.7876594066619873,RRm,sem,precipitation,mm day-1,1
+05315_Köln,0.5209178924560547,RRm,sem,precipitation,mm day-1,4
+05315_Köln,0.5449409484863281,RRm,sem,precipitation,mm day-1,7
+05315_Köln,0.5961875915527344,RRm,sem,precipitation,mm day-1,10
+05316_05315_05378_05158_Region_um_Leverkusen,0.796212911605835,RRm,sem,precipitation,mm day-1,1
+05316_05315_05378_05158_Region_um_Leverkusen,0.5425448417663574,RRm,sem,precipitation,mm day-1,4
+05316_05315_05378_05158_Region_um_Leverkusen,0.5444831848144531,RRm,sem,precipitation,mm day-1,7
+05316_05315_05378_05158_Region_um_Leverkusen,0.6236579418182373,RRm,sem,precipitation,mm day-1,10
+05316_Leverkusen,0.8951880931854248,RRm,sem,precipitation,mm day-1,1
+05316_Leverkusen,0.5886247158050537,RRm,sem,precipitation,mm day-1,4
+05316_Leverkusen,0.5256965160369873,RRm,sem,precipitation,mm day-1,7
+05316_Leverkusen,0.7143945693969727,RRm,sem,precipitation,mm day-1,10
+05334_Städteregion Aachen,0.45250415802001953,RRm,sem,precipitation,mm day-1,1
+05334_Städteregion Aachen,0.38651466369628906,RRm,sem,precipitation,mm day-1,4
+05334_Städteregion Aachen,0.6350672245025635,RRm,sem,precipitation,mm day-1,7
+05334_Städteregion Aachen,0.3772587776184082,RRm,sem,precipitation,mm day-1,10
+05358_Düren,0.4294079542160034,RRm,sem,precipitation,mm day-1,1
+05358_Düren,0.319807767868042,RRm,sem,precipitation,mm day-1,4
+05358_Düren,0.6280033588409424,RRm,sem,precipitation,mm day-1,7
+05358_Düren,0.3615999221801758,RRm,sem,precipitation,mm day-1,10
+05362_Rhein-Erft-Kreis,0.5672144889831543,RRm,sem,precipitation,mm day-1,1
+05362_Rhein-Erft-Kreis,0.3343925476074219,RRm,sem,precipitation,mm day-1,4
+05362_Rhein-Erft-Kreis,0.6281685829162598,RRm,sem,precipitation,mm day-1,7
+05362_Rhein-Erft-Kreis,0.42466962337493896,RRm,sem,precipitation,mm day-1,10
+05366_Euskirchen,0.38930296897888184,RRm,sem,precipitation,mm day-1,1
+05366_Euskirchen,0.3789644241333008,RRm,sem,precipitation,mm day-1,4
+05366_Euskirchen,0.6957111358642578,RRm,sem,precipitation,mm day-1,7
+05366_Euskirchen,0.2974756956100464,RRm,sem,precipitation,mm day-1,10
+05370_Heinsberg,0.49620938301086426,RRm,sem,precipitation,mm day-1,1
+05370_Heinsberg,0.3314330577850342,RRm,sem,precipitation,mm day-1,4
+05370_Heinsberg,0.5644114017486572,RRm,sem,precipitation,mm day-1,7
+05370_Heinsberg,0.38259124755859375,RRm,sem,precipitation,mm day-1,10
+05374_Oberbergischer Kreis,0.6715941429138184,RRm,sem,precipitation,mm day-1,1
+05374_Oberbergischer Kreis,0.605363130569458,RRm,sem,precipitation,mm day-1,4
+05374_Oberbergischer Kreis,0.5179829597473145,RRm,sem,precipitation,mm day-1,7
+05374_Oberbergischer Kreis,0.5901710987091064,RRm,sem,precipitation,mm day-1,10
+05378_Rheinisch-Bergischer Kreis,0.836066484451294,RRm,sem,precipitation,mm day-1,1
+05378_Rheinisch-Bergischer Kreis,0.6269242763519287,RRm,sem,precipitation,mm day-1,4
+05378_Rheinisch-Bergischer Kreis,0.5311555862426758,RRm,sem,precipitation,mm day-1,7
+05378_Rheinisch-Bergischer Kreis,0.6722564697265625,RRm,sem,precipitation,mm day-1,10
+05382_Rhein-Sieg-Kreis,0.6911914348602295,RRm,sem,precipitation,mm day-1,1
+05382_Rhein-Sieg-Kreis,0.4351806640625,RRm,sem,precipitation,mm day-1,4
+05382_Rhein-Sieg-Kreis,0.5898826122283936,RRm,sem,precipitation,mm day-1,7
+05382_Rhein-Sieg-Kreis,0.5533936023712158,RRm,sem,precipitation,mm day-1,10
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.4925345182418823,RRm,sem,precipitation,mm day-1,1
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.38175415992736816,RRm,sem,precipitation,mm day-1,4
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.6172516345977783,RRm,sem,precipitation,mm day-1,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.4273712635040283,RRm,sem,precipitation,mm day-1,10
+05512_Bottrop,0.5161764621734619,RRm,sem,precipitation,mm day-1,1
+05512_Bottrop,0.40412139892578125,RRm,sem,precipitation,mm day-1,4
+05512_Bottrop,0.6293344497680664,RRm,sem,precipitation,mm day-1,7
+05512_Bottrop,0.46650052070617676,RRm,sem,precipitation,mm day-1,10
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.498590350151062,RRm,sem,precipitation,mm day-1,1
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.3959076404571533,RRm,sem,precipitation,mm day-1,4
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.6428873538970947,RRm,sem,precipitation,mm day-1,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.43402838706970215,RRm,sem,precipitation,mm day-1,10
+05513_Gelsenkirchen,0.535102128982544,RRm,sem,precipitation,mm day-1,1
+05513_Gelsenkirchen,0.4173624515533447,RRm,sem,precipitation,mm day-1,4
+05513_Gelsenkirchen,0.6331377029418945,RRm,sem,precipitation,mm day-1,7
+05513_Gelsenkirchen,0.4873018264770508,RRm,sem,precipitation,mm day-1,10
+05515_05566_05558_05570_Region_um_Münster,0.36643004417419434,RRm,sem,precipitation,mm day-1,1
+05515_05566_05558_05570_Region_um_Münster,0.3695855140686035,RRm,sem,precipitation,mm day-1,4
+05515_05566_05558_05570_Region_um_Münster,0.5541830062866211,RRm,sem,precipitation,mm day-1,7
+05515_05566_05558_05570_Region_um_Münster,0.33286571502685547,RRm,sem,precipitation,mm day-1,10
+05515_Münster,0.36255955696105957,RRm,sem,precipitation,mm day-1,1
+05515_Münster,0.3785064220428467,RRm,sem,precipitation,mm day-1,4
+05515_Münster,0.5482861995697021,RRm,sem,precipitation,mm day-1,7
+05515_Münster,0.3783910274505615,RRm,sem,precipitation,mm day-1,10
+05554_Borken,0.37752604484558105,RRm,sem,precipitation,mm day-1,1
+05554_Borken,0.3753392696380615,RRm,sem,precipitation,mm day-1,4
+05554_Borken,0.5630319118499756,RRm,sem,precipitation,mm day-1,7
+05554_Borken,0.39820003509521484,RRm,sem,precipitation,mm day-1,10
+05558_Coesfeld,0.3782985210418701,RRm,sem,precipitation,mm day-1,1
+05558_Coesfeld,0.35977959632873535,RRm,sem,precipitation,mm day-1,4
+05558_Coesfeld,0.619267463684082,RRm,sem,precipitation,mm day-1,7
+05558_Coesfeld,0.381699800491333,RRm,sem,precipitation,mm day-1,10
+05562_Recklinghausen,0.45126140117645264,RRm,sem,precipitation,mm day-1,1
+05562_Recklinghausen,0.36999571323394775,RRm,sem,precipitation,mm day-1,4
+05562_Recklinghausen,0.6405715942382812,RRm,sem,precipitation,mm day-1,7
+05562_Recklinghausen,0.40646910667419434,RRm,sem,precipitation,mm day-1,10
+05566_Steinfurt,0.37362146377563477,RRm,sem,precipitation,mm day-1,1
+05566_Steinfurt,0.40346479415893555,RRm,sem,precipitation,mm day-1,4
+05566_Steinfurt,0.5348200798034668,RRm,sem,precipitation,mm day-1,7
+05566_Steinfurt,0.3335890769958496,RRm,sem,precipitation,mm day-1,10
+05570_Warendorf,0.3969229459762573,RRm,sem,precipitation,mm day-1,1
+05570_Warendorf,0.3942532539367676,RRm,sem,precipitation,mm day-1,4
+05570_Warendorf,0.5271611213684082,RRm,sem,precipitation,mm day-1,7
+05570_Warendorf,0.40750885009765625,RRm,sem,precipitation,mm day-1,10
+05711_05754_05758_05766_Region_um_Bielefeld,0.40306317806243896,RRm,sem,precipitation,mm day-1,1
+05711_05754_05758_05766_Region_um_Bielefeld,0.4149513244628906,RRm,sem,precipitation,mm day-1,4
+05711_05754_05758_05766_Region_um_Bielefeld,0.5498864650726318,RRm,sem,precipitation,mm day-1,7
+05711_05754_05758_05766_Region_um_Bielefeld,0.42740964889526367,RRm,sem,precipitation,mm day-1,10
+05711_Bielefeld,0.44725167751312256,RRm,sem,precipitation,mm day-1,1
+05711_Bielefeld,0.4449000358581543,RRm,sem,precipitation,mm day-1,4
+05711_Bielefeld,0.5749008655548096,RRm,sem,precipitation,mm day-1,7
+05711_Bielefeld,0.4218788146972656,RRm,sem,precipitation,mm day-1,10
+05754_Gütersloh,0.4525339603424072,RRm,sem,precipitation,mm day-1,1
+05754_Gütersloh,0.4116349220275879,RRm,sem,precipitation,mm day-1,4
+05754_Gütersloh,0.5395724773406982,RRm,sem,precipitation,mm day-1,7
+05754_Gütersloh,0.41153979301452637,RRm,sem,precipitation,mm day-1,10
+05758_Herford,0.377923846244812,RRm,sem,precipitation,mm day-1,1
+05758_Herford,0.4269430637359619,RRm,sem,precipitation,mm day-1,4
+05758_Herford,0.5505244731903076,RRm,sem,precipitation,mm day-1,7
+05758_Herford,0.43146204948425293,RRm,sem,precipitation,mm day-1,10
+05762_Höxter,0.38121986389160156,RRm,sem,precipitation,mm day-1,1
+05762_Höxter,0.36565232276916504,RRm,sem,precipitation,mm day-1,4
+05762_Höxter,0.563286542892456,RRm,sem,precipitation,mm day-1,7
+05762_Höxter,0.3604702949523926,RRm,sem,precipitation,mm day-1,10
+05766_Lippe,0.37583112716674805,RRm,sem,precipitation,mm day-1,1
+05766_Lippe,0.4321446418762207,RRm,sem,precipitation,mm day-1,4
+05766_Lippe,0.5971555709838867,RRm,sem,precipitation,mm day-1,7
+05766_Lippe,0.47944068908691406,RRm,sem,precipitation,mm day-1,10
+05770_Minden-Lübbecke,0.36751580238342285,RRm,sem,precipitation,mm day-1,1
+05770_Minden-Lübbecke,0.4460718631744385,RRm,sem,precipitation,mm day-1,4
+05770_Minden-Lübbecke,0.5212774276733398,RRm,sem,precipitation,mm day-1,7
+05770_Minden-Lübbecke,0.4188195466995239,RRm,sem,precipitation,mm day-1,10
+05774_Paderborn,0.4132840633392334,RRm,sem,precipitation,mm day-1,1
+05774_Paderborn,0.4069211483001709,RRm,sem,precipitation,mm day-1,4
+05774_Paderborn,0.5674927234649658,RRm,sem,precipitation,mm day-1,7
+05774_Paderborn,0.464801549911499,RRm,sem,precipitation,mm day-1,10
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.5192468166351318,RRm,sem,precipitation,mm day-1,1
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.4188377857208252,RRm,sem,precipitation,mm day-1,4
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.647799015045166,RRm,sem,precipitation,mm day-1,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.4289073944091797,RRm,sem,precipitation,mm day-1,10
+05911_Bochum,0.5611369609832764,RRm,sem,precipitation,mm day-1,1
+05911_Bochum,0.4396853446960449,RRm,sem,precipitation,mm day-1,4
+05911_Bochum,0.6854355335235596,RRm,sem,precipitation,mm day-1,7
+05911_Bochum,0.4532449245452881,RRm,sem,precipitation,mm day-1,10
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.5116809606552124,RRm,sem,precipitation,mm day-1,1
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.4075126647949219,RRm,sem,precipitation,mm day-1,4
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.6320524215698242,RRm,sem,precipitation,mm day-1,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.42694616317749023,RRm,sem,precipitation,mm day-1,10
+05913_Dortmund,0.5605978965759277,RRm,sem,precipitation,mm day-1,1
+05913_Dortmund,0.39946413040161133,RRm,sem,precipitation,mm day-1,4
+05913_Dortmund,0.6539516448974609,RRm,sem,precipitation,mm day-1,7
+05913_Dortmund,0.4687685966491699,RRm,sem,precipitation,mm day-1,10
+05914_05954_05913_05978_05962_Region_um_Hagen,0.5239071846008301,RRm,sem,precipitation,mm day-1,1
+05914_05954_05913_05978_05962_Region_um_Hagen,0.4789566993713379,RRm,sem,precipitation,mm day-1,4
+05914_05954_05913_05978_05962_Region_um_Hagen,0.5916528701782227,RRm,sem,precipitation,mm day-1,7
+05914_05954_05913_05978_05962_Region_um_Hagen,0.3800010681152344,RRm,sem,precipitation,mm day-1,10
+05914_Hagen,0.5696747303009033,RRm,sem,precipitation,mm day-1,1
+05914_Hagen,0.5056941509246826,RRm,sem,precipitation,mm day-1,4
+05914_Hagen,0.6142284870147705,RRm,sem,precipitation,mm day-1,7
+05914_Hagen,0.41303181648254395,RRm,sem,precipitation,mm day-1,10
+05915_05978_05974_05570_05558_Region_um_Hamm,0.43791699409484863,RRm,sem,precipitation,mm day-1,1
+05915_05978_05974_05570_05558_Region_um_Hamm,0.35088539123535156,RRm,sem,precipitation,mm day-1,4
+05915_05978_05974_05570_05558_Region_um_Hamm,0.5691032409667969,RRm,sem,precipitation,mm day-1,7
+05915_05978_05974_05570_05558_Region_um_Hamm,0.43598318099975586,RRm,sem,precipitation,mm day-1,10
+05915_Hamm,0.46824419498443604,RRm,sem,precipitation,mm day-1,1
+05915_Hamm,0.359529972076416,RRm,sem,precipitation,mm day-1,4
+05915_Hamm,0.5043447017669678,RRm,sem,precipitation,mm day-1,7
+05915_Hamm,0.4520688056945801,RRm,sem,precipitation,mm day-1,10
+05916_05513_05562_05911_Region_um_Herne,0.4787393808364868,RRm,sem,precipitation,mm day-1,1
+05916_05513_05562_05911_Region_um_Herne,0.3865799903869629,RRm,sem,precipitation,mm day-1,4
+05916_05513_05562_05911_Region_um_Herne,0.6474006175994873,RRm,sem,precipitation,mm day-1,7
+05916_05513_05562_05911_Region_um_Herne,0.42461061477661133,RRm,sem,precipitation,mm day-1,10
+05916_Herne,0.5433696508407593,RRm,sem,precipitation,mm day-1,1
+05916_Herne,0.42317819595336914,RRm,sem,precipitation,mm day-1,4
+05916_Herne,0.6722705364227295,RRm,sem,precipitation,mm day-1,7
+05916_Herne,0.48423075675964355,RRm,sem,precipitation,mm day-1,10
+05954_Ennepe-Ruhr-Kreis,0.56083083152771,RRm,sem,precipitation,mm day-1,1
+05954_Ennepe-Ruhr-Kreis,0.5063109397888184,RRm,sem,precipitation,mm day-1,4
+05954_Ennepe-Ruhr-Kreis,0.6556594371795654,RRm,sem,precipitation,mm day-1,7
+05954_Ennepe-Ruhr-Kreis,0.4513416290283203,RRm,sem,precipitation,mm day-1,10
+05958_Hochsauerlandkreis,0.4298732280731201,RRm,sem,precipitation,mm day-1,1
+05958_Hochsauerlandkreis,0.49492931365966797,RRm,sem,precipitation,mm day-1,4
+05958_Hochsauerlandkreis,0.5695271492004395,RRm,sem,precipitation,mm day-1,7
+05958_Hochsauerlandkreis,0.37003636360168457,RRm,sem,precipitation,mm day-1,10
+05962_Märkischer Kreis,0.5046601295471191,RRm,sem,precipitation,mm day-1,1
+05962_Märkischer Kreis,0.5641920566558838,RRm,sem,precipitation,mm day-1,4
+05962_Märkischer Kreis,0.5545558929443359,RRm,sem,precipitation,mm day-1,7
+05962_Märkischer Kreis,0.3810417652130127,RRm,sem,precipitation,mm day-1,10
+05966_Olpe,0.5970537662506104,RRm,sem,precipitation,mm day-1,1
+05966_Olpe,0.619084358215332,RRm,sem,precipitation,mm day-1,4
+05966_Olpe,0.47599220275878906,RRm,sem,precipitation,mm day-1,7
+05966_Olpe,0.43003082275390625,RRm,sem,precipitation,mm day-1,10
+05970_Siegen-Wittgenstein,0.5526189804077148,RRm,sem,precipitation,mm day-1,1
+05970_Siegen-Wittgenstein,0.6001460552215576,RRm,sem,precipitation,mm day-1,4
+05970_Siegen-Wittgenstein,0.5007169246673584,RRm,sem,precipitation,mm day-1,7
+05970_Siegen-Wittgenstein,0.4520864486694336,RRm,sem,precipitation,mm day-1,10
+05974_Soest,0.5187718868255615,RRm,sem,precipitation,mm day-1,1
+05974_Soest,0.3775017261505127,RRm,sem,precipitation,mm day-1,4
+05974_Soest,0.5764627456665039,RRm,sem,precipitation,mm day-1,7
+05974_Soest,0.49880051612854004,RRm,sem,precipitation,mm day-1,10
+05978_Unna,0.5018597841262817,RRm,sem,precipitation,mm day-1,1
+05978_Unna,0.3617212772369385,RRm,sem,precipitation,mm day-1,4
+05978_Unna,0.5787880420684814,RRm,sem,precipitation,mm day-1,7
+05978_Unna,0.4549412727355957,RRm,sem,precipitation,mm day-1,10
+06411_06432_06438_Region_um_Darmstadt,0.5658870935440063,RRm,sem,precipitation,mm day-1,1
+06411_06432_06438_Region_um_Darmstadt,0.4164731502532959,RRm,sem,precipitation,mm day-1,4
+06411_06432_06438_Region_um_Darmstadt,0.40247607231140137,RRm,sem,precipitation,mm day-1,7
+06411_06432_06438_Region_um_Darmstadt,0.4562113285064697,RRm,sem,precipitation,mm day-1,10
+06411_Darmstadt,0.5434091091156006,RRm,sem,precipitation,mm day-1,1
+06411_Darmstadt,0.38625407218933105,RRm,sem,precipitation,mm day-1,4
+06411_Darmstadt,0.37085771560668945,RRm,sem,precipitation,mm day-1,7
+06411_Darmstadt,0.46088147163391113,RRm,sem,precipitation,mm day-1,10
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.5760396718978882,RRm,sem,precipitation,mm day-1,1
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.41495275497436523,RRm,sem,precipitation,mm day-1,4
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.42949652671813965,RRm,sem,precipitation,mm day-1,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.4020500183105469,RRm,sem,precipitation,mm day-1,10
+06412_Frankfurt am Main,0.4627394676208496,RRm,sem,precipitation,mm day-1,1
+06412_Frankfurt am Main,0.34465229511260986,RRm,sem,precipitation,mm day-1,4
+06412_Frankfurt am Main,0.3271334171295166,RRm,sem,precipitation,mm day-1,7
+06412_Frankfurt am Main,0.3387875556945801,RRm,sem,precipitation,mm day-1,10
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,0.5925180912017822,RRm,sem,precipitation,mm day-1,1
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,0.43044257164001465,RRm,sem,precipitation,mm day-1,4
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,0.4823474884033203,RRm,sem,precipitation,mm day-1,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,0.4517478942871094,RRm,sem,precipitation,mm day-1,10
+06413_Offenbach am Main,0.4542628526687622,RRm,sem,precipitation,mm day-1,1
+06413_Offenbach am Main,0.34649085998535156,RRm,sem,precipitation,mm day-1,4
+06413_Offenbach am Main,0.34450531005859375,RRm,sem,precipitation,mm day-1,7
+06413_Offenbach am Main,0.38338184356689453,RRm,sem,precipitation,mm day-1,10
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.4530820846557617,RRm,sem,precipitation,mm day-1,1
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.3095862865447998,RRm,sem,precipitation,mm day-1,4
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.3781149387359619,RRm,sem,precipitation,mm day-1,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.3455536365509033,RRm,sem,precipitation,mm day-1,10
+06414_Wiesbaden,0.48962509632110596,RRm,sem,precipitation,mm day-1,1
+06414_Wiesbaden,0.336961030960083,RRm,sem,precipitation,mm day-1,4
+06414_Wiesbaden,0.4120309352874756,RRm,sem,precipitation,mm day-1,7
+06414_Wiesbaden,0.34734511375427246,RRm,sem,precipitation,mm day-1,10
+06431_Bergstraße,0.736262321472168,RRm,sem,precipitation,mm day-1,1
+06431_Bergstraße,0.4436523914337158,RRm,sem,precipitation,mm day-1,4
+06431_Bergstraße,0.43703126907348633,RRm,sem,precipitation,mm day-1,7
+06431_Bergstraße,0.5810880661010742,RRm,sem,precipitation,mm day-1,10
+06432_Darmstadt-Dieburg,0.60544753074646,RRm,sem,precipitation,mm day-1,1
+06432_Darmstadt-Dieburg,0.4342224597930908,RRm,sem,precipitation,mm day-1,4
+06432_Darmstadt-Dieburg,0.4079172611236572,RRm,sem,precipitation,mm day-1,7
+06432_Darmstadt-Dieburg,0.46846723556518555,RRm,sem,precipitation,mm day-1,10
+06433_Groß-Gerau,0.538023829460144,RRm,sem,precipitation,mm day-1,1
+06433_Groß-Gerau,0.3032386302947998,RRm,sem,precipitation,mm day-1,4
+06433_Groß-Gerau,0.3319664001464844,RRm,sem,precipitation,mm day-1,7
+06433_Groß-Gerau,0.42719316482543945,RRm,sem,precipitation,mm day-1,10
+06434_Hochtaunuskreis,0.5171060562133789,RRm,sem,precipitation,mm day-1,1
+06434_Hochtaunuskreis,0.46607089042663574,RRm,sem,precipitation,mm day-1,4
+06434_Hochtaunuskreis,0.39511799812316895,RRm,sem,precipitation,mm day-1,7
+06434_Hochtaunuskreis,0.3272135257720947,RRm,sem,precipitation,mm day-1,10
+06435_Main-Kinzig-Kreis,0.6436402797698975,RRm,sem,precipitation,mm day-1,1
+06435_Main-Kinzig-Kreis,0.47022557258605957,RRm,sem,precipitation,mm day-1,4
+06435_Main-Kinzig-Kreis,0.5372838973999023,RRm,sem,precipitation,mm day-1,7
+06435_Main-Kinzig-Kreis,0.47922205924987793,RRm,sem,precipitation,mm day-1,10
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.46089017391204834,RRm,sem,precipitation,mm day-1,1
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.3548600673675537,RRm,sem,precipitation,mm day-1,4
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.3764939308166504,RRm,sem,precipitation,mm day-1,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.3363456726074219,RRm,sem,precipitation,mm day-1,10
+06436_Main-Taunus-Kreis,0.5223242044448853,RRm,sem,precipitation,mm day-1,1
+06436_Main-Taunus-Kreis,0.3704521656036377,RRm,sem,precipitation,mm day-1,4
+06436_Main-Taunus-Kreis,0.3625302314758301,RRm,sem,precipitation,mm day-1,7
+06436_Main-Taunus-Kreis,0.3424665927886963,RRm,sem,precipitation,mm day-1,10
+06437_Odenwaldkreis,0.7359795570373535,RRm,sem,precipitation,mm day-1,1
+06437_Odenwaldkreis,0.4827723503112793,RRm,sem,precipitation,mm day-1,4
+06437_Odenwaldkreis,0.40792036056518555,RRm,sem,precipitation,mm day-1,7
+06437_Odenwaldkreis,0.5244500637054443,RRm,sem,precipitation,mm day-1,10
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,0.5950732231140137,RRm,sem,precipitation,mm day-1,1
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,0.39053964614868164,RRm,sem,precipitation,mm day-1,4
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,0.44046854972839355,RRm,sem,precipitation,mm day-1,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,0.46871280670166016,RRm,sem,precipitation,mm day-1,10
+06438_Offenbach,0.49748194217681885,RRm,sem,precipitation,mm day-1,1
+06438_Offenbach,0.3930988311767578,RRm,sem,precipitation,mm day-1,4
+06438_Offenbach,0.4034302234649658,RRm,sem,precipitation,mm day-1,7
+06438_Offenbach,0.43079304695129395,RRm,sem,precipitation,mm day-1,10
+06439_Rheingau-Taunus-Kreis,0.41322171688079834,RRm,sem,precipitation,mm day-1,1
+06439_Rheingau-Taunus-Kreis,0.3724253177642822,RRm,sem,precipitation,mm day-1,4
+06439_Rheingau-Taunus-Kreis,0.4150886535644531,RRm,sem,precipitation,mm day-1,7
+06439_Rheingau-Taunus-Kreis,0.3222595453262329,RRm,sem,precipitation,mm day-1,10
+06440_Wetteraukreis,0.6365666389465332,RRm,sem,precipitation,mm day-1,1
+06440_Wetteraukreis,0.44249701499938965,RRm,sem,precipitation,mm day-1,4
+06440_Wetteraukreis,0.44945597648620605,RRm,sem,precipitation,mm day-1,7
+06440_Wetteraukreis,0.380281925201416,RRm,sem,precipitation,mm day-1,10
+06531_Gießen,0.5888361930847168,RRm,sem,precipitation,mm day-1,1
+06531_Gießen,0.41876232624053955,RRm,sem,precipitation,mm day-1,4
+06531_Gießen,0.3820321559906006,RRm,sem,precipitation,mm day-1,7
+06531_Gießen,0.38005995750427246,RRm,sem,precipitation,mm day-1,10
+06532_Lahn-Dill-Kreis,0.4757552146911621,RRm,sem,precipitation,mm day-1,1
+06532_Lahn-Dill-Kreis,0.4976193904876709,RRm,sem,precipitation,mm day-1,4
+06532_Lahn-Dill-Kreis,0.3584597110748291,RRm,sem,precipitation,mm day-1,7
+06532_Lahn-Dill-Kreis,0.31806910037994385,RRm,sem,precipitation,mm day-1,10
+06533_Limburg-Weilburg,0.41494297981262207,RRm,sem,precipitation,mm day-1,1
+06533_Limburg-Weilburg,0.37180519104003906,RRm,sem,precipitation,mm day-1,4
+06533_Limburg-Weilburg,0.44489407539367676,RRm,sem,precipitation,mm day-1,7
+06533_Limburg-Weilburg,0.3687722682952881,RRm,sem,precipitation,mm day-1,10
+06534_Marburg-Biedenkopf,0.40142297744750977,RRm,sem,precipitation,mm day-1,1
+06534_Marburg-Biedenkopf,0.43883323669433594,RRm,sem,precipitation,mm day-1,4
+06534_Marburg-Biedenkopf,0.4411182403564453,RRm,sem,precipitation,mm day-1,7
+06534_Marburg-Biedenkopf,0.28681671619415283,RRm,sem,precipitation,mm day-1,10
+06535_Vogelsbergkreis,0.4721558094024658,RRm,sem,precipitation,mm day-1,1
+06535_Vogelsbergkreis,0.483400821685791,RRm,sem,precipitation,mm day-1,4
+06535_Vogelsbergkreis,0.5315866470336914,RRm,sem,precipitation,mm day-1,7
+06535_Vogelsbergkreis,0.35250091552734375,RRm,sem,precipitation,mm day-1,10
+06611_06633_03159_Region_um_Kassel,0.39990830421447754,RRm,sem,precipitation,mm day-1,1
+06611_06633_03159_Region_um_Kassel,0.400404691696167,RRm,sem,precipitation,mm day-1,4
+06611_06633_03159_Region_um_Kassel,0.5951313972473145,RRm,sem,precipitation,mm day-1,7
+06611_06633_03159_Region_um_Kassel,0.3820633888244629,RRm,sem,precipitation,mm day-1,10
+06611_Kassel,0.4216630458831787,RRm,sem,precipitation,mm day-1,1
+06611_Kassel,0.39722251892089844,RRm,sem,precipitation,mm day-1,4
+06611_Kassel,0.5501327514648438,RRm,sem,precipitation,mm day-1,7
+06611_Kassel,0.3514230251312256,RRm,sem,precipitation,mm day-1,10
+06631_Fulda,0.4828944206237793,RRm,sem,precipitation,mm day-1,1
+06631_Fulda,0.42652106285095215,RRm,sem,precipitation,mm day-1,4
+06631_Fulda,0.6199476718902588,RRm,sem,precipitation,mm day-1,7
+06631_Fulda,0.3702223300933838,RRm,sem,precipitation,mm day-1,10
+06632_Hersfeld-Rotenburg,0.4052870273590088,RRm,sem,precipitation,mm day-1,1
+06632_Hersfeld-Rotenburg,0.3818584680557251,RRm,sem,precipitation,mm day-1,4
+06632_Hersfeld-Rotenburg,0.5717732906341553,RRm,sem,precipitation,mm day-1,7
+06632_Hersfeld-Rotenburg,0.3314192295074463,RRm,sem,precipitation,mm day-1,10
+06633_Kassel,0.4027729034423828,RRm,sem,precipitation,mm day-1,1
+06633_Kassel,0.3880767822265625,RRm,sem,precipitation,mm day-1,4
+06633_Kassel,0.5334582328796387,RRm,sem,precipitation,mm day-1,7
+06633_Kassel,0.3369499444961548,RRm,sem,precipitation,mm day-1,10
+06634_Schwalm-Eder-Kreis,0.3842024803161621,RRm,sem,precipitation,mm day-1,1
+06634_Schwalm-Eder-Kreis,0.4241445064544678,RRm,sem,precipitation,mm day-1,4
+06634_Schwalm-Eder-Kreis,0.4995386600494385,RRm,sem,precipitation,mm day-1,7
+06634_Schwalm-Eder-Kreis,0.35016775131225586,RRm,sem,precipitation,mm day-1,10
+06635_Waldeck-Frankenberg,0.32822489738464355,RRm,sem,precipitation,mm day-1,1
+06635_Waldeck-Frankenberg,0.3567795753479004,RRm,sem,precipitation,mm day-1,4
+06635_Waldeck-Frankenberg,0.4400138854980469,RRm,sem,precipitation,mm day-1,7
+06635_Waldeck-Frankenberg,0.3148610591888428,RRm,sem,precipitation,mm day-1,10
+06636_Werra-Meißner-Kreis,0.39808130264282227,RRm,sem,precipitation,mm day-1,1
+06636_Werra-Meißner-Kreis,0.4571726322174072,RRm,sem,precipitation,mm day-1,4
+06636_Werra-Meißner-Kreis,0.5071780681610107,RRm,sem,precipitation,mm day-1,7
+06636_Werra-Meißner-Kreis,0.3559945821762085,RRm,sem,precipitation,mm day-1,10
+07111_07137_07141_07143_Region_um_Koblenz,0.4875326156616211,RRm,sem,precipitation,mm day-1,1
+07111_07137_07141_07143_Region_um_Koblenz,0.32450830936431885,RRm,sem,precipitation,mm day-1,4
+07111_07137_07141_07143_Region_um_Koblenz,0.5344462394714355,RRm,sem,precipitation,mm day-1,7
+07111_07137_07141_07143_Region_um_Koblenz,0.3844475746154785,RRm,sem,precipitation,mm day-1,10
+07111_Koblenz,0.5493838787078857,RRm,sem,precipitation,mm day-1,1
+07111_Koblenz,0.3620414733886719,RRm,sem,precipitation,mm day-1,4
+07111_Koblenz,0.5623874664306641,RRm,sem,precipitation,mm day-1,7
+07111_Koblenz,0.5269873142242432,RRm,sem,precipitation,mm day-1,10
+07131_Ahrweiler,0.5044219493865967,RRm,sem,precipitation,mm day-1,1
+07131_Ahrweiler,0.38214945793151855,RRm,sem,precipitation,mm day-1,4
+07131_Ahrweiler,0.636953592300415,RRm,sem,precipitation,mm day-1,7
+07131_Ahrweiler,0.3171370029449463,RRm,sem,precipitation,mm day-1,10
+07132_Altenkirchen (Westerwald),0.7256300449371338,RRm,sem,precipitation,mm day-1,1
+07132_Altenkirchen (Westerwald),0.5130774974822998,RRm,sem,precipitation,mm day-1,4
+07132_Altenkirchen (Westerwald),0.5478963851928711,RRm,sem,precipitation,mm day-1,7
+07132_Altenkirchen (Westerwald),0.5413007736206055,RRm,sem,precipitation,mm day-1,10
+07133_Bad Kreuznach,0.3909752368927002,RRm,sem,precipitation,mm day-1,1
+07133_Bad Kreuznach,0.38222837448120117,RRm,sem,precipitation,mm day-1,4
+07133_Bad Kreuznach,0.44646239280700684,RRm,sem,precipitation,mm day-1,7
+07133_Bad Kreuznach,0.3333737850189209,RRm,sem,precipitation,mm day-1,10
+07134_Birkenfeld,0.5410957336425781,RRm,sem,precipitation,mm day-1,1
+07134_Birkenfeld,0.49956846237182617,RRm,sem,precipitation,mm day-1,4
+07134_Birkenfeld,0.39829087257385254,RRm,sem,precipitation,mm day-1,7
+07134_Birkenfeld,0.4437255859375,RRm,sem,precipitation,mm day-1,10
+07135_Cochem-Zell,0.4348320960998535,RRm,sem,precipitation,mm day-1,1
+07135_Cochem-Zell,0.3654317855834961,RRm,sem,precipitation,mm day-1,4
+07135_Cochem-Zell,0.5290954113006592,RRm,sem,precipitation,mm day-1,7
+07135_Cochem-Zell,0.28020191192626953,RRm,sem,precipitation,mm day-1,10
+07137_Mayen-Koblenz,0.5256109237670898,RRm,sem,precipitation,mm day-1,1
+07137_Mayen-Koblenz,0.33699917793273926,RRm,sem,precipitation,mm day-1,4
+07137_Mayen-Koblenz,0.5590920448303223,RRm,sem,precipitation,mm day-1,7
+07137_Mayen-Koblenz,0.35762691497802734,RRm,sem,precipitation,mm day-1,10
+07138_Neuwied,0.6618738174438477,RRm,sem,precipitation,mm day-1,1
+07138_Neuwied,0.36703193187713623,RRm,sem,precipitation,mm day-1,4
+07138_Neuwied,0.5639874935150146,RRm,sem,precipitation,mm day-1,7
+07138_Neuwied,0.5509240627288818,RRm,sem,precipitation,mm day-1,10
+07140_Rhein-Hunsrück-Kreis,0.4767887592315674,RRm,sem,precipitation,mm day-1,1
+07140_Rhein-Hunsrück-Kreis,0.40836071968078613,RRm,sem,precipitation,mm day-1,4
+07140_Rhein-Hunsrück-Kreis,0.5083160400390625,RRm,sem,precipitation,mm day-1,7
+07140_Rhein-Hunsrück-Kreis,0.31852030754089355,RRm,sem,precipitation,mm day-1,10
+07141_Rhein-Lahn-Kreis,0.5122451782226562,RRm,sem,precipitation,mm day-1,1
+07141_Rhein-Lahn-Kreis,0.3514223098754883,RRm,sem,precipitation,mm day-1,4
+07141_Rhein-Lahn-Kreis,0.517526388168335,RRm,sem,precipitation,mm day-1,7
+07141_Rhein-Lahn-Kreis,0.3538367748260498,RRm,sem,precipitation,mm day-1,10
+07143_Westerwaldkreis,0.6459012031555176,RRm,sem,precipitation,mm day-1,1
+07143_Westerwaldkreis,0.4524848461151123,RRm,sem,precipitation,mm day-1,4
+07143_Westerwaldkreis,0.524561882019043,RRm,sem,precipitation,mm day-1,7
+07143_Westerwaldkreis,0.4414839744567871,RRm,sem,precipitation,mm day-1,10
+07211_07235_Region_um_Trier,0.6377253532409668,RRm,sem,precipitation,mm day-1,1
+07211_07235_Region_um_Trier,0.4629855155944824,RRm,sem,precipitation,mm day-1,4
+07211_07235_Region_um_Trier,0.45843076705932617,RRm,sem,precipitation,mm day-1,7
+07211_07235_Region_um_Trier,0.43524742126464844,RRm,sem,precipitation,mm day-1,10
+07211_Trier,0.6475398540496826,RRm,sem,precipitation,mm day-1,1
+07211_Trier,0.49035024642944336,RRm,sem,precipitation,mm day-1,4
+07211_Trier,0.4258890151977539,RRm,sem,precipitation,mm day-1,7
+07211_Trier,0.4433317184448242,RRm,sem,precipitation,mm day-1,10
+07231_Bernkastel-Wittlich,0.4853038787841797,RRm,sem,precipitation,mm day-1,1
+07231_Bernkastel-Wittlich,0.4457967281341553,RRm,sem,precipitation,mm day-1,4
+07231_Bernkastel-Wittlich,0.4653909206390381,RRm,sem,precipitation,mm day-1,7
+07231_Bernkastel-Wittlich,0.3791511058807373,RRm,sem,precipitation,mm day-1,10
+07232_Eifelkreis Bitburg-Prüm,0.500861406326294,RRm,sem,precipitation,mm day-1,1
+07232_Eifelkreis Bitburg-Prüm,0.4540526866912842,RRm,sem,precipitation,mm day-1,4
+07232_Eifelkreis Bitburg-Prüm,0.4326512813568115,RRm,sem,precipitation,mm day-1,7
+07232_Eifelkreis Bitburg-Prüm,0.33293938636779785,RRm,sem,precipitation,mm day-1,10
+07233_Vulkaneifel,0.45784568786621094,RRm,sem,precipitation,mm day-1,1
+07233_Vulkaneifel,0.4491100311279297,RRm,sem,precipitation,mm day-1,4
+07233_Vulkaneifel,0.5440630912780762,RRm,sem,precipitation,mm day-1,7
+07233_Vulkaneifel,0.3356363773345947,RRm,sem,precipitation,mm day-1,10
+07235_Trier-Saarburg,0.6426472663879395,RRm,sem,precipitation,mm day-1,1
+07235_Trier-Saarburg,0.4653334617614746,RRm,sem,precipitation,mm day-1,4
+07235_Trier-Saarburg,0.4621086120605469,RRm,sem,precipitation,mm day-1,7
+07235_Trier-Saarburg,0.43433332443237305,RRm,sem,precipitation,mm day-1,10
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),0.7299597263336182,RRm,sem,precipitation,mm day-1,1
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),0.3807547092437744,RRm,sem,precipitation,mm day-1,4
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),0.4478487968444824,RRm,sem,precipitation,mm day-1,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),0.4436912536621094,RRm,sem,precipitation,mm day-1,10
+07311_Frankenthal (Pfalz),0.6371889114379883,RRm,sem,precipitation,mm day-1,1
+07311_Frankenthal (Pfalz),0.38038039207458496,RRm,sem,precipitation,mm day-1,4
+07311_Frankenthal (Pfalz),0.424546480178833,RRm,sem,precipitation,mm day-1,7
+07311_Frankenthal (Pfalz),0.3691833019256592,RRm,sem,precipitation,mm day-1,10
+07312_07335_07332_Region_um_Kaiserslautern,0.38701117038726807,RRm,sem,precipitation,mm day-1,1
+07312_07335_07332_Region_um_Kaiserslautern,0.5319132804870605,RRm,sem,precipitation,mm day-1,4
+07312_07335_07332_Region_um_Kaiserslautern,0.43115687370300293,RRm,sem,precipitation,mm day-1,7
+07312_07335_07332_Region_um_Kaiserslautern,0.28961455821990967,RRm,sem,precipitation,mm day-1,10
+07312_Kaiserslautern,0.42081785202026367,RRm,sem,precipitation,mm day-1,1
+07312_Kaiserslautern,0.5853605270385742,RRm,sem,precipitation,mm day-1,4
+07312_Kaiserslautern,0.4673309326171875,RRm,sem,precipitation,mm day-1,7
+07312_Kaiserslautern,0.32587528228759766,RRm,sem,precipitation,mm day-1,10
+07313_07337_Region_um_Landau_in_der_Pfalz,0.49109983444213867,RRm,sem,precipitation,mm day-1,1
+07313_07337_Region_um_Landau_in_der_Pfalz,0.5046298503875732,RRm,sem,precipitation,mm day-1,4
+07313_07337_Region_um_Landau_in_der_Pfalz,0.43748044967651367,RRm,sem,precipitation,mm day-1,7
+07313_07337_Region_um_Landau_in_der_Pfalz,0.4729025363922119,RRm,sem,precipitation,mm day-1,10
+07313_Landau in der Pfalz,0.4766051769256592,RRm,sem,precipitation,mm day-1,1
+07313_Landau in der Pfalz,0.5217082500457764,RRm,sem,precipitation,mm day-1,4
+07313_Landau in der Pfalz,0.44223976135253906,RRm,sem,precipitation,mm day-1,7
+07313_Landau in der Pfalz,0.45099425315856934,RRm,sem,precipitation,mm day-1,10
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,0.7263832092285156,RRm,sem,precipitation,mm day-1,1
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,0.378436803817749,RRm,sem,precipitation,mm day-1,4
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,0.4434013366699219,RRm,sem,precipitation,mm day-1,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,0.4431314468383789,RRm,sem,precipitation,mm day-1,10
+07314_Ludwigshafen am Rhein,0.6517329216003418,RRm,sem,precipitation,mm day-1,1
+07314_Ludwigshafen am Rhein,0.3802669048309326,RRm,sem,precipitation,mm day-1,4
+07314_Ludwigshafen am Rhein,0.4372859001159668,RRm,sem,precipitation,mm day-1,7
+07314_Ludwigshafen am Rhein,0.42058396339416504,RRm,sem,precipitation,mm day-1,10
+07315_07339_06414_06433_Region_um_Mainz,0.4662071466445923,RRm,sem,precipitation,mm day-1,1
+07315_07339_06414_06433_Region_um_Mainz,0.30412304401397705,RRm,sem,precipitation,mm day-1,4
+07315_07339_06414_06433_Region_um_Mainz,0.360182523727417,RRm,sem,precipitation,mm day-1,7
+07315_07339_06414_06433_Region_um_Mainz,0.3600306510925293,RRm,sem,precipitation,mm day-1,10
+07315_Mainz,0.45691847801208496,RRm,sem,precipitation,mm day-1,1
+07315_Mainz,0.3209031820297241,RRm,sem,precipitation,mm day-1,4
+07315_Mainz,0.36214566230773926,RRm,sem,precipitation,mm day-1,7
+07315_Mainz,0.3264521360397339,RRm,sem,precipitation,mm day-1,10
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.4699728488922119,RRm,sem,precipitation,mm day-1,1
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.48800206184387207,RRm,sem,precipitation,mm day-1,4
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.4254176616668701,RRm,sem,precipitation,mm day-1,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.3964099884033203,RRm,sem,precipitation,mm day-1,10
+07316_Neustadt an der Weinstraße,0.5797245502471924,RRm,sem,precipitation,mm day-1,1
+07316_Neustadt an der Weinstraße,0.45543766021728516,RRm,sem,precipitation,mm day-1,4
+07316_Neustadt an der Weinstraße,0.46233558654785156,RRm,sem,precipitation,mm day-1,7
+07316_Neustadt an der Weinstraße,0.391956090927124,RRm,sem,precipitation,mm day-1,10
+07317_07340_Region_um_Pirmasens,0.5297131538391113,RRm,sem,precipitation,mm day-1,1
+07317_07340_Region_um_Pirmasens,0.6179845333099365,RRm,sem,precipitation,mm day-1,4
+07317_07340_Region_um_Pirmasens,0.4360806941986084,RRm,sem,precipitation,mm day-1,7
+07317_07340_Region_um_Pirmasens,0.3927419185638428,RRm,sem,precipitation,mm day-1,10
+07317_Pirmasens,0.597527265548706,RRm,sem,precipitation,mm day-1,1
+07317_Pirmasens,0.6388678550720215,RRm,sem,precipitation,mm day-1,4
+07317_Pirmasens,0.443572998046875,RRm,sem,precipitation,mm day-1,7
+07317_Pirmasens,0.4479198455810547,RRm,sem,precipitation,mm day-1,10
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,0.7096037864685059,RRm,sem,precipitation,mm day-1,1
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,0.4700026512145996,RRm,sem,precipitation,mm day-1,4
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,0.48053836822509766,RRm,sem,precipitation,mm day-1,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,0.5033609867095947,RRm,sem,precipitation,mm day-1,10
+07318_Speyer,0.7820031642913818,RRm,sem,precipitation,mm day-1,1
+07318_Speyer,0.44149112701416016,RRm,sem,precipitation,mm day-1,4
+07318_Speyer,0.5125682353973389,RRm,sem,precipitation,mm day-1,7
+07318_Speyer,0.45183515548706055,RRm,sem,precipitation,mm day-1,10
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.579981803894043,RRm,sem,precipitation,mm day-1,1
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.38819146156311035,RRm,sem,precipitation,mm day-1,4
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.4061400890350342,RRm,sem,precipitation,mm day-1,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.3848917484283447,RRm,sem,precipitation,mm day-1,10
+07319_Worms,0.624983549118042,RRm,sem,precipitation,mm day-1,1
+07319_Worms,0.36197566986083984,RRm,sem,precipitation,mm day-1,4
+07319_Worms,0.3358612060546875,RRm,sem,precipitation,mm day-1,7
+07319_Worms,0.3535546064376831,RRm,sem,precipitation,mm day-1,10
+07320_07340_10045_07317_Region_um_Zweibrücken,0.5756452083587646,RRm,sem,precipitation,mm day-1,1
+07320_07340_10045_07317_Region_um_Zweibrücken,0.6076018810272217,RRm,sem,precipitation,mm day-1,4
+07320_07340_10045_07317_Region_um_Zweibrücken,0.4241197109222412,RRm,sem,precipitation,mm day-1,7
+07320_07340_10045_07317_Region_um_Zweibrücken,0.396648645401001,RRm,sem,precipitation,mm day-1,10
+07320_Zweibrücken,0.6650307178497314,RRm,sem,precipitation,mm day-1,1
+07320_Zweibrücken,0.6203467845916748,RRm,sem,precipitation,mm day-1,4
+07320_Zweibrücken,0.42560839653015137,RRm,sem,precipitation,mm day-1,7
+07320_Zweibrücken,0.42615318298339844,RRm,sem,precipitation,mm day-1,10
+07331_Alzey-Worms,0.4455348253250122,RRm,sem,precipitation,mm day-1,1
+07331_Alzey-Worms,0.3335871696472168,RRm,sem,precipitation,mm day-1,4
+07331_Alzey-Worms,0.3562791347503662,RRm,sem,precipitation,mm day-1,7
+07331_Alzey-Worms,0.2818399667739868,RRm,sem,precipitation,mm day-1,10
+07332_Bad Dürkheim,0.4249277114868164,RRm,sem,precipitation,mm day-1,1
+07332_Bad Dürkheim,0.47415733337402344,RRm,sem,precipitation,mm day-1,4
+07332_Bad Dürkheim,0.4043765068054199,RRm,sem,precipitation,mm day-1,7
+07332_Bad Dürkheim,0.3063161373138428,RRm,sem,precipitation,mm day-1,10
+07333_Donnersbergkreis,0.3966165781021118,RRm,sem,precipitation,mm day-1,1
+07333_Donnersbergkreis,0.43752431869506836,RRm,sem,precipitation,mm day-1,4
+07333_Donnersbergkreis,0.42020606994628906,RRm,sem,precipitation,mm day-1,7
+07333_Donnersbergkreis,0.2578704357147217,RRm,sem,precipitation,mm day-1,10
+07334_Germersheim,0.6800919771194458,RRm,sem,precipitation,mm day-1,1
+07334_Germersheim,0.4522733688354492,RRm,sem,precipitation,mm day-1,4
+07334_Germersheim,0.4375784397125244,RRm,sem,precipitation,mm day-1,7
+07334_Germersheim,0.4677647352218628,RRm,sem,precipitation,mm day-1,10
+07335_Kaiserslautern,0.4068183898925781,RRm,sem,precipitation,mm day-1,1
+07335_Kaiserslautern,0.5750937461853027,RRm,sem,precipitation,mm day-1,4
+07335_Kaiserslautern,0.4485316276550293,RRm,sem,precipitation,mm day-1,7
+07335_Kaiserslautern,0.32897305488586426,RRm,sem,precipitation,mm day-1,10
+07336_Kusel,0.4618813991546631,RRm,sem,precipitation,mm day-1,1
+07336_Kusel,0.5203449726104736,RRm,sem,precipitation,mm day-1,4
+07336_Kusel,0.37784910202026367,RRm,sem,precipitation,mm day-1,7
+07336_Kusel,0.30562281608581543,RRm,sem,precipitation,mm day-1,10
+07337_Südliche Weinstraße,0.49317502975463867,RRm,sem,precipitation,mm day-1,1
+07337_Südliche Weinstraße,0.5021848678588867,RRm,sem,precipitation,mm day-1,4
+07337_Südliche Weinstraße,0.4367988109588623,RRm,sem,precipitation,mm day-1,7
+07337_Südliche Weinstraße,0.47603893280029297,RRm,sem,precipitation,mm day-1,10
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.643601655960083,RRm,sem,precipitation,mm day-1,1
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.46575403213500977,RRm,sem,precipitation,mm day-1,4
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.4575996398925781,RRm,sem,precipitation,mm day-1,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.43309760093688965,RRm,sem,precipitation,mm day-1,10
+07338_Rhein-Pfalz-Kreis,0.7100746631622314,RRm,sem,precipitation,mm day-1,1
+07338_Rhein-Pfalz-Kreis,0.3802495002746582,RRm,sem,precipitation,mm day-1,4
+07338_Rhein-Pfalz-Kreis,0.4437069892883301,RRm,sem,precipitation,mm day-1,7
+07338_Rhein-Pfalz-Kreis,0.4055016040802002,RRm,sem,precipitation,mm day-1,10
+07339_Mainz-Bingen,0.4060959815979004,RRm,sem,precipitation,mm day-1,1
+07339_Mainz-Bingen,0.30607056617736816,RRm,sem,precipitation,mm day-1,4
+07339_Mainz-Bingen,0.3798484802246094,RRm,sem,precipitation,mm day-1,7
+07339_Mainz-Bingen,0.31966209411621094,RRm,sem,precipitation,mm day-1,10
+07340_Südwestpfalz,0.5250062942504883,RRm,sem,precipitation,mm day-1,1
+07340_Südwestpfalz,0.6165351867675781,RRm,sem,precipitation,mm day-1,4
+07340_Südwestpfalz,0.4359440803527832,RRm,sem,precipitation,mm day-1,7
+07340_Südwestpfalz,0.3889126777648926,RRm,sem,precipitation,mm day-1,10
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.5278997421264648,RRm,sem,precipitation,mm day-1,1
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.5564301013946533,RRm,sem,precipitation,mm day-1,4
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.5929405689239502,RRm,sem,precipitation,mm day-1,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.5278031826019287,RRm,sem,precipitation,mm day-1,10
+08111_Stuttgart,0.5142669677734375,RRm,sem,precipitation,mm day-1,1
+08111_Stuttgart,0.5419061183929443,RRm,sem,precipitation,mm day-1,4
+08111_Stuttgart,0.5824203491210938,RRm,sem,precipitation,mm day-1,7
+08111_Stuttgart,0.5642774105072021,RRm,sem,precipitation,mm day-1,10
+08115_Böblingen,0.38824570178985596,RRm,sem,precipitation,mm day-1,1
+08115_Böblingen,0.5733556747436523,RRm,sem,precipitation,mm day-1,4
+08115_Böblingen,0.5041534900665283,RRm,sem,precipitation,mm day-1,7
+08115_Böblingen,0.5001044273376465,RRm,sem,precipitation,mm day-1,10
+08116_Esslingen,0.5609874725341797,RRm,sem,precipitation,mm day-1,1
+08116_Esslingen,0.5143826007843018,RRm,sem,precipitation,mm day-1,4
+08116_Esslingen,0.6211323738098145,RRm,sem,precipitation,mm day-1,7
+08116_Esslingen,0.5668673515319824,RRm,sem,precipitation,mm day-1,10
+08117_Göppingen,0.5373349189758301,RRm,sem,precipitation,mm day-1,1
+08117_Göppingen,0.5167927742004395,RRm,sem,precipitation,mm day-1,4
+08117_Göppingen,0.6174018383026123,RRm,sem,precipitation,mm day-1,7
+08117_Göppingen,0.5446760654449463,RRm,sem,precipitation,mm day-1,10
+08118_Ludwigsburg,0.540825366973877,RRm,sem,precipitation,mm day-1,1
+08118_Ludwigsburg,0.5897111892700195,RRm,sem,precipitation,mm day-1,4
+08118_Ludwigsburg,0.6010425090789795,RRm,sem,precipitation,mm day-1,7
+08118_Ludwigsburg,0.46457958221435547,RRm,sem,precipitation,mm day-1,10
+08119_Rems-Murr-Kreis,0.5960602760314941,RRm,sem,precipitation,mm day-1,1
+08119_Rems-Murr-Kreis,0.5524711608886719,RRm,sem,precipitation,mm day-1,4
+08119_Rems-Murr-Kreis,0.6315076351165771,RRm,sem,precipitation,mm day-1,7
+08119_Rems-Murr-Kreis,0.5602705478668213,RRm,sem,precipitation,mm day-1,10
+08121_08125_Region_um_Heilbronn,0.6037538051605225,RRm,sem,precipitation,mm day-1,1
+08121_08125_Region_um_Heilbronn,0.5421199798583984,RRm,sem,precipitation,mm day-1,4
+08121_08125_Region_um_Heilbronn,0.54427170753479,RRm,sem,precipitation,mm day-1,7
+08121_08125_Region_um_Heilbronn,0.46106576919555664,RRm,sem,precipitation,mm day-1,10
+08121_Heilbronn,0.6675465106964111,RRm,sem,precipitation,mm day-1,1
+08121_Heilbronn,0.5582497119903564,RRm,sem,precipitation,mm day-1,4
+08121_Heilbronn,0.5628499984741211,RRm,sem,precipitation,mm day-1,7
+08121_Heilbronn,0.44046926498413086,RRm,sem,precipitation,mm day-1,10
+08125_Heilbronn,0.597524881362915,RRm,sem,precipitation,mm day-1,1
+08125_Heilbronn,0.5405452251434326,RRm,sem,precipitation,mm day-1,4
+08125_Heilbronn,0.5424573421478271,RRm,sem,precipitation,mm day-1,7
+08125_Heilbronn,0.4630775451660156,RRm,sem,precipitation,mm day-1,10
+08126_Hohenlohekreis,0.5219664573669434,RRm,sem,precipitation,mm day-1,1
+08126_Hohenlohekreis,0.5760235786437988,RRm,sem,precipitation,mm day-1,4
+08126_Hohenlohekreis,0.5555124282836914,RRm,sem,precipitation,mm day-1,7
+08126_Hohenlohekreis,0.44544315338134766,RRm,sem,precipitation,mm day-1,10
+08127_Schwäbisch Hall,0.472872257232666,RRm,sem,precipitation,mm day-1,1
+08127_Schwäbisch Hall,0.5861079692840576,RRm,sem,precipitation,mm day-1,4
+08127_Schwäbisch Hall,0.5620803833007812,RRm,sem,precipitation,mm day-1,7
+08127_Schwäbisch Hall,0.45786070823669434,RRm,sem,precipitation,mm day-1,10
+08128_Main-Tauber-Kreis,0.4588738679885864,RRm,sem,precipitation,mm day-1,1
+08128_Main-Tauber-Kreis,0.4243931770324707,RRm,sem,precipitation,mm day-1,4
+08128_Main-Tauber-Kreis,0.42586803436279297,RRm,sem,precipitation,mm day-1,7
+08128_Main-Tauber-Kreis,0.36974072456359863,RRm,sem,precipitation,mm day-1,10
+08135_Heidenheim,0.43874335289001465,RRm,sem,precipitation,mm day-1,1
+08135_Heidenheim,0.5098893642425537,RRm,sem,precipitation,mm day-1,4
+08135_Heidenheim,0.5919127464294434,RRm,sem,precipitation,mm day-1,7
+08135_Heidenheim,0.5006780624389648,RRm,sem,precipitation,mm day-1,10
+08136_Ostalbkreis,0.4816575050354004,RRm,sem,precipitation,mm day-1,1
+08136_Ostalbkreis,0.5532588958740234,RRm,sem,precipitation,mm day-1,4
+08136_Ostalbkreis,0.5918159484863281,RRm,sem,precipitation,mm day-1,7
+08136_Ostalbkreis,0.4505171775817871,RRm,sem,precipitation,mm day-1,10
+08211_08216_Region_um_Baden-Baden,0.8329474925994873,RRm,sem,precipitation,mm day-1,1
+08211_08216_Region_um_Baden-Baden,0.8739190101623535,RRm,sem,precipitation,mm day-1,4
+08211_08216_Region_um_Baden-Baden,0.4745049476623535,RRm,sem,precipitation,mm day-1,7
+08211_08216_Region_um_Baden-Baden,0.7206878662109375,RRm,sem,precipitation,mm day-1,10
+08211_Baden-Baden,0.9698381423950195,RRm,sem,precipitation,mm day-1,1
+08211_Baden-Baden,0.9414210319519043,RRm,sem,precipitation,mm day-1,4
+08211_Baden-Baden,0.4933915138244629,RRm,sem,precipitation,mm day-1,7
+08211_Baden-Baden,0.7287325859069824,RRm,sem,precipitation,mm day-1,10
+08212_08215_07334_Region_um_Karlsruhe,0.6879229545593262,RRm,sem,precipitation,mm day-1,1
+08212_08215_07334_Region_um_Karlsruhe,0.5404107570648193,RRm,sem,precipitation,mm day-1,4
+08212_08215_07334_Region_um_Karlsruhe,0.47203660011291504,RRm,sem,precipitation,mm day-1,7
+08212_08215_07334_Region_um_Karlsruhe,0.459641695022583,RRm,sem,precipitation,mm day-1,10
+08212_Karlsruhe,0.8152928352355957,RRm,sem,precipitation,mm day-1,1
+08212_Karlsruhe,0.6074557304382324,RRm,sem,precipitation,mm day-1,4
+08212_Karlsruhe,0.44779014587402344,RRm,sem,precipitation,mm day-1,7
+08212_Karlsruhe,0.46253538131713867,RRm,sem,precipitation,mm day-1,10
+08215_Karlsruhe,0.6703765392303467,RRm,sem,precipitation,mm day-1,1
+08215_Karlsruhe,0.5667214393615723,RRm,sem,precipitation,mm day-1,4
+08215_Karlsruhe,0.4905850887298584,RRm,sem,precipitation,mm day-1,7
+08215_Karlsruhe,0.4891033172607422,RRm,sem,precipitation,mm day-1,10
+08216_Rastatt,0.8073585033416748,RRm,sem,precipitation,mm day-1,1
+08216_Rastatt,0.8613018989562988,RRm,sem,precipitation,mm day-1,4
+08216_Rastatt,0.4709744453430176,RRm,sem,precipitation,mm day-1,7
+08216_Rastatt,0.7242031097412109,RRm,sem,precipitation,mm day-1,10
+08221_08226_08222_Region_um_Heidelberg,0.7588117122650146,RRm,sem,precipitation,mm day-1,1
+08221_08226_08222_Region_um_Heidelberg,0.45766568183898926,RRm,sem,precipitation,mm day-1,4
+08221_08226_08222_Region_um_Heidelberg,0.49082064628601074,RRm,sem,precipitation,mm day-1,7
+08221_08226_08222_Region_um_Heidelberg,0.5669307708740234,RRm,sem,precipitation,mm day-1,10
+08221_Heidelberg,0.875154972076416,RRm,sem,precipitation,mm day-1,1
+08221_Heidelberg,0.505791425704956,RRm,sem,precipitation,mm day-1,4
+08221_Heidelberg,0.5108006000518799,RRm,sem,precipitation,mm day-1,7
+08221_Heidelberg,0.574009895324707,RRm,sem,precipitation,mm day-1,10
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,0.7410454750061035,RRm,sem,precipitation,mm day-1,1
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,0.43068385124206543,RRm,sem,precipitation,mm day-1,4
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,0.4662313461303711,RRm,sem,precipitation,mm day-1,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,0.5411341190338135,RRm,sem,precipitation,mm day-1,10
+08222_Mannheim,0.82855224609375,RRm,sem,precipitation,mm day-1,1
+08222_Mannheim,0.47383713722229004,RRm,sem,precipitation,mm day-1,4
+08222_Mannheim,0.4637022018432617,RRm,sem,precipitation,mm day-1,7
+08222_Mannheim,0.5562095642089844,RRm,sem,precipitation,mm day-1,10
+08225_Neckar-Odenwald-Kreis,0.5141689777374268,RRm,sem,precipitation,mm day-1,1
+08225_Neckar-Odenwald-Kreis,0.5091872215270996,RRm,sem,precipitation,mm day-1,4
+08225_Neckar-Odenwald-Kreis,0.45238447189331055,RRm,sem,precipitation,mm day-1,7
+08225_Neckar-Odenwald-Kreis,0.4738023281097412,RRm,sem,precipitation,mm day-1,10
+08226_Rhein-Neckar-Kreis,0.7369978427886963,RRm,sem,precipitation,mm day-1,1
+08226_Rhein-Neckar-Kreis,0.45041823387145996,RRm,sem,precipitation,mm day-1,4
+08226_Rhein-Neckar-Kreis,0.49257874488830566,RRm,sem,precipitation,mm day-1,7
+08226_Rhein-Neckar-Kreis,0.5677001476287842,RRm,sem,precipitation,mm day-1,10
+08231_08236_08235_Region_um_Pforzheim,0.6517848968505859,RRm,sem,precipitation,mm day-1,1
+08231_08236_08235_Region_um_Pforzheim,0.6657149791717529,RRm,sem,precipitation,mm day-1,4
+08231_08236_08235_Region_um_Pforzheim,0.518139123916626,RRm,sem,precipitation,mm day-1,7
+08231_08236_08235_Region_um_Pforzheim,0.5911664962768555,RRm,sem,precipitation,mm day-1,10
+08231_Pforzheim,0.5986638069152832,RRm,sem,precipitation,mm day-1,1
+08231_Pforzheim,0.6221730709075928,RRm,sem,precipitation,mm day-1,4
+08231_Pforzheim,0.5352063179016113,RRm,sem,precipitation,mm day-1,7
+08231_Pforzheim,0.5303001403808594,RRm,sem,precipitation,mm day-1,10
+08235_Calw,0.7090945243835449,RRm,sem,precipitation,mm day-1,1
+08235_Calw,0.7433302402496338,RRm,sem,precipitation,mm day-1,4
+08235_Calw,0.5025777816772461,RRm,sem,precipitation,mm day-1,7
+08235_Calw,0.6686873435974121,RRm,sem,precipitation,mm day-1,10
+08236_Enzkreis,0.5818521976470947,RRm,sem,precipitation,mm day-1,1
+08236_Enzkreis,0.6226730346679688,RRm,sem,precipitation,mm day-1,4
+08236_Enzkreis,0.5366430282592773,RRm,sem,precipitation,mm day-1,7
+08236_Enzkreis,0.4945507049560547,RRm,sem,precipitation,mm day-1,10
+08237_Freudenstadt,0.9860086441040039,RRm,sem,precipitation,mm day-1,1
+08237_Freudenstadt,0.8286967277526855,RRm,sem,precipitation,mm day-1,4
+08237_Freudenstadt,0.49642467498779297,RRm,sem,precipitation,mm day-1,7
+08237_Freudenstadt,0.8671720027923584,RRm,sem,precipitation,mm day-1,10
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,1.0766258239746094,RRm,sem,precipitation,mm day-1,1
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,0.8476958274841309,RRm,sem,precipitation,mm day-1,4
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,0.5623526573181152,RRm,sem,precipitation,mm day-1,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,0.8262600898742676,RRm,sem,precipitation,mm day-1,10
+08311_Freiburg im Breisgau,1.1267895698547363,RRm,sem,precipitation,mm day-1,1
+08311_Freiburg im Breisgau,0.8937644958496094,RRm,sem,precipitation,mm day-1,4
+08311_Freiburg im Breisgau,0.6793911457061768,RRm,sem,precipitation,mm day-1,7
+08311_Freiburg im Breisgau,0.800959587097168,RRm,sem,precipitation,mm day-1,10
+08315_Breisgau-Hochschwarzwald,1.1051602363586426,RRm,sem,precipitation,mm day-1,1
+08315_Breisgau-Hochschwarzwald,0.8612880706787109,RRm,sem,precipitation,mm day-1,4
+08315_Breisgau-Hochschwarzwald,0.5587759017944336,RRm,sem,precipitation,mm day-1,7
+08315_Breisgau-Hochschwarzwald,0.8329744338989258,RRm,sem,precipitation,mm day-1,10
+08316_Emmendingen,1.0238986015319824,RRm,sem,precipitation,mm day-1,1
+08316_Emmendingen,0.8129251003265381,RRm,sem,precipitation,mm day-1,4
+08316_Emmendingen,0.5416016578674316,RRm,sem,precipitation,mm day-1,7
+08316_Emmendingen,0.818547248840332,RRm,sem,precipitation,mm day-1,10
+08317_Ortenaukreis,1.1833209991455078,RRm,sem,precipitation,mm day-1,1
+08317_Ortenaukreis,0.7546777725219727,RRm,sem,precipitation,mm day-1,4
+08317_Ortenaukreis,0.49501800537109375,RRm,sem,precipitation,mm day-1,7
+08317_Ortenaukreis,0.8427639007568359,RRm,sem,precipitation,mm day-1,10
+08325_Rottweil,0.7500696182250977,RRm,sem,precipitation,mm day-1,1
+08325_Rottweil,0.6407809257507324,RRm,sem,precipitation,mm day-1,4
+08325_Rottweil,0.5579624176025391,RRm,sem,precipitation,mm day-1,7
+08325_Rottweil,0.5726215839385986,RRm,sem,precipitation,mm day-1,10
+08326_Schwarzwald-Baar-Kreis,0.9288544654846191,RRm,sem,precipitation,mm day-1,1
+08326_Schwarzwald-Baar-Kreis,0.6671547889709473,RRm,sem,precipitation,mm day-1,4
+08326_Schwarzwald-Baar-Kreis,0.47937488555908203,RRm,sem,precipitation,mm day-1,7
+08326_Schwarzwald-Baar-Kreis,0.5904769897460938,RRm,sem,precipitation,mm day-1,10
+08327_Tuttlingen,0.5111784934997559,RRm,sem,precipitation,mm day-1,1
+08327_Tuttlingen,0.5394599437713623,RRm,sem,precipitation,mm day-1,4
+08327_Tuttlingen,0.5263481140136719,RRm,sem,precipitation,mm day-1,7
+08327_Tuttlingen,0.5380997657775879,RRm,sem,precipitation,mm day-1,10
+08335_Konstanz,0.44491076469421387,RRm,sem,precipitation,mm day-1,1
+08335_Konstanz,0.5510897636413574,RRm,sem,precipitation,mm day-1,4
+08335_Konstanz,0.6027722358703613,RRm,sem,precipitation,mm day-1,7
+08335_Konstanz,0.5308330059051514,RRm,sem,precipitation,mm day-1,10
+08336_Lörrach,1.1246752738952637,RRm,sem,precipitation,mm day-1,1
+08336_Lörrach,0.9169087409973145,RRm,sem,precipitation,mm day-1,4
+08336_Lörrach,0.5063319206237793,RRm,sem,precipitation,mm day-1,7
+08336_Lörrach,0.9546208381652832,RRm,sem,precipitation,mm day-1,10
+08337_Waldshut,0.8927149772644043,RRm,sem,precipitation,mm day-1,1
+08337_Waldshut,0.738677978515625,RRm,sem,precipitation,mm day-1,4
+08337_Waldshut,0.5019359588623047,RRm,sem,precipitation,mm day-1,7
+08337_Waldshut,0.725898027420044,RRm,sem,precipitation,mm day-1,10
+08415_Reutlingen,0.4288206100463867,RRm,sem,precipitation,mm day-1,1
+08415_Reutlingen,0.5581283569335938,RRm,sem,precipitation,mm day-1,4
+08415_Reutlingen,0.6245279312133789,RRm,sem,precipitation,mm day-1,7
+08415_Reutlingen,0.597517728805542,RRm,sem,precipitation,mm day-1,10
+08416_Tübingen,0.3673892021179199,RRm,sem,precipitation,mm day-1,1
+08416_Tübingen,0.5915563106536865,RRm,sem,precipitation,mm day-1,4
+08416_Tübingen,0.5213453769683838,RRm,sem,precipitation,mm day-1,7
+08416_Tübingen,0.44852566719055176,RRm,sem,precipitation,mm day-1,10
+08417_Zollernalbkreis,0.49655961990356445,RRm,sem,precipitation,mm day-1,1
+08417_Zollernalbkreis,0.5094258785247803,RRm,sem,precipitation,mm day-1,4
+08417_Zollernalbkreis,0.5891523361206055,RRm,sem,precipitation,mm day-1,7
+08417_Zollernalbkreis,0.5205333232879639,RRm,sem,precipitation,mm day-1,10
+08421_08425_09775_Region_um_Ulm,0.4241955280303955,RRm,sem,precipitation,mm day-1,1
+08421_08425_09775_Region_um_Ulm,0.5575277805328369,RRm,sem,precipitation,mm day-1,4
+08421_08425_09775_Region_um_Ulm,0.6173193454742432,RRm,sem,precipitation,mm day-1,7
+08421_08425_09775_Region_um_Ulm,0.5084042549133301,RRm,sem,precipitation,mm day-1,10
+08421_Ulm,0.40059518814086914,RRm,sem,precipitation,mm day-1,1
+08421_Ulm,0.5296142101287842,RRm,sem,precipitation,mm day-1,4
+08421_Ulm,0.6086366176605225,RRm,sem,precipitation,mm day-1,7
+08421_Ulm,0.49058640003204346,RRm,sem,precipitation,mm day-1,10
+08425_Alb-Donau-Kreis,0.42128586769104004,RRm,sem,precipitation,mm day-1,1
+08425_Alb-Donau-Kreis,0.5373423099517822,RRm,sem,precipitation,mm day-1,4
+08425_Alb-Donau-Kreis,0.6060810089111328,RRm,sem,precipitation,mm day-1,7
+08425_Alb-Donau-Kreis,0.5228426456451416,RRm,sem,precipitation,mm day-1,10
+08426_Biberach,0.4436976909637451,RRm,sem,precipitation,mm day-1,1
+08426_Biberach,0.6349303722381592,RRm,sem,precipitation,mm day-1,4
+08426_Biberach,0.6490418910980225,RRm,sem,precipitation,mm day-1,7
+08426_Biberach,0.4996621608734131,RRm,sem,precipitation,mm day-1,10
+08435_Bodenseekreis,1.0493569374084473,RRm,sem,precipitation,mm day-1,1
+08435_Bodenseekreis,0.8028581142425537,RRm,sem,precipitation,mm day-1,4
+08435_Bodenseekreis,1.644979476928711,RRm,sem,precipitation,mm day-1,7
+08435_Bodenseekreis,1.0841927528381348,RRm,sem,precipitation,mm day-1,10
+08436_Ravensburg,0.8357086181640625,RRm,sem,precipitation,mm day-1,1
+08436_Ravensburg,0.8172705173492432,RRm,sem,precipitation,mm day-1,4
+08436_Ravensburg,0.6048989295959473,RRm,sem,precipitation,mm day-1,7
+08436_Ravensburg,0.6673159599304199,RRm,sem,precipitation,mm day-1,10
+08437_Sigmaringen,0.4485924243927002,RRm,sem,precipitation,mm day-1,1
+08437_Sigmaringen,0.5655200481414795,RRm,sem,precipitation,mm day-1,4
+08437_Sigmaringen,0.61556077003479,RRm,sem,precipitation,mm day-1,7
+08437_Sigmaringen,0.5880599021911621,RRm,sem,precipitation,mm day-1,10
+09161_09176_09185_09186_Region_um_Ingolstadt,0.3854513168334961,RRm,sem,precipitation,mm day-1,1
+09161_09176_09185_09186_Region_um_Ingolstadt,0.45444726943969727,RRm,sem,precipitation,mm day-1,4
+09161_09176_09185_09186_Region_um_Ingolstadt,0.527411937713623,RRm,sem,precipitation,mm day-1,7
+09161_09176_09185_09186_Region_um_Ingolstadt,0.4456850290298462,RRm,sem,precipitation,mm day-1,10
+09161_Ingolstadt,0.40140390396118164,RRm,sem,precipitation,mm day-1,1
+09161_Ingolstadt,0.45989835262298584,RRm,sem,precipitation,mm day-1,4
+09161_Ingolstadt,0.526470422744751,RRm,sem,precipitation,mm day-1,7
+09161_Ingolstadt,0.42682909965515137,RRm,sem,precipitation,mm day-1,10
+09162_09184_09179_09174_Region_um_München,0.5861380100250244,RRm,sem,precipitation,mm day-1,1
+09162_09184_09179_09174_Region_um_München,0.6403498649597168,RRm,sem,precipitation,mm day-1,4
+09162_09184_09179_09174_Region_um_München,0.5157654285430908,RRm,sem,precipitation,mm day-1,7
+09162_09184_09179_09174_Region_um_München,0.475816011428833,RRm,sem,precipitation,mm day-1,10
+09162_München,0.6140096187591553,RRm,sem,precipitation,mm day-1,1
+09162_München,0.6711995601654053,RRm,sem,precipitation,mm day-1,4
+09162_München,0.5592780113220215,RRm,sem,precipitation,mm day-1,7
+09162_München,0.4341557025909424,RRm,sem,precipitation,mm day-1,10
+09163_09187_Region_um_Rosenheim,0.8612241744995117,RRm,sem,precipitation,mm day-1,1
+09163_09187_Region_um_Rosenheim,0.7350649833679199,RRm,sem,precipitation,mm day-1,4
+09163_09187_Region_um_Rosenheim,0.5193347930908203,RRm,sem,precipitation,mm day-1,7
+09163_09187_Region_um_Rosenheim,0.6751635074615479,RRm,sem,precipitation,mm day-1,10
+09163_Rosenheim,0.8465301990509033,RRm,sem,precipitation,mm day-1,1
+09163_Rosenheim,0.799530029296875,RRm,sem,precipitation,mm day-1,4
+09163_Rosenheim,0.5648543834686279,RRm,sem,precipitation,mm day-1,7
+09163_Rosenheim,0.6465029716491699,RRm,sem,precipitation,mm day-1,10
+09171_Altötting,0.5651087760925293,RRm,sem,precipitation,mm day-1,1
+09171_Altötting,0.48105454444885254,RRm,sem,precipitation,mm day-1,4
+09171_Altötting,0.4423103332519531,RRm,sem,precipitation,mm day-1,7
+09171_Altötting,0.4931025505065918,RRm,sem,precipitation,mm day-1,10
+09172_Berchtesgadener Land,0.9653010368347168,RRm,sem,precipitation,mm day-1,1
+09172_Berchtesgadener Land,0.7947835922241211,RRm,sem,precipitation,mm day-1,4
+09172_Berchtesgadener Land,0.6516647338867188,RRm,sem,precipitation,mm day-1,7
+09172_Berchtesgadener Land,0.7724628448486328,RRm,sem,precipitation,mm day-1,10
+09173_Bad Tölz-Wolfratshausen,0.9371380805969238,RRm,sem,precipitation,mm day-1,1
+09173_Bad Tölz-Wolfratshausen,0.8388557434082031,RRm,sem,precipitation,mm day-1,4
+09173_Bad Tölz-Wolfratshausen,0.5588669776916504,RRm,sem,precipitation,mm day-1,7
+09173_Bad Tölz-Wolfratshausen,0.6628425121307373,RRm,sem,precipitation,mm day-1,10
+09174_Dachau,0.4931905269622803,RRm,sem,precipitation,mm day-1,1
+09174_Dachau,0.5965981483459473,RRm,sem,precipitation,mm day-1,4
+09174_Dachau,0.5401368141174316,RRm,sem,precipitation,mm day-1,7
+09174_Dachau,0.5170297622680664,RRm,sem,precipitation,mm day-1,10
+09175_Ebersberg,0.6978170871734619,RRm,sem,precipitation,mm day-1,1
+09175_Ebersberg,0.5714981555938721,RRm,sem,precipitation,mm day-1,4
+09175_Ebersberg,0.5043928623199463,RRm,sem,precipitation,mm day-1,7
+09175_Ebersberg,0.42581892013549805,RRm,sem,precipitation,mm day-1,10
+09176_Eichstätt,0.36815357208251953,RRm,sem,precipitation,mm day-1,1
+09176_Eichstätt,0.440753698348999,RRm,sem,precipitation,mm day-1,4
+09176_Eichstätt,0.5567176342010498,RRm,sem,precipitation,mm day-1,7
+09176_Eichstätt,0.4167633056640625,RRm,sem,precipitation,mm day-1,10
+09177_Erding,0.5746855735778809,RRm,sem,precipitation,mm day-1,1
+09177_Erding,0.5372457504272461,RRm,sem,precipitation,mm day-1,4
+09177_Erding,0.5999374389648438,RRm,sem,precipitation,mm day-1,7
+09177_Erding,0.4482860565185547,RRm,sem,precipitation,mm day-1,10
+09178_Freising,0.48508787155151367,RRm,sem,precipitation,mm day-1,1
+09178_Freising,0.5086569786071777,RRm,sem,precipitation,mm day-1,4
+09178_Freising,0.5721344947814941,RRm,sem,precipitation,mm day-1,7
+09178_Freising,0.4908926486968994,RRm,sem,precipitation,mm day-1,10
+09179_Fürstenfeldbruck,0.5588235855102539,RRm,sem,precipitation,mm day-1,1
+09179_Fürstenfeldbruck,0.6479499340057373,RRm,sem,precipitation,mm day-1,4
+09179_Fürstenfeldbruck,0.4991006851196289,RRm,sem,precipitation,mm day-1,7
+09179_Fürstenfeldbruck,0.5212974548339844,RRm,sem,precipitation,mm day-1,10
+09180_Garmisch-Partenkirchen,0.8580057621002197,RRm,sem,precipitation,mm day-1,1
+09180_Garmisch-Partenkirchen,0.9184689521789551,RRm,sem,precipitation,mm day-1,4
+09180_Garmisch-Partenkirchen,0.6763134002685547,RRm,sem,precipitation,mm day-1,7
+09180_Garmisch-Partenkirchen,0.7630825042724609,RRm,sem,precipitation,mm day-1,10
+09181_Landsberg am Lech,0.590519905090332,RRm,sem,precipitation,mm day-1,1
+09181_Landsberg am Lech,0.6896524429321289,RRm,sem,precipitation,mm day-1,4
+09181_Landsberg am Lech,0.622251033782959,RRm,sem,precipitation,mm day-1,7
+09181_Landsberg am Lech,0.5459542274475098,RRm,sem,precipitation,mm day-1,10
+09182_Miesbach,0.9904913902282715,RRm,sem,precipitation,mm day-1,1
+09182_Miesbach,0.8399267196655273,RRm,sem,precipitation,mm day-1,4
+09182_Miesbach,0.613438606262207,RRm,sem,precipitation,mm day-1,7
+09182_Miesbach,0.6151647567749023,RRm,sem,precipitation,mm day-1,10
+09183_Mühldorf a. Inn,0.5776839256286621,RRm,sem,precipitation,mm day-1,1
+09183_Mühldorf a. Inn,0.4768989086151123,RRm,sem,precipitation,mm day-1,4
+09183_Mühldorf a. Inn,0.5112230777740479,RRm,sem,precipitation,mm day-1,7
+09183_Mühldorf a. Inn,0.3990745544433594,RRm,sem,precipitation,mm day-1,10
+09184_München,0.6728544235229492,RRm,sem,precipitation,mm day-1,1
+09184_München,0.6589298248291016,RRm,sem,precipitation,mm day-1,4
+09184_München,0.5664005279541016,RRm,sem,precipitation,mm day-1,7
+09184_München,0.4379434585571289,RRm,sem,precipitation,mm day-1,10
+09185_Neuburg-Schrobenhausen,0.38777756690979004,RRm,sem,precipitation,mm day-1,1
+09185_Neuburg-Schrobenhausen,0.45946836471557617,RRm,sem,precipitation,mm day-1,4
+09185_Neuburg-Schrobenhausen,0.5510001182556152,RRm,sem,precipitation,mm day-1,7
+09185_Neuburg-Schrobenhausen,0.46527695655822754,RRm,sem,precipitation,mm day-1,10
+09186_Pfaffenhofen a.d. Ilm,0.4138767719268799,RRm,sem,precipitation,mm day-1,1
+09186_Pfaffenhofen a.d. Ilm,0.47046971321105957,RRm,sem,precipitation,mm day-1,4
+09186_Pfaffenhofen a.d. Ilm,0.48127293586730957,RRm,sem,precipitation,mm day-1,7
+09186_Pfaffenhofen a.d. Ilm,0.47649431228637695,RRm,sem,precipitation,mm day-1,10
+09187_Rosenheim,0.8616313934326172,RRm,sem,precipitation,mm day-1,1
+09187_Rosenheim,0.7332777976989746,RRm,sem,precipitation,mm day-1,4
+09187_Rosenheim,0.518366813659668,RRm,sem,precipitation,mm day-1,7
+09187_Rosenheim,0.6759579181671143,RRm,sem,precipitation,mm day-1,10
+09188_Starnberg,0.7838926315307617,RRm,sem,precipitation,mm day-1,1
+09188_Starnberg,0.6795103549957275,RRm,sem,precipitation,mm day-1,4
+09188_Starnberg,0.8992652893066406,RRm,sem,precipitation,mm day-1,7
+09188_Starnberg,0.884613037109375,RRm,sem,precipitation,mm day-1,10
+09189_Traunstein,0.8608603477478027,RRm,sem,precipitation,mm day-1,1
+09189_Traunstein,0.7280256748199463,RRm,sem,precipitation,mm day-1,4
+09189_Traunstein,0.5926580429077148,RRm,sem,precipitation,mm day-1,7
+09189_Traunstein,0.9641833305358887,RRm,sem,precipitation,mm day-1,10
+09190_Weilheim-Schongau,0.6636707782745361,RRm,sem,precipitation,mm day-1,1
+09190_Weilheim-Schongau,0.6681208610534668,RRm,sem,precipitation,mm day-1,4
+09190_Weilheim-Schongau,0.5612163543701172,RRm,sem,precipitation,mm day-1,7
+09190_Weilheim-Schongau,0.6197535991668701,RRm,sem,precipitation,mm day-1,10
+09261_09274_Region_um_Landshut,0.47173357009887695,RRm,sem,precipitation,mm day-1,1
+09261_09274_Region_um_Landshut,0.4576139450073242,RRm,sem,precipitation,mm day-1,4
+09261_09274_Region_um_Landshut,0.5242159366607666,RRm,sem,precipitation,mm day-1,7
+09261_09274_Region_um_Landshut,0.4177745580673218,RRm,sem,precipitation,mm day-1,10
+09261_Landshut,0.48082923889160156,RRm,sem,precipitation,mm day-1,1
+09261_Landshut,0.47934865951538086,RRm,sem,precipitation,mm day-1,4
+09261_Landshut,0.5480890274047852,RRm,sem,precipitation,mm day-1,7
+09261_Landshut,0.4357743263244629,RRm,sem,precipitation,mm day-1,10
+09262_09275_Region_um_Passau,0.5892126560211182,RRm,sem,precipitation,mm day-1,1
+09262_09275_Region_um_Passau,0.49118757247924805,RRm,sem,precipitation,mm day-1,4
+09262_09275_Region_um_Passau,0.6223576068878174,RRm,sem,precipitation,mm day-1,7
+09262_09275_Region_um_Passau,0.4632070064544678,RRm,sem,precipitation,mm day-1,10
+09262_Passau,0.571742057800293,RRm,sem,precipitation,mm day-1,1
+09262_Passau,0.5076034069061279,RRm,sem,precipitation,mm day-1,4
+09262_Passau,0.6412439346313477,RRm,sem,precipitation,mm day-1,7
+09262_Passau,0.49320411682128906,RRm,sem,precipitation,mm day-1,10
+09263_09278_Region_um_Straubing,0.45896339416503906,RRm,sem,precipitation,mm day-1,1
+09263_09278_Region_um_Straubing,0.4695413112640381,RRm,sem,precipitation,mm day-1,4
+09263_09278_Region_um_Straubing,0.5889086723327637,RRm,sem,precipitation,mm day-1,7
+09263_09278_Region_um_Straubing,0.44272828102111816,RRm,sem,precipitation,mm day-1,10
+09263_Straubing,0.44936180114746094,RRm,sem,precipitation,mm day-1,1
+09263_Straubing,0.4598560333251953,RRm,sem,precipitation,mm day-1,4
+09263_Straubing,0.5517277717590332,RRm,sem,precipitation,mm day-1,7
+09263_Straubing,0.41524970531463623,RRm,sem,precipitation,mm day-1,10
+09271_Deggendorf,0.575373649597168,RRm,sem,precipitation,mm day-1,1
+09271_Deggendorf,0.47646522521972656,RRm,sem,precipitation,mm day-1,4
+09271_Deggendorf,0.5071523189544678,RRm,sem,precipitation,mm day-1,7
+09271_Deggendorf,0.5010015964508057,RRm,sem,precipitation,mm day-1,10
+09272_Freyung-Grafenau,0.6770987510681152,RRm,sem,precipitation,mm day-1,1
+09272_Freyung-Grafenau,0.5648338794708252,RRm,sem,precipitation,mm day-1,4
+09272_Freyung-Grafenau,0.6971931457519531,RRm,sem,precipitation,mm day-1,7
+09272_Freyung-Grafenau,0.5547220706939697,RRm,sem,precipitation,mm day-1,10
+09273_Kelheim,0.36168885231018066,RRm,sem,precipitation,mm day-1,1
+09273_Kelheim,0.4229898452758789,RRm,sem,precipitation,mm day-1,4
+09273_Kelheim,0.5821902751922607,RRm,sem,precipitation,mm day-1,7
+09273_Kelheim,0.3721923828125,RRm,sem,precipitation,mm day-1,10
+09274_Landshut,0.47124648094177246,RRm,sem,precipitation,mm day-1,1
+09274_Landshut,0.4564497470855713,RRm,sem,precipitation,mm day-1,4
+09274_Landshut,0.5234272480010986,RRm,sem,precipitation,mm day-1,7
+09274_Landshut,0.4168107509613037,RRm,sem,precipitation,mm day-1,10
+09275_Passau,0.590022087097168,RRm,sem,precipitation,mm day-1,1
+09275_Passau,0.49042582511901855,RRm,sem,precipitation,mm day-1,4
+09275_Passau,0.6214826107025146,RRm,sem,precipitation,mm day-1,7
+09275_Passau,0.46181678771972656,RRm,sem,precipitation,mm day-1,10
+09276_Regen,0.7763795852661133,RRm,sem,precipitation,mm day-1,1
+09276_Regen,0.5580809116363525,RRm,sem,precipitation,mm day-1,4
+09276_Regen,0.6352965831756592,RRm,sem,precipitation,mm day-1,7
+09276_Regen,0.6470327377319336,RRm,sem,precipitation,mm day-1,10
+09277_Rottal-Inn,0.5264387130737305,RRm,sem,precipitation,mm day-1,1
+09277_Rottal-Inn,0.4489004611968994,RRm,sem,precipitation,mm day-1,4
+09277_Rottal-Inn,0.5407421588897705,RRm,sem,precipitation,mm day-1,7
+09277_Rottal-Inn,0.40987086296081543,RRm,sem,precipitation,mm day-1,10
+09278_Straubing-Bogen,0.4595320224761963,RRm,sem,precipitation,mm day-1,1
+09278_Straubing-Bogen,0.47011327743530273,RRm,sem,precipitation,mm day-1,4
+09278_Straubing-Bogen,0.5911061763763428,RRm,sem,precipitation,mm day-1,7
+09278_Straubing-Bogen,0.4443528652191162,RRm,sem,precipitation,mm day-1,10
+09279_Dingolfing-Landau,0.45061326026916504,RRm,sem,precipitation,mm day-1,1
+09279_Dingolfing-Landau,0.3957493305206299,RRm,sem,precipitation,mm day-1,4
+09279_Dingolfing-Landau,0.5962178707122803,RRm,sem,precipitation,mm day-1,7
+09279_Dingolfing-Landau,0.39359283447265625,RRm,sem,precipitation,mm day-1,10
+09361_09371_Region_um_Amberg,0.44024205207824707,RRm,sem,precipitation,mm day-1,1
+09361_09371_Region_um_Amberg,0.3853886127471924,RRm,sem,precipitation,mm day-1,4
+09361_09371_Region_um_Amberg,0.5936336517333984,RRm,sem,precipitation,mm day-1,7
+09361_09371_Region_um_Amberg,0.37111854553222656,RRm,sem,precipitation,mm day-1,10
+09361_Amberg,0.4404447078704834,RRm,sem,precipitation,mm day-1,1
+09361_Amberg,0.4208219051361084,RRm,sem,precipitation,mm day-1,4
+09361_Amberg,0.5364677906036377,RRm,sem,precipitation,mm day-1,7
+09361_Amberg,0.4001445770263672,RRm,sem,precipitation,mm day-1,10
+09362_09375_Region_um_Regensburg,0.33272993564605713,RRm,sem,precipitation,mm day-1,1
+09362_09375_Region_um_Regensburg,0.40770959854125977,RRm,sem,precipitation,mm day-1,4
+09362_09375_Region_um_Regensburg,0.6737911701202393,RRm,sem,precipitation,mm day-1,7
+09362_09375_Region_um_Regensburg,0.4521676301956177,RRm,sem,precipitation,mm day-1,10
+09362_Regensburg,0.34034645557403564,RRm,sem,precipitation,mm day-1,1
+09362_Regensburg,0.42543840408325195,RRm,sem,precipitation,mm day-1,4
+09362_Regensburg,0.7005736827850342,RRm,sem,precipitation,mm day-1,7
+09362_Regensburg,0.45063698291778564,RRm,sem,precipitation,mm day-1,10
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.44806718826293945,RRm,sem,precipitation,mm day-1,1
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.3792293071746826,RRm,sem,precipitation,mm day-1,4
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.637300968170166,RRm,sem,precipitation,mm day-1,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.37218379974365234,RRm,sem,precipitation,mm day-1,10
+09363_Weiden i.d. OPf.,0.43891048431396484,RRm,sem,precipitation,mm day-1,1
+09363_Weiden i.d. OPf.,0.44507741928100586,RRm,sem,precipitation,mm day-1,4
+09363_Weiden i.d. OPf.,0.6409275531768799,RRm,sem,precipitation,mm day-1,7
+09363_Weiden i.d. OPf.,0.3647608757019043,RRm,sem,precipitation,mm day-1,10
+09371_Amberg-Sulzbach,0.4402341842651367,RRm,sem,precipitation,mm day-1,1
+09371_Amberg-Sulzbach,0.3863246440887451,RRm,sem,precipitation,mm day-1,4
+09371_Amberg-Sulzbach,0.5960192680358887,RRm,sem,precipitation,mm day-1,7
+09371_Amberg-Sulzbach,0.3699069023132324,RRm,sem,precipitation,mm day-1,10
+09372_Cham,0.46793365478515625,RRm,sem,precipitation,mm day-1,1
+09372_Cham,0.5061125755310059,RRm,sem,precipitation,mm day-1,4
+09372_Cham,0.5972630977630615,RRm,sem,precipitation,mm day-1,7
+09372_Cham,0.4881100654602051,RRm,sem,precipitation,mm day-1,10
+09373_Neumarkt i.d. OPf.,0.40342187881469727,RRm,sem,precipitation,mm day-1,1
+09373_Neumarkt i.d. OPf.,0.4030947685241699,RRm,sem,precipitation,mm day-1,4
+09373_Neumarkt i.d. OPf.,0.5701045989990234,RRm,sem,precipitation,mm day-1,7
+09373_Neumarkt i.d. OPf.,0.41371774673461914,RRm,sem,precipitation,mm day-1,10
+09374_Neustadt a.d. Waldnaab,0.4485337734222412,RRm,sem,precipitation,mm day-1,1
+09374_Neustadt a.d. Waldnaab,0.37587881088256836,RRm,sem,precipitation,mm day-1,4
+09374_Neustadt a.d. Waldnaab,0.6371161937713623,RRm,sem,precipitation,mm day-1,7
+09374_Neustadt a.d. Waldnaab,0.3725619316101074,RRm,sem,precipitation,mm day-1,10
+09375_Regensburg,0.3331425189971924,RRm,sem,precipitation,mm day-1,1
+09375_Regensburg,0.40659475326538086,RRm,sem,precipitation,mm day-1,4
+09375_Regensburg,0.6721067428588867,RRm,sem,precipitation,mm day-1,7
+09375_Regensburg,0.4522639513015747,RRm,sem,precipitation,mm day-1,10
+09376_Schwandorf,0.3977189064025879,RRm,sem,precipitation,mm day-1,1
+09376_Schwandorf,0.42594051361083984,RRm,sem,precipitation,mm day-1,4
+09376_Schwandorf,0.5320768356323242,RRm,sem,precipitation,mm day-1,7
+09376_Schwandorf,0.4753924608230591,RRm,sem,precipitation,mm day-1,10
+09377_Tirschenreuth,0.44576549530029297,RRm,sem,precipitation,mm day-1,1
+09377_Tirschenreuth,0.43888020515441895,RRm,sem,precipitation,mm day-1,4
+09377_Tirschenreuth,0.6240594387054443,RRm,sem,precipitation,mm day-1,7
+09377_Tirschenreuth,0.3670315742492676,RRm,sem,precipitation,mm day-1,10
+09461_09471_Region_um_Bamberg,0.4806140661239624,RRm,sem,precipitation,mm day-1,1
+09461_09471_Region_um_Bamberg,0.47022199630737305,RRm,sem,precipitation,mm day-1,4
+09461_09471_Region_um_Bamberg,0.6538739204406738,RRm,sem,precipitation,mm day-1,7
+09461_09471_Region_um_Bamberg,0.3878147602081299,RRm,sem,precipitation,mm day-1,10
+09461_Bamberg,0.5030598640441895,RRm,sem,precipitation,mm day-1,1
+09461_Bamberg,0.5172915458679199,RRm,sem,precipitation,mm day-1,4
+09461_Bamberg,0.6551275253295898,RRm,sem,precipitation,mm day-1,7
+09461_Bamberg,0.43897080421447754,RRm,sem,precipitation,mm day-1,10
+09462_09472_Region_um_Bayreuth,0.5024657249450684,RRm,sem,precipitation,mm day-1,1
+09462_09472_Region_um_Bayreuth,0.4174807071685791,RRm,sem,precipitation,mm day-1,4
+09462_09472_Region_um_Bayreuth,0.7664635181427002,RRm,sem,precipitation,mm day-1,7
+09462_09472_Region_um_Bayreuth,0.416400671005249,RRm,sem,precipitation,mm day-1,10
+09462_Bayreuth,0.4682185649871826,RRm,sem,precipitation,mm day-1,1
+09462_Bayreuth,0.3962371349334717,RRm,sem,precipitation,mm day-1,4
+09462_Bayreuth,0.7587244510650635,RRm,sem,precipitation,mm day-1,7
+09462_Bayreuth,0.48491811752319336,RRm,sem,precipitation,mm day-1,10
+09463_09473_Region_um_Coburg,0.5744376182556152,RRm,sem,precipitation,mm day-1,1
+09463_09473_Region_um_Coburg,0.4949212074279785,RRm,sem,precipitation,mm day-1,4
+09463_09473_Region_um_Coburg,0.6708886623382568,RRm,sem,precipitation,mm day-1,7
+09463_09473_Region_um_Coburg,0.45911192893981934,RRm,sem,precipitation,mm day-1,10
+09463_Coburg,0.5945234298706055,RRm,sem,precipitation,mm day-1,1
+09463_Coburg,0.46077609062194824,RRm,sem,precipitation,mm day-1,4
+09463_Coburg,0.6340587139129639,RRm,sem,precipitation,mm day-1,7
+09463_Coburg,0.47205400466918945,RRm,sem,precipitation,mm day-1,10
+09464_09475_Region_um_Hof,0.4255337715148926,RRm,sem,precipitation,mm day-1,1
+09464_09475_Region_um_Hof,0.4900071620941162,RRm,sem,precipitation,mm day-1,4
+09464_09475_Region_um_Hof,0.6634836196899414,RRm,sem,precipitation,mm day-1,7
+09464_09475_Region_um_Hof,0.39214658737182617,RRm,sem,precipitation,mm day-1,10
+09464_Hof,0.369204044342041,RRm,sem,precipitation,mm day-1,1
+09464_Hof,0.5030431747436523,RRm,sem,precipitation,mm day-1,4
+09464_Hof,0.5969460010528564,RRm,sem,precipitation,mm day-1,7
+09464_Hof,0.35212552547454834,RRm,sem,precipitation,mm day-1,10
+09471_Bamberg,0.47950685024261475,RRm,sem,precipitation,mm day-1,1
+09471_Bamberg,0.4678986072540283,RRm,sem,precipitation,mm day-1,4
+09471_Bamberg,0.6538114547729492,RRm,sem,precipitation,mm day-1,7
+09471_Bamberg,0.38846755027770996,RRm,sem,precipitation,mm day-1,10
+09472_Bayreuth,0.5050773620605469,RRm,sem,precipitation,mm day-1,1
+09472_Bayreuth,0.4198567867279053,RRm,sem,precipitation,mm day-1,4
+09472_Bayreuth,0.7668914794921875,RRm,sem,precipitation,mm day-1,7
+09472_Bayreuth,0.4149782657623291,RRm,sem,precipitation,mm day-1,10
+09473_Coburg,0.5729546546936035,RRm,sem,precipitation,mm day-1,1
+09473_Coburg,0.49744176864624023,RRm,sem,precipitation,mm day-1,4
+09473_Coburg,0.6736066341400146,RRm,sem,precipitation,mm day-1,7
+09473_Coburg,0.4581565856933594,RRm,sem,precipitation,mm day-1,10
+09474_Forchheim,0.48343968391418457,RRm,sem,precipitation,mm day-1,1
+09474_Forchheim,0.6135673522949219,RRm,sem,precipitation,mm day-1,4
+09474_Forchheim,0.7201271057128906,RRm,sem,precipitation,mm day-1,7
+09474_Forchheim,0.4697916507720947,RRm,sem,precipitation,mm day-1,10
+09475_Hof,0.4291675090789795,RRm,sem,precipitation,mm day-1,1
+09475_Hof,0.48917102813720703,RRm,sem,precipitation,mm day-1,4
+09475_Hof,0.6677498817443848,RRm,sem,precipitation,mm day-1,7
+09475_Hof,0.3947117328643799,RRm,sem,precipitation,mm day-1,10
+09476_Kronach,0.47809338569641113,RRm,sem,precipitation,mm day-1,1
+09476_Kronach,0.612391471862793,RRm,sem,precipitation,mm day-1,4
+09476_Kronach,0.7431492805480957,RRm,sem,precipitation,mm day-1,7
+09476_Kronach,0.48956775665283203,RRm,sem,precipitation,mm day-1,10
+09477_Kulmbach,0.6105592250823975,RRm,sem,precipitation,mm day-1,1
+09477_Kulmbach,0.6093406677246094,RRm,sem,precipitation,mm day-1,4
+09477_Kulmbach,0.740790843963623,RRm,sem,precipitation,mm day-1,7
+09477_Kulmbach,0.45104312896728516,RRm,sem,precipitation,mm day-1,10
+09478_Lichtenfels,0.5508673191070557,RRm,sem,precipitation,mm day-1,1
+09478_Lichtenfels,0.4607822895050049,RRm,sem,precipitation,mm day-1,4
+09478_Lichtenfels,0.7020936012268066,RRm,sem,precipitation,mm day-1,7
+09478_Lichtenfels,0.39636874198913574,RRm,sem,precipitation,mm day-1,10
+09479_Wunsiedel i. Fichtelgebirge,0.48703598976135254,RRm,sem,precipitation,mm day-1,1
+09479_Wunsiedel i. Fichtelgebirge,0.4927818775177002,RRm,sem,precipitation,mm day-1,4
+09479_Wunsiedel i. Fichtelgebirge,0.6324222087860107,RRm,sem,precipitation,mm day-1,7
+09479_Wunsiedel i. Fichtelgebirge,0.4038522243499756,RRm,sem,precipitation,mm day-1,10
+09561_09571_Region_um_Ansbach,0.3766183853149414,RRm,sem,precipitation,mm day-1,1
+09561_09571_Region_um_Ansbach,0.5015034675598145,RRm,sem,precipitation,mm day-1,4
+09561_09571_Region_um_Ansbach,0.5316851139068604,RRm,sem,precipitation,mm day-1,7
+09561_09571_Region_um_Ansbach,0.3698543310165405,RRm,sem,precipitation,mm day-1,10
+09561_Ansbach,0.38828611373901367,RRm,sem,precipitation,mm day-1,1
+09561_Ansbach,0.48946547508239746,RRm,sem,precipitation,mm day-1,4
+09561_Ansbach,0.5179646015167236,RRm,sem,precipitation,mm day-1,7
+09561_Ansbach,0.36042845249176025,RRm,sem,precipitation,mm day-1,10
+09562_09572_09564_09563_Region_um_Erlangen,0.4547567367553711,RRm,sem,precipitation,mm day-1,1
+09562_09572_09564_09563_Region_um_Erlangen,0.4067654609680176,RRm,sem,precipitation,mm day-1,4
+09562_09572_09564_09563_Region_um_Erlangen,0.5647945404052734,RRm,sem,precipitation,mm day-1,7
+09562_09572_09564_09563_Region_um_Erlangen,0.39398717880249023,RRm,sem,precipitation,mm day-1,10
+09562_Erlangen,0.4398660659790039,RRm,sem,precipitation,mm day-1,1
+09562_Erlangen,0.44057679176330566,RRm,sem,precipitation,mm day-1,4
+09562_Erlangen,0.5858809947967529,RRm,sem,precipitation,mm day-1,7
+09562_Erlangen,0.4155871868133545,RRm,sem,precipitation,mm day-1,10
+09563_09573_09562_09564_Region_um_Fürth,0.46991825103759766,RRm,sem,precipitation,mm day-1,1
+09563_09573_09562_09564_Region_um_Fürth,0.4274148941040039,RRm,sem,precipitation,mm day-1,4
+09563_09573_09562_09564_Region_um_Fürth,0.5657589435577393,RRm,sem,precipitation,mm day-1,7
+09563_09573_09562_09564_Region_um_Fürth,0.36643385887145996,RRm,sem,precipitation,mm day-1,10
+09563_Fürth,0.4735276699066162,RRm,sem,precipitation,mm day-1,1
+09563_Fürth,0.42552900314331055,RRm,sem,precipitation,mm day-1,4
+09563_Fürth,0.5639138221740723,RRm,sem,precipitation,mm day-1,7
+09563_Fürth,0.3743703365325928,RRm,sem,precipitation,mm day-1,10
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.44035208225250244,RRm,sem,precipitation,mm day-1,1
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.4259822368621826,RRm,sem,precipitation,mm day-1,4
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.5737996101379395,RRm,sem,precipitation,mm day-1,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.3847627639770508,RRm,sem,precipitation,mm day-1,10
+09564_Nürnberg,0.5017976760864258,RRm,sem,precipitation,mm day-1,1
+09564_Nürnberg,0.4479494094848633,RRm,sem,precipitation,mm day-1,4
+09564_Nürnberg,0.5776271820068359,RRm,sem,precipitation,mm day-1,7
+09564_Nürnberg,0.4634833335876465,RRm,sem,precipitation,mm day-1,10
+09565_09576_09564_Region_um_Schwabach,0.4375340938568115,RRm,sem,precipitation,mm day-1,1
+09565_09576_09564_Region_um_Schwabach,0.4569575786590576,RRm,sem,precipitation,mm day-1,4
+09565_09576_09564_Region_um_Schwabach,0.5596487522125244,RRm,sem,precipitation,mm day-1,7
+09565_09576_09564_Region_um_Schwabach,0.3712782859802246,RRm,sem,precipitation,mm day-1,10
+09565_Schwabach,0.4896056652069092,RRm,sem,precipitation,mm day-1,1
+09565_Schwabach,0.46418190002441406,RRm,sem,precipitation,mm day-1,4
+09565_Schwabach,0.5716214179992676,RRm,sem,precipitation,mm day-1,7
+09565_Schwabach,0.4225914478302002,RRm,sem,precipitation,mm day-1,10
+09571_Ansbach,0.37784576416015625,RRm,sem,precipitation,mm day-1,1
+09571_Ansbach,0.5021562576293945,RRm,sem,precipitation,mm day-1,4
+09571_Ansbach,0.5324287414550781,RRm,sem,precipitation,mm day-1,7
+09571_Ansbach,0.3703652620315552,RRm,sem,precipitation,mm day-1,10
+09572_Erlangen-Höchstadt,0.44003260135650635,RRm,sem,precipitation,mm day-1,1
+09572_Erlangen-Höchstadt,0.39244818687438965,RRm,sem,precipitation,mm day-1,4
+09572_Erlangen-Höchstadt,0.5637428760528564,RRm,sem,precipitation,mm day-1,7
+09572_Erlangen-Höchstadt,0.40254127979278564,RRm,sem,precipitation,mm day-1,10
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.40782666206359863,RRm,sem,precipitation,mm day-1,1
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.436570405960083,RRm,sem,precipitation,mm day-1,4
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.5235824584960938,RRm,sem,precipitation,mm day-1,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.38201022148132324,RRm,sem,precipitation,mm day-1,10
+09573_Fürth,0.4583108425140381,RRm,sem,precipitation,mm day-1,1
+09573_Fürth,0.42238497734069824,RRm,sem,precipitation,mm day-1,4
+09573_Fürth,0.5838661193847656,RRm,sem,precipitation,mm day-1,7
+09573_Fürth,0.3533163070678711,RRm,sem,precipitation,mm day-1,10
+09574_Nürnberger Land,0.457444429397583,RRm,sem,precipitation,mm day-1,1
+09574_Nürnberger Land,0.4578700065612793,RRm,sem,precipitation,mm day-1,4
+09574_Nürnberger Land,0.6849124431610107,RRm,sem,precipitation,mm day-1,7
+09574_Nürnberger Land,0.48708629608154297,RRm,sem,precipitation,mm day-1,10
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.40064406394958496,RRm,sem,precipitation,mm day-1,1
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.4059518575668335,RRm,sem,precipitation,mm day-1,4
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.46808528900146484,RRm,sem,precipitation,mm day-1,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.3953397274017334,RRm,sem,precipitation,mm day-1,10
+09576_Roth,0.4222222566604614,RRm,sem,precipitation,mm day-1,1
+09576_Roth,0.46175503730773926,RRm,sem,precipitation,mm day-1,4
+09576_Roth,0.5612852573394775,RRm,sem,precipitation,mm day-1,7
+09576_Roth,0.3722972869873047,RRm,sem,precipitation,mm day-1,10
+09577_Weißenburg-Gunzenhausen,0.36754047870635986,RRm,sem,precipitation,mm day-1,1
+09577_Weißenburg-Gunzenhausen,0.5071682929992676,RRm,sem,precipitation,mm day-1,4
+09577_Weißenburg-Gunzenhausen,0.6128051280975342,RRm,sem,precipitation,mm day-1,7
+09577_Weißenburg-Gunzenhausen,0.42232584953308105,RRm,sem,precipitation,mm day-1,10
+09661_09671_09676_Region_um_Aschaffenburg,0.5549643039703369,RRm,sem,precipitation,mm day-1,1
+09661_09671_09676_Region_um_Aschaffenburg,0.4327852725982666,RRm,sem,precipitation,mm day-1,4
+09661_09671_09676_Region_um_Aschaffenburg,0.41825151443481445,RRm,sem,precipitation,mm day-1,7
+09661_09671_09676_Region_um_Aschaffenburg,0.49741530418395996,RRm,sem,precipitation,mm day-1,10
+09661_Aschaffenburg,0.6651127338409424,RRm,sem,precipitation,mm day-1,1
+09661_Aschaffenburg,0.4480478763580322,RRm,sem,precipitation,mm day-1,4
+09661_Aschaffenburg,0.4358546733856201,RRm,sem,precipitation,mm day-1,7
+09661_Aschaffenburg,0.5917599201202393,RRm,sem,precipitation,mm day-1,10
+09662_09678_Region_um_Schweinfurt,0.41286802291870117,RRm,sem,precipitation,mm day-1,1
+09662_09678_Region_um_Schweinfurt,0.37024569511413574,RRm,sem,precipitation,mm day-1,4
+09662_09678_Region_um_Schweinfurt,0.4998774528503418,RRm,sem,precipitation,mm day-1,7
+09662_09678_Region_um_Schweinfurt,0.3511373996734619,RRm,sem,precipitation,mm day-1,10
+09662_Schweinfurt,0.42823314666748047,RRm,sem,precipitation,mm day-1,1
+09662_Schweinfurt,0.3905045986175537,RRm,sem,precipitation,mm day-1,4
+09662_Schweinfurt,0.4929947853088379,RRm,sem,precipitation,mm day-1,7
+09662_Schweinfurt,0.34523773193359375,RRm,sem,precipitation,mm day-1,10
+09663_09679_Region_um_Würzburg,0.40315914154052734,RRm,sem,precipitation,mm day-1,1
+09663_09679_Region_um_Würzburg,0.3487241268157959,RRm,sem,precipitation,mm day-1,4
+09663_09679_Region_um_Würzburg,0.43645215034484863,RRm,sem,precipitation,mm day-1,7
+09663_09679_Region_um_Würzburg,0.37018656730651855,RRm,sem,precipitation,mm day-1,10
+09663_Würzburg,0.38831067085266113,RRm,sem,precipitation,mm day-1,1
+09663_Würzburg,0.3579217195510864,RRm,sem,precipitation,mm day-1,4
+09663_Würzburg,0.45559167861938477,RRm,sem,precipitation,mm day-1,7
+09663_Würzburg,0.3969475030899048,RRm,sem,precipitation,mm day-1,10
+09671_Aschaffenburg,0.6392862796783447,RRm,sem,precipitation,mm day-1,1
+09671_Aschaffenburg,0.42957067489624023,RRm,sem,precipitation,mm day-1,4
+09671_Aschaffenburg,0.4858379364013672,RRm,sem,precipitation,mm day-1,7
+09671_Aschaffenburg,0.5477390289306641,RRm,sem,precipitation,mm day-1,10
+09672_Bad Kissingen,0.48129868507385254,RRm,sem,precipitation,mm day-1,1
+09672_Bad Kissingen,0.44344544410705566,RRm,sem,precipitation,mm day-1,4
+09672_Bad Kissingen,0.49478745460510254,RRm,sem,precipitation,mm day-1,7
+09672_Bad Kissingen,0.31143951416015625,RRm,sem,precipitation,mm day-1,10
+09673_Rhön-Grabfeld,0.43320655822753906,RRm,sem,precipitation,mm day-1,1
+09673_Rhön-Grabfeld,0.4494342803955078,RRm,sem,precipitation,mm day-1,4
+09673_Rhön-Grabfeld,0.5751707553863525,RRm,sem,precipitation,mm day-1,7
+09673_Rhön-Grabfeld,0.3110157251358032,RRm,sem,precipitation,mm day-1,10
+09674_Haßberge,0.41959547996520996,RRm,sem,precipitation,mm day-1,1
+09674_Haßberge,0.38245856761932373,RRm,sem,precipitation,mm day-1,4
+09674_Haßberge,0.6259510517120361,RRm,sem,precipitation,mm day-1,7
+09674_Haßberge,0.3458824157714844,RRm,sem,precipitation,mm day-1,10
+09675_Kitzingen,0.42530786991119385,RRm,sem,precipitation,mm day-1,1
+09675_Kitzingen,0.3896470069885254,RRm,sem,precipitation,mm day-1,4
+09675_Kitzingen,0.46140503883361816,RRm,sem,precipitation,mm day-1,7
+09675_Kitzingen,0.41701602935791016,RRm,sem,precipitation,mm day-1,10
+09676_Miltenberg,0.4855189323425293,RRm,sem,precipitation,mm day-1,1
+09676_Miltenberg,0.4414956569671631,RRm,sem,precipitation,mm day-1,4
+09676_Miltenberg,0.35212206840515137,RRm,sem,precipitation,mm day-1,7
+09676_Miltenberg,0.44060325622558594,RRm,sem,precipitation,mm day-1,10
+09677_Main-Spessart,0.480410099029541,RRm,sem,precipitation,mm day-1,1
+09677_Main-Spessart,0.43757033348083496,RRm,sem,precipitation,mm day-1,4
+09677_Main-Spessart,0.42726802825927734,RRm,sem,precipitation,mm day-1,7
+09677_Main-Spessart,0.3237302303314209,RRm,sem,precipitation,mm day-1,10
+09678_Schweinfurt,0.41220593452453613,RRm,sem,precipitation,mm day-1,1
+09678_Schweinfurt,0.3701612949371338,RRm,sem,precipitation,mm day-1,4
+09678_Schweinfurt,0.5001745223999023,RRm,sem,precipitation,mm day-1,7
+09678_Schweinfurt,0.3513908386230469,RRm,sem,precipitation,mm day-1,10
+09679_Würzburg,0.4047684669494629,RRm,sem,precipitation,mm day-1,1
+09679_Würzburg,0.34939444065093994,RRm,sem,precipitation,mm day-1,4
+09679_Würzburg,0.43450331687927246,RRm,sem,precipitation,mm day-1,7
+09679_Würzburg,0.36746251583099365,RRm,sem,precipitation,mm day-1,10
+09761_09772_09771_Region_um_Augsburg,0.49249696731567383,RRm,sem,precipitation,mm day-1,1
+09761_09772_09771_Region_um_Augsburg,0.5700488090515137,RRm,sem,precipitation,mm day-1,4
+09761_09772_09771_Region_um_Augsburg,0.514693021774292,RRm,sem,precipitation,mm day-1,7
+09761_09772_09771_Region_um_Augsburg,0.5253028869628906,RRm,sem,precipitation,mm day-1,10
+09761_Augsburg,0.49964284896850586,RRm,sem,precipitation,mm day-1,1
+09761_Augsburg,0.5706577301025391,RRm,sem,precipitation,mm day-1,4
+09761_Augsburg,0.5453550815582275,RRm,sem,precipitation,mm day-1,7
+09761_Augsburg,0.5506631135940552,RRm,sem,precipitation,mm day-1,10
+09762_09777_Region_um_Kaufbeuren,0.7407548427581787,RRm,sem,precipitation,mm day-1,1
+09762_09777_Region_um_Kaufbeuren,0.7105870246887207,RRm,sem,precipitation,mm day-1,4
+09762_09777_Region_um_Kaufbeuren,0.6098628044128418,RRm,sem,precipitation,mm day-1,7
+09762_09777_Region_um_Kaufbeuren,0.5350377559661865,RRm,sem,precipitation,mm day-1,10
+09762_Kaufbeuren,0.5980560779571533,RRm,sem,precipitation,mm day-1,1
+09762_Kaufbeuren,0.6952164173126221,RRm,sem,precipitation,mm day-1,4
+09762_Kaufbeuren,0.7278509140014648,RRm,sem,precipitation,mm day-1,7
+09762_Kaufbeuren,0.5515544414520264,RRm,sem,precipitation,mm day-1,10
+09763_09780_Region_um_Kempten_(Allgäu),1.1245598793029785,RRm,sem,precipitation,mm day-1,1
+09763_09780_Region_um_Kempten_(Allgäu),1.042057991027832,RRm,sem,precipitation,mm day-1,4
+09763_09780_Region_um_Kempten_(Allgäu),0.7152090072631836,RRm,sem,precipitation,mm day-1,7
+09763_09780_Region_um_Kempten_(Allgäu),1.0700435638427734,RRm,sem,precipitation,mm day-1,10
+09763_Kempten (Allgäu),0.8393216133117676,RRm,sem,precipitation,mm day-1,1
+09763_Kempten (Allgäu),0.829230785369873,RRm,sem,precipitation,mm day-1,4
+09763_Kempten (Allgäu),0.7180304527282715,RRm,sem,precipitation,mm day-1,7
+09763_Kempten (Allgäu),0.6769487857818604,RRm,sem,precipitation,mm day-1,10
+09764_09778_08436_Region_um_Memmingen,0.6704483032226562,RRm,sem,precipitation,mm day-1,1
+09764_09778_08436_Region_um_Memmingen,0.7968595027923584,RRm,sem,precipitation,mm day-1,4
+09764_09778_08436_Region_um_Memmingen,0.6569252014160156,RRm,sem,precipitation,mm day-1,7
+09764_09778_08436_Region_um_Memmingen,0.6165831089019775,RRm,sem,precipitation,mm day-1,10
+09764_Memmingen,0.6324901580810547,RRm,sem,precipitation,mm day-1,1
+09764_Memmingen,0.7668964862823486,RRm,sem,precipitation,mm day-1,4
+09764_Memmingen,0.7405674457550049,RRm,sem,precipitation,mm day-1,7
+09764_Memmingen,0.6003472805023193,RRm,sem,precipitation,mm day-1,10
+09771_Aichach-Friedberg,0.4802985191345215,RRm,sem,precipitation,mm day-1,1
+09771_Aichach-Friedberg,0.5419285297393799,RRm,sem,precipitation,mm day-1,4
+09771_Aichach-Friedberg,0.5636441707611084,RRm,sem,precipitation,mm day-1,7
+09771_Aichach-Friedberg,0.5281596183776855,RRm,sem,precipitation,mm day-1,10
+09772_Augsburg,0.5002748966217041,RRm,sem,precipitation,mm day-1,1
+09772_Augsburg,0.5901892185211182,RRm,sem,precipitation,mm day-1,4
+09772_Augsburg,0.5538160800933838,RRm,sem,precipitation,mm day-1,7
+09772_Augsburg,0.5197165012359619,RRm,sem,precipitation,mm day-1,10
+09773_Dillingen a.d. Donau,0.4102897644042969,RRm,sem,precipitation,mm day-1,1
+09773_Dillingen a.d. Donau,0.5186882019042969,RRm,sem,precipitation,mm day-1,4
+09773_Dillingen a.d. Donau,0.5887818336486816,RRm,sem,precipitation,mm day-1,7
+09773_Dillingen a.d. Donau,0.4863690137863159,RRm,sem,precipitation,mm day-1,10
+09774_Günzburg,0.46819210052490234,RRm,sem,precipitation,mm day-1,1
+09774_Günzburg,0.5870509147644043,RRm,sem,precipitation,mm day-1,4
+09774_Günzburg,0.6019353866577148,RRm,sem,precipitation,mm day-1,7
+09774_Günzburg,0.48693299293518066,RRm,sem,precipitation,mm day-1,10
+09775_Neu-Ulm,0.43719029426574707,RRm,sem,precipitation,mm day-1,1
+09775_Neu-Ulm,0.6167879104614258,RRm,sem,precipitation,mm day-1,4
+09775_Neu-Ulm,0.648754358291626,RRm,sem,precipitation,mm day-1,7
+09775_Neu-Ulm,0.47460901737213135,RRm,sem,precipitation,mm day-1,10
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.8687896728515625,RRm,sem,precipitation,mm day-1,1
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.8928403854370117,RRm,sem,precipitation,mm day-1,4
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.6398720741271973,RRm,sem,precipitation,mm day-1,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.7263507843017578,RRm,sem,precipitation,mm day-1,10
+09776_Lindau (Bodensee),1.594101905822754,RRm,sem,precipitation,mm day-1,1
+09776_Lindau (Bodensee),1.2931175231933594,RRm,sem,precipitation,mm day-1,4
+09776_Lindau (Bodensee),0.7892165184020996,RRm,sem,precipitation,mm day-1,7
+09776_Lindau (Bodensee),1.3422517776489258,RRm,sem,precipitation,mm day-1,10
+09777_Ostallgäu,0.745168924331665,RRm,sem,precipitation,mm day-1,1
+09777_Ostallgäu,0.7137641906738281,RRm,sem,precipitation,mm day-1,4
+09777_Ostallgäu,0.6086282730102539,RRm,sem,precipitation,mm day-1,7
+09777_Ostallgäu,0.5345265865325928,RRm,sem,precipitation,mm day-1,10
+09778_Unterallgäu,0.5899505615234375,RRm,sem,precipitation,mm day-1,1
+09778_Unterallgäu,0.7717573642730713,RRm,sem,precipitation,mm day-1,4
+09778_Unterallgäu,0.7204599380493164,RRm,sem,precipitation,mm day-1,7
+09778_Unterallgäu,0.5505657196044922,RRm,sem,precipitation,mm day-1,10
+09779_Donau-Ries,0.3898848295211792,RRm,sem,precipitation,mm day-1,1
+09779_Donau-Ries,0.5068817138671875,RRm,sem,precipitation,mm day-1,4
+09779_Donau-Ries,0.6322970390319824,RRm,sem,precipitation,mm day-1,7
+09779_Donau-Ries,0.436551570892334,RRm,sem,precipitation,mm day-1,10
+09780_Oberallgäu,1.1370725631713867,RRm,sem,precipitation,mm day-1,1
+09780_Oberallgäu,1.0513944625854492,RRm,sem,precipitation,mm day-1,4
+09780_Oberallgäu,0.715083122253418,RRm,sem,precipitation,mm day-1,7
+09780_Oberallgäu,1.088646411895752,RRm,sem,precipitation,mm day-1,10
+10041_Regionalverband Saarbrücken,0.6436715126037598,RRm,sem,precipitation,mm day-1,1
+10041_Regionalverband Saarbrücken,0.5161614418029785,RRm,sem,precipitation,mm day-1,4
+10041_Regionalverband Saarbrücken,0.4188070297241211,RRm,sem,precipitation,mm day-1,7
+10041_Regionalverband Saarbrücken,0.34720873832702637,RRm,sem,precipitation,mm day-1,10
+10042_Merzig-Wadern,0.8096303939819336,RRm,sem,precipitation,mm day-1,1
+10042_Merzig-Wadern,0.5435647964477539,RRm,sem,precipitation,mm day-1,4
+10042_Merzig-Wadern,0.45971179008483887,RRm,sem,precipitation,mm day-1,7
+10042_Merzig-Wadern,0.3885467052459717,RRm,sem,precipitation,mm day-1,10
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.6018905639648438,RRm,sem,precipitation,mm day-1,1
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.5212938785552979,RRm,sem,precipitation,mm day-1,4
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.3947272300720215,RRm,sem,precipitation,mm day-1,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.36890459060668945,RRm,sem,precipitation,mm day-1,10
+10043_Neunkirchen,0.6958186626434326,RRm,sem,precipitation,mm day-1,1
+10043_Neunkirchen,0.5208289623260498,RRm,sem,precipitation,mm day-1,4
+10043_Neunkirchen,0.4116849899291992,RRm,sem,precipitation,mm day-1,7
+10043_Neunkirchen,0.39444494247436523,RRm,sem,precipitation,mm day-1,10
+10044_Saarlouis,0.6511440277099609,RRm,sem,precipitation,mm day-1,1
+10044_Saarlouis,0.5012190341949463,RRm,sem,precipitation,mm day-1,4
+10044_Saarlouis,0.4036378860473633,RRm,sem,precipitation,mm day-1,7
+10044_Saarlouis,0.3799469470977783,RRm,sem,precipitation,mm day-1,10
+10045_Saarpfalz-Kreis,0.6727390289306641,RRm,sem,precipitation,mm day-1,1
+10045_Saarpfalz-Kreis,0.5804407596588135,RRm,sem,precipitation,mm day-1,4
+10045_Saarpfalz-Kreis,0.40259456634521484,RRm,sem,precipitation,mm day-1,7
+10045_Saarpfalz-Kreis,0.4014394283294678,RRm,sem,precipitation,mm day-1,10
+10046_St. Wendel,0.7325024604797363,RRm,sem,precipitation,mm day-1,1
+10046_St. Wendel,0.536902904510498,RRm,sem,precipitation,mm day-1,4
+10046_St. Wendel,0.4903402328491211,RRm,sem,precipitation,mm day-1,7
+10046_St. Wendel,0.4199845790863037,RRm,sem,precipitation,mm day-1,10
+11000_Berlin,0.28919339179992676,RRm,sem,precipitation,mm day-1,1
+11000_Berlin,0.4638845920562744,RRm,sem,precipitation,mm day-1,4
+11000_Berlin,0.48115062713623047,RRm,sem,precipitation,mm day-1,7
+11000_Berlin,0.30025553703308105,RRm,sem,precipitation,mm day-1,10
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.2725008726119995,RRm,sem,precipitation,mm day-1,1
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.48522257804870605,RRm,sem,precipitation,mm day-1,4
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.5450531244277954,RRm,sem,precipitation,mm day-1,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.2409285306930542,RRm,sem,precipitation,mm day-1,10
+12051_Brandenburg an der Havel,0.27948057651519775,RRm,sem,precipitation,mm day-1,1
+12051_Brandenburg an der Havel,0.4593505859375,RRm,sem,precipitation,mm day-1,4
+12051_Brandenburg an der Havel,0.6207983493804932,RRm,sem,precipitation,mm day-1,7
+12051_Brandenburg an der Havel,0.2565746307373047,RRm,sem,precipitation,mm day-1,10
+12052_12071_Region_um_Cottbus,0.2552986145019531,RRm,sem,precipitation,mm day-1,1
+12052_12071_Region_um_Cottbus,0.46386539936065674,RRm,sem,precipitation,mm day-1,4
+12052_12071_Region_um_Cottbus,0.569360613822937,RRm,sem,precipitation,mm day-1,7
+12052_12071_Region_um_Cottbus,0.26190614700317383,RRm,sem,precipitation,mm day-1,10
+12052_Cottbus,0.2743804454803467,RRm,sem,precipitation,mm day-1,1
+12052_Cottbus,0.4615199565887451,RRm,sem,precipitation,mm day-1,4
+12052_Cottbus,0.5584594011306763,RRm,sem,precipitation,mm day-1,7
+12052_Cottbus,0.2538177967071533,RRm,sem,precipitation,mm day-1,10
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.254960298538208,RRm,sem,precipitation,mm day-1,1
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.47829747200012207,RRm,sem,precipitation,mm day-1,4
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.505300760269165,RRm,sem,precipitation,mm day-1,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.2630462646484375,RRm,sem,precipitation,mm day-1,10
+12053_Frankfurt (Oder),0.27318596839904785,RRm,sem,precipitation,mm day-1,1
+12053_Frankfurt (Oder),0.4615199565887451,RRm,sem,precipitation,mm day-1,4
+12053_Frankfurt (Oder),0.5335714817047119,RRm,sem,precipitation,mm day-1,7
+12053_Frankfurt (Oder),0.30760324001312256,RRm,sem,precipitation,mm day-1,10
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.27284717559814453,RRm,sem,precipitation,mm day-1,1
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.4809567928314209,RRm,sem,precipitation,mm day-1,4
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.5277942419052124,RRm,sem,precipitation,mm day-1,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.250216007232666,RRm,sem,precipitation,mm day-1,10
+12054_Potsdam,0.2836185693740845,RRm,sem,precipitation,mm day-1,1
+12054_Potsdam,0.45842957496643066,RRm,sem,precipitation,mm day-1,4
+12054_Potsdam,0.4864790439605713,RRm,sem,precipitation,mm day-1,7
+12054_Potsdam,0.27102184295654297,RRm,sem,precipitation,mm day-1,10
+12060_Barnim,0.320145845413208,RRm,sem,precipitation,mm day-1,1
+12060_Barnim,0.5461875200271606,RRm,sem,precipitation,mm day-1,4
+12060_Barnim,0.5098562240600586,RRm,sem,precipitation,mm day-1,7
+12060_Barnim,0.2510777711868286,RRm,sem,precipitation,mm day-1,10
+12061_Dahme-Spreewald,0.23923170566558838,RRm,sem,precipitation,mm day-1,1
+12061_Dahme-Spreewald,0.44872748851776123,RRm,sem,precipitation,mm day-1,4
+12061_Dahme-Spreewald,0.4326251745223999,RRm,sem,precipitation,mm day-1,7
+12061_Dahme-Spreewald,0.28170299530029297,RRm,sem,precipitation,mm day-1,10
+12062_Elbe-Elster,0.2306506633758545,RRm,sem,precipitation,mm day-1,1
+12062_Elbe-Elster,0.4522334337234497,RRm,sem,precipitation,mm day-1,4
+12062_Elbe-Elster,0.40572452545166016,RRm,sem,precipitation,mm day-1,7
+12062_Elbe-Elster,0.2940605878829956,RRm,sem,precipitation,mm day-1,10
+12063_Havelland,0.29834485054016113,RRm,sem,precipitation,mm day-1,1
+12063_Havelland,0.45355308055877686,RRm,sem,precipitation,mm day-1,4
+12063_Havelland,0.5419485569000244,RRm,sem,precipitation,mm day-1,7
+12063_Havelland,0.2556830644607544,RRm,sem,precipitation,mm day-1,10
+12064_Märkisch-Oderland,0.2840759754180908,RRm,sem,precipitation,mm day-1,1
+12064_Märkisch-Oderland,0.5043827295303345,RRm,sem,precipitation,mm day-1,4
+12064_Märkisch-Oderland,0.5146186351776123,RRm,sem,precipitation,mm day-1,7
+12064_Märkisch-Oderland,0.2364894151687622,RRm,sem,precipitation,mm day-1,10
+12065_Oberhavel,0.3335869312286377,RRm,sem,precipitation,mm day-1,1
+12065_Oberhavel,0.507634162902832,RRm,sem,precipitation,mm day-1,4
+12065_Oberhavel,0.502052903175354,RRm,sem,precipitation,mm day-1,7
+12065_Oberhavel,0.27235889434814453,RRm,sem,precipitation,mm day-1,10
+12066_Oberspreewald-Lausitz,0.2560725212097168,RRm,sem,precipitation,mm day-1,1
+12066_Oberspreewald-Lausitz,0.4332609176635742,RRm,sem,precipitation,mm day-1,4
+12066_Oberspreewald-Lausitz,0.5037994384765625,RRm,sem,precipitation,mm day-1,7
+12066_Oberspreewald-Lausitz,0.28735649585723877,RRm,sem,precipitation,mm day-1,10
+12067_Oder-Spree,0.2553001642227173,RRm,sem,precipitation,mm day-1,1
+12067_Oder-Spree,0.4545825719833374,RRm,sem,precipitation,mm day-1,4
+12067_Oder-Spree,0.4945380687713623,RRm,sem,precipitation,mm day-1,7
+12067_Oder-Spree,0.2982749938964844,RRm,sem,precipitation,mm day-1,10
+12068_Ostprignitz-Ruppin,0.32300496101379395,RRm,sem,precipitation,mm day-1,1
+12068_Ostprignitz-Ruppin,0.4998314380645752,RRm,sem,precipitation,mm day-1,4
+12068_Ostprignitz-Ruppin,0.4581313133239746,RRm,sem,precipitation,mm day-1,7
+12068_Ostprignitz-Ruppin,0.2724703550338745,RRm,sem,precipitation,mm day-1,10
+12069_Potsdam-Mittelmark,0.26970481872558594,RRm,sem,precipitation,mm day-1,1
+12069_Potsdam-Mittelmark,0.5088350772857666,RRm,sem,precipitation,mm day-1,4
+12069_Potsdam-Mittelmark,0.5401110649108887,RRm,sem,precipitation,mm day-1,7
+12069_Potsdam-Mittelmark,0.2473292350769043,RRm,sem,precipitation,mm day-1,10
+12070_Prignitz,0.31223249435424805,RRm,sem,precipitation,mm day-1,1
+12070_Prignitz,0.5058157444000244,RRm,sem,precipitation,mm day-1,4
+12070_Prignitz,0.48146748542785645,RRm,sem,precipitation,mm day-1,7
+12070_Prignitz,0.32479357719421387,RRm,sem,precipitation,mm day-1,10
+12071_Spree-Neiße,0.25335049629211426,RRm,sem,precipitation,mm day-1,1
+12071_Spree-Neiße,0.4641050100326538,RRm,sem,precipitation,mm day-1,4
+12071_Spree-Neiße,0.570473313331604,RRm,sem,precipitation,mm day-1,7
+12071_Spree-Neiße,0.26388418674468994,RRm,sem,precipitation,mm day-1,10
+12072_Teltow-Fläming,0.26135849952697754,RRm,sem,precipitation,mm day-1,1
+12072_Teltow-Fläming,0.4878488779067993,RRm,sem,precipitation,mm day-1,4
+12072_Teltow-Fläming,0.42905259132385254,RRm,sem,precipitation,mm day-1,7
+12072_Teltow-Fläming,0.2694559097290039,RRm,sem,precipitation,mm day-1,10
+12073_Uckermark,0.2801663875579834,RRm,sem,precipitation,mm day-1,1
+12073_Uckermark,0.5283651351928711,RRm,sem,precipitation,mm day-1,4
+12073_Uckermark,0.5336146354675293,RRm,sem,precipitation,mm day-1,7
+12073_Uckermark,0.26402580738067627,RRm,sem,precipitation,mm day-1,10
+13003_13072_Region_um_Rostock,0.3580968379974365,RRm,sem,precipitation,mm day-1,1
+13003_13072_Region_um_Rostock,0.43619465827941895,RRm,sem,precipitation,mm day-1,4
+13003_13072_Region_um_Rostock,0.49971556663513184,RRm,sem,precipitation,mm day-1,7
+13003_13072_Region_um_Rostock,0.41983187198638916,RRm,sem,precipitation,mm day-1,10
+13003_Rostock,0.35738229751586914,RRm,sem,precipitation,mm day-1,1
+13003_Rostock,0.45790767669677734,RRm,sem,precipitation,mm day-1,4
+13003_Rostock,0.5326454639434814,RRm,sem,precipitation,mm day-1,7
+13003_Rostock,0.6714911460876465,RRm,sem,precipitation,mm day-1,10
+13004_13076_13074_Region_um_Schwerin,0.3170168399810791,RRm,sem,precipitation,mm day-1,1
+13004_13076_13074_Region_um_Schwerin,0.4436805248260498,RRm,sem,precipitation,mm day-1,4
+13004_13076_13074_Region_um_Schwerin,0.5344347953796387,RRm,sem,precipitation,mm day-1,7
+13004_13076_13074_Region_um_Schwerin,0.3259366750717163,RRm,sem,precipitation,mm day-1,10
+13004_Schwerin,0.3418698310852051,RRm,sem,precipitation,mm day-1,1
+13004_Schwerin,0.46483731269836426,RRm,sem,precipitation,mm day-1,4
+13004_Schwerin,0.5645718574523926,RRm,sem,precipitation,mm day-1,7
+13004_Schwerin,0.3391263484954834,RRm,sem,precipitation,mm day-1,10
+13071_Mecklenburgische Seenplatte,0.30280065536499023,RRm,sem,precipitation,mm day-1,1
+13071_Mecklenburgische Seenplatte,0.5054056644439697,RRm,sem,precipitation,mm day-1,4
+13071_Mecklenburgische Seenplatte,0.523648738861084,RRm,sem,precipitation,mm day-1,7
+13071_Mecklenburgische Seenplatte,0.2972472906112671,RRm,sem,precipitation,mm day-1,10
+13072_Rostock,0.35813403129577637,RRm,sem,precipitation,mm day-1,1
+13072_Rostock,0.4350705146789551,RRm,sem,precipitation,mm day-1,4
+13072_Rostock,0.49882960319519043,RRm,sem,precipitation,mm day-1,7
+13072_Rostock,0.4068005084991455,RRm,sem,precipitation,mm day-1,10
+13073_Vorpommern-Rügen,0.35885798931121826,RRm,sem,precipitation,mm day-1,1
+13073_Vorpommern-Rügen,0.48036932945251465,RRm,sem,precipitation,mm day-1,4
+13073_Vorpommern-Rügen,0.4552032947540283,RRm,sem,precipitation,mm day-1,7
+13073_Vorpommern-Rügen,0.56728196144104,RRm,sem,precipitation,mm day-1,10
+13074_Nordwestmecklenburg,0.37867116928100586,RRm,sem,precipitation,mm day-1,1
+13074_Nordwestmecklenburg,0.4685502052307129,RRm,sem,precipitation,mm day-1,4
+13074_Nordwestmecklenburg,0.5627856254577637,RRm,sem,precipitation,mm day-1,7
+13074_Nordwestmecklenburg,0.32316744327545166,RRm,sem,precipitation,mm day-1,10
+13075_Vorpommern-Greifswald,0.320703387260437,RRm,sem,precipitation,mm day-1,1
+13075_Vorpommern-Greifswald,0.5216290950775146,RRm,sem,precipitation,mm day-1,4
+13075_Vorpommern-Greifswald,0.5724947452545166,RRm,sem,precipitation,mm day-1,7
+13075_Vorpommern-Greifswald,0.32239723205566406,RRm,sem,precipitation,mm day-1,10
+13076_Ludwigslust-Parchim,0.29262804985046387,RRm,sem,precipitation,mm day-1,1
+13076_Ludwigslust-Parchim,0.4319918155670166,RRm,sem,precipitation,mm day-1,4
+13076_Ludwigslust-Parchim,0.5209457874298096,RRm,sem,precipitation,mm day-1,7
+13076_Ludwigslust-Parchim,0.32681500911712646,RRm,sem,precipitation,mm day-1,10
+14511_14524_14521_14522_Region_um_Chemnitz,0.4235866069793701,RRm,sem,precipitation,mm day-1,1
+14511_14524_14521_14522_Region_um_Chemnitz,0.544097900390625,RRm,sem,precipitation,mm day-1,4
+14511_14524_14521_14522_Region_um_Chemnitz,0.5569844245910645,RRm,sem,precipitation,mm day-1,7
+14511_14524_14521_14522_Region_um_Chemnitz,0.36530637741088867,RRm,sem,precipitation,mm day-1,10
+14511_Chemnitz,0.47058582305908203,RRm,sem,precipitation,mm day-1,1
+14511_Chemnitz,0.5408735275268555,RRm,sem,precipitation,mm day-1,4
+14511_Chemnitz,0.5770502090454102,RRm,sem,precipitation,mm day-1,7
+14511_Chemnitz,0.46290111541748047,RRm,sem,precipitation,mm day-1,10
+14521_Erzgebirgskreis,0.4921841621398926,RRm,sem,precipitation,mm day-1,1
+14521_Erzgebirgskreis,0.5184180736541748,RRm,sem,precipitation,mm day-1,4
+14521_Erzgebirgskreis,0.6367514133453369,RRm,sem,precipitation,mm day-1,7
+14521_Erzgebirgskreis,0.39879846572875977,RRm,sem,precipitation,mm day-1,10
+14522_Mittelsachsen,0.38437461853027344,RRm,sem,precipitation,mm day-1,1
+14522_Mittelsachsen,0.555781364440918,RRm,sem,precipitation,mm day-1,4
+14522_Mittelsachsen,0.5488708019256592,RRm,sem,precipitation,mm day-1,7
+14522_Mittelsachsen,0.3856678009033203,RRm,sem,precipitation,mm day-1,10
+14523_Vogtlandkreis,0.41852855682373047,RRm,sem,precipitation,mm day-1,1
+14523_Vogtlandkreis,0.5899085998535156,RRm,sem,precipitation,mm day-1,4
+14523_Vogtlandkreis,0.6457016468048096,RRm,sem,precipitation,mm day-1,7
+14523_Vogtlandkreis,0.4146747589111328,RRm,sem,precipitation,mm day-1,10
+14524_Zwickau,0.4273416996002197,RRm,sem,precipitation,mm day-1,1
+14524_Zwickau,0.5690393447875977,RRm,sem,precipitation,mm day-1,4
+14524_Zwickau,0.6518409252166748,RRm,sem,precipitation,mm day-1,7
+14524_Zwickau,0.5440371036529541,RRm,sem,precipitation,mm day-1,10
+14612_14627_14625_14628_Region_um_Dresden,0.31415843963623047,RRm,sem,precipitation,mm day-1,1
+14612_14627_14625_14628_Region_um_Dresden,0.4697442054748535,RRm,sem,precipitation,mm day-1,4
+14612_14627_14625_14628_Region_um_Dresden,0.6362506151199341,RRm,sem,precipitation,mm day-1,7
+14612_14627_14625_14628_Region_um_Dresden,0.3659311532974243,RRm,sem,precipitation,mm day-1,10
+14612_Dresden,0.3291463851928711,RRm,sem,precipitation,mm day-1,1
+14612_Dresden,0.49855124950408936,RRm,sem,precipitation,mm day-1,4
+14612_Dresden,0.6992324590682983,RRm,sem,precipitation,mm day-1,7
+14612_Dresden,0.4161396026611328,RRm,sem,precipitation,mm day-1,10
+14625_Bautzen,0.31784820556640625,RRm,sem,precipitation,mm day-1,1
+14625_Bautzen,0.43375706672668457,RRm,sem,precipitation,mm day-1,4
+14625_Bautzen,0.7298582792282104,RRm,sem,precipitation,mm day-1,7
+14625_Bautzen,0.35497772693634033,RRm,sem,precipitation,mm day-1,10
+14626_Görlitz,0.3349432945251465,RRm,sem,precipitation,mm day-1,1
+14626_Görlitz,0.4592142105102539,RRm,sem,precipitation,mm day-1,4
+14626_Görlitz,0.7281513214111328,RRm,sem,precipitation,mm day-1,7
+14626_Görlitz,0.3980141878128052,RRm,sem,precipitation,mm day-1,10
+14627_Meißen,0.3281937837600708,RRm,sem,precipitation,mm day-1,1
+14627_Meißen,0.4792293310165405,RRm,sem,precipitation,mm day-1,4
+14627_Meißen,0.4252471923828125,RRm,sem,precipitation,mm day-1,7
+14627_Meißen,0.3719288110733032,RRm,sem,precipitation,mm day-1,10
+14628_Sächsische Schweiz-Osterzgebirge,0.30547642707824707,RRm,sem,precipitation,mm day-1,1
+14628_Sächsische Schweiz-Osterzgebirge,0.551304817199707,RRm,sem,precipitation,mm day-1,4
+14628_Sächsische Schweiz-Osterzgebirge,0.6776591539382935,RRm,sem,precipitation,mm day-1,7
+14628_Sächsische Schweiz-Osterzgebirge,0.41458559036254883,RRm,sem,precipitation,mm day-1,10
+14713_14729_14730_Region_um_Leipzig,0.2602877616882324,RRm,sem,precipitation,mm day-1,1
+14713_14729_14730_Region_um_Leipzig,0.5217580795288086,RRm,sem,precipitation,mm day-1,4
+14713_14729_14730_Region_um_Leipzig,0.5183227062225342,RRm,sem,precipitation,mm day-1,7
+14713_14729_14730_Region_um_Leipzig,0.2572298049926758,RRm,sem,precipitation,mm day-1,10
+14713_Leipzig,0.29197239875793457,RRm,sem,precipitation,mm day-1,1
+14713_Leipzig,0.5260671377182007,RRm,sem,precipitation,mm day-1,4
+14713_Leipzig,0.5693035125732422,RRm,sem,precipitation,mm day-1,7
+14713_Leipzig,0.28833091259002686,RRm,sem,precipitation,mm day-1,10
+14729_Leipzig,0.31642937660217285,RRm,sem,precipitation,mm day-1,1
+14729_Leipzig,0.558590292930603,RRm,sem,precipitation,mm day-1,4
+14729_Leipzig,0.5775485038757324,RRm,sem,precipitation,mm day-1,7
+14729_Leipzig,0.3222355842590332,RRm,sem,precipitation,mm day-1,10
+14730_Nordsachsen,0.24457311630249023,RRm,sem,precipitation,mm day-1,1
+14730_Nordsachsen,0.4914473295211792,RRm,sem,precipitation,mm day-1,4
+14730_Nordsachsen,0.463184118270874,RRm,sem,precipitation,mm day-1,7
+14730_Nordsachsen,0.2337743043899536,RRm,sem,precipitation,mm day-1,10
+15001_15091_15082_Region_um_Dessau-Rolau,0.2513817548751831,RRm,sem,precipitation,mm day-1,1
+15001_15091_15082_Region_um_Dessau-Rolau,0.45857489109039307,RRm,sem,precipitation,mm day-1,4
+15001_15091_15082_Region_um_Dessau-Rolau,0.5879309177398682,RRm,sem,precipitation,mm day-1,7
+15001_15091_15082_Region_um_Dessau-Rolau,0.26321887969970703,RRm,sem,precipitation,mm day-1,10
+15001_Dessau-Roßlau,0.240289568901062,RRm,sem,precipitation,mm day-1,1
+15001_Dessau-Roßlau,0.4643338918685913,RRm,sem,precipitation,mm day-1,4
+15001_Dessau-Roßlau,0.6841065883636475,RRm,sem,precipitation,mm day-1,7
+15001_Dessau-Roßlau,0.2959287166595459,RRm,sem,precipitation,mm day-1,10
+15002_15088_Region_um_Halle_(Saale),0.25724363327026367,RRm,sem,precipitation,mm day-1,1
+15002_15088_Region_um_Halle_(Saale),0.5265977382659912,RRm,sem,precipitation,mm day-1,4
+15002_15088_Region_um_Halle_(Saale),0.6240541934967041,RRm,sem,precipitation,mm day-1,7
+15002_15088_Region_um_Halle_(Saale),0.2584874629974365,RRm,sem,precipitation,mm day-1,10
+15002_Halle (Saale),0.2372668981552124,RRm,sem,precipitation,mm day-1,1
+15002_Halle (Saale),0.5084532499313354,RRm,sem,precipitation,mm day-1,4
+15002_Halle (Saale),0.626765251159668,RRm,sem,precipitation,mm day-1,7
+15002_Halle (Saale),0.2737746238708496,RRm,sem,precipitation,mm day-1,10
+15003_15083_15089_15086_Region_um_Magdeburg,0.2660806179046631,RRm,sem,precipitation,mm day-1,1
+15003_15083_15089_15086_Region_um_Magdeburg,0.4014763832092285,RRm,sem,precipitation,mm day-1,4
+15003_15083_15089_15086_Region_um_Magdeburg,0.7111784219741821,RRm,sem,precipitation,mm day-1,7
+15003_15083_15089_15086_Region_um_Magdeburg,0.2603724002838135,RRm,sem,precipitation,mm day-1,10
+15003_Magdeburg,0.2645033597946167,RRm,sem,precipitation,mm day-1,1
+15003_Magdeburg,0.39144110679626465,RRm,sem,precipitation,mm day-1,4
+15003_Magdeburg,0.7288389205932617,RRm,sem,precipitation,mm day-1,7
+15003_Magdeburg,0.27919912338256836,RRm,sem,precipitation,mm day-1,10
+15081_Altmarkkreis Salzwedel,0.3096628189086914,RRm,sem,precipitation,mm day-1,1
+15081_Altmarkkreis Salzwedel,0.43198060989379883,RRm,sem,precipitation,mm day-1,4
+15081_Altmarkkreis Salzwedel,0.5904507637023926,RRm,sem,precipitation,mm day-1,7
+15081_Altmarkkreis Salzwedel,0.2641775608062744,RRm,sem,precipitation,mm day-1,10
+15082_Anhalt-Bitterfeld,0.24081146717071533,RRm,sem,precipitation,mm day-1,1
+15082_Anhalt-Bitterfeld,0.4611862897872925,RRm,sem,precipitation,mm day-1,4
+15082_Anhalt-Bitterfeld,0.694882869720459,RRm,sem,precipitation,mm day-1,7
+15082_Anhalt-Bitterfeld,0.30316734313964844,RRm,sem,precipitation,mm day-1,10
+15083_Börde,0.2689915895462036,RRm,sem,precipitation,mm day-1,1
+15083_Börde,0.3647301197052002,RRm,sem,precipitation,mm day-1,4
+15083_Börde,0.7132428884506226,RRm,sem,precipitation,mm day-1,7
+15083_Börde,0.2702460289001465,RRm,sem,precipitation,mm day-1,10
+15084_Burgenlandkreis,0.28548502922058105,RRm,sem,precipitation,mm day-1,1
+15084_Burgenlandkreis,0.6009948253631592,RRm,sem,precipitation,mm day-1,4
+15084_Burgenlandkreis,0.704078197479248,RRm,sem,precipitation,mm day-1,7
+15084_Burgenlandkreis,0.2718716859817505,RRm,sem,precipitation,mm day-1,10
+15085_Harz,0.28571486473083496,RRm,sem,precipitation,mm day-1,1
+15085_Harz,0.4889504909515381,RRm,sem,precipitation,mm day-1,4
+15085_Harz,0.6968369483947754,RRm,sem,precipitation,mm day-1,7
+15085_Harz,0.31668853759765625,RRm,sem,precipitation,mm day-1,10
+15086_Jerichower Land,0.2803288698196411,RRm,sem,precipitation,mm day-1,1
+15086_Jerichower Land,0.41234803199768066,RRm,sem,precipitation,mm day-1,4
+15086_Jerichower Land,0.7551608085632324,RRm,sem,precipitation,mm day-1,7
+15086_Jerichower Land,0.2906930446624756,RRm,sem,precipitation,mm day-1,10
+15087_Mansfeld-Südharz,0.28337574005126953,RRm,sem,precipitation,mm day-1,1
+15087_Mansfeld-Südharz,0.5421208143234253,RRm,sem,precipitation,mm day-1,4
+15087_Mansfeld-Südharz,0.6415064334869385,RRm,sem,precipitation,mm day-1,7
+15087_Mansfeld-Südharz,0.2913855314254761,RRm,sem,precipitation,mm day-1,10
+15088_Saalekreis,0.2595682144165039,RRm,sem,precipitation,mm day-1,1
+15088_Saalekreis,0.5283774137496948,RRm,sem,precipitation,mm day-1,4
+15088_Saalekreis,0.6237881183624268,RRm,sem,precipitation,mm day-1,7
+15088_Saalekreis,0.2584197521209717,RRm,sem,precipitation,mm day-1,10
+15089_Salzlandkreis,0.2574174404144287,RRm,sem,precipitation,mm day-1,1
+15089_Salzlandkreis,0.5003104209899902,RRm,sem,precipitation,mm day-1,4
+15089_Salzlandkreis,0.6571252346038818,RRm,sem,precipitation,mm day-1,7
+15089_Salzlandkreis,0.2549980878829956,RRm,sem,precipitation,mm day-1,10
+15090_Stendal,0.3133242130279541,RRm,sem,precipitation,mm day-1,1
+15090_Stendal,0.40845704078674316,RRm,sem,precipitation,mm day-1,4
+15090_Stendal,0.5897852182388306,RRm,sem,precipitation,mm day-1,7
+15090_Stendal,0.2912551164627075,RRm,sem,precipitation,mm day-1,10
+15091_Wittenberg,0.2609212398529053,RRm,sem,precipitation,mm day-1,1
+15091_Wittenberg,0.4937283992767334,RRm,sem,precipitation,mm day-1,4
+15091_Wittenberg,0.4959430694580078,RRm,sem,precipitation,mm day-1,7
+15091_Wittenberg,0.2540096044540405,RRm,sem,precipitation,mm day-1,10
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.33503055572509766,RRm,sem,precipitation,mm day-1,1
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.6417529582977295,RRm,sem,precipitation,mm day-1,4
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.7896435260772705,RRm,sem,precipitation,mm day-1,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.35396575927734375,RRm,sem,precipitation,mm day-1,10
+16051_Erfurt,0.3115699291229248,RRm,sem,precipitation,mm day-1,1
+16051_Erfurt,0.5986777544021606,RRm,sem,precipitation,mm day-1,4
+16051_Erfurt,0.7973155975341797,RRm,sem,precipitation,mm day-1,7
+16051_Erfurt,0.341641902923584,RRm,sem,precipitation,mm day-1,10
+16052_16076_15084_16074_Region_um_Gera,0.3036532402038574,RRm,sem,precipitation,mm day-1,1
+16052_16076_15084_16074_Region_um_Gera,0.614808201789856,RRm,sem,precipitation,mm day-1,4
+16052_16076_15084_16074_Region_um_Gera,0.7056076526641846,RRm,sem,precipitation,mm day-1,7
+16052_16076_15084_16074_Region_um_Gera,0.2992863655090332,RRm,sem,precipitation,mm day-1,10
+16052_Gera,0.30522823333740234,RRm,sem,precipitation,mm day-1,1
+16052_Gera,0.586074709892273,RRm,sem,precipitation,mm day-1,4
+16052_Gera,0.6648600101470947,RRm,sem,precipitation,mm day-1,7
+16052_Gera,0.36187565326690674,RRm,sem,precipitation,mm day-1,10
+16053_16074_16071_16055_Region_um_Jena,0.32441627979278564,RRm,sem,precipitation,mm day-1,1
+16053_16074_16071_16055_Region_um_Jena,0.6636439561843872,RRm,sem,precipitation,mm day-1,4
+16053_16074_16071_16055_Region_um_Jena,0.8104610443115234,RRm,sem,precipitation,mm day-1,7
+16053_16074_16071_16055_Region_um_Jena,0.3514432907104492,RRm,sem,precipitation,mm day-1,10
+16053_Jena,0.3503772020339966,RRm,sem,precipitation,mm day-1,1
+16053_Jena,0.6365121603012085,RRm,sem,precipitation,mm day-1,4
+16053_Jena,0.8255350589752197,RRm,sem,precipitation,mm day-1,7
+16053_Jena,0.34773004055023193,RRm,sem,precipitation,mm day-1,10
+16054_16066_16069_16070_Region_um_Suhl,0.4448772668838501,RRm,sem,precipitation,mm day-1,1
+16054_16066_16069_16070_Region_um_Suhl,0.5493135452270508,RRm,sem,precipitation,mm day-1,4
+16054_16066_16069_16070_Region_um_Suhl,0.7679598331451416,RRm,sem,precipitation,mm day-1,7
+16054_16066_16069_16070_Region_um_Suhl,0.3758964538574219,RRm,sem,precipitation,mm day-1,10
+16054_Suhl,0.6711864471435547,RRm,sem,precipitation,mm day-1,1
+16054_Suhl,0.7127711772918701,RRm,sem,precipitation,mm day-1,4
+16054_Suhl,0.937781810760498,RRm,sem,precipitation,mm day-1,7
+16054_Suhl,0.49068403244018555,RRm,sem,precipitation,mm day-1,10
+16055_16071_Region_um_Weimar,0.3251521587371826,RRm,sem,precipitation,mm day-1,1
+16055_16071_Region_um_Weimar,0.6854227781295776,RRm,sem,precipitation,mm day-1,4
+16055_16071_Region_um_Weimar,0.852454423904419,RRm,sem,precipitation,mm day-1,7
+16055_16071_Region_um_Weimar,0.36350202560424805,RRm,sem,precipitation,mm day-1,10
+16055_Weimar,0.37921929359436035,RRm,sem,precipitation,mm day-1,1
+16055_Weimar,0.6889599561691284,RRm,sem,precipitation,mm day-1,4
+16055_Weimar,0.8948643207550049,RRm,sem,precipitation,mm day-1,7
+16055_Weimar,0.3549814224243164,RRm,sem,precipitation,mm day-1,10
+16056_16063_06636_Region_um_Eisenach,0.39351487159729004,RRm,sem,precipitation,mm day-1,1
+16056_16063_06636_Region_um_Eisenach,0.442150354385376,RRm,sem,precipitation,mm day-1,4
+16056_16063_06636_Region_um_Eisenach,0.5791218280792236,RRm,sem,precipitation,mm day-1,7
+16056_16063_06636_Region_um_Eisenach,0.3458164930343628,RRm,sem,precipitation,mm day-1,10
+16056_Eisenach,0.36948204040527344,RRm,sem,precipitation,mm day-1,1
+16056_Eisenach,0.5018525123596191,RRm,sem,precipitation,mm day-1,4
+16056_Eisenach,0.59086012840271,RRm,sem,precipitation,mm day-1,7
+16056_Eisenach,0.34593141078948975,RRm,sem,precipitation,mm day-1,10
+16061_Eichsfeld,0.3726794719696045,RRm,sem,precipitation,mm day-1,1
+16061_Eichsfeld,0.44407033920288086,RRm,sem,precipitation,mm day-1,4
+16061_Eichsfeld,0.5556879043579102,RRm,sem,precipitation,mm day-1,7
+16061_Eichsfeld,0.3664131164550781,RRm,sem,precipitation,mm day-1,10
+16062_Nordhausen,0.36571455001831055,RRm,sem,precipitation,mm day-1,1
+16062_Nordhausen,0.39326953887939453,RRm,sem,precipitation,mm day-1,4
+16062_Nordhausen,0.6134035587310791,RRm,sem,precipitation,mm day-1,7
+16062_Nordhausen,0.3214704990386963,RRm,sem,precipitation,mm day-1,10
+16063_Wartburgkreis,0.39508605003356934,RRm,sem,precipitation,mm day-1,1
+16063_Wartburgkreis,0.4908480644226074,RRm,sem,precipitation,mm day-1,4
+16063_Wartburgkreis,0.6376149654388428,RRm,sem,precipitation,mm day-1,7
+16063_Wartburgkreis,0.3373812437057495,RRm,sem,precipitation,mm day-1,10
+16064_Unstrut-Hainich-Kreis,0.366121768951416,RRm,sem,precipitation,mm day-1,1
+16064_Unstrut-Hainich-Kreis,0.46628808975219727,RRm,sem,precipitation,mm day-1,4
+16064_Unstrut-Hainich-Kreis,0.5216288566589355,RRm,sem,precipitation,mm day-1,7
+16064_Unstrut-Hainich-Kreis,0.2718472480773926,RRm,sem,precipitation,mm day-1,10
+16065_Kyffhäuserkreis,0.3534576892852783,RRm,sem,precipitation,mm day-1,1
+16065_Kyffhäuserkreis,0.4757734537124634,RRm,sem,precipitation,mm day-1,4
+16065_Kyffhäuserkreis,0.6777427196502686,RRm,sem,precipitation,mm day-1,7
+16065_Kyffhäuserkreis,0.30570507049560547,RRm,sem,precipitation,mm day-1,10
+16066_Schmalkalden-Meiningen,0.47053515911102295,RRm,sem,precipitation,mm day-1,1
+16066_Schmalkalden-Meiningen,0.517040491104126,RRm,sem,precipitation,mm day-1,4
+16066_Schmalkalden-Meiningen,0.7147588729858398,RRm,sem,precipitation,mm day-1,7
+16066_Schmalkalden-Meiningen,0.3562157154083252,RRm,sem,precipitation,mm day-1,10
+16067_Gotha,0.36549806594848633,RRm,sem,precipitation,mm day-1,1
+16067_Gotha,0.6501102447509766,RRm,sem,precipitation,mm day-1,4
+16067_Gotha,0.706240177154541,RRm,sem,precipitation,mm day-1,7
+16067_Gotha,0.3533942699432373,RRm,sem,precipitation,mm day-1,10
+16068_Sömmerda,0.33656132221221924,RRm,sem,precipitation,mm day-1,1
+16068_Sömmerda,0.5497621297836304,RRm,sem,precipitation,mm day-1,4
+16068_Sömmerda,0.7811174392700195,RRm,sem,precipitation,mm day-1,7
+16068_Sömmerda,0.3104513883590698,RRm,sem,precipitation,mm day-1,10
+16069_Hildburghausen,0.5369329452514648,RRm,sem,precipitation,mm day-1,1
+16069_Hildburghausen,0.5467777252197266,RRm,sem,precipitation,mm day-1,4
+16069_Hildburghausen,0.7633953094482422,RRm,sem,precipitation,mm day-1,7
+16069_Hildburghausen,0.4560980796813965,RRm,sem,precipitation,mm day-1,10
+16070_Ilm-Kreis,0.34105920791625977,RRm,sem,precipitation,mm day-1,1
+16070_Ilm-Kreis,0.6908493041992188,RRm,sem,precipitation,mm day-1,4
+16070_Ilm-Kreis,0.8239245414733887,RRm,sem,precipitation,mm day-1,7
+16070_Ilm-Kreis,0.39213085174560547,RRm,sem,precipitation,mm day-1,10
+16071_Weimarer Land,0.324892520904541,RRm,sem,precipitation,mm day-1,1
+16071_Weimarer Land,0.6850172281265259,RRm,sem,precipitation,mm day-1,4
+16071_Weimarer Land,0.8475937843322754,RRm,sem,precipitation,mm day-1,7
+16071_Weimarer Land,0.36447834968566895,RRm,sem,precipitation,mm day-1,10
+16072_Sonneberg,0.5759291648864746,RRm,sem,precipitation,mm day-1,1
+16072_Sonneberg,0.6042599678039551,RRm,sem,precipitation,mm day-1,4
+16072_Sonneberg,0.7646782398223877,RRm,sem,precipitation,mm day-1,7
+16072_Sonneberg,0.5108189582824707,RRm,sem,precipitation,mm day-1,10
+16073_Saalfeld-Rudolstadt,0.33292245864868164,RRm,sem,precipitation,mm day-1,1
+16073_Saalfeld-Rudolstadt,0.6856412887573242,RRm,sem,precipitation,mm day-1,4
+16073_Saalfeld-Rudolstadt,0.7292304039001465,RRm,sem,precipitation,mm day-1,7
+16073_Saalfeld-Rudolstadt,0.35926270484924316,RRm,sem,precipitation,mm day-1,10
+16074_Saale-Holzland-Kreis,0.3238118886947632,RRm,sem,precipitation,mm day-1,1
+16074_Saale-Holzland-Kreis,0.6439197063446045,RRm,sem,precipitation,mm day-1,4
+16074_Saale-Holzland-Kreis,0.7624783515930176,RRm,sem,precipitation,mm day-1,7
+16074_Saale-Holzland-Kreis,0.3388524055480957,RRm,sem,precipitation,mm day-1,10
+16075_Saale-Orla-Kreis,0.3592658042907715,RRm,sem,precipitation,mm day-1,1
+16075_Saale-Orla-Kreis,0.6609127521514893,RRm,sem,precipitation,mm day-1,4
+16075_Saale-Orla-Kreis,0.6811492443084717,RRm,sem,precipitation,mm day-1,7
+16075_Saale-Orla-Kreis,0.32915282249450684,RRm,sem,precipitation,mm day-1,10
+16076_Greiz,0.33042192459106445,RRm,sem,precipitation,mm day-1,1
+16076_Greiz,0.6150107383728027,RRm,sem,precipitation,mm day-1,4
+16076_Greiz,0.6611108779907227,RRm,sem,precipitation,mm day-1,7
+16076_Greiz,0.35969388484954834,RRm,sem,precipitation,mm day-1,10
+16077_Altenburger Land,0.378676176071167,RRm,sem,precipitation,mm day-1,1
+16077_Altenburger Land,0.571204662322998,RRm,sem,precipitation,mm day-1,4
+16077_Altenburger Land,0.648033857345581,RRm,sem,precipitation,mm day-1,7
+16077_Altenburger Land,0.388124942779541,RRm,sem,precipitation,mm day-1,10

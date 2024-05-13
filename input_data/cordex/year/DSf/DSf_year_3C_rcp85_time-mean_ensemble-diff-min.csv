@@ -1,0 +1,512 @@
+region,DSf_year_3C_rcp85_time-mean_ensemble-diff-min,ci_name,ci_frequency,standard_name,units,mid_month
+01001_Flensburg,-1.9951705932617188,DSf,year,dry_spell_frequency,,7
+01002_Kiel,-1.7317562103271484,DSf,year,dry_spell_frequency,,7
+01003_Lübeck,-1.6021537780761719,DSf,year,dry_spell_frequency,,7
+01004_Neumünster,-1.6103191375732422,DSf,year,dry_spell_frequency,,7
+01051_Dithmarschen,-2.7102246284484863,DSf,year,dry_spell_frequency,,7
+01053_Herzogtum Lauenburg,-1.7425622940063477,DSf,year,dry_spell_frequency,,7
+01054_Nordfriesland,-2.3783836364746094,DSf,year,dry_spell_frequency,,7
+01055_Ostholstein,-1.5354557037353516,DSf,year,dry_spell_frequency,,7
+01057_Plön,-1.6988153457641602,DSf,year,dry_spell_frequency,,7
+01058_Rendsburg-Eckernförde,-2.0487966537475586,DSf,year,dry_spell_frequency,,7
+01059_Schleswig-Flensburg,-2.121058464050293,DSf,year,dry_spell_frequency,,7
+01060_Segeberg,-1.4634313583374023,DSf,year,dry_spell_frequency,,7
+01061_Steinburg,-2.1466336250305176,DSf,year,dry_spell_frequency,,7
+01062_Stormarn,-1.312631607055664,DSf,year,dry_spell_frequency,,7
+02000_Hamburg,-1.671767234802246,DSf,year,dry_spell_frequency,,7
+03101_Braunschweig,-2.297360897064209,DSf,year,dry_spell_frequency,,7
+03102_Salzgitter,-2.31766414642334,DSf,year,dry_spell_frequency,,7
+03103_Wolfsburg,-2.414785861968994,DSf,year,dry_spell_frequency,,7
+03151_Gifhorn,-2.0086469650268555,DSf,year,dry_spell_frequency,,7
+03159_Göttingen,-2.062957286834717,DSf,year,dry_spell_frequency,,7
+03153_Goslar,-2.0196914672851562,DSf,year,dry_spell_frequency,,7
+03154_Helmstedt,-2.303800582885742,DSf,year,dry_spell_frequency,,7
+03155_Northeim,-2.0729427337646484,DSf,year,dry_spell_frequency,,7
+03157_Peine,-2.3173937797546387,DSf,year,dry_spell_frequency,,7
+03158_Wolfenbüttel,-2.359825611114502,DSf,year,dry_spell_frequency,,7
+03241_Region Hannover,-2.0506935119628906,DSf,year,dry_spell_frequency,,7
+03251_Diepholz,-2.1466007232666016,DSf,year,dry_spell_frequency,,7
+03252_Hameln-Pyrmont,-2.0100674629211426,DSf,year,dry_spell_frequency,,7
+03254_Hildesheim,-2.2976040840148926,DSf,year,dry_spell_frequency,,7
+03255_Holzminden,-1.8908567428588867,DSf,year,dry_spell_frequency,,7
+01056_Pinneberg,-1.9513607025146484,DSf,year,dry_spell_frequency,,7
+03256_Nienburg (Weser),-2.1849966049194336,DSf,year,dry_spell_frequency,,7
+03257_Schaumburg,-2.0595216751098633,DSf,year,dry_spell_frequency,,7
+03351_Celle,-1.9490056037902832,DSf,year,dry_spell_frequency,,7
+03352_Cuxhaven,-2.131075382232666,DSf,year,dry_spell_frequency,,7
+03353_Harburg,-1.908487319946289,DSf,year,dry_spell_frequency,,7
+03354_Lüchow-Dannenberg,-2.140936851501465,DSf,year,dry_spell_frequency,,7
+03355_Lüneburg,-2.0640430450439453,DSf,year,dry_spell_frequency,,7
+03356_Osterholz,-2.028566837310791,DSf,year,dry_spell_frequency,,7
+03357_Rotenburg (Wümme),-2.198470115661621,DSf,year,dry_spell_frequency,,7
+03358_Heidekreis,-2.019787311553955,DSf,year,dry_spell_frequency,,7
+03359_Stade,-2.1428465843200684,DSf,year,dry_spell_frequency,,7
+03360_Uelzen,-1.6352100372314453,DSf,year,dry_spell_frequency,,7
+03361_Verden,-1.8112072944641113,DSf,year,dry_spell_frequency,,7
+03401_Delmenhorst,-2.1657724380493164,DSf,year,dry_spell_frequency,,7
+03402_Emden,-1.8091306686401367,DSf,year,dry_spell_frequency,,7
+03403_Oldenburg (Oldb),-2.174882411956787,DSf,year,dry_spell_frequency,,7
+03404_Osnabrück,-2.5790061950683594,DSf,year,dry_spell_frequency,,7
+03405_Wilhelmshaven,-1.6912918090820312,DSf,year,dry_spell_frequency,,7
+03451_Ammerland,-2.1106295585632324,DSf,year,dry_spell_frequency,,7
+03452_Aurich,-1.6743249893188477,DSf,year,dry_spell_frequency,,7
+03453_Cloppenburg,-1.980818271636963,DSf,year,dry_spell_frequency,,7
+03454_Emsland,-2.330294132232666,DSf,year,dry_spell_frequency,,7
+03455_Friesland,-1.8369512557983398,DSf,year,dry_spell_frequency,,7
+03456_Grafschaft Bentheim,-2.4356441497802734,DSf,year,dry_spell_frequency,,7
+03457_Leer,-1.7425127029418945,DSf,year,dry_spell_frequency,,7
+03458_Oldenburg,-1.982635498046875,DSf,year,dry_spell_frequency,,7
+03459_Osnabrück,-2.4465441703796387,DSf,year,dry_spell_frequency,,7
+03460_Vechta,-1.8457403182983398,DSf,year,dry_spell_frequency,,7
+03461_Wesermarsch,-2.2411489486694336,DSf,year,dry_spell_frequency,,7
+03462_Wittmund,-1.6524734497070312,DSf,year,dry_spell_frequency,,7
+04011_Bremen,-2.0122690200805664,DSf,year,dry_spell_frequency,,7
+04012_Bremerhaven,-2.4490408897399902,DSf,year,dry_spell_frequency,,7
+05111_Düsseldorf,-2.645101547241211,DSf,year,dry_spell_frequency,,7
+05112_Duisburg,-2.2134599685668945,DSf,year,dry_spell_frequency,,7
+05113_Essen,-2.3785653114318848,DSf,year,dry_spell_frequency,,7
+05114_Krefeld,-2.5113792419433594,DSf,year,dry_spell_frequency,,7
+05116_Mönchengladbach,-2.39194917678833,DSf,year,dry_spell_frequency,,7
+05117_Mülheim an der Ruhr,-2.3010177612304688,DSf,year,dry_spell_frequency,,7
+05119_Oberhausen,-1.9995179176330566,DSf,year,dry_spell_frequency,,7
+05120_Remscheid,-2.7586350440979004,DSf,year,dry_spell_frequency,,7
+05122_Solingen,-2.8217363357543945,DSf,year,dry_spell_frequency,,7
+05124_Wuppertal,-2.6548376083374023,DSf,year,dry_spell_frequency,,7
+05154_Kleve,-2.247666835784912,DSf,year,dry_spell_frequency,,7
+05158_Mettmann,-2.6306376457214355,DSf,year,dry_spell_frequency,,7
+05162_Rhein-Kreis Neuss,-2.790729522705078,DSf,year,dry_spell_frequency,,7
+05166_Viersen,-2.3452115058898926,DSf,year,dry_spell_frequency,,7
+05170_Wesel,-2.438422203063965,DSf,year,dry_spell_frequency,,7
+05314_Bonn,-2.768892288208008,DSf,year,dry_spell_frequency,,7
+05315_Köln,-2.893026828765869,DSf,year,dry_spell_frequency,,7
+05316_Leverkusen,-2.333083152770996,DSf,year,dry_spell_frequency,,7
+05334_Städteregion Aachen,-2.177767276763916,DSf,year,dry_spell_frequency,,7
+05358_Düren,-2.350747585296631,DSf,year,dry_spell_frequency,,7
+05362_Rhein-Erft-Kreis,-2.8687076568603516,DSf,year,dry_spell_frequency,,7
+05366_Euskirchen,-2.218353271484375,DSf,year,dry_spell_frequency,,7
+05370_Heinsberg,-2.1972622871398926,DSf,year,dry_spell_frequency,,7
+05374_Oberbergischer Kreis,-2.281249523162842,DSf,year,dry_spell_frequency,,7
+05378_Rheinisch-Bergischer Kreis,-2.5340518951416016,DSf,year,dry_spell_frequency,,7
+05382_Rhein-Sieg-Kreis,-2.591586112976074,DSf,year,dry_spell_frequency,,7
+05512_Bottrop,-2.234510898590088,DSf,year,dry_spell_frequency,,7
+05513_Gelsenkirchen,-2.320986270904541,DSf,year,dry_spell_frequency,,7
+05515_Münster,-2.6005568504333496,DSf,year,dry_spell_frequency,,7
+05554_Borken,-2.4547643661499023,DSf,year,dry_spell_frequency,,7
+05558_Coesfeld,-2.5714492797851562,DSf,year,dry_spell_frequency,,7
+05562_Recklinghausen,-2.1819067001342773,DSf,year,dry_spell_frequency,,7
+05566_Steinfurt,-2.4732909202575684,DSf,year,dry_spell_frequency,,7
+05570_Warendorf,-2.6900405883789062,DSf,year,dry_spell_frequency,,7
+05711_Bielefeld,-2.8083677291870117,DSf,year,dry_spell_frequency,,7
+05754_Gütersloh,-2.6898465156555176,DSf,year,dry_spell_frequency,,7
+05758_Herford,-2.4621634483337402,DSf,year,dry_spell_frequency,,7
+05762_Höxter,-2.0581164360046387,DSf,year,dry_spell_frequency,,7
+05766_Lippe,-2.2133116722106934,DSf,year,dry_spell_frequency,,7
+05770_Minden-Lübbecke,-2.1198511123657227,DSf,year,dry_spell_frequency,,7
+05774_Paderborn,-2.596737861633301,DSf,year,dry_spell_frequency,,7
+05911_Bochum,-2.52532958984375,DSf,year,dry_spell_frequency,,7
+05913_Dortmund,-2.51804256439209,DSf,year,dry_spell_frequency,,7
+05914_Hagen,-2.421344757080078,DSf,year,dry_spell_frequency,,7
+05915_Hamm,-2.850615978240967,DSf,year,dry_spell_frequency,,7
+05916_Herne,-2.7186155319213867,DSf,year,dry_spell_frequency,,7
+05954_Ennepe-Ruhr-Kreis,-2.4434452056884766,DSf,year,dry_spell_frequency,,7
+05958_Hochsauerlandkreis,-2.103506088256836,DSf,year,dry_spell_frequency,,7
+05962_Märkischer Kreis,-2.6344618797302246,DSf,year,dry_spell_frequency,,7
+05966_Olpe,-2.2837038040161133,DSf,year,dry_spell_frequency,,7
+05970_Siegen-Wittgenstein,-1.8543891906738281,DSf,year,dry_spell_frequency,,7
+05974_Soest,-2.644585132598877,DSf,year,dry_spell_frequency,,7
+05978_Unna,-2.645623207092285,DSf,year,dry_spell_frequency,,7
+06411_Darmstadt,-2.268359661102295,DSf,year,dry_spell_frequency,,7
+06412_Frankfurt am Main,-2.2132649421691895,DSf,year,dry_spell_frequency,,7
+06413_Offenbach am Main,-2.573007106781006,DSf,year,dry_spell_frequency,,7
+06414_Wiesbaden,-2.4793877601623535,DSf,year,dry_spell_frequency,,7
+06431_Bergstraße,-1.7935447692871094,DSf,year,dry_spell_frequency,,7
+06432_Darmstadt-Dieburg,-2.18344783782959,DSf,year,dry_spell_frequency,,7
+06433_Groß-Gerau,-2.656078815460205,DSf,year,dry_spell_frequency,,7
+06434_Hochtaunuskreis,-1.8306598663330078,DSf,year,dry_spell_frequency,,7
+06435_Main-Kinzig-Kreis,-2.3960514068603516,DSf,year,dry_spell_frequency,,7
+06436_Main-Taunus-Kreis,-2.1211628913879395,DSf,year,dry_spell_frequency,,7
+06437_Odenwaldkreis,-1.8149447441101074,DSf,year,dry_spell_frequency,,7
+06438_Offenbach,-2.579068660736084,DSf,year,dry_spell_frequency,,7
+06439_Rheingau-Taunus-Kreis,-2.1722750663757324,DSf,year,dry_spell_frequency,,7
+06440_Wetteraukreis,-2.174973487854004,DSf,year,dry_spell_frequency,,7
+06531_Gießen,-2.3488330841064453,DSf,year,dry_spell_frequency,,7
+06532_Lahn-Dill-Kreis,-2.1207542419433594,DSf,year,dry_spell_frequency,,7
+06533_Limburg-Weilburg,-2.181457042694092,DSf,year,dry_spell_frequency,,7
+06534_Marburg-Biedenkopf,-1.8306684494018555,DSf,year,dry_spell_frequency,,7
+06535_Vogelsbergkreis,-1.955202579498291,DSf,year,dry_spell_frequency,,7
+06611_Kassel,-1.7890052795410156,DSf,year,dry_spell_frequency,,7
+06631_Fulda,-2.1090469360351562,DSf,year,dry_spell_frequency,,7
+06632_Hersfeld-Rotenburg,-2.118640899658203,DSf,year,dry_spell_frequency,,7
+06633_Kassel,-1.9800066947937012,DSf,year,dry_spell_frequency,,7
+06634_Schwalm-Eder-Kreis,-2.18294095993042,DSf,year,dry_spell_frequency,,7
+06635_Waldeck-Frankenberg,-2.020207405090332,DSf,year,dry_spell_frequency,,7
+06636_Werra-Meißner-Kreis,-1.9538049697875977,DSf,year,dry_spell_frequency,,7
+07111_Koblenz,-2.3759102821350098,DSf,year,dry_spell_frequency,,7
+07131_Ahrweiler,-2.1277503967285156,DSf,year,dry_spell_frequency,,7
+07132_Altenkirchen (Westerwald),-1.9930739402770996,DSf,year,dry_spell_frequency,,7
+07133_Bad Kreuznach,-2.37888240814209,DSf,year,dry_spell_frequency,,7
+07134_Birkenfeld,-2.2183728218078613,DSf,year,dry_spell_frequency,,7
+07135_Cochem-Zell,-2.2999091148376465,DSf,year,dry_spell_frequency,,7
+07137_Mayen-Koblenz,-2.057157039642334,DSf,year,dry_spell_frequency,,7
+07138_Neuwied,-2.4295105934143066,DSf,year,dry_spell_frequency,,7
+07140_Rhein-Hunsrück-Kreis,-2.0232338905334473,DSf,year,dry_spell_frequency,,7
+07141_Rhein-Lahn-Kreis,-2.3470511436462402,DSf,year,dry_spell_frequency,,7
+07143_Westerwaldkreis,-2.205077648162842,DSf,year,dry_spell_frequency,,7
+07211_Trier,-2.327238082885742,DSf,year,dry_spell_frequency,,7
+07231_Bernkastel-Wittlich,-2.2147440910339355,DSf,year,dry_spell_frequency,,7
+07232_Eifelkreis Bitburg-Prüm,-1.952864170074463,DSf,year,dry_spell_frequency,,7
+07233_Vulkaneifel,-2.0426745414733887,DSf,year,dry_spell_frequency,,7
+07235_Trier-Saarburg,-2.0494542121887207,DSf,year,dry_spell_frequency,,7
+07311_Frankenthal (Pfalz),-2.6548008918762207,DSf,year,dry_spell_frequency,,7
+07312_Kaiserslautern,-2.1033806800842285,DSf,year,dry_spell_frequency,,7
+07313_Landau in der Pfalz,-1.6550116539001465,DSf,year,dry_spell_frequency,,7
+07314_Ludwigshafen am Rhein,-2.524467945098877,DSf,year,dry_spell_frequency,,7
+07315_Mainz,-2.9149231910705566,DSf,year,dry_spell_frequency,,7
+07316_Neustadt an der Weinstraße,-2.064136505126953,DSf,year,dry_spell_frequency,,7
+07317_Pirmasens,-1.6214947700500488,DSf,year,dry_spell_frequency,,7
+07318_Speyer,-2.211452007293701,DSf,year,dry_spell_frequency,,7
+07319_Worms,-2.462460994720459,DSf,year,dry_spell_frequency,,7
+07320_Zweibrücken,-1.5565128326416016,DSf,year,dry_spell_frequency,,7
+07331_Alzey-Worms,-2.629176139831543,DSf,year,dry_spell_frequency,,7
+07332_Bad Dürkheim,-2.164358615875244,DSf,year,dry_spell_frequency,,7
+07333_Donnersbergkreis,-2.537062644958496,DSf,year,dry_spell_frequency,,7
+07334_Germersheim,-2.172305107116699,DSf,year,dry_spell_frequency,,7
+07335_Kaiserslautern,-2.1549487113952637,DSf,year,dry_spell_frequency,,7
+07336_Kusel,-2.4717793464660645,DSf,year,dry_spell_frequency,,7
+07337_Südliche Weinstraße,-1.692805290222168,DSf,year,dry_spell_frequency,,7
+07338_Rhein-Pfalz-Kreis,-2.4654998779296875,DSf,year,dry_spell_frequency,,7
+07339_Mainz-Bingen,-2.5861644744873047,DSf,year,dry_spell_frequency,,7
+07340_Südwestpfalz,-1.552682876586914,DSf,year,dry_spell_frequency,,7
+08111_Stuttgart,-2.3012142181396484,DSf,year,dry_spell_frequency,,7
+08115_Böblingen,-2.460226535797119,DSf,year,dry_spell_frequency,,7
+08116_Esslingen,-2.0231542587280273,DSf,year,dry_spell_frequency,,7
+08117_Göppingen,-1.7143669128417969,DSf,year,dry_spell_frequency,,7
+08118_Ludwigsburg,-2.238992214202881,DSf,year,dry_spell_frequency,,7
+08119_Rems-Murr-Kreis,-1.687868595123291,DSf,year,dry_spell_frequency,,7
+08121_Heilbronn,-1.7219305038452148,DSf,year,dry_spell_frequency,,7
+08125_Heilbronn,-1.8234829902648926,DSf,year,dry_spell_frequency,,7
+08126_Hohenlohekreis,-1.9364066123962402,DSf,year,dry_spell_frequency,,7
+08127_Schwäbisch Hall,-1.9298396110534668,DSf,year,dry_spell_frequency,,7
+08128_Main-Tauber-Kreis,-2.2041211128234863,DSf,year,dry_spell_frequency,,7
+08135_Heidenheim,-2.0228824615478516,DSf,year,dry_spell_frequency,,7
+08136_Ostalbkreis,-1.861532211303711,DSf,year,dry_spell_frequency,,7
+08211_Baden-Baden,-1.6757030487060547,DSf,year,dry_spell_frequency,,7
+08212_Karlsruhe,-2.0228567123413086,DSf,year,dry_spell_frequency,,7
+08215_Karlsruhe,-2.1691722869873047,DSf,year,dry_spell_frequency,,7
+08216_Rastatt,-1.7466826438903809,DSf,year,dry_spell_frequency,,7
+08221_Heidelberg,-1.7143969535827637,DSf,year,dry_spell_frequency,,7
+08222_Mannheim,-2.11661434173584,DSf,year,dry_spell_frequency,,7
+08225_Neckar-Odenwald-Kreis,-1.8110709190368652,DSf,year,dry_spell_frequency,,7
+08226_Rhein-Neckar-Kreis,-1.9675755500793457,DSf,year,dry_spell_frequency,,7
+08231_Pforzheim,-1.9880566596984863,DSf,year,dry_spell_frequency,,7
+08235_Calw,-1.7274508476257324,DSf,year,dry_spell_frequency,,7
+08236_Enzkreis,-2.0475387573242188,DSf,year,dry_spell_frequency,,7
+08237_Freudenstadt,-1.662994384765625,DSf,year,dry_spell_frequency,,7
+08311_Freiburg im Breisgau,-1.5405383110046387,DSf,year,dry_spell_frequency,,7
+08315_Breisgau-Hochschwarzwald,-1.4885778427124023,DSf,year,dry_spell_frequency,,7
+08316_Emmendingen,-1.4694242477416992,DSf,year,dry_spell_frequency,,7
+08317_Ortenaukreis,-1.7274346351623535,DSf,year,dry_spell_frequency,,7
+08325_Rottweil,-1.7325448989868164,DSf,year,dry_spell_frequency,,7
+08326_Schwarzwald-Baar-Kreis,-1.4855380058288574,DSf,year,dry_spell_frequency,,7
+08327_Tuttlingen,-1.6569457054138184,DSf,year,dry_spell_frequency,,7
+08335_Konstanz,-1.3664193153381348,DSf,year,dry_spell_frequency,,7
+08336_Lörrach,-1.2312841415405273,DSf,year,dry_spell_frequency,,7
+08337_Waldshut,-1.3538923263549805,DSf,year,dry_spell_frequency,,7
+08415_Reutlingen,-1.7268991470336914,DSf,year,dry_spell_frequency,,7
+08416_Tübingen,-2.248845100402832,DSf,year,dry_spell_frequency,,7
+08417_Zollernalbkreis,-1.8804163932800293,DSf,year,dry_spell_frequency,,7
+08421_Ulm,-2.0251574516296387,DSf,year,dry_spell_frequency,,7
+08425_Alb-Donau-Kreis,-1.7787179946899414,DSf,year,dry_spell_frequency,,7
+08426_Biberach,-1.6164755821228027,DSf,year,dry_spell_frequency,,7
+08435_Bodenseekreis,-1.4612932205200195,DSf,year,dry_spell_frequency,,7
+08436_Ravensburg,-1.6716914176940918,DSf,year,dry_spell_frequency,,7
+08437_Sigmaringen,-1.4232158660888672,DSf,year,dry_spell_frequency,,7
+09161_Ingolstadt,-1.9593095779418945,DSf,year,dry_spell_frequency,,7
+09162_München,-1.474198818206787,DSf,year,dry_spell_frequency,,7
+09163_Rosenheim,-1.934237003326416,DSf,year,dry_spell_frequency,,7
+09171_Altötting,-1.6736164093017578,DSf,year,dry_spell_frequency,,7
+09172_Berchtesgadener Land,-1.7207612991333008,DSf,year,dry_spell_frequency,,7
+09173_Bad Tölz-Wolfratshausen,-1.6558599472045898,DSf,year,dry_spell_frequency,,7
+09174_Dachau,-1.7092208862304688,DSf,year,dry_spell_frequency,,7
+09175_Ebersberg,-1.5023908615112305,DSf,year,dry_spell_frequency,,7
+09176_Eichstätt,-1.9790644645690918,DSf,year,dry_spell_frequency,,7
+09177_Erding,-1.5207033157348633,DSf,year,dry_spell_frequency,,7
+09178_Freising,-1.8875961303710938,DSf,year,dry_spell_frequency,,7
+09179_Fürstenfeldbruck,-1.855161190032959,DSf,year,dry_spell_frequency,,7
+09180_Garmisch-Partenkirchen,-1.5838568210601807,DSf,year,dry_spell_frequency,,7
+09181_Landsberg am Lech,-1.8203125,DSf,year,dry_spell_frequency,,7
+09182_Miesbach,-1.4939804077148438,DSf,year,dry_spell_frequency,,7
+09183_Mühldorf a. Inn,-1.7479562759399414,DSf,year,dry_spell_frequency,,7
+09184_München,-1.3959460258483887,DSf,year,dry_spell_frequency,,7
+09185_Neuburg-Schrobenhausen,-2.0184249877929688,DSf,year,dry_spell_frequency,,7
+09186_Pfaffenhofen a.d. Ilm,-1.914407730102539,DSf,year,dry_spell_frequency,,7
+09187_Rosenheim,-1.694016456604004,DSf,year,dry_spell_frequency,,7
+09188_Starnberg,-1.4512200355529785,DSf,year,dry_spell_frequency,,7
+09189_Traunstein,-1.5100507736206055,DSf,year,dry_spell_frequency,,7
+09190_Weilheim-Schongau,-1.526853084564209,DSf,year,dry_spell_frequency,,7
+09261_Landshut,-1.978971004486084,DSf,year,dry_spell_frequency,,7
+09262_Passau,-2.240626335144043,DSf,year,dry_spell_frequency,,7
+09263_Straubing,-2.3121633529663086,DSf,year,dry_spell_frequency,,7
+09271_Deggendorf,-2.2389373779296875,DSf,year,dry_spell_frequency,,7
+09272_Freyung-Grafenau,-2.2542333602905273,DSf,year,dry_spell_frequency,,7
+09273_Kelheim,-2.276822566986084,DSf,year,dry_spell_frequency,,7
+09274_Landshut,-2.0719170570373535,DSf,year,dry_spell_frequency,,7
+09275_Passau,-2.2201433181762695,DSf,year,dry_spell_frequency,,7
+09276_Regen,-2.168311595916748,DSf,year,dry_spell_frequency,,7
+09277_Rottal-Inn,-1.9161362648010254,DSf,year,dry_spell_frequency,,7
+09278_Straubing-Bogen,-2.346920967102051,DSf,year,dry_spell_frequency,,7
+09279_Dingolfing-Landau,-2.514403820037842,DSf,year,dry_spell_frequency,,7
+09361_Amberg,-1.9374065399169922,DSf,year,dry_spell_frequency,,7
+09362_Regensburg,-2.2934017181396484,DSf,year,dry_spell_frequency,,7
+09363_Weiden i.d. OPf.,-1.917212963104248,DSf,year,dry_spell_frequency,,7
+09371_Amberg-Sulzbach,-1.992438793182373,DSf,year,dry_spell_frequency,,7
+09372_Cham,-1.9167375564575195,DSf,year,dry_spell_frequency,,7
+09373_Neumarkt i.d. OPf.,-2.1472086906433105,DSf,year,dry_spell_frequency,,7
+09374_Neustadt a.d. Waldnaab,-2.007884979248047,DSf,year,dry_spell_frequency,,7
+09375_Regensburg,-2.1657557487487793,DSf,year,dry_spell_frequency,,7
+09376_Schwandorf,-2.231914520263672,DSf,year,dry_spell_frequency,,7
+09377_Tirschenreuth,-2.1207351684570312,DSf,year,dry_spell_frequency,,7
+09461_Bamberg,-2.053436756134033,DSf,year,dry_spell_frequency,,7
+09462_Bayreuth,-1.9347305297851562,DSf,year,dry_spell_frequency,,7
+09463_Coburg,-2.288402557373047,DSf,year,dry_spell_frequency,,7
+09464_Hof,-2.2810893058776855,DSf,year,dry_spell_frequency,,7
+09471_Bamberg,-2.0812807083129883,DSf,year,dry_spell_frequency,,7
+09472_Bayreuth,-1.9844293594360352,DSf,year,dry_spell_frequency,,7
+09473_Coburg,-2.100147247314453,DSf,year,dry_spell_frequency,,7
+09474_Forchheim,-2.133634567260742,DSf,year,dry_spell_frequency,,7
+09475_Hof,-2.0256052017211914,DSf,year,dry_spell_frequency,,7
+09476_Kronach,-1.8267531394958496,DSf,year,dry_spell_frequency,,7
+09477_Kulmbach,-1.6690735816955566,DSf,year,dry_spell_frequency,,7
+09478_Lichtenfels,-2.0276741981506348,DSf,year,dry_spell_frequency,,7
+09479_Wunsiedel i. Fichtelgebirge,-2.2602548599243164,DSf,year,dry_spell_frequency,,7
+09561_Ansbach,-2.268754482269287,DSf,year,dry_spell_frequency,,7
+09562_Erlangen,-2.2409439086914062,DSf,year,dry_spell_frequency,,7
+09563_Fürth,-2.5511574745178223,DSf,year,dry_spell_frequency,,7
+09564_Nürnberg,-2.7338619232177734,DSf,year,dry_spell_frequency,,7
+09565_Schwabach,-2.709291458129883,DSf,year,dry_spell_frequency,,7
+09571_Ansbach,-2.261993885040283,DSf,year,dry_spell_frequency,,7
+09572_Erlangen-Höchstadt,-2.441196918487549,DSf,year,dry_spell_frequency,,7
+09573_Fürth,-2.658552646636963,DSf,year,dry_spell_frequency,,7
+09574_Nürnberger Land,-2.046766757965088,DSf,year,dry_spell_frequency,,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,-2.2185354232788086,DSf,year,dry_spell_frequency,,7
+09576_Roth,-2.2530922889709473,DSf,year,dry_spell_frequency,,7
+09577_Weißenburg-Gunzenhausen,-2.0746097564697266,DSf,year,dry_spell_frequency,,7
+09661_Aschaffenburg,-2.583867073059082,DSf,year,dry_spell_frequency,,7
+09662_Schweinfurt,-2.2935996055603027,DSf,year,dry_spell_frequency,,7
+09663_Würzburg,-2.438826560974121,DSf,year,dry_spell_frequency,,7
+09671_Aschaffenburg,-2.369044780731201,DSf,year,dry_spell_frequency,,7
+09672_Bad Kissingen,-2.0416088104248047,DSf,year,dry_spell_frequency,,7
+09673_Rhön-Grabfeld,-2.153372287750244,DSf,year,dry_spell_frequency,,7
+09674_Haßberge,-2.38144588470459,DSf,year,dry_spell_frequency,,7
+09675_Kitzingen,-2.202937126159668,DSf,year,dry_spell_frequency,,7
+09676_Miltenberg,-2.2723617553710938,DSf,year,dry_spell_frequency,,7
+09677_Main-Spessart,-2.399989128112793,DSf,year,dry_spell_frequency,,7
+09678_Schweinfurt,-2.223121166229248,DSf,year,dry_spell_frequency,,7
+09679_Würzburg,-2.3225584030151367,DSf,year,dry_spell_frequency,,7
+09761_Augsburg,-1.7220540046691895,DSf,year,dry_spell_frequency,,7
+09762_Kaufbeuren,-1.7758922576904297,DSf,year,dry_spell_frequency,,7
+09763_Kempten (Allgäu),-1.9085161685943604,DSf,year,dry_spell_frequency,,7
+09764_Memmingen,-1.950512409210205,DSf,year,dry_spell_frequency,,7
+09771_Aichach-Friedberg,-1.9495582580566406,DSf,year,dry_spell_frequency,,7
+09772_Augsburg,-1.6812071800231934,DSf,year,dry_spell_frequency,,7
+09773_Dillingen a.d. Donau,-2.0527114868164062,DSf,year,dry_spell_frequency,,7
+09774_Günzburg,-1.770829200744629,DSf,year,dry_spell_frequency,,7
+09775_Neu-Ulm,-1.8222618103027344,DSf,year,dry_spell_frequency,,7
+09776_Lindau (Bodensee),-1.8289287090301514,DSf,year,dry_spell_frequency,,7
+09777_Ostallgäu,-1.703080415725708,DSf,year,dry_spell_frequency,,7
+09778_Unterallgäu,-1.7731695175170898,DSf,year,dry_spell_frequency,,7
+09779_Donau-Ries,-1.988844871520996,DSf,year,dry_spell_frequency,,7
+09780_Oberallgäu,-1.8847804069519043,DSf,year,dry_spell_frequency,,7
+10041_Regionalverband Saarbrücken,-1.9787907600402832,DSf,year,dry_spell_frequency,,7
+10042_Merzig-Wadern,-2.0374951362609863,DSf,year,dry_spell_frequency,,7
+10043_Neunkirchen,-2.194373607635498,DSf,year,dry_spell_frequency,,7
+10044_Saarlouis,-1.9736108779907227,DSf,year,dry_spell_frequency,,7
+10045_Saarpfalz-Kreis,-1.7999277114868164,DSf,year,dry_spell_frequency,,7
+10046_St. Wendel,-2.245634078979492,DSf,year,dry_spell_frequency,,7
+11000_Berlin,-2.061288833618164,DSf,year,dry_spell_frequency,,7
+12051_Brandenburg an der Havel,-2.544534683227539,DSf,year,dry_spell_frequency,,7
+12052_Cottbus,-2.8783531188964844,DSf,year,dry_spell_frequency,,7
+12053_Frankfurt (Oder),-2.087228775024414,DSf,year,dry_spell_frequency,,7
+12054_Potsdam,-2.4640703201293945,DSf,year,dry_spell_frequency,,7
+12060_Barnim,-1.9437685012817383,DSf,year,dry_spell_frequency,,7
+12061_Dahme-Spreewald,-2.425710678100586,DSf,year,dry_spell_frequency,,7
+12062_Elbe-Elster,-2.4068737030029297,DSf,year,dry_spell_frequency,,7
+12063_Havelland,-2.1139116287231445,DSf,year,dry_spell_frequency,,7
+12064_Märkisch-Oderland,-2.016202926635742,DSf,year,dry_spell_frequency,,7
+12065_Oberhavel,-2.233771324157715,DSf,year,dry_spell_frequency,,7
+12066_Oberspreewald-Lausitz,-2.6733169555664062,DSf,year,dry_spell_frequency,,7
+12067_Oder-Spree,-2.2659215927124023,DSf,year,dry_spell_frequency,,7
+12068_Ostprignitz-Ruppin,-2.1881914138793945,DSf,year,dry_spell_frequency,,7
+12069_Potsdam-Mittelmark,-2.4224157333374023,DSf,year,dry_spell_frequency,,7
+12070_Prignitz,-2.3869361877441406,DSf,year,dry_spell_frequency,,7
+12071_Spree-Neiße,-2.652730941772461,DSf,year,dry_spell_frequency,,7
+12072_Teltow-Fläming,-2.228281021118164,DSf,year,dry_spell_frequency,,7
+12073_Uckermark,-2.3897228240966797,DSf,year,dry_spell_frequency,,7
+13003_Rostock,-1.756272315979004,DSf,year,dry_spell_frequency,,7
+13004_Schwerin,-2.079899787902832,DSf,year,dry_spell_frequency,,7
+13072_Rostock,-1.9376153945922852,DSf,year,dry_spell_frequency,,7
+13076_Ludwigslust-Parchim,-2.2597484588623047,DSf,year,dry_spell_frequency,,7
+13071_Mecklenburgische Seenplatte,-2.3240699768066406,DSf,year,dry_spell_frequency,,7
+13073_Vorpommern-Rügen,-2.165579319000244,DSf,year,dry_spell_frequency,,7
+13074_Nordwestmecklenburg,-1.8336982727050781,DSf,year,dry_spell_frequency,,7
+13075_Vorpommern-Greifswald,-2.387544631958008,DSf,year,dry_spell_frequency,,7
+14511_Chemnitz,-1.6639947891235352,DSf,year,dry_spell_frequency,,7
+14522_Mittelsachsen,-2.136089324951172,DSf,year,dry_spell_frequency,,7
+14523_Vogtlandkreis,-2.110968589782715,DSf,year,dry_spell_frequency,,7
+14521_Erzgebirgskreis,-2.0786662101745605,DSf,year,dry_spell_frequency,,7
+14524_Zwickau,-2.27374267578125,DSf,year,dry_spell_frequency,,7
+14612_Dresden,-2.5171566009521484,DSf,year,dry_spell_frequency,,7
+14626_Görlitz,-2.1676979064941406,DSf,year,dry_spell_frequency,,7
+14625_Bautzen,-2.681429386138916,DSf,year,dry_spell_frequency,,7
+14627_Meißen,-2.692321300506592,DSf,year,dry_spell_frequency,,7
+14628_Sächsische Schweiz-Osterzgebirge,-1.988478183746338,DSf,year,dry_spell_frequency,,7
+14713_Leipzig,-2.1078100204467773,DSf,year,dry_spell_frequency,,7
+14729_Leipzig,-2.059451103210449,DSf,year,dry_spell_frequency,,7
+14730_Nordsachsen,-2.242887496948242,DSf,year,dry_spell_frequency,,7
+15001_Dessau-Roßlau,-2.493795394897461,DSf,year,dry_spell_frequency,,7
+15082_Anhalt-Bitterfeld,-2.453104019165039,DSf,year,dry_spell_frequency,,7
+15091_Wittenberg,-2.162454605102539,DSf,year,dry_spell_frequency,,7
+15002_Halle (Saale),-2.6619386672973633,DSf,year,dry_spell_frequency,,7
+15084_Burgenlandkreis,-1.8940544128417969,DSf,year,dry_spell_frequency,,7
+15088_Saalekreis,-2.274738311767578,DSf,year,dry_spell_frequency,,7
+15087_Mansfeld-Südharz,-2.1768674850463867,DSf,year,dry_spell_frequency,,7
+15003_Magdeburg,-2.252389907836914,DSf,year,dry_spell_frequency,,7
+15085_Harz,-1.9512252807617188,DSf,year,dry_spell_frequency,,7
+15086_Jerichower Land,-2.281609535217285,DSf,year,dry_spell_frequency,,7
+15083_Börde,-2.199770927429199,DSf,year,dry_spell_frequency,,7
+15090_Stendal,-2.1464414596557617,DSf,year,dry_spell_frequency,,7
+15089_Salzlandkreis,-2.3667850494384766,DSf,year,dry_spell_frequency,,7
+15081_Altmarkkreis Salzwedel,-2.245244026184082,DSf,year,dry_spell_frequency,,7
+16051_Erfurt,-2.161912441253662,DSf,year,dry_spell_frequency,,7
+16052_Gera,-1.910161018371582,DSf,year,dry_spell_frequency,,7
+16053_Jena,-2.1180038452148438,DSf,year,dry_spell_frequency,,7
+16054_Suhl,-2.3676319122314453,DSf,year,dry_spell_frequency,,7
+16055_Weimar,-2.1307802200317383,DSf,year,dry_spell_frequency,,7
+16056_Eisenach,-1.8170790672302246,DSf,year,dry_spell_frequency,,7
+16061_Eichsfeld,-1.9091010093688965,DSf,year,dry_spell_frequency,,7
+16062_Nordhausen,-2.107766628265381,DSf,year,dry_spell_frequency,,7
+16063_Wartburgkreis,-2.0411500930786133,DSf,year,dry_spell_frequency,,7
+16064_Unstrut-Hainich-Kreis,-1.8279099464416504,DSf,year,dry_spell_frequency,,7
+16065_Kyffhäuserkreis,-2.258389472961426,DSf,year,dry_spell_frequency,,7
+16066_Schmalkalden-Meiningen,-2.149174213409424,DSf,year,dry_spell_frequency,,7
+16067_Gotha,-2.161430835723877,DSf,year,dry_spell_frequency,,7
+16068_Sömmerda,-2.1985177993774414,DSf,year,dry_spell_frequency,,7
+16069_Hildburghausen,-2.354733467102051,DSf,year,dry_spell_frequency,,7
+16070_Ilm-Kreis,-2.4133453369140625,DSf,year,dry_spell_frequency,,7
+16071_Weimarer Land,-2.0388259887695312,DSf,year,dry_spell_frequency,,7
+16072_Sonneberg,-1.9625015258789062,DSf,year,dry_spell_frequency,,7
+16073_Saalfeld-Rudolstadt,-2.2696890830993652,DSf,year,dry_spell_frequency,,7
+16074_Saale-Holzland-Kreis,-2.0572900772094727,DSf,year,dry_spell_frequency,,7
+16075_Saale-Orla-Kreis,-2.1387362480163574,DSf,year,dry_spell_frequency,,7
+16076_Greiz,-2.1365203857421875,DSf,year,dry_spell_frequency,,7
+16077_Altenburger Land,-2.1391916275024414,DSf,year,dry_spell_frequency,,7
+01001_01059_Region_um_Flensburg,-2.1078739166259766,DSf,year,dry_spell_frequency,,7
+01002_01057_01058_Region_um_Kiel,-1.8867197036743164,DSf,year,dry_spell_frequency,,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,-1.659271240234375,DSf,year,dry_spell_frequency,,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,-1.7608661651611328,DSf,year,dry_spell_frequency,,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,-2.2093796730041504,DSf,year,dry_spell_frequency,,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,-2.2437148094177246,DSf,year,dry_spell_frequency,,7
+03103_03154_03151_Region_um_Wolfsburg,-2.1241254806518555,DSf,year,dry_spell_frequency,,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,-1.9789905548095703,DSf,year,dry_spell_frequency,,7
+03402_03452_03457_Region_um_Emden,-1.7096514701843262,DSf,year,dry_spell_frequency,,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),-1.9427733421325684,DSf,year,dry_spell_frequency,,7
+03404_03459_05566_Region_um_Osnabrück,-2.4624671936035156,DSf,year,dry_spell_frequency,,7
+03405_03455_Region_um_Wilhelmshaven,-1.8151330947875977,DSf,year,dry_spell_frequency,,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,-1.8816657066345215,DSf,year,dry_spell_frequency,,7
+04012_03352_03461_Region_um_Bremerhaven,-2.1694846153259277,DSf,year,dry_spell_frequency,,7
+05111_05162_05158_05112_Region_um_Düsseldorf,-2.6283798217773438,DSf,year,dry_spell_frequency,,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,-2.45424222946167,DSf,year,dry_spell_frequency,,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,-2.3628058433532715,DSf,year,dry_spell_frequency,,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,-2.4802308082580566,DSf,year,dry_spell_frequency,,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,-2.433016777038574,DSf,year,dry_spell_frequency,,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,-2.4066271781921387,DSf,year,dry_spell_frequency,,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,-2.3631625175476074,DSf,year,dry_spell_frequency,,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,-2.4340505599975586,DSf,year,dry_spell_frequency,,7
+05122_05158_05124_05378_05120_Region_um_Solingen,-2.6193857192993164,DSf,year,dry_spell_frequency,,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,-2.453369140625,DSf,year,dry_spell_frequency,,7
+05314_05382_Region_um_Bonn,-2.611328125,DSf,year,dry_spell_frequency,,7
+05316_05315_05378_05158_Region_um_Leverkusen,-2.661106586456299,DSf,year,dry_spell_frequency,,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,-2.3192052841186523,DSf,year,dry_spell_frequency,,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,-2.2829113006591797,DSf,year,dry_spell_frequency,,7
+05515_05566_05558_05570_Region_um_Münster,-2.5691518783569336,DSf,year,dry_spell_frequency,,7
+05711_05754_05758_05766_Region_um_Bielefeld,-2.4621810913085938,DSf,year,dry_spell_frequency,,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,-2.3516831398010254,DSf,year,dry_spell_frequency,,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,-2.4233951568603516,DSf,year,dry_spell_frequency,,7
+05914_05954_05913_05978_05962_Region_um_Hagen,-2.5781373977661133,DSf,year,dry_spell_frequency,,7
+05915_05978_05974_05570_05558_Region_um_Hamm,-2.650777816772461,DSf,year,dry_spell_frequency,,7
+05916_05513_05562_05911_Region_um_Herne,-2.268799304962158,DSf,year,dry_spell_frequency,,7
+06411_06432_06438_Region_um_Darmstadt,-2.312723159790039,DSf,year,dry_spell_frequency,,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,-2.2958264350891113,DSf,year,dry_spell_frequency,,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,-2.4090423583984375,DSf,year,dry_spell_frequency,,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,-2.4202733039855957,DSf,year,dry_spell_frequency,,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,-2.2203917503356934,DSf,year,dry_spell_frequency,,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,-2.3877439498901367,DSf,year,dry_spell_frequency,,7
+06611_06633_03159_Region_um_Kassel,-2.019576072692871,DSf,year,dry_spell_frequency,,7
+07111_07137_07141_07143_Region_um_Koblenz,-2.209036350250244,DSf,year,dry_spell_frequency,,7
+07211_07235_Region_um_Trier,-2.0776572227478027,DSf,year,dry_spell_frequency,,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),-2.3875069618225098,DSf,year,dry_spell_frequency,,7
+07312_07335_07332_Region_um_Kaiserslautern,-2.1536169052124023,DSf,year,dry_spell_frequency,,7
+07313_07337_Region_um_Landau_in_der_Pfalz,-1.6729001998901367,DSf,year,dry_spell_frequency,,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,-2.3996081352233887,DSf,year,dry_spell_frequency,,7
+07315_07339_06414_06433_Region_um_Mainz,-2.6160178184509277,DSf,year,dry_spell_frequency,,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,-1.8541059494018555,DSf,year,dry_spell_frequency,,7
+07317_07340_Region_um_Pirmasens,-1.5571484565734863,DSf,year,dry_spell_frequency,,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,-2.1352009773254395,DSf,year,dry_spell_frequency,,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,-2.238513469696045,DSf,year,dry_spell_frequency,,7
+07320_07340_10045_07317_Region_um_Zweibrücken,-1.6249332427978516,DSf,year,dry_spell_frequency,,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,-2.055962562561035,DSf,year,dry_spell_frequency,,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,-2.085357666015625,DSf,year,dry_spell_frequency,,7
+08121_08125_Region_um_Heilbronn,-1.7876172065734863,DSf,year,dry_spell_frequency,,7
+08211_08216_Region_um_Baden-Baden,-1.735504150390625,DSf,year,dry_spell_frequency,,7
+08212_08215_07334_Region_um_Karlsruhe,-2.1549062728881836,DSf,year,dry_spell_frequency,,7
+08221_08226_08222_Region_um_Heidelberg,-1.9632854461669922,DSf,year,dry_spell_frequency,,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,-2.0102524757385254,DSf,year,dry_spell_frequency,,7
+08231_08236_08235_Region_um_Pforzheim,-1.8703904151916504,DSf,year,dry_spell_frequency,,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,-1.4865498542785645,DSf,year,dry_spell_frequency,,7
+08421_08425_09775_Region_um_Ulm,-1.8045997619628906,DSf,year,dry_spell_frequency,,7
+09161_09176_09185_09186_Region_um_Ingolstadt,-1.9708590507507324,DSf,year,dry_spell_frequency,,7
+09162_09184_09179_09174_Region_um_München,-1.5999550819396973,DSf,year,dry_spell_frequency,,7
+09163_09187_Region_um_Rosenheim,-1.6957950592041016,DSf,year,dry_spell_frequency,,7
+09261_09274_Region_um_Landshut,-2.0671935081481934,DSf,year,dry_spell_frequency,,7
+09262_09275_Region_um_Passau,-2.221050262451172,DSf,year,dry_spell_frequency,,7
+09263_09278_Region_um_Straubing,-2.344982147216797,DSf,year,dry_spell_frequency,,7
+09361_09371_Region_um_Amberg,-1.9902338981628418,DSf,year,dry_spell_frequency,,7
+09362_09375_Region_um_Regensburg,-2.1578145027160645,DSf,year,dry_spell_frequency,,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,-2.0034947395324707,DSf,year,dry_spell_frequency,,7
+09461_09471_Region_um_Bamberg,-2.0799713134765625,DSf,year,dry_spell_frequency,,7
+09462_09472_Region_um_Bayreuth,-1.9818243980407715,DSf,year,dry_spell_frequency,,7
+09463_09473_Region_um_Coburg,-2.113088607788086,DSf,year,dry_spell_frequency,,7
+09464_09475_Region_um_Hof,-2.04099702835083,DSf,year,dry_spell_frequency,,7
+09561_09571_Region_um_Ansbach,-2.262340545654297,DSf,year,dry_spell_frequency,,7
+09562_09572_09564_09563_Region_um_Erlangen,-2.4897332191467285,DSf,year,dry_spell_frequency,,7
+09563_09573_09562_09564_Region_um_Fürth,-2.615995407104492,DSf,year,dry_spell_frequency,,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,-2.317969799041748,DSf,year,dry_spell_frequency,,7
+09565_09576_09564_Region_um_Schwabach,-2.3474864959716797,DSf,year,dry_spell_frequency,,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,-2.2797179222106934,DSf,year,dry_spell_frequency,,7
+09661_09671_09676_Region_um_Aschaffenburg,-2.331601619720459,DSf,year,dry_spell_frequency,,7
+09662_09678_Region_um_Schweinfurt,-2.22603178024292,DSf,year,dry_spell_frequency,,7
+09663_09679_Region_um_Würzburg,-2.333301067352295,DSf,year,dry_spell_frequency,,7
+09761_09772_09771_Region_um_Augsburg,-1.7578320503234863,DSf,year,dry_spell_frequency,,7
+09762_09777_Region_um_Kaufbeuren,-1.7040154933929443,DSf,year,dry_spell_frequency,,7
+09763_09780_Region_um_Kempten_(Allgäu),-1.8857786655426025,DSf,year,dry_spell_frequency,,7
+09764_09778_08436_Region_um_Memmingen,-1.7215404510498047,DSf,year,dry_spell_frequency,,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),-1.731381893157959,DSf,year,dry_spell_frequency,,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,-2.1290178298950195,DSf,year,dry_spell_frequency,,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,-2.311591148376465,DSf,year,dry_spell_frequency,,7
+12052_12071_Region_um_Cottbus,-2.673630714416504,DSf,year,dry_spell_frequency,,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),-2.1415443420410156,DSf,year,dry_spell_frequency,,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,-2.277379035949707,DSf,year,dry_spell_frequency,,7
+13003_13072_Region_um_Rostock,-1.9286870956420898,DSf,year,dry_spell_frequency,,7
+13004_13076_13074_Region_um_Schwerin,-2.1272754669189453,DSf,year,dry_spell_frequency,,7
+14511_14524_14521_14522_Region_um_Chemnitz,-2.1208252906799316,DSf,year,dry_spell_frequency,,7
+14612_14627_14625_14628_Region_um_Dresden,-2.4781951904296875,DSf,year,dry_spell_frequency,,7
+14713_14729_14730_Region_um_Leipzig,-2.153000831604004,DSf,year,dry_spell_frequency,,7
+15001_15091_15082_Region_um_Dessau-Rolau,-2.3006973266601562,DSf,year,dry_spell_frequency,,7
+15002_15088_Region_um_Halle_(Saale),-2.253190040588379,DSf,year,dry_spell_frequency,,7
+15003_15083_15089_15086_Region_um_Magdeburg,-2.267894744873047,DSf,year,dry_spell_frequency,,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,-2.170167922973633,DSf,year,dry_spell_frequency,,7
+16052_16076_15084_16074_Region_um_Gera,-1.8670415878295898,DSf,year,dry_spell_frequency,,7
+16053_16074_16071_16055_Region_um_Jena,-1.9683246612548828,DSf,year,dry_spell_frequency,,7
+16054_16066_16069_16070_Region_um_Suhl,-2.288780689239502,DSf,year,dry_spell_frequency,,7
+16055_16071_Region_um_Weimar,-2.0297584533691406,DSf,year,dry_spell_frequency,,7
+16056_16063_06636_Region_um_Eisenach,-1.9929332733154297,DSf,year,dry_spell_frequency,,7

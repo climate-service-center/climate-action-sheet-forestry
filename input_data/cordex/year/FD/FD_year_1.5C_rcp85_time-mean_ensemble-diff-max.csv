@@ -1,0 +1,512 @@
+region,FD_year_1.5C_rcp85_time-mean_ensemble-diff-max,ci_name,ci_frequency,standard_name,units,mid_month
+01001_Flensburg,-1.037567138671875,FD,year,days_with_air_temperature_below_threshold,days,7
+01002_Kiel,0.6835060119628906,FD,year,days_with_air_temperature_below_threshold,days,7
+01003_Lübeck,-0.382659912109375,FD,year,days_with_air_temperature_below_threshold,days,7
+01004_Neumünster,-0.1021881103515625,FD,year,days_with_air_temperature_below_threshold,days,7
+01051_Dithmarschen,1.3902244567871094,FD,year,days_with_air_temperature_below_threshold,days,7
+01053_Herzogtum Lauenburg,-0.9389610290527344,FD,year,days_with_air_temperature_below_threshold,days,7
+01054_Nordfriesland,1.3734245300292969,FD,year,days_with_air_temperature_below_threshold,days,7
+01055_Ostholstein,-0.11798095703125,FD,year,days_with_air_temperature_below_threshold,days,7
+01057_Plön,-0.15695571899414062,FD,year,days_with_air_temperature_below_threshold,days,7
+01058_Rendsburg-Eckernförde,0.11341094970703125,FD,year,days_with_air_temperature_below_threshold,days,7
+01059_Schleswig-Flensburg,-0.08552169799804688,FD,year,days_with_air_temperature_below_threshold,days,7
+01060_Segeberg,-0.34578704833984375,FD,year,days_with_air_temperature_below_threshold,days,7
+01061_Steinburg,0.35608673095703125,FD,year,days_with_air_temperature_below_threshold,days,7
+01062_Stormarn,-0.42179107666015625,FD,year,days_with_air_temperature_below_threshold,days,7
+02000_Hamburg,1.2512626647949219,FD,year,days_with_air_temperature_below_threshold,days,7
+03101_Braunschweig,-0.5015487670898438,FD,year,days_with_air_temperature_below_threshold,days,7
+03102_Salzgitter,-0.3392791748046875,FD,year,days_with_air_temperature_below_threshold,days,7
+03103_Wolfsburg,-0.055408477783203125,FD,year,days_with_air_temperature_below_threshold,days,7
+03151_Gifhorn,-0.8747673034667969,FD,year,days_with_air_temperature_below_threshold,days,7
+03159_Göttingen,-2.8612289428710938,FD,year,days_with_air_temperature_below_threshold,days,7
+03153_Goslar,-4.227775573730469,FD,year,days_with_air_temperature_below_threshold,days,7
+03154_Helmstedt,-1.0481491088867188,FD,year,days_with_air_temperature_below_threshold,days,7
+03155_Northeim,-2.4204025268554688,FD,year,days_with_air_temperature_below_threshold,days,7
+03157_Peine,-0.4399833679199219,FD,year,days_with_air_temperature_below_threshold,days,7
+03158_Wolfenbüttel,-1.0324668884277344,FD,year,days_with_air_temperature_below_threshold,days,7
+03241_Region Hannover,0.02043914794921875,FD,year,days_with_air_temperature_below_threshold,days,7
+03251_Diepholz,0.2263946533203125,FD,year,days_with_air_temperature_below_threshold,days,7
+03252_Hameln-Pyrmont,-1.3302459716796875,FD,year,days_with_air_temperature_below_threshold,days,7
+03254_Hildesheim,-0.6409835815429688,FD,year,days_with_air_temperature_below_threshold,days,7
+03255_Holzminden,-2.0417442321777344,FD,year,days_with_air_temperature_below_threshold,days,7
+01056_Pinneberg,0.8240814208984375,FD,year,days_with_air_temperature_below_threshold,days,7
+03256_Nienburg (Weser),0.21639251708984375,FD,year,days_with_air_temperature_below_threshold,days,7
+03257_Schaumburg,-0.3826446533203125,FD,year,days_with_air_temperature_below_threshold,days,7
+03351_Celle,-0.9146270751953125,FD,year,days_with_air_temperature_below_threshold,days,7
+03352_Cuxhaven,1.4495582580566406,FD,year,days_with_air_temperature_below_threshold,days,7
+03353_Harburg,-0.31175994873046875,FD,year,days_with_air_temperature_below_threshold,days,7
+03354_Lüchow-Dannenberg,-1.4775810241699219,FD,year,days_with_air_temperature_below_threshold,days,7
+03355_Lüneburg,-1.0448989868164062,FD,year,days_with_air_temperature_below_threshold,days,7
+03356_Osterholz,1.0869216918945312,FD,year,days_with_air_temperature_below_threshold,days,7
+03357_Rotenburg (Wümme),0.3828926086425781,FD,year,days_with_air_temperature_below_threshold,days,7
+03358_Heidekreis,-0.7954216003417969,FD,year,days_with_air_temperature_below_threshold,days,7
+03359_Stade,1.0677528381347656,FD,year,days_with_air_temperature_below_threshold,days,7
+03360_Uelzen,-1.7231330871582031,FD,year,days_with_air_temperature_below_threshold,days,7
+03361_Verden,0.34209442138671875,FD,year,days_with_air_temperature_below_threshold,days,7
+03401_Delmenhorst,-0.08975982666015625,FD,year,days_with_air_temperature_below_threshold,days,7
+03402_Emden,2.6496658325195312,FD,year,days_with_air_temperature_below_threshold,days,7
+03403_Oldenburg (Oldb),0.8439445495605469,FD,year,days_with_air_temperature_below_threshold,days,7
+03404_Osnabrück,0.450775146484375,FD,year,days_with_air_temperature_below_threshold,days,7
+03405_Wilhelmshaven,2.566478729248047,FD,year,days_with_air_temperature_below_threshold,days,7
+03451_Ammerland,1.0859222412109375,FD,year,days_with_air_temperature_below_threshold,days,7
+03452_Aurich,2.0804519653320312,FD,year,days_with_air_temperature_below_threshold,days,7
+03453_Cloppenburg,0.8569297790527344,FD,year,days_with_air_temperature_below_threshold,days,7
+03454_Emsland,1.2380828857421875,FD,year,days_with_air_temperature_below_threshold,days,7
+03455_Friesland,1.4667587280273438,FD,year,days_with_air_temperature_below_threshold,days,7
+03456_Grafschaft Bentheim,0.4019927978515625,FD,year,days_with_air_temperature_below_threshold,days,7
+03457_Leer,1.6335906982421875,FD,year,days_with_air_temperature_below_threshold,days,7
+03458_Oldenburg,0.4472236633300781,FD,year,days_with_air_temperature_below_threshold,days,7
+03459_Osnabrück,0.5818939208984375,FD,year,days_with_air_temperature_below_threshold,days,7
+03460_Vechta,0.09667205810546875,FD,year,days_with_air_temperature_below_threshold,days,7
+03461_Wesermarsch,1.2595977783203125,FD,year,days_with_air_temperature_below_threshold,days,7
+03462_Wittmund,1.3875732421875,FD,year,days_with_air_temperature_below_threshold,days,7
+04011_Bremen,1.0905113220214844,FD,year,days_with_air_temperature_below_threshold,days,7
+04012_Bremerhaven,1.1462326049804688,FD,year,days_with_air_temperature_below_threshold,days,7
+05111_Düsseldorf,-0.1652812957763672,FD,year,days_with_air_temperature_below_threshold,days,7
+05112_Duisburg,0.501129150390625,FD,year,days_with_air_temperature_below_threshold,days,7
+05113_Essen,0.5924491882324219,FD,year,days_with_air_temperature_below_threshold,days,7
+05114_Krefeld,-0.020933151245117188,FD,year,days_with_air_temperature_below_threshold,days,7
+05116_Mönchengladbach,0.08164024353027344,FD,year,days_with_air_temperature_below_threshold,days,7
+05117_Mülheim an der Ruhr,0.06688308715820312,FD,year,days_with_air_temperature_below_threshold,days,7
+05119_Oberhausen,1.0666942596435547,FD,year,days_with_air_temperature_below_threshold,days,7
+05120_Remscheid,-1.8645896911621094,FD,year,days_with_air_temperature_below_threshold,days,7
+05122_Solingen,-1.1974258422851562,FD,year,days_with_air_temperature_below_threshold,days,7
+05124_Wuppertal,-1.2200736999511719,FD,year,days_with_air_temperature_below_threshold,days,7
+05154_Kleve,0.6025676727294922,FD,year,days_with_air_temperature_below_threshold,days,7
+05158_Mettmann,-0.2155628204345703,FD,year,days_with_air_temperature_below_threshold,days,7
+05162_Rhein-Kreis Neuss,-0.2705211639404297,FD,year,days_with_air_temperature_below_threshold,days,7
+05166_Viersen,-0.031909942626953125,FD,year,days_with_air_temperature_below_threshold,days,7
+05170_Wesel,0.3686065673828125,FD,year,days_with_air_temperature_below_threshold,days,7
+05314_Bonn,-1.2876148223876953,FD,year,days_with_air_temperature_below_threshold,days,7
+05315_Köln,-0.08886337280273438,FD,year,days_with_air_temperature_below_threshold,days,7
+05316_Leverkusen,-0.08838462829589844,FD,year,days_with_air_temperature_below_threshold,days,7
+05334_Städteregion Aachen,-2.232860565185547,FD,year,days_with_air_temperature_below_threshold,days,7
+05358_Düren,-1.2716445922851562,FD,year,days_with_air_temperature_below_threshold,days,7
+05362_Rhein-Erft-Kreis,-0.7177200317382812,FD,year,days_with_air_temperature_below_threshold,days,7
+05366_Euskirchen,-5.008209228515625,FD,year,days_with_air_temperature_below_threshold,days,7
+05370_Heinsberg,-0.196319580078125,FD,year,days_with_air_temperature_below_threshold,days,7
+05374_Oberbergischer Kreis,-2.7711563110351562,FD,year,days_with_air_temperature_below_threshold,days,7
+05378_Rheinisch-Bergischer Kreis,-1.3428688049316406,FD,year,days_with_air_temperature_below_threshold,days,7
+05382_Rhein-Sieg-Kreis,-1.3877906799316406,FD,year,days_with_air_temperature_below_threshold,days,7
+05512_Bottrop,1.1106491088867188,FD,year,days_with_air_temperature_below_threshold,days,7
+05513_Gelsenkirchen,1.1079025268554688,FD,year,days_with_air_temperature_below_threshold,days,7
+05515_Münster,0.19567489624023438,FD,year,days_with_air_temperature_below_threshold,days,7
+05554_Borken,-0.08705902099609375,FD,year,days_with_air_temperature_below_threshold,days,7
+05558_Coesfeld,0.18280029296875,FD,year,days_with_air_temperature_below_threshold,days,7
+05562_Recklinghausen,0.8768100738525391,FD,year,days_with_air_temperature_below_threshold,days,7
+05566_Steinfurt,0.5298690795898438,FD,year,days_with_air_temperature_below_threshold,days,7
+05570_Warendorf,0.244842529296875,FD,year,days_with_air_temperature_below_threshold,days,7
+05711_Bielefeld,-0.2904701232910156,FD,year,days_with_air_temperature_below_threshold,days,7
+05754_Gütersloh,0.07240676879882812,FD,year,days_with_air_temperature_below_threshold,days,7
+05758_Herford,0.4813232421875,FD,year,days_with_air_temperature_below_threshold,days,7
+05762_Höxter,-1.6766204833984375,FD,year,days_with_air_temperature_below_threshold,days,7
+05766_Lippe,-0.9185676574707031,FD,year,days_with_air_temperature_below_threshold,days,7
+05770_Minden-Lübbecke,0.4561347961425781,FD,year,days_with_air_temperature_below_threshold,days,7
+05774_Paderborn,-0.7361793518066406,FD,year,days_with_air_temperature_below_threshold,days,7
+05911_Bochum,0.5133152008056641,FD,year,days_with_air_temperature_below_threshold,days,7
+05913_Dortmund,0.8257827758789062,FD,year,days_with_air_temperature_below_threshold,days,7
+05914_Hagen,-0.7479782104492188,FD,year,days_with_air_temperature_below_threshold,days,7
+05915_Hamm,-0.030818939208984375,FD,year,days_with_air_temperature_below_threshold,days,7
+05916_Herne,1.1383476257324219,FD,year,days_with_air_temperature_below_threshold,days,7
+05954_Ennepe-Ruhr-Kreis,-0.7679100036621094,FD,year,days_with_air_temperature_below_threshold,days,7
+05958_Hochsauerlandkreis,-5.055202484130859,FD,year,days_with_air_temperature_below_threshold,days,7
+05962_Märkischer Kreis,-2.4236717224121094,FD,year,days_with_air_temperature_below_threshold,days,7
+05966_Olpe,-4.489326477050781,FD,year,days_with_air_temperature_below_threshold,days,7
+05970_Siegen-Wittgenstein,-5.864990234375,FD,year,days_with_air_temperature_below_threshold,days,7
+05974_Soest,-0.15494155883789062,FD,year,days_with_air_temperature_below_threshold,days,7
+05978_Unna,0.511505126953125,FD,year,days_with_air_temperature_below_threshold,days,7
+06411_Darmstadt,-1.8672294616699219,FD,year,days_with_air_temperature_below_threshold,days,7
+06412_Frankfurt am Main,-1.0544395446777344,FD,year,days_with_air_temperature_below_threshold,days,7
+06413_Offenbach am Main,-0.6406898498535156,FD,year,days_with_air_temperature_below_threshold,days,7
+06414_Wiesbaden,-1.6307258605957031,FD,year,days_with_air_temperature_below_threshold,days,7
+06431_Bergstraße,-2.7225723266601562,FD,year,days_with_air_temperature_below_threshold,days,7
+06432_Darmstadt-Dieburg,-2.08135986328125,FD,year,days_with_air_temperature_below_threshold,days,7
+06433_Groß-Gerau,-1.0006294250488281,FD,year,days_with_air_temperature_below_threshold,days,7
+06434_Hochtaunuskreis,-1.8293991088867188,FD,year,days_with_air_temperature_below_threshold,days,7
+06435_Main-Kinzig-Kreis,-3.131175994873047,FD,year,days_with_air_temperature_below_threshold,days,7
+06436_Main-Taunus-Kreis,-2.1083412170410156,FD,year,days_with_air_temperature_below_threshold,days,7
+06437_Odenwaldkreis,-4.258106231689453,FD,year,days_with_air_temperature_below_threshold,days,7
+06438_Offenbach,-0.9716796875,FD,year,days_with_air_temperature_below_threshold,days,7
+06439_Rheingau-Taunus-Kreis,-2.6602096557617188,FD,year,days_with_air_temperature_below_threshold,days,7
+06440_Wetteraukreis,-1.9461746215820312,FD,year,days_with_air_temperature_below_threshold,days,7
+06531_Gießen,-1.843017578125,FD,year,days_with_air_temperature_below_threshold,days,7
+06532_Lahn-Dill-Kreis,-3.3102149963378906,FD,year,days_with_air_temperature_below_threshold,days,7
+06533_Limburg-Weilburg,-2.7122573852539062,FD,year,days_with_air_temperature_below_threshold,days,7
+06534_Marburg-Biedenkopf,-2.8597755432128906,FD,year,days_with_air_temperature_below_threshold,days,7
+06535_Vogelsbergkreis,-4.723712921142578,FD,year,days_with_air_temperature_below_threshold,days,7
+06611_Kassel,-2.1831512451171875,FD,year,days_with_air_temperature_below_threshold,days,7
+06631_Fulda,-5.49725341796875,FD,year,days_with_air_temperature_below_threshold,days,7
+06632_Hersfeld-Rotenburg,-3.4102096557617188,FD,year,days_with_air_temperature_below_threshold,days,7
+06633_Kassel,-2.4843788146972656,FD,year,days_with_air_temperature_below_threshold,days,7
+06634_Schwalm-Eder-Kreis,-3.460498809814453,FD,year,days_with_air_temperature_below_threshold,days,7
+06635_Waldeck-Frankenberg,-4.256725311279297,FD,year,days_with_air_temperature_below_threshold,days,7
+06636_Werra-Meißner-Kreis,-2.9123611450195312,FD,year,days_with_air_temperature_below_threshold,days,7
+07111_Koblenz,-1.19207763671875,FD,year,days_with_air_temperature_below_threshold,days,7
+07131_Ahrweiler,-3.9365234375,FD,year,days_with_air_temperature_below_threshold,days,7
+07132_Altenkirchen (Westerwald),-2.99005126953125,FD,year,days_with_air_temperature_below_threshold,days,7
+07133_Bad Kreuznach,-2.960834503173828,FD,year,days_with_air_temperature_below_threshold,days,7
+07134_Birkenfeld,-5.464115142822266,FD,year,days_with_air_temperature_below_threshold,days,7
+07135_Cochem-Zell,-3.430133819580078,FD,year,days_with_air_temperature_below_threshold,days,7
+07137_Mayen-Koblenz,-2.7576217651367188,FD,year,days_with_air_temperature_below_threshold,days,7
+07138_Neuwied,-1.3309173583984375,FD,year,days_with_air_temperature_below_threshold,days,7
+07140_Rhein-Hunsrück-Kreis,-3.6127548217773438,FD,year,days_with_air_temperature_below_threshold,days,7
+07141_Rhein-Lahn-Kreis,-2.337249755859375,FD,year,days_with_air_temperature_below_threshold,days,7
+07143_Westerwaldkreis,-3.304676055908203,FD,year,days_with_air_temperature_below_threshold,days,7
+07211_Trier,-2.9904403686523438,FD,year,days_with_air_temperature_below_threshold,days,7
+07231_Bernkastel-Wittlich,-3.4292068481445312,FD,year,days_with_air_temperature_below_threshold,days,7
+07232_Eifelkreis Bitburg-Prüm,-5.28033447265625,FD,year,days_with_air_temperature_below_threshold,days,7
+07233_Vulkaneifel,-6.49066162109375,FD,year,days_with_air_temperature_below_threshold,days,7
+07235_Trier-Saarburg,-3.8264923095703125,FD,year,days_with_air_temperature_below_threshold,days,7
+07311_Frankenthal (Pfalz),0.3871192932128906,FD,year,days_with_air_temperature_below_threshold,days,7
+07312_Kaiserslautern,-2.752685546875,FD,year,days_with_air_temperature_below_threshold,days,7
+07313_Landau in der Pfalz,-1.8241310119628906,FD,year,days_with_air_temperature_below_threshold,days,7
+07314_Ludwigshafen am Rhein,0.15427780151367188,FD,year,days_with_air_temperature_below_threshold,days,7
+07315_Mainz,-0.7991065979003906,FD,year,days_with_air_temperature_below_threshold,days,7
+07316_Neustadt an der Weinstraße,-0.31578826904296875,FD,year,days_with_air_temperature_below_threshold,days,7
+07317_Pirmasens,-3.2107315063476562,FD,year,days_with_air_temperature_below_threshold,days,7
+07318_Speyer,-0.6031150817871094,FD,year,days_with_air_temperature_below_threshold,days,7
+07319_Worms,0.2188720703125,FD,year,days_with_air_temperature_below_threshold,days,7
+07320_Zweibrücken,-2.2461929321289062,FD,year,days_with_air_temperature_below_threshold,days,7
+07331_Alzey-Worms,-0.8170509338378906,FD,year,days_with_air_temperature_below_threshold,days,7
+07332_Bad Dürkheim,-1.1908111572265625,FD,year,days_with_air_temperature_below_threshold,days,7
+07333_Donnersbergkreis,-2.3706092834472656,FD,year,days_with_air_temperature_below_threshold,days,7
+07334_Germersheim,-0.887969970703125,FD,year,days_with_air_temperature_below_threshold,days,7
+07335_Kaiserslautern,-3.1283836364746094,FD,year,days_with_air_temperature_below_threshold,days,7
+07336_Kusel,-3.4752578735351562,FD,year,days_with_air_temperature_below_threshold,days,7
+07337_Südliche Weinstraße,-1.4732513427734375,FD,year,days_with_air_temperature_below_threshold,days,7
+07338_Rhein-Pfalz-Kreis,0.017333984375,FD,year,days_with_air_temperature_below_threshold,days,7
+07339_Mainz-Bingen,-1.3902397155761719,FD,year,days_with_air_temperature_below_threshold,days,7
+07340_Südwestpfalz,-3.379375457763672,FD,year,days_with_air_temperature_below_threshold,days,7
+08111_Stuttgart,-3.9047927856445312,FD,year,days_with_air_temperature_below_threshold,days,7
+08115_Böblingen,-4.0301971435546875,FD,year,days_with_air_temperature_below_threshold,days,7
+08116_Esslingen,-5.11395263671875,FD,year,days_with_air_temperature_below_threshold,days,7
+08117_Göppingen,-5.4122161865234375,FD,year,days_with_air_temperature_below_threshold,days,7
+08118_Ludwigsburg,-3.1677589416503906,FD,year,days_with_air_temperature_below_threshold,days,7
+08119_Rems-Murr-Kreis,-4.747768402099609,FD,year,days_with_air_temperature_below_threshold,days,7
+08121_Heilbronn,-2.0022354125976562,FD,year,days_with_air_temperature_below_threshold,days,7
+08125_Heilbronn,-2.4025726318359375,FD,year,days_with_air_temperature_below_threshold,days,7
+08126_Hohenlohekreis,-4.323631286621094,FD,year,days_with_air_temperature_below_threshold,days,7
+08127_Schwäbisch Hall,-4.877140045166016,FD,year,days_with_air_temperature_below_threshold,days,7
+08128_Main-Tauber-Kreis,-3.4326820373535156,FD,year,days_with_air_temperature_below_threshold,days,7
+08135_Heidenheim,-5.8948822021484375,FD,year,days_with_air_temperature_below_threshold,days,7
+08136_Ostalbkreis,-5.284431457519531,FD,year,days_with_air_temperature_below_threshold,days,7
+08211_Baden-Baden,-3.732677459716797,FD,year,days_with_air_temperature_below_threshold,days,7
+08212_Karlsruhe,-0.22156524658203125,FD,year,days_with_air_temperature_below_threshold,days,7
+08215_Karlsruhe,-1.1985969543457031,FD,year,days_with_air_temperature_below_threshold,days,7
+08216_Rastatt,-3.9630966186523438,FD,year,days_with_air_temperature_below_threshold,days,7
+08221_Heidelberg,-2.6024093627929688,FD,year,days_with_air_temperature_below_threshold,days,7
+08222_Mannheim,-0.40171051025390625,FD,year,days_with_air_temperature_below_threshold,days,7
+08225_Neckar-Odenwald-Kreis,-3.9672584533691406,FD,year,days_with_air_temperature_below_threshold,days,7
+08226_Rhein-Neckar-Kreis,-2.2072296142578125,FD,year,days_with_air_temperature_below_threshold,days,7
+08231_Pforzheim,-4.3522796630859375,FD,year,days_with_air_temperature_below_threshold,days,7
+08235_Calw,-6.3586883544921875,FD,year,days_with_air_temperature_below_threshold,days,7
+08236_Enzkreis,-3.693714141845703,FD,year,days_with_air_temperature_below_threshold,days,7
+08237_Freudenstadt,-7.6275787353515625,FD,year,days_with_air_temperature_below_threshold,days,7
+08311_Freiburg im Breisgau,-3.0560073852539062,FD,year,days_with_air_temperature_below_threshold,days,7
+08315_Breisgau-Hochschwarzwald,-5.375694274902344,FD,year,days_with_air_temperature_below_threshold,days,7
+08316_Emmendingen,-4.494174957275391,FD,year,days_with_air_temperature_below_threshold,days,7
+08317_Ortenaukreis,-4.328517913818359,FD,year,days_with_air_temperature_below_threshold,days,7
+08325_Rottweil,-7.2009124755859375,FD,year,days_with_air_temperature_below_threshold,days,7
+08326_Schwarzwald-Baar-Kreis,-7.731727600097656,FD,year,days_with_air_temperature_below_threshold,days,7
+08327_Tuttlingen,-7.6682586669921875,FD,year,days_with_air_temperature_below_threshold,days,7
+08335_Konstanz,-6.269458770751953,FD,year,days_with_air_temperature_below_threshold,days,7
+08336_Lörrach,-5.1349945068359375,FD,year,days_with_air_temperature_below_threshold,days,7
+08337_Waldshut,-7.39349365234375,FD,year,days_with_air_temperature_below_threshold,days,7
+08415_Reutlingen,-7.2804718017578125,FD,year,days_with_air_temperature_below_threshold,days,7
+08416_Tübingen,-5.887153625488281,FD,year,days_with_air_temperature_below_threshold,days,7
+08417_Zollernalbkreis,-7.152229309082031,FD,year,days_with_air_temperature_below_threshold,days,7
+08421_Ulm,-6.4678497314453125,FD,year,days_with_air_temperature_below_threshold,days,7
+08425_Alb-Donau-Kreis,-7.140846252441406,FD,year,days_with_air_temperature_below_threshold,days,7
+08426_Biberach,-7.090633392333984,FD,year,days_with_air_temperature_below_threshold,days,7
+08435_Bodenseekreis,-4.784030914306641,FD,year,days_with_air_temperature_below_threshold,days,7
+08436_Ravensburg,-7.872520446777344,FD,year,days_with_air_temperature_below_threshold,days,7
+08437_Sigmaringen,-8.123924255371094,FD,year,days_with_air_temperature_below_threshold,days,7
+09161_Ingolstadt,-3.9658775329589844,FD,year,days_with_air_temperature_below_threshold,days,7
+09162_München,-4.7555694580078125,FD,year,days_with_air_temperature_below_threshold,days,7
+09163_Rosenheim,-6.129371643066406,FD,year,days_with_air_temperature_below_threshold,days,7
+09171_Altötting,-2.6674880981445312,FD,year,days_with_air_temperature_below_threshold,days,7
+09172_Berchtesgadener Land,-6.125724792480469,FD,year,days_with_air_temperature_below_threshold,days,7
+09173_Bad Tölz-Wolfratshausen,-6.03094482421875,FD,year,days_with_air_temperature_below_threshold,days,7
+09174_Dachau,-5.348762512207031,FD,year,days_with_air_temperature_below_threshold,days,7
+09175_Ebersberg,-5.3966522216796875,FD,year,days_with_air_temperature_below_threshold,days,7
+09176_Eichstätt,-4.530998229980469,FD,year,days_with_air_temperature_below_threshold,days,7
+09177_Erding,-3.9195327758789062,FD,year,days_with_air_temperature_below_threshold,days,7
+09178_Freising,-4.117439270019531,FD,year,days_with_air_temperature_below_threshold,days,7
+09179_Fürstenfeldbruck,-6.11322021484375,FD,year,days_with_air_temperature_below_threshold,days,7
+09180_Garmisch-Partenkirchen,-6.023712158203125,FD,year,days_with_air_temperature_below_threshold,days,7
+09181_Landsberg am Lech,-7.1837921142578125,FD,year,days_with_air_temperature_below_threshold,days,7
+09182_Miesbach,-5.668312072753906,FD,year,days_with_air_temperature_below_threshold,days,7
+09183_Mühldorf a. Inn,-4.015552520751953,FD,year,days_with_air_temperature_below_threshold,days,7
+09184_München,-5.744972229003906,FD,year,days_with_air_temperature_below_threshold,days,7
+09185_Neuburg-Schrobenhausen,-4.080425262451172,FD,year,days_with_air_temperature_below_threshold,days,7
+09186_Pfaffenhofen a.d. Ilm,-3.9890670776367188,FD,year,days_with_air_temperature_below_threshold,days,7
+09187_Rosenheim,-6.521522521972656,FD,year,days_with_air_temperature_below_threshold,days,7
+09188_Starnberg,-6.179679870605469,FD,year,days_with_air_temperature_below_threshold,days,7
+09189_Traunstein,-6.86883544921875,FD,year,days_with_air_temperature_below_threshold,days,7
+09190_Weilheim-Schongau,-6.535423278808594,FD,year,days_with_air_temperature_below_threshold,days,7
+09261_Landshut,-3.9253082275390625,FD,year,days_with_air_temperature_below_threshold,days,7
+09262_Passau,-6.695423126220703,FD,year,days_with_air_temperature_below_threshold,days,7
+09263_Straubing,-5.191688537597656,FD,year,days_with_air_temperature_below_threshold,days,7
+09271_Deggendorf,-6.415946960449219,FD,year,days_with_air_temperature_below_threshold,days,7
+09272_Freyung-Grafenau,-6.8943939208984375,FD,year,days_with_air_temperature_below_threshold,days,7
+09273_Kelheim,-3.523487091064453,FD,year,days_with_air_temperature_below_threshold,days,7
+09274_Landshut,-3.9297866821289062,FD,year,days_with_air_temperature_below_threshold,days,7
+09275_Passau,-5.857723236083984,FD,year,days_with_air_temperature_below_threshold,days,7
+09276_Regen,-7.029472351074219,FD,year,days_with_air_temperature_below_threshold,days,7
+09277_Rottal-Inn,-3.1817779541015625,FD,year,days_with_air_temperature_below_threshold,days,7
+09278_Straubing-Bogen,-5.5762176513671875,FD,year,days_with_air_temperature_below_threshold,days,7
+09279_Dingolfing-Landau,-3.0703582763671875,FD,year,days_with_air_temperature_below_threshold,days,7
+09361_Amberg,-4.4532928466796875,FD,year,days_with_air_temperature_below_threshold,days,7
+09362_Regensburg,-3.6157989501953125,FD,year,days_with_air_temperature_below_threshold,days,7
+09363_Weiden i.d. OPf.,-5.7339935302734375,FD,year,days_with_air_temperature_below_threshold,days,7
+09371_Amberg-Sulzbach,-4.581451416015625,FD,year,days_with_air_temperature_below_threshold,days,7
+09372_Cham,-6.7577972412109375,FD,year,days_with_air_temperature_below_threshold,days,7
+09373_Neumarkt i.d. OPf.,-4.767974853515625,FD,year,days_with_air_temperature_below_threshold,days,7
+09374_Neustadt a.d. Waldnaab,-6.27276611328125,FD,year,days_with_air_temperature_below_threshold,days,7
+09375_Regensburg,-4.631935119628906,FD,year,days_with_air_temperature_below_threshold,days,7
+09376_Schwandorf,-5.543693542480469,FD,year,days_with_air_temperature_below_threshold,days,7
+09377_Tirschenreuth,-7.6908416748046875,FD,year,days_with_air_temperature_below_threshold,days,7
+09461_Bamberg,-3.304668426513672,FD,year,days_with_air_temperature_below_threshold,days,7
+09462_Bayreuth,-5.525382995605469,FD,year,days_with_air_temperature_below_threshold,days,7
+09463_Coburg,-5.194385528564453,FD,year,days_with_air_temperature_below_threshold,days,7
+09464_Hof,-7.352287292480469,FD,year,days_with_air_temperature_below_threshold,days,7
+09471_Bamberg,-3.9309120178222656,FD,year,days_with_air_temperature_below_threshold,days,7
+09472_Bayreuth,-6.08087158203125,FD,year,days_with_air_temperature_below_threshold,days,7
+09473_Coburg,-4.5911102294921875,FD,year,days_with_air_temperature_below_threshold,days,7
+09474_Forchheim,-4.37286376953125,FD,year,days_with_air_temperature_below_threshold,days,7
+09475_Hof,-8.272712707519531,FD,year,days_with_air_temperature_below_threshold,days,7
+09476_Kronach,-7.756004333496094,FD,year,days_with_air_temperature_below_threshold,days,7
+09477_Kulmbach,-5.678047180175781,FD,year,days_with_air_temperature_below_threshold,days,7
+09478_Lichtenfels,-4.563610076904297,FD,year,days_with_air_temperature_below_threshold,days,7
+09479_Wunsiedel i. Fichtelgebirge,-7.818061828613281,FD,year,days_with_air_temperature_below_threshold,days,7
+09561_Ansbach,-4.870944976806641,FD,year,days_with_air_temperature_below_threshold,days,7
+09562_Erlangen,-2.021778106689453,FD,year,days_with_air_temperature_below_threshold,days,7
+09563_Fürth,-2.2053794860839844,FD,year,days_with_air_temperature_below_threshold,days,7
+09564_Nürnberg,-2.1506385803222656,FD,year,days_with_air_temperature_below_threshold,days,7
+09565_Schwabach,-2.417308807373047,FD,year,days_with_air_temperature_below_threshold,days,7
+09571_Ansbach,-4.537525177001953,FD,year,days_with_air_temperature_below_threshold,days,7
+09572_Erlangen-Höchstadt,-2.5351104736328125,FD,year,days_with_air_temperature_below_threshold,days,7
+09573_Fürth,-2.9192428588867188,FD,year,days_with_air_temperature_below_threshold,days,7
+09574_Nürnberger Land,-3.893157958984375,FD,year,days_with_air_temperature_below_threshold,days,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,-3.279266357421875,FD,year,days_with_air_temperature_below_threshold,days,7
+09576_Roth,-3.080474853515625,FD,year,days_with_air_temperature_below_threshold,days,7
+09577_Weißenburg-Gunzenhausen,-5.077720642089844,FD,year,days_with_air_temperature_below_threshold,days,7
+09661_Aschaffenburg,-1.5772132873535156,FD,year,days_with_air_temperature_below_threshold,days,7
+09662_Schweinfurt,-3.1000022888183594,FD,year,days_with_air_temperature_below_threshold,days,7
+09663_Würzburg,-2.4047889709472656,FD,year,days_with_air_temperature_below_threshold,days,7
+09671_Aschaffenburg,-2.5171775817871094,FD,year,days_with_air_temperature_below_threshold,days,7
+09672_Bad Kissingen,-4.823036193847656,FD,year,days_with_air_temperature_below_threshold,days,7
+09673_Rhön-Grabfeld,-4.882293701171875,FD,year,days_with_air_temperature_below_threshold,days,7
+09674_Haßberge,-3.2694244384765625,FD,year,days_with_air_temperature_below_threshold,days,7
+09675_Kitzingen,-3.2014999389648438,FD,year,days_with_air_temperature_below_threshold,days,7
+09676_Miltenberg,-3.1287994384765625,FD,year,days_with_air_temperature_below_threshold,days,7
+09677_Main-Spessart,-3.480846405029297,FD,year,days_with_air_temperature_below_threshold,days,7
+09678_Schweinfurt,-3.417552947998047,FD,year,days_with_air_temperature_below_threshold,days,7
+09679_Würzburg,-2.6915321350097656,FD,year,days_with_air_temperature_below_threshold,days,7
+09761_Augsburg,-5.575870513916016,FD,year,days_with_air_temperature_below_threshold,days,7
+09762_Kaufbeuren,-6.673194885253906,FD,year,days_with_air_temperature_below_threshold,days,7
+09763_Kempten (Allgäu),-6.103729248046875,FD,year,days_with_air_temperature_below_threshold,days,7
+09764_Memmingen,-7.563335418701172,FD,year,days_with_air_temperature_below_threshold,days,7
+09771_Aichach-Friedberg,-5.149654388427734,FD,year,days_with_air_temperature_below_threshold,days,7
+09772_Augsburg,-5.565891265869141,FD,year,days_with_air_temperature_below_threshold,days,7
+09773_Dillingen a.d. Donau,-5.260040283203125,FD,year,days_with_air_temperature_below_threshold,days,7
+09774_Günzburg,-5.519229888916016,FD,year,days_with_air_temperature_below_threshold,days,7
+09775_Neu-Ulm,-5.9015045166015625,FD,year,days_with_air_temperature_below_threshold,days,7
+09776_Lindau (Bodensee),-7.4706878662109375,FD,year,days_with_air_temperature_below_threshold,days,7
+09777_Ostallgäu,-6.39398193359375,FD,year,days_with_air_temperature_below_threshold,days,7
+09778_Unterallgäu,-7.02789306640625,FD,year,days_with_air_temperature_below_threshold,days,7
+09779_Donau-Ries,-4.920024871826172,FD,year,days_with_air_temperature_below_threshold,days,7
+09780_Oberallgäu,-5.810943603515625,FD,year,days_with_air_temperature_below_threshold,days,7
+10041_Regionalverband Saarbrücken,-2.4873886108398438,FD,year,days_with_air_temperature_below_threshold,days,7
+10042_Merzig-Wadern,-4.310707092285156,FD,year,days_with_air_temperature_below_threshold,days,7
+10043_Neunkirchen,-3.13323974609375,FD,year,days_with_air_temperature_below_threshold,days,7
+10044_Saarlouis,-2.972686767578125,FD,year,days_with_air_temperature_below_threshold,days,7
+10045_Saarpfalz-Kreis,-2.712909698486328,FD,year,days_with_air_temperature_below_threshold,days,7
+10046_St. Wendel,-4.79046630859375,FD,year,days_with_air_temperature_below_threshold,days,7
+11000_Berlin,-0.3919486999511719,FD,year,days_with_air_temperature_below_threshold,days,7
+12051_Brandenburg an der Havel,-0.7679672241210938,FD,year,days_with_air_temperature_below_threshold,days,7
+12052_Cottbus,-1.6487464904785156,FD,year,days_with_air_temperature_below_threshold,days,7
+12053_Frankfurt (Oder),-2.3314781188964844,FD,year,days_with_air_temperature_below_threshold,days,7
+12054_Potsdam,-0.8124580383300781,FD,year,days_with_air_temperature_below_threshold,days,7
+12060_Barnim,-2.4078445434570312,FD,year,days_with_air_temperature_below_threshold,days,7
+12061_Dahme-Spreewald,-1.8479385375976562,FD,year,days_with_air_temperature_below_threshold,days,7
+12062_Elbe-Elster,-1.6250953674316406,FD,year,days_with_air_temperature_below_threshold,days,7
+12063_Havelland,-1.5676803588867188,FD,year,days_with_air_temperature_below_threshold,days,7
+12064_Märkisch-Oderland,-2.9418983459472656,FD,year,days_with_air_temperature_below_threshold,days,7
+12065_Oberhavel,-2.0970802307128906,FD,year,days_with_air_temperature_below_threshold,days,7
+12066_Oberspreewald-Lausitz,-1.3267059326171875,FD,year,days_with_air_temperature_below_threshold,days,7
+12067_Oder-Spree,-2.7386322021484375,FD,year,days_with_air_temperature_below_threshold,days,7
+12068_Ostprignitz-Ruppin,-2.4951553344726562,FD,year,days_with_air_temperature_below_threshold,days,7
+12069_Potsdam-Mittelmark,-2.1032676696777344,FD,year,days_with_air_temperature_below_threshold,days,7
+12070_Prignitz,-2.1902694702148438,FD,year,days_with_air_temperature_below_threshold,days,7
+12071_Spree-Neiße,-2.069385528564453,FD,year,days_with_air_temperature_below_threshold,days,7
+12072_Teltow-Fläming,-2.328289031982422,FD,year,days_with_air_temperature_below_threshold,days,7
+12073_Uckermark,-1.5000648498535156,FD,year,days_with_air_temperature_below_threshold,days,7
+13003_Rostock,-0.7804985046386719,FD,year,days_with_air_temperature_below_threshold,days,7
+13004_Schwerin,-1.567626953125,FD,year,days_with_air_temperature_below_threshold,days,7
+13072_Rostock,-0.5542984008789062,FD,year,days_with_air_temperature_below_threshold,days,7
+13076_Ludwigslust-Parchim,-1.8125152587890625,FD,year,days_with_air_temperature_below_threshold,days,7
+13071_Mecklenburgische Seenplatte,-0.7113227844238281,FD,year,days_with_air_temperature_below_threshold,days,7
+13073_Vorpommern-Rügen,-0.4984130859375,FD,year,days_with_air_temperature_below_threshold,days,7
+13074_Nordwestmecklenburg,-0.9434738159179688,FD,year,days_with_air_temperature_below_threshold,days,7
+13075_Vorpommern-Greifswald,-1.4545021057128906,FD,year,days_with_air_temperature_below_threshold,days,7
+14511_Chemnitz,-4.232818603515625,FD,year,days_with_air_temperature_below_threshold,days,7
+14522_Mittelsachsen,-4.7660064697265625,FD,year,days_with_air_temperature_below_threshold,days,7
+14523_Vogtlandkreis,-7.380683898925781,FD,year,days_with_air_temperature_below_threshold,days,7
+14521_Erzgebirgskreis,-8.09466552734375,FD,year,days_with_air_temperature_below_threshold,days,7
+14524_Zwickau,-3.9342994689941406,FD,year,days_with_air_temperature_below_threshold,days,7
+14612_Dresden,-2.7031211853027344,FD,year,days_with_air_temperature_below_threshold,days,7
+14626_Görlitz,-4.160991668701172,FD,year,days_with_air_temperature_below_threshold,days,7
+14625_Bautzen,-3.369457244873047,FD,year,days_with_air_temperature_below_threshold,days,7
+14627_Meißen,-1.9161109924316406,FD,year,days_with_air_temperature_below_threshold,days,7
+14628_Sächsische Schweiz-Osterzgebirge,-5.902839660644531,FD,year,days_with_air_temperature_below_threshold,days,7
+14713_Leipzig,-1.3089141845703125,FD,year,days_with_air_temperature_below_threshold,days,7
+14729_Leipzig,-1.8919639587402344,FD,year,days_with_air_temperature_below_threshold,days,7
+14730_Nordsachsen,-1.4802169799804688,FD,year,days_with_air_temperature_below_threshold,days,7
+15001_Dessau-Roßlau,-1.6592864990234375,FD,year,days_with_air_temperature_below_threshold,days,7
+15082_Anhalt-Bitterfeld,-1.7133293151855469,FD,year,days_with_air_temperature_below_threshold,days,7
+15091_Wittenberg,-1.7121353149414062,FD,year,days_with_air_temperature_below_threshold,days,7
+15002_Halle (Saale),-1.3859024047851562,FD,year,days_with_air_temperature_below_threshold,days,7
+15084_Burgenlandkreis,-1.8563575744628906,FD,year,days_with_air_temperature_below_threshold,days,7
+15088_Saalekreis,-1.7625083923339844,FD,year,days_with_air_temperature_below_threshold,days,7
+15087_Mansfeld-Südharz,-3.2496910095214844,FD,year,days_with_air_temperature_below_threshold,days,7
+15003_Magdeburg,-2.1731109619140625,FD,year,days_with_air_temperature_below_threshold,days,7
+15085_Harz,-3.537200927734375,FD,year,days_with_air_temperature_below_threshold,days,7
+15086_Jerichower Land,-2.26531982421875,FD,year,days_with_air_temperature_below_threshold,days,7
+15083_Börde,-1.8659820556640625,FD,year,days_with_air_temperature_below_threshold,days,7
+15090_Stendal,-2.1740875244140625,FD,year,days_with_air_temperature_below_threshold,days,7
+15089_Salzlandkreis,-1.7029228210449219,FD,year,days_with_air_temperature_below_threshold,days,7
+15081_Altmarkkreis Salzwedel,-2.0112457275390625,FD,year,days_with_air_temperature_below_threshold,days,7
+16051_Erfurt,-2.1736526489257812,FD,year,days_with_air_temperature_below_threshold,days,7
+16052_Gera,-2.7151145935058594,FD,year,days_with_air_temperature_below_threshold,days,7
+16053_Jena,-2.5451583862304688,FD,year,days_with_air_temperature_below_threshold,days,7
+16054_Suhl,-9.441276550292969,FD,year,days_with_air_temperature_below_threshold,days,7
+16055_Weimar,-3.4979286193847656,FD,year,days_with_air_temperature_below_threshold,days,7
+16056_Eisenach,-1.7782440185546875,FD,year,days_with_air_temperature_below_threshold,days,7
+16061_Eichsfeld,-3.0721778869628906,FD,year,days_with_air_temperature_below_threshold,days,7
+16062_Nordhausen,-4.101707458496094,FD,year,days_with_air_temperature_below_threshold,days,7
+16063_Wartburgkreis,-3.687763214111328,FD,year,days_with_air_temperature_below_threshold,days,7
+16064_Unstrut-Hainich-Kreis,-2.723949432373047,FD,year,days_with_air_temperature_below_threshold,days,7
+16065_Kyffhäuserkreis,-3.1845054626464844,FD,year,days_with_air_temperature_below_threshold,days,7
+16066_Schmalkalden-Meiningen,-7.110755920410156,FD,year,days_with_air_temperature_below_threshold,days,7
+16067_Gotha,-4.043678283691406,FD,year,days_with_air_temperature_below_threshold,days,7
+16068_Sömmerda,-2.437255859375,FD,year,days_with_air_temperature_below_threshold,days,7
+16069_Hildburghausen,-5.910530090332031,FD,year,days_with_air_temperature_below_threshold,days,7
+16070_Ilm-Kreis,-6.57073974609375,FD,year,days_with_air_temperature_below_threshold,days,7
+16071_Weimarer Land,-3.042327880859375,FD,year,days_with_air_temperature_below_threshold,days,7
+16072_Sonneberg,-6.7087860107421875,FD,year,days_with_air_temperature_below_threshold,days,7
+16073_Saalfeld-Rudolstadt,-5.899513244628906,FD,year,days_with_air_temperature_below_threshold,days,7
+16074_Saale-Holzland-Kreis,-2.5860519409179688,FD,year,days_with_air_temperature_below_threshold,days,7
+16075_Saale-Orla-Kreis,-6.480812072753906,FD,year,days_with_air_temperature_below_threshold,days,7
+16076_Greiz,-3.479694366455078,FD,year,days_with_air_temperature_below_threshold,days,7
+16077_Altenburger Land,-2.278118133544922,FD,year,days_with_air_temperature_below_threshold,days,7
+01001_01059_Region_um_Flensburg,-0.1098480224609375,FD,year,days_with_air_temperature_below_threshold,days,7
+01002_01057_01058_Region_um_Kiel,0.0472869873046875,FD,year,days_with_air_temperature_below_threshold,days,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,-0.6529693603515625,FD,year,days_with_air_temperature_below_threshold,days,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,-0.06487655639648438,FD,year,days_with_air_temperature_below_threshold,days,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,-0.7866859436035156,FD,year,days_with_air_temperature_below_threshold,days,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,-1.5599327087402344,FD,year,days_with_air_temperature_below_threshold,days,7
+03103_03154_03151_Region_um_Wolfsburg,-0.8528366088867188,FD,year,days_with_air_temperature_below_threshold,days,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.5430870056152344,FD,year,days_with_air_temperature_below_threshold,days,7
+03402_03452_03457_Region_um_Emden,1.9142837524414062,FD,year,days_with_air_temperature_below_threshold,days,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.8834724426269531,FD,year,days_with_air_temperature_below_threshold,days,7
+03404_03459_05566_Region_um_Osnabrück,0.55474853515625,FD,year,days_with_air_temperature_below_threshold,days,7
+03405_03455_Region_um_Wilhelmshaven,1.6314773559570312,FD,year,days_with_air_temperature_below_threshold,days,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.8684272766113281,FD,year,days_with_air_temperature_below_threshold,days,7
+04012_03352_03461_Region_um_Bremerhaven,1.3891716003417969,FD,year,days_with_air_temperature_below_threshold,days,7
+05111_05162_05158_05112_Region_um_Düsseldorf,-0.11253929138183594,FD,year,days_with_air_temperature_below_threshold,days,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.2087230682373047,FD,year,days_with_air_temperature_below_threshold,days,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.3581714630126953,FD,year,days_with_air_temperature_below_threshold,days,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.12824249267578125,FD,year,days_with_air_temperature_below_threshold,days,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,-0.146636962890625,FD,year,days_with_air_temperature_below_threshold,days,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.23376846313476562,FD,year,days_with_air_temperature_below_threshold,days,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.4697113037109375,FD,year,days_with_air_temperature_below_threshold,days,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,-2.117889404296875,FD,year,days_with_air_temperature_below_threshold,days,7
+05122_05158_05124_05378_05120_Region_um_Solingen,-0.9583244323730469,FD,year,days_with_air_temperature_below_threshold,days,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,-1.6429595947265625,FD,year,days_with_air_temperature_below_threshold,days,7
+05314_05382_Region_um_Bonn,-1.3766326904296875,FD,year,days_with_air_temperature_below_threshold,days,7
+05316_05315_05378_05158_Region_um_Leverkusen,-0.5477828979492188,FD,year,days_with_air_temperature_below_threshold,days,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.6466255187988281,FD,year,days_with_air_temperature_below_threshold,days,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.84228515625,FD,year,days_with_air_temperature_below_threshold,days,7
+05515_05566_05558_05570_Region_um_Münster,0.3390998840332031,FD,year,days_with_air_temperature_below_threshold,days,7
+05711_05754_05758_05766_Region_um_Bielefeld,-0.31655120849609375,FD,year,days_with_air_temperature_below_threshold,days,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.49231529235839844,FD,year,days_with_air_temperature_below_threshold,days,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.37310028076171875,FD,year,days_with_air_temperature_below_threshold,days,7
+05914_05954_05913_05978_05962_Region_um_Hagen,-1.0286140441894531,FD,year,days_with_air_temperature_below_threshold,days,7
+05915_05978_05974_05570_05558_Region_um_Hamm,0.1293182373046875,FD,year,days_with_air_temperature_below_threshold,days,7
+05916_05513_05562_05911_Region_um_Herne,0.8654098510742188,FD,year,days_with_air_temperature_below_threshold,days,7
+06411_06432_06438_Region_um_Darmstadt,-1.721405029296875,FD,year,days_with_air_temperature_below_threshold,days,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,-2.1571311950683594,FD,year,days_with_air_temperature_below_threshold,days,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,-2.455333709716797,FD,year,days_with_air_temperature_below_threshold,days,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,-2.212322235107422,FD,year,days_with_air_temperature_below_threshold,days,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,-2.052539825439453,FD,year,days_with_air_temperature_below_threshold,days,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,-2.2979164123535156,FD,year,days_with_air_temperature_below_threshold,days,7
+06611_06633_03159_Region_um_Kassel,-2.684520721435547,FD,year,days_with_air_temperature_below_threshold,days,7
+07111_07137_07141_07143_Region_um_Koblenz,-2.7715377807617188,FD,year,days_with_air_temperature_below_threshold,days,7
+07211_07235_Region_um_Trier,-3.741607666015625,FD,year,days_with_air_temperature_below_threshold,days,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),-0.0778045654296875,FD,year,days_with_air_temperature_below_threshold,days,7
+07312_07335_07332_Region_um_Kaiserslautern,-2.283946990966797,FD,year,days_with_air_temperature_below_threshold,days,7
+07313_07337_Region_um_Landau_in_der_Pfalz,-1.5171928405761719,FD,year,days_with_air_temperature_below_threshold,days,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,-0.041706085205078125,FD,year,days_with_air_temperature_below_threshold,days,7
+07315_07339_06414_06433_Region_um_Mainz,-1.25653076171875,FD,year,days_with_air_temperature_below_threshold,days,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,-1.2873992919921875,FD,year,days_with_air_temperature_below_threshold,days,7
+07317_07340_Region_um_Pirmasens,-3.3982200622558594,FD,year,days_with_air_temperature_below_threshold,days,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,-1.3088264465332031,FD,year,days_with_air_temperature_below_threshold,days,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,-1.2523536682128906,FD,year,days_with_air_temperature_below_threshold,days,7
+07320_07340_10045_07317_Region_um_Zweibrücken,-3.1862411499023438,FD,year,days_with_air_temperature_below_threshold,days,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,-1.2320098876953125,FD,year,days_with_air_temperature_below_threshold,days,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,-4.672306060791016,FD,year,days_with_air_temperature_below_threshold,days,7
+08121_08125_Region_um_Heilbronn,-2.366962432861328,FD,year,days_with_air_temperature_below_threshold,days,7
+08211_08216_Region_um_Baden-Baden,-3.926807403564453,FD,year,days_with_air_temperature_below_threshold,days,7
+08212_08215_07334_Region_um_Karlsruhe,-1.0149345397949219,FD,year,days_with_air_temperature_below_threshold,days,7
+08221_08226_08222_Region_um_Heidelberg,-2.0367584228515625,FD,year,days_with_air_temperature_below_threshold,days,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,-1.8460502624511719,FD,year,days_with_air_temperature_below_threshold,days,7
+08231_08236_08235_Region_um_Pforzheim,-5.907569885253906,FD,year,days_with_air_temperature_below_threshold,days,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,-4.947731018066406,FD,year,days_with_air_temperature_below_threshold,days,7
+08421_08425_09775_Region_um_Ulm,-7.093452453613281,FD,year,days_with_air_temperature_below_threshold,days,7
+09161_09176_09185_09186_Region_um_Ingolstadt,-4.242679595947266,FD,year,days_with_air_temperature_below_threshold,days,7
+09162_09184_09179_09174_Region_um_München,-5.612701416015625,FD,year,days_with_air_temperature_below_threshold,days,7
+09163_09187_Region_um_Rosenheim,-6.5109405517578125,FD,year,days_with_air_temperature_below_threshold,days,7
+09261_09274_Region_um_Landshut,-3.9295654296875,FD,year,days_with_air_temperature_below_threshold,days,7
+09262_09275_Region_um_Passau,-5.894828796386719,FD,year,days_with_air_temperature_below_threshold,days,7
+09263_09278_Region_um_Straubing,-5.5547637939453125,FD,year,days_with_air_temperature_below_threshold,days,7
+09361_09371_Region_um_Amberg,-4.576316833496094,FD,year,days_with_air_temperature_below_threshold,days,7
+09362_09375_Region_um_Regensburg,-4.57183837890625,FD,year,days_with_air_temperature_below_threshold,days,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,-6.246650695800781,FD,year,days_with_air_temperature_below_threshold,days,7
+09461_09471_Region_um_Bamberg,-3.9014625549316406,FD,year,days_with_air_temperature_below_threshold,days,7
+09462_09472_Region_um_Bayreuth,-6.051727294921875,FD,year,days_with_air_temperature_below_threshold,days,7
+09463_09473_Region_um_Coburg,-4.6390838623046875,FD,year,days_with_air_temperature_below_threshold,days,7
+09464_09475_Region_um_Hof,-8.217269897460938,FD,year,days_with_air_temperature_below_threshold,days,7
+09561_09571_Region_um_Ansbach,-4.554676055908203,FD,year,days_with_air_temperature_below_threshold,days,7
+09562_09572_09564_09563_Region_um_Erlangen,-2.3890228271484375,FD,year,days_with_air_temperature_below_threshold,days,7
+09563_09573_09562_09564_Region_um_Fürth,-2.513172149658203,FD,year,days_with_air_temperature_below_threshold,days,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,-3.0639419555664062,FD,year,days_with_air_temperature_below_threshold,days,7
+09565_09576_09564_Region_um_Schwabach,-2.9063186645507812,FD,year,days_with_air_temperature_below_threshold,days,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,-3.595630645751953,FD,year,days_with_air_temperature_below_threshold,days,7
+09661_09671_09676_Region_um_Aschaffenburg,-2.9791297912597656,FD,year,days_with_air_temperature_below_threshold,days,7
+09662_09678_Region_um_Schweinfurt,-3.404460906982422,FD,year,days_with_air_temperature_below_threshold,days,7
+09663_09679_Region_um_Würzburg,-2.6788711547851562,FD,year,days_with_air_temperature_below_threshold,days,7
+09761_09772_09771_Region_um_Augsburg,-5.405555725097656,FD,year,days_with_air_temperature_below_threshold,days,7
+09762_09777_Region_um_Kaufbeuren,-6.402351379394531,FD,year,days_with_air_temperature_below_threshold,days,7
+09763_09780_Region_um_Kempten_(Allgäu),-5.8232421875,FD,year,days_with_air_temperature_below_threshold,days,7
+09764_09778_08436_Region_um_Memmingen,-7.589332580566406,FD,year,days_with_air_temperature_below_threshold,days,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),-7.154792785644531,FD,year,days_with_air_temperature_below_threshold,days,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,-3.4461631774902344,FD,year,days_with_air_temperature_below_threshold,days,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,-1.85491943359375,FD,year,days_with_air_temperature_below_threshold,days,7
+12052_12071_Region_um_Cottbus,-2.0304183959960938,FD,year,days_with_air_temperature_below_threshold,days,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),-2.841419219970703,FD,year,days_with_air_temperature_below_threshold,days,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,-1.5893974304199219,FD,year,days_with_air_temperature_below_threshold,days,7
+13003_13072_Region_um_Rostock,-0.5654220581054688,FD,year,days_with_air_temperature_below_threshold,days,7
+13004_13076_13074_Region_um_Schwerin,-1.5445556640625,FD,year,days_with_air_temperature_below_threshold,days,7
+14511_14524_14521_14522_Region_um_Chemnitz,-5.788520812988281,FD,year,days_with_air_temperature_below_threshold,days,7
+14612_14627_14625_14628_Region_um_Dresden,-3.6899147033691406,FD,year,days_with_air_temperature_below_threshold,days,7
+14713_14729_14730_Region_um_Leipzig,-1.6375465393066406,FD,year,days_with_air_temperature_below_threshold,days,7
+15001_15091_15082_Region_um_Dessau-Rolau,-1.7090110778808594,FD,year,days_with_air_temperature_below_threshold,days,7
+15002_15088_Region_um_Halle_(Saale),-1.7288627624511719,FD,year,days_with_air_temperature_below_threshold,days,7
+15003_15083_15089_15086_Region_um_Magdeburg,-1.9477386474609375,FD,year,days_with_air_temperature_below_threshold,days,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,-4.027885437011719,FD,year,days_with_air_temperature_below_threshold,days,7
+16052_16076_15084_16074_Region_um_Gera,-2.583385467529297,FD,year,days_with_air_temperature_below_threshold,days,7
+16053_16074_16071_16055_Region_um_Jena,-2.8283920288085938,FD,year,days_with_air_temperature_below_threshold,days,7
+16054_16066_16069_16070_Region_um_Suhl,-7.0260772705078125,FD,year,days_with_air_temperature_below_threshold,days,7
+16055_16071_Region_um_Weimar,-3.08917236328125,FD,year,days_with_air_temperature_below_threshold,days,7
+16056_16063_06636_Region_um_Eisenach,-3.2634811401367188,FD,year,days_with_air_temperature_below_threshold,days,7

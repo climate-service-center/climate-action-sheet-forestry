@@ -1,0 +1,512 @@
+region,HSx3_year_4C_rcp85_time-mean_ensemble-diff-mean,ci_name,ci_frequency,standard_name,units,mid_month
+01001_01059_Region_um_Flensburg,1.3641231,HSx3,year,hot_spell_duration,days,7
+01001_Flensburg,1.4324292,HSx3,year,hot_spell_duration,days,7
+01002_01057_01058_Region_um_Kiel,1.7110488,HSx3,year,hot_spell_duration,days,7
+01002_Kiel,1.6685005,HSx3,year,hot_spell_duration,days,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,2.1700716,HSx3,year,hot_spell_duration,days,7
+01003_Lübeck,2.1428201,HSx3,year,hot_spell_duration,days,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,1.9010088,HSx3,year,hot_spell_duration,days,7
+01004_Neumünster,2.2571733,HSx3,year,hot_spell_duration,days,7
+01051_Dithmarschen,1.6490726,HSx3,year,hot_spell_duration,days,7
+01053_Herzogtum Lauenburg,2.8421035,HSx3,year,hot_spell_duration,days,7
+01054_Nordfriesland,1.1162145,HSx3,year,hot_spell_duration,days,7
+01055_Ostholstein,1.300306,HSx3,year,hot_spell_duration,days,7
+01056_Pinneberg,2.5749207,HSx3,year,hot_spell_duration,days,7
+01057_Plön,1.5482806,HSx3,year,hot_spell_duration,days,7
+01058_Rendsburg-Eckernförde,1.794501,HSx3,year,hot_spell_duration,days,7
+01059_Schleswig-Flensburg,1.3623319,HSx3,year,hot_spell_duration,days,7
+01060_Segeberg,2.3590982,HSx3,year,hot_spell_duration,days,7
+01061_Steinburg,2.2174706,HSx3,year,hot_spell_duration,days,7
+01062_Stormarn,2.6546688,HSx3,year,hot_spell_duration,days,7
+02000_Hamburg,2.928087,HSx3,year,hot_spell_duration,days,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,3.64316,HSx3,year,hot_spell_duration,days,7
+03101_Braunschweig,3.7400656,HSx3,year,hot_spell_duration,days,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,3.3663816,HSx3,year,hot_spell_duration,days,7
+03102_Salzgitter,3.5770993,HSx3,year,hot_spell_duration,days,7
+03103_03154_03151_Region_um_Wolfsburg,3.6402197,HSx3,year,hot_spell_duration,days,7
+03103_Wolfsburg,3.657147,HSx3,year,hot_spell_duration,days,7
+03151_Gifhorn,3.651468,HSx3,year,hot_spell_duration,days,7
+03153_Goslar,2.6986227,HSx3,year,hot_spell_duration,days,7
+03154_Helmstedt,3.6087341,HSx3,year,hot_spell_duration,days,7
+03155_Northeim,3.5357199,HSx3,year,hot_spell_duration,days,7
+03157_Peine,3.7454686,HSx3,year,hot_spell_duration,days,7
+03158_Wolfenbüttel,3.5730429,HSx3,year,hot_spell_duration,days,7
+03159_Göttingen,3.4690669,HSx3,year,hot_spell_duration,days,7
+03241_Region Hannover,3.6795397,HSx3,year,hot_spell_duration,days,7
+03251_Diepholz,3.2005801,HSx3,year,hot_spell_duration,days,7
+03252_Hameln-Pyrmont,3.35328,HSx3,year,hot_spell_duration,days,7
+03254_Hildesheim,3.50814,HSx3,year,hot_spell_duration,days,7
+03255_Holzminden,3.3276265,HSx3,year,hot_spell_duration,days,7
+03256_Nienburg (Weser),3.4638095,HSx3,year,hot_spell_duration,days,7
+03257_Schaumburg,3.394732,HSx3,year,hot_spell_duration,days,7
+03351_Celle,3.5308135,HSx3,year,hot_spell_duration,days,7
+03352_Cuxhaven,2.1212444,HSx3,year,hot_spell_duration,days,7
+03353_Harburg,2.8860276,HSx3,year,hot_spell_duration,days,7
+03354_Lüchow-Dannenberg,3.5749583,HSx3,year,hot_spell_duration,days,7
+03355_Lüneburg,3.2077827,HSx3,year,hot_spell_duration,days,7
+03356_Osterholz,2.7676926,HSx3,year,hot_spell_duration,days,7
+03357_Rotenburg (Wümme),2.8087728,HSx3,year,hot_spell_duration,days,7
+03358_Heidekreis,3.2036521,HSx3,year,hot_spell_duration,days,7
+03359_Stade,2.489246,HSx3,year,hot_spell_duration,days,7
+03360_Uelzen,3.261256,HSx3,year,hot_spell_duration,days,7
+03361_Verden,3.119277,HSx3,year,hot_spell_duration,days,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,2.887763,HSx3,year,hot_spell_duration,days,7
+03401_Delmenhorst,2.9502702,HSx3,year,hot_spell_duration,days,7
+03402_03452_03457_Region_um_Emden,1.8416677,HSx3,year,hot_spell_duration,days,7
+03402_Emden,1.5507532,HSx3,year,hot_spell_duration,days,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),2.511501,HSx3,year,hot_spell_duration,days,7
+03403_Oldenburg (Oldb),2.6022792,HSx3,year,hot_spell_duration,days,7
+03404_03459_05566_Region_um_Osnabrück,3.3816538,HSx3,year,hot_spell_duration,days,7
+03404_Osnabrück,3.350256,HSx3,year,hot_spell_duration,days,7
+03405_03455_Region_um_Wilhelmshaven,1.5742159,HSx3,year,hot_spell_duration,days,7
+03405_Wilhelmshaven,1.0788089,HSx3,year,hot_spell_duration,days,7
+03451_Ammerland,2.4195824,HSx3,year,hot_spell_duration,days,7
+03452_Aurich,1.5523032,HSx3,year,hot_spell_duration,days,7
+03453_Cloppenburg,2.7997198,HSx3,year,hot_spell_duration,days,7
+03454_Emsland,2.918149,HSx3,year,hot_spell_duration,days,7
+03455_Friesland,1.6614882,HSx3,year,hot_spell_duration,days,7
+03456_Grafschaft Bentheim,3.170065,HSx3,year,hot_spell_duration,days,7
+03457_Leer,2.226735,HSx3,year,hot_spell_duration,days,7
+03458_Oldenburg,2.835335,HSx3,year,hot_spell_duration,days,7
+03459_Osnabrück,3.2998776,HSx3,year,hot_spell_duration,days,7
+03460_Vechta,3.1568496,HSx3,year,hot_spell_duration,days,7
+03461_Wesermarsch,2.173414,HSx3,year,hot_spell_duration,days,7
+03462_Wittmund,1.5573583,HSx3,year,hot_spell_duration,days,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,2.6697464,HSx3,year,hot_spell_duration,days,7
+04011_Bremen,2.9454098,HSx3,year,hot_spell_duration,days,7
+04012_03352_03461_Region_um_Bremerhaven,2.1354258,HSx3,year,hot_spell_duration,days,7
+04012_Bremerhaven,2.1045907,HSx3,year,hot_spell_duration,days,7
+05111_05162_05158_05112_Region_um_Düsseldorf,4.5583963,HSx3,year,hot_spell_duration,days,7
+05111_Düsseldorf,4.6696587,HSx3,year,hot_spell_duration,days,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,4.301121,HSx3,year,hot_spell_duration,days,7
+05112_Duisburg,4.48236,HSx3,year,hot_spell_duration,days,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,4.142551,HSx3,year,hot_spell_duration,days,7
+05113_Essen,4.2398124,HSx3,year,hot_spell_duration,days,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,4.35585,HSx3,year,hot_spell_duration,days,7
+05114_Krefeld,4.4859796,HSx3,year,hot_spell_duration,days,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,4.497855,HSx3,year,hot_spell_duration,days,7
+05116_Mönchengladbach,4.4204097,HSx3,year,hot_spell_duration,days,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,4.385204,HSx3,year,hot_spell_duration,days,7
+05117_Mülheim an der Ruhr,4.40797,HSx3,year,hot_spell_duration,days,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,4.217067,HSx3,year,hot_spell_duration,days,7
+05119_Oberhausen,4.4589534,HSx3,year,hot_spell_duration,days,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,3.8764453,HSx3,year,hot_spell_duration,days,7
+05120_Remscheid,3.5652368,HSx3,year,hot_spell_duration,days,7
+05122_05158_05124_05378_05120_Region_um_Solingen,4.210352,HSx3,year,hot_spell_duration,days,7
+05122_Solingen,4.1844463,HSx3,year,hot_spell_duration,days,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,3.8215609,HSx3,year,hot_spell_duration,days,7
+05124_Wuppertal,3.7563732,HSx3,year,hot_spell_duration,days,7
+05154_Kleve,4.0032496,HSx3,year,hot_spell_duration,days,7
+05158_Mettmann,4.3841414,HSx3,year,hot_spell_duration,days,7
+05162_Rhein-Kreis Neuss,4.6718707,HSx3,year,hot_spell_duration,days,7
+05166_Viersen,4.4147577,HSx3,year,hot_spell_duration,days,7
+05170_Wesel,4.1051974,HSx3,year,hot_spell_duration,days,7
+05314_05382_Region_um_Bonn,4.579674,HSx3,year,hot_spell_duration,days,7
+05314_Bonn,4.8158355,HSx3,year,hot_spell_duration,days,7
+05315_Köln,5.184618,HSx3,year,hot_spell_duration,days,7
+05316_05315_05378_05158_Region_um_Leverkusen,4.6337337,HSx3,year,hot_spell_duration,days,7
+05316_Leverkusen,4.8156915,HSx3,year,hot_spell_duration,days,7
+05334_Städteregion Aachen,3.3658037,HSx3,year,hot_spell_duration,days,7
+05358_Düren,4.058707,HSx3,year,hot_spell_duration,days,7
+05362_Rhein-Erft-Kreis,4.7755036,HSx3,year,hot_spell_duration,days,7
+05366_Euskirchen,3.3138764,HSx3,year,hot_spell_duration,days,7
+05370_Heinsberg,4.4341927,HSx3,year,hot_spell_duration,days,7
+05374_Oberbergischer Kreis,3.670274,HSx3,year,hot_spell_duration,days,7
+05378_Rheinisch-Bergischer Kreis,4.334316,HSx3,year,hot_spell_duration,days,7
+05382_Rhein-Sieg-Kreis,4.5500865,HSx3,year,hot_spell_duration,days,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,4.1616497,HSx3,year,hot_spell_duration,days,7
+05512_Bottrop,4.3470745,HSx3,year,hot_spell_duration,days,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,4.1969156,HSx3,year,hot_spell_duration,days,7
+05513_Gelsenkirchen,4.370731,HSx3,year,hot_spell_duration,days,7
+05515_05566_05558_05570_Region_um_Münster,3.7059784,HSx3,year,hot_spell_duration,days,7
+05515_Münster,3.857337,HSx3,year,hot_spell_duration,days,7
+05554_Borken,3.6422725,HSx3,year,hot_spell_duration,days,7
+05558_Coesfeld,3.820037,HSx3,year,hot_spell_duration,days,7
+05562_Recklinghausen,4.1348295,HSx3,year,hot_spell_duration,days,7
+05566_Steinfurt,3.479914,HSx3,year,hot_spell_duration,days,7
+05570_Warendorf,3.8818004,HSx3,year,hot_spell_duration,days,7
+05711_05754_05758_05766_Region_um_Bielefeld,3.5070539,HSx3,year,hot_spell_duration,days,7
+05711_Bielefeld,3.638456,HSx3,year,hot_spell_duration,days,7
+05754_Gütersloh,3.7752774,HSx3,year,hot_spell_duration,days,7
+05758_Herford,3.4478652,HSx3,year,hot_spell_duration,days,7
+05762_Höxter,3.4430227,HSx3,year,hot_spell_duration,days,7
+05766_Lippe,3.293306,HSx3,year,hot_spell_duration,days,7
+05770_Minden-Lübbecke,3.46234,HSx3,year,hot_spell_duration,days,7
+05774_Paderborn,3.3530812,HSx3,year,hot_spell_duration,days,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,4.0467243,HSx3,year,hot_spell_duration,days,7
+05911_Bochum,4.1574903,HSx3,year,hot_spell_duration,days,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,3.9541256,HSx3,year,hot_spell_duration,days,7
+05913_Dortmund,4.0822067,HSx3,year,hot_spell_duration,days,7
+05914_05954_05913_05978_05962_Region_um_Hagen,3.5261364,HSx3,year,hot_spell_duration,days,7
+05914_Hagen,3.3710923,HSx3,year,hot_spell_duration,days,7
+05915_05978_05974_05570_05558_Region_um_Hamm,3.7676685,HSx3,year,hot_spell_duration,days,7
+05915_Hamm,4.0157723,HSx3,year,hot_spell_duration,days,7
+05916_05513_05562_05911_Region_um_Herne,4.1739526,HSx3,year,hot_spell_duration,days,7
+05916_Herne,4.383467,HSx3,year,hot_spell_duration,days,7
+05954_Ennepe-Ruhr-Kreis,3.587672,HSx3,year,hot_spell_duration,days,7
+05958_Hochsauerlandkreis,2.7276058,HSx3,year,hot_spell_duration,days,7
+05962_Märkischer Kreis,3.1506164,HSx3,year,hot_spell_duration,days,7
+05966_Olpe,3.162313,HSx3,year,hot_spell_duration,days,7
+05970_Siegen-Wittgenstein,3.2526789,HSx3,year,hot_spell_duration,days,7
+05974_Soest,3.4783387,HSx3,year,hot_spell_duration,days,7
+05978_Unna,3.988733,HSx3,year,hot_spell_duration,days,7
+06411_06432_06438_Region_um_Darmstadt,6.482937,HSx3,year,hot_spell_duration,days,7
+06411_Darmstadt,6.700197,HSx3,year,hot_spell_duration,days,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,5.732839,HSx3,year,hot_spell_duration,days,7
+06412_Frankfurt am Main,6.575503,HSx3,year,hot_spell_duration,days,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,5.6845546,HSx3,year,hot_spell_duration,days,7
+06413_Offenbach am Main,6.7268744,HSx3,year,hot_spell_duration,days,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,5.980084,HSx3,year,hot_spell_duration,days,7
+06414_Wiesbaden,6.0382786,HSx3,year,hot_spell_duration,days,7
+06431_Bergstraße,6.5310545,HSx3,year,hot_spell_duration,days,7
+06432_Darmstadt-Dieburg,6.3162994,HSx3,year,hot_spell_duration,days,7
+06433_Groß-Gerau,7.083218,HSx3,year,hot_spell_duration,days,7
+06434_Hochtaunuskreis,5.0697684,HSx3,year,hot_spell_duration,days,7
+06435_Main-Kinzig-Kreis,5.2342815,HSx3,year,hot_spell_duration,days,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,5.7645783,HSx3,year,hot_spell_duration,days,7
+06436_Main-Taunus-Kreis,6.1105347,HSx3,year,hot_spell_duration,days,7
+06437_Odenwaldkreis,5.4158645,HSx3,year,hot_spell_duration,days,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,5.961862,HSx3,year,hot_spell_duration,days,7
+06438_Offenbach,6.7265315,HSx3,year,hot_spell_duration,days,7
+06439_Rheingau-Taunus-Kreis,5.0424795,HSx3,year,hot_spell_duration,days,7
+06440_Wetteraukreis,5.4846706,HSx3,year,hot_spell_duration,days,7
+06531_Gießen,5.0171013,HSx3,year,hot_spell_duration,days,7
+06532_Lahn-Dill-Kreis,4.337942,HSx3,year,hot_spell_duration,days,7
+06533_Limburg-Weilburg,4.794958,HSx3,year,hot_spell_duration,days,7
+06534_Marburg-Biedenkopf,4.3120866,HSx3,year,hot_spell_duration,days,7
+06535_Vogelsbergkreis,4.107314,HSx3,year,hot_spell_duration,days,7
+06611_06633_03159_Region_um_Kassel,3.5648248,HSx3,year,hot_spell_duration,days,7
+06611_Kassel,3.7569737,HSx3,year,hot_spell_duration,days,7
+06631_Fulda,3.90428,HSx3,year,hot_spell_duration,days,7
+06632_Hersfeld-Rotenburg,4.059943,HSx3,year,hot_spell_duration,days,7
+06633_Kassel,3.6803343,HSx3,year,hot_spell_duration,days,7
+06634_Schwalm-Eder-Kreis,3.9699237,HSx3,year,hot_spell_duration,days,7
+06635_Waldeck-Frankenberg,3.4731185,HSx3,year,hot_spell_duration,days,7
+06636_Werra-Meißner-Kreis,3.758021,HSx3,year,hot_spell_duration,days,7
+07111_07137_07141_07143_Region_um_Koblenz,4.459243,HSx3,year,hot_spell_duration,days,7
+07111_Koblenz,4.9906263,HSx3,year,hot_spell_duration,days,7
+07131_Ahrweiler,3.7350376,HSx3,year,hot_spell_duration,days,7
+07132_Altenkirchen (Westerwald),3.8767514,HSx3,year,hot_spell_duration,days,7
+07133_Bad Kreuznach,5.4856033,HSx3,year,hot_spell_duration,days,7
+07134_Birkenfeld,4.5249844,HSx3,year,hot_spell_duration,days,7
+07135_Cochem-Zell,4.4960017,HSx3,year,hot_spell_duration,days,7
+07137_Mayen-Koblenz,4.5108867,HSx3,year,hot_spell_duration,days,7
+07138_Neuwied,4.528019,HSx3,year,hot_spell_duration,days,7
+07140_Rhein-Hunsrück-Kreis,4.4051876,HSx3,year,hot_spell_duration,days,7
+07141_Rhein-Lahn-Kreis,4.776582,HSx3,year,hot_spell_duration,days,7
+07143_Westerwaldkreis,4.1058073,HSx3,year,hot_spell_duration,days,7
+07211_07235_Region_um_Trier,5.041673,HSx3,year,hot_spell_duration,days,7
+07211_Trier,5.218045,HSx3,year,hot_spell_duration,days,7
+07231_Bernkastel-Wittlich,4.6420536,HSx3,year,hot_spell_duration,days,7
+07232_Eifelkreis Bitburg-Prüm,4.0971513,HSx3,year,hot_spell_duration,days,7
+07233_Vulkaneifel,3.4488692,HSx3,year,hot_spell_duration,days,7
+07235_Trier-Saarburg,5.021743,HSx3,year,hot_spell_duration,days,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),7.896793,HSx3,year,hot_spell_duration,days,7
+07311_Frankenthal (Pfalz),7.7952967,HSx3,year,hot_spell_duration,days,7
+07312_07335_07332_Region_um_Kaiserslautern,6.034845,HSx3,year,hot_spell_duration,days,7
+07312_Kaiserslautern,5.682696,HSx3,year,hot_spell_duration,days,7
+07313_07337_Region_um_Landau_in_der_Pfalz,6.8979073,HSx3,year,hot_spell_duration,days,7
+07313_Landau in der Pfalz,6.8073416,HSx3,year,hot_spell_duration,days,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,7.8886795,HSx3,year,hot_spell_duration,days,7
+07314_Ludwigshafen am Rhein,7.8658414,HSx3,year,hot_spell_duration,days,7
+07315_07339_06414_06433_Region_um_Mainz,6.5229893,HSx3,year,hot_spell_duration,days,7
+07315_Mainz,6.5685143,HSx3,year,hot_spell_duration,days,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,6.6937814,HSx3,year,hot_spell_duration,days,7
+07316_Neustadt an der Weinstraße,6.7648206,HSx3,year,hot_spell_duration,days,7
+07317_07340_Region_um_Pirmasens,6.1366935,HSx3,year,hot_spell_duration,days,7
+07317_Pirmasens,6.0890493,HSx3,year,hot_spell_duration,days,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,7.357774,HSx3,year,hot_spell_duration,days,7
+07318_Speyer,8.014839,HSx3,year,hot_spell_duration,days,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,6.804416,HSx3,year,hot_spell_duration,days,7
+07319_Worms,7.2585993,HSx3,year,hot_spell_duration,days,7
+07320_07340_10045_07317_Region_um_Zweibrücken,6.146551,HSx3,year,hot_spell_duration,days,7
+07320_Zweibrücken,6.1572847,HSx3,year,hot_spell_duration,days,7
+07331_Alzey-Worms,6.5644164,HSx3,year,hot_spell_duration,days,7
+07332_Bad Dürkheim,6.4382954,HSx3,year,hot_spell_duration,days,7
+07333_Donnersbergkreis,5.831953,HSx3,year,hot_spell_duration,days,7
+07334_Germersheim,7.8629436,HSx3,year,hot_spell_duration,days,7
+07335_Kaiserslautern,5.728292,HSx3,year,hot_spell_duration,days,7
+07336_Kusel,5.644709,HSx3,year,hot_spell_duration,days,7
+07337_Südliche Weinstraße,6.9108744,HSx3,year,hot_spell_duration,days,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,7.222401,HSx3,year,hot_spell_duration,days,7
+07338_Rhein-Pfalz-Kreis,7.8932614,HSx3,year,hot_spell_duration,days,7
+07339_Mainz-Bingen,6.265562,HSx3,year,hot_spell_duration,days,7
+07340_Südwestpfalz,6.1400003,HSx3,year,hot_spell_duration,days,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,6.529972,HSx3,year,hot_spell_duration,days,7
+08111_Stuttgart,6.870183,HSx3,year,hot_spell_duration,days,7
+08115_Böblingen,6.2244267,HSx3,year,hot_spell_duration,days,7
+08116_Esslingen,6.2942867,HSx3,year,hot_spell_duration,days,7
+08117_Göppingen,5.4739723,HSx3,year,hot_spell_duration,days,7
+08118_Ludwigsburg,7.0213695,HSx3,year,hot_spell_duration,days,7
+08119_Rems-Murr-Kreis,6.4462857,HSx3,year,hot_spell_duration,days,7
+08121_08125_Region_um_Heilbronn,6.975769,HSx3,year,hot_spell_duration,days,7
+08121_Heilbronn,7.133326,HSx3,year,hot_spell_duration,days,7
+08125_Heilbronn,6.960383,HSx3,year,hot_spell_duration,days,7
+08126_Hohenlohekreis,6.2307653,HSx3,year,hot_spell_duration,days,7
+08127_Schwäbisch Hall,5.8029346,HSx3,year,hot_spell_duration,days,7
+08128_Main-Tauber-Kreis,5.872892,HSx3,year,hot_spell_duration,days,7
+08135_Heidenheim,5.5516133,HSx3,year,hot_spell_duration,days,7
+08136_Ostalbkreis,5.594585,HSx3,year,hot_spell_duration,days,7
+08211_08216_Region_um_Baden-Baden,6.157565,HSx3,year,hot_spell_duration,days,7
+08211_Baden-Baden,6.0561,HSx3,year,hot_spell_duration,days,7
+08212_08215_07334_Region_um_Karlsruhe,7.537592,HSx3,year,hot_spell_duration,days,7
+08212_Karlsruhe,7.678336,HSx3,year,hot_spell_duration,days,7
+08215_Karlsruhe,7.3768888,HSx3,year,hot_spell_duration,days,7
+08216_Rastatt,6.1765313,HSx3,year,hot_spell_duration,days,7
+08221_08226_08222_Region_um_Heidelberg,7.1464224,HSx3,year,hot_spell_duration,days,7
+08221_Heidelberg,7.088164,HSx3,year,hot_spell_duration,days,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,7.108861,HSx3,year,hot_spell_duration,days,7
+08222_Mannheim,7.9196377,HSx3,year,hot_spell_duration,days,7
+08225_Neckar-Odenwald-Kreis,6.0235705,HSx3,year,hot_spell_duration,days,7
+08226_Rhein-Neckar-Kreis,7.044142,HSx3,year,hot_spell_duration,days,7
+08231_08236_08235_Region_um_Pforzheim,5.5660577,HSx3,year,hot_spell_duration,days,7
+08231_Pforzheim,5.95131,HSx3,year,hot_spell_duration,days,7
+08235_Calw,4.9800553,HSx3,year,hot_spell_duration,days,7
+08236_Enzkreis,6.310161,HSx3,year,hot_spell_duration,days,7
+08237_Freudenstadt,4.9036875,HSx3,year,hot_spell_duration,days,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,5.9551673,HSx3,year,hot_spell_duration,days,7
+08311_Freiburg im Breisgau,6.8185153,HSx3,year,hot_spell_duration,days,7
+08315_Breisgau-Hochschwarzwald,5.48856,HSx3,year,hot_spell_duration,days,7
+08316_Emmendingen,6.7060957,HSx3,year,hot_spell_duration,days,7
+08317_Ortenaukreis,6.7870355,HSx3,year,hot_spell_duration,days,7
+08325_Rottweil,5.2860494,HSx3,year,hot_spell_duration,days,7
+08326_Schwarzwald-Baar-Kreis,4.644911,HSx3,year,hot_spell_duration,days,7
+08327_Tuttlingen,5.1821585,HSx3,year,hot_spell_duration,days,7
+08335_Konstanz,6.7992544,HSx3,year,hot_spell_duration,days,7
+08336_Lörrach,6.5045104,HSx3,year,hot_spell_duration,days,7
+08337_Waldshut,6.1854835,HSx3,year,hot_spell_duration,days,7
+08415_Reutlingen,4.843196,HSx3,year,hot_spell_duration,days,7
+08416_Tübingen,6.21496,HSx3,year,hot_spell_duration,days,7
+08417_Zollernalbkreis,4.8462224,HSx3,year,hot_spell_duration,days,7
+08421_08425_09775_Region_um_Ulm,5.5767875,HSx3,year,hot_spell_duration,days,7
+08421_Ulm,5.8750315,HSx3,year,hot_spell_duration,days,7
+08425_Alb-Donau-Kreis,5.400014,HSx3,year,hot_spell_duration,days,7
+08426_Biberach,5.671395,HSx3,year,hot_spell_duration,days,7
+08435_Bodenseekreis,6.081207,HSx3,year,hot_spell_duration,days,7
+08436_Ravensburg,5.5471807,HSx3,year,hot_spell_duration,days,7
+08437_Sigmaringen,5.389361,HSx3,year,hot_spell_duration,days,7
+09161_09176_09185_09186_Region_um_Ingolstadt,6.315149,HSx3,year,hot_spell_duration,days,7
+09161_Ingolstadt,6.6919055,HSx3,year,hot_spell_duration,days,7
+09162_09184_09179_09174_Region_um_München,5.9675856,HSx3,year,hot_spell_duration,days,7
+09162_München,6.2151766,HSx3,year,hot_spell_duration,days,7
+09163_09187_Region_um_Rosenheim,5.293743,HSx3,year,hot_spell_duration,days,7
+09163_Rosenheim,5.6682763,HSx3,year,hot_spell_duration,days,7
+09171_Altötting,6.566948,HSx3,year,hot_spell_duration,days,7
+09172_Berchtesgadener Land,3.2766418,HSx3,year,hot_spell_duration,days,7
+09173_Bad Tölz-Wolfratshausen,3.7472644,HSx3,year,hot_spell_duration,days,7
+09174_Dachau,6.154751,HSx3,year,hot_spell_duration,days,7
+09175_Ebersberg,6.0256214,HSx3,year,hot_spell_duration,days,7
+09176_Eichstätt,6.1967196,HSx3,year,hot_spell_duration,days,7
+09177_Erding,6.217183,HSx3,year,hot_spell_duration,days,7
+09178_Freising,6.328708,HSx3,year,hot_spell_duration,days,7
+09179_Fürstenfeldbruck,5.784069,HSx3,year,hot_spell_duration,days,7
+09180_Garmisch-Partenkirchen,2.4572284,HSx3,year,hot_spell_duration,days,7
+09181_Landsberg am Lech,5.312071,HSx3,year,hot_spell_duration,days,7
+09182_Miesbach,3.4545045,HSx3,year,hot_spell_duration,days,7
+09183_Mühldorf a. Inn,6.360492,HSx3,year,hot_spell_duration,days,7
+09184_München,5.801891,HSx3,year,hot_spell_duration,days,7
+09185_Neuburg-Schrobenhausen,6.395322,HSx3,year,hot_spell_duration,days,7
+09186_Pfaffenhofen a.d. Ilm,6.3581758,HSx3,year,hot_spell_duration,days,7
+09187_Rosenheim,5.28336,HSx3,year,hot_spell_duration,days,7
+09188_Starnberg,5.388735,HSx3,year,hot_spell_duration,days,7
+09189_Traunstein,4.933026,HSx3,year,hot_spell_duration,days,7
+09190_Weilheim-Schongau,4.61347,HSx3,year,hot_spell_duration,days,7
+09261_09274_Region_um_Landshut,6.4039154,HSx3,year,hot_spell_duration,days,7
+09261_Landshut,6.4284225,HSx3,year,hot_spell_duration,days,7
+09262_09275_Region_um_Passau,6.6104016,HSx3,year,hot_spell_duration,days,7
+09262_Passau,6.8687444,HSx3,year,hot_spell_duration,days,7
+09263_09278_Region_um_Straubing,6.585659,HSx3,year,hot_spell_duration,days,7
+09263_Straubing,7.004006,HSx3,year,hot_spell_duration,days,7
+09271_Deggendorf,6.725226,HSx3,year,hot_spell_duration,days,7
+09272_Freyung-Grafenau,4.55943,HSx3,year,hot_spell_duration,days,7
+09273_Kelheim,6.4145017,HSx3,year,hot_spell_duration,days,7
+09274_Landshut,6.4026036,HSx3,year,hot_spell_duration,days,7
+09275_Passau,6.5984254,HSx3,year,hot_spell_duration,days,7
+09276_Regen,4.479177,HSx3,year,hot_spell_duration,days,7
+09277_Rottal-Inn,6.5942554,HSx3,year,hot_spell_duration,days,7
+09278_Straubing-Bogen,6.560935,HSx3,year,hot_spell_duration,days,7
+09279_Dingolfing-Landau,6.7433796,HSx3,year,hot_spell_duration,days,7
+09361_09371_Region_um_Amberg,5.5471873,HSx3,year,hot_spell_duration,days,7
+09361_Amberg,5.718449,HSx3,year,hot_spell_duration,days,7
+09362_09375_Region_um_Regensburg,6.5562763,HSx3,year,hot_spell_duration,days,7
+09362_Regensburg,6.891657,HSx3,year,hot_spell_duration,days,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,5.070768,HSx3,year,hot_spell_duration,days,7
+09363_Weiden i.d. OPf.,5.3617554,HSx3,year,hot_spell_duration,days,7
+09371_Amberg-Sulzbach,5.540041,HSx3,year,hot_spell_duration,days,7
+09372_Cham,5.353921,HSx3,year,hot_spell_duration,days,7
+09373_Neumarkt i.d. OPf.,5.6457257,HSx3,year,hot_spell_duration,days,7
+09374_Neustadt a.d. Waldnaab,5.055958,HSx3,year,hot_spell_duration,days,7
+09375_Regensburg,6.5351896,HSx3,year,hot_spell_duration,days,7
+09376_Schwandorf,5.817383,HSx3,year,hot_spell_duration,days,7
+09377_Tirschenreuth,4.325529,HSx3,year,hot_spell_duration,days,7
+09461_09471_Region_um_Bamberg,5.614282,HSx3,year,hot_spell_duration,days,7
+09461_Bamberg,5.8049426,HSx3,year,hot_spell_duration,days,7
+09462_09472_Region_um_Bayreuth,4.706205,HSx3,year,hot_spell_duration,days,7
+09462_Bayreuth,4.828393,HSx3,year,hot_spell_duration,days,7
+09463_09473_Region_um_Coburg,5.068535,HSx3,year,hot_spell_duration,days,7
+09463_Coburg,5.201481,HSx3,year,hot_spell_duration,days,7
+09464_09475_Region_um_Hof,3.492093,HSx3,year,hot_spell_duration,days,7
+09464_Hof,3.553401,HSx3,year,hot_spell_duration,days,7
+09471_Bamberg,5.604874,HSx3,year,hot_spell_duration,days,7
+09472_Bayreuth,4.6994452,HSx3,year,hot_spell_duration,days,7
+09473_Coburg,5.0587225,HSx3,year,hot_spell_duration,days,7
+09474_Forchheim,5.5865765,HSx3,year,hot_spell_duration,days,7
+09475_Hof,3.4881628,HSx3,year,hot_spell_duration,days,7
+09476_Kronach,3.9926622,HSx3,year,hot_spell_duration,days,7
+09477_Kulmbach,4.5488477,HSx3,year,hot_spell_duration,days,7
+09478_Lichtenfels,5.158487,HSx3,year,hot_spell_duration,days,7
+09479_Wunsiedel i. Fichtelgebirge,3.7626812,HSx3,year,hot_spell_duration,days,7
+09561_09571_Region_um_Ansbach,5.6822505,HSx3,year,hot_spell_duration,days,7
+09561_Ansbach,5.666371,HSx3,year,hot_spell_duration,days,7
+09562_09572_09564_09563_Region_um_Erlangen,6.274555,HSx3,year,hot_spell_duration,days,7
+09562_Erlangen,6.3503704,HSx3,year,hot_spell_duration,days,7
+09563_09573_09562_09564_Region_um_Fürth,6.2658772,HSx3,year,hot_spell_duration,days,7
+09563_Fürth,6.4238133,HSx3,year,hot_spell_duration,days,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,5.9832497,HSx3,year,hot_spell_duration,days,7
+09564_Nürnberg,6.4371576,HSx3,year,hot_spell_duration,days,7
+09565_09576_09564_Region_um_Schwabach,6.042866,HSx3,year,hot_spell_duration,days,7
+09565_Schwabach,6.3053384,HSx3,year,hot_spell_duration,days,7
+09571_Ansbach,5.683111,HSx3,year,hot_spell_duration,days,7
+09572_Erlangen-Höchstadt,6.196438,HSx3,year,hot_spell_duration,days,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,5.857147,HSx3,year,hot_spell_duration,days,7
+09573_Fürth,6.1098757,HSx3,year,hot_spell_duration,days,7
+09574_Nürnberger Land,5.625967,HSx3,year,hot_spell_duration,days,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,5.846699,HSx3,year,hot_spell_duration,days,7
+09576_Roth,5.9516478,HSx3,year,hot_spell_duration,days,7
+09577_Weißenburg-Gunzenhausen,5.73218,HSx3,year,hot_spell_duration,days,7
+09661_09671_09676_Region_um_Aschaffenburg,5.5969496,HSx3,year,hot_spell_duration,days,7
+09661_Aschaffenburg,6.1006413,HSx3,year,hot_spell_duration,days,7
+09662_09678_Region_um_Schweinfurt,5.836626,HSx3,year,hot_spell_duration,days,7
+09662_Schweinfurt,5.8285046,HSx3,year,hot_spell_duration,days,7
+09663_09679_Region_um_Würzburg,6.071346,HSx3,year,hot_spell_duration,days,7
+09663_Würzburg,6.1439357,HSx3,year,hot_spell_duration,days,7
+09671_Aschaffenburg,5.5713305,HSx3,year,hot_spell_duration,days,7
+09672_Bad Kissingen,5.006622,HSx3,year,hot_spell_duration,days,7
+09673_Rhön-Grabfeld,4.6698585,HSx3,year,hot_spell_duration,days,7
+09674_Haßberge,5.559098,HSx3,year,hot_spell_duration,days,7
+09675_Kitzingen,6.093288,HSx3,year,hot_spell_duration,days,7
+09676_Miltenberg,5.5744414,HSx3,year,hot_spell_duration,days,7
+09677_Main-Spessart,5.571168,HSx3,year,hot_spell_duration,days,7
+09678_Schweinfurt,5.8369756,HSx3,year,hot_spell_duration,days,7
+09679_Würzburg,6.063956,HSx3,year,hot_spell_duration,days,7
+09761_09772_09771_Region_um_Augsburg,6.0428905,HSx3,year,hot_spell_duration,days,7
+09761_Augsburg,6.1001635,HSx3,year,hot_spell_duration,days,7
+09762_09777_Region_um_Kaufbeuren,3.7966254,HSx3,year,hot_spell_duration,days,7
+09762_Kaufbeuren,4.646892,HSx3,year,hot_spell_duration,days,7
+09763_09780_Region_um_Kempten_(Allgäu),2.7119389,HSx3,year,hot_spell_duration,days,7
+09763_Kempten (Allgäu),4.182021,HSx3,year,hot_spell_duration,days,7
+09764_09778_08436_Region_um_Memmingen,5.3838553,HSx3,year,hot_spell_duration,days,7
+09764_Memmingen,5.181012,HSx3,year,hot_spell_duration,days,7
+09771_Aichach-Friedberg,6.1134205,HSx3,year,hot_spell_duration,days,7
+09772_Augsburg,5.9841876,HSx3,year,hot_spell_duration,days,7
+09773_Dillingen a.d. Donau,6.1536465,HSx3,year,hot_spell_duration,days,7
+09774_Günzburg,5.975033,HSx3,year,hot_spell_duration,days,7
+09775_Neu-Ulm,5.972307,HSx3,year,hot_spell_duration,days,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),4.538046,HSx3,year,hot_spell_duration,days,7
+09776_Lindau (Bodensee),5.2804394,HSx3,year,hot_spell_duration,days,7
+09777_Ostallgäu,3.7703252,HSx3,year,hot_spell_duration,days,7
+09778_Unterallgäu,5.180684,HSx3,year,hot_spell_duration,days,7
+09779_Donau-Ries,6.030589,HSx3,year,hot_spell_duration,days,7
+09780_Oberallgäu,2.6474402,HSx3,year,hot_spell_duration,days,7
+10041_Regionalverband Saarbrücken,6.385492,HSx3,year,hot_spell_duration,days,7
+10042_Merzig-Wadern,5.550565,HSx3,year,hot_spell_duration,days,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,5.890167,HSx3,year,hot_spell_duration,days,7
+10043_Neunkirchen,6.020247,HSx3,year,hot_spell_duration,days,7
+10044_Saarlouis,6.181607,HSx3,year,hot_spell_duration,days,7
+10045_Saarpfalz-Kreis,6.168725,HSx3,year,hot_spell_duration,days,7
+10046_St. Wendel,5.157186,HSx3,year,hot_spell_duration,days,7
+11000_Berlin,4.6260023,HSx3,year,hot_spell_duration,days,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,4.2942486,HSx3,year,hot_spell_duration,days,7
+12051_Brandenburg an der Havel,4.3845425,HSx3,year,hot_spell_duration,days,7
+12052_12071_Region_um_Cottbus,4.7949686,HSx3,year,hot_spell_duration,days,7
+12052_Cottbus,4.845149,HSx3,year,hot_spell_duration,days,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),4.471736,HSx3,year,hot_spell_duration,days,7
+12053_Frankfurt (Oder),4.5860434,HSx3,year,hot_spell_duration,days,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,4.3465643,HSx3,year,hot_spell_duration,days,7
+12054_Potsdam,4.2976904,HSx3,year,hot_spell_duration,days,7
+12060_Barnim,4.0600996,HSx3,year,hot_spell_duration,days,7
+12061_Dahme-Spreewald,4.701678,HSx3,year,hot_spell_duration,days,7
+12062_Elbe-Elster,4.7962046,HSx3,year,hot_spell_duration,days,7
+12063_Havelland,4.2557287,HSx3,year,hot_spell_duration,days,7
+12064_Märkisch-Oderland,4.3753824,HSx3,year,hot_spell_duration,days,7
+12065_Oberhavel,3.9687738,HSx3,year,hot_spell_duration,days,7
+12066_Oberspreewald-Lausitz,4.800209,HSx3,year,hot_spell_duration,days,7
+12067_Oder-Spree,4.555835,HSx3,year,hot_spell_duration,days,7
+12068_Ostprignitz-Ruppin,3.7514987,HSx3,year,hot_spell_duration,days,7
+12069_Potsdam-Mittelmark,4.3116817,HSx3,year,hot_spell_duration,days,7
+12070_Prignitz,3.5427744,HSx3,year,hot_spell_duration,days,7
+12071_Spree-Neiße,4.7898464,HSx3,year,hot_spell_duration,days,7
+12072_Teltow-Fläming,4.523021,HSx3,year,hot_spell_duration,days,7
+12073_Uckermark,3.5305734,HSx3,year,hot_spell_duration,days,7
+13003_13072_Region_um_Rostock,2.2776232,HSx3,year,hot_spell_duration,days,7
+13003_Rostock,1.8435434,HSx3,year,hot_spell_duration,days,7
+13004_13076_13074_Region_um_Schwerin,2.7807403,HSx3,year,hot_spell_duration,days,7
+13004_Schwerin,2.7413902,HSx3,year,hot_spell_duration,days,7
+13071_Mecklenburgische Seenplatte,2.8275127,HSx3,year,hot_spell_duration,days,7
+13072_Rostock,2.3001013,HSx3,year,hot_spell_duration,days,7
+13073_Vorpommern-Rügen,1.5164341,HSx3,year,hot_spell_duration,days,7
+13074_Nordwestmecklenburg,2.1636002,HSx3,year,hot_spell_duration,days,7
+13075_Vorpommern-Greifswald,2.3788092,HSx3,year,hot_spell_duration,days,7
+13076_Ludwigslust-Parchim,3.057574,HSx3,year,hot_spell_duration,days,7
+14511_14524_14521_14522_Region_um_Chemnitz,3.5007515,HSx3,year,hot_spell_duration,days,7
+14511_Chemnitz,3.8341327,HSx3,year,hot_spell_duration,days,7
+14521_Erzgebirgskreis,2.8677292,HSx3,year,hot_spell_duration,days,7
+14522_Mittelsachsen,3.8139224,HSx3,year,hot_spell_duration,days,7
+14523_Vogtlandkreis,3.467169,HSx3,year,hot_spell_duration,days,7
+14524_Zwickau,3.9586787,HSx3,year,hot_spell_duration,days,7
+14612_14627_14625_14628_Region_um_Dresden,4.401224,HSx3,year,hot_spell_duration,days,7
+14612_Dresden,4.7249804,HSx3,year,hot_spell_duration,days,7
+14625_Bautzen,4.5371714,HSx3,year,hot_spell_duration,days,7
+14626_Görlitz,4.5217385,HSx3,year,hot_spell_duration,days,7
+14627_Meißen,4.7412515,HSx3,year,hot_spell_duration,days,7
+14628_Sächsische Schweiz-Osterzgebirge,3.841901,HSx3,year,hot_spell_duration,days,7
+14713_14729_14730_Region_um_Leipzig,4.749094,HSx3,year,hot_spell_duration,days,7
+14713_Leipzig,4.9552555,HSx3,year,hot_spell_duration,days,7
+14729_Leipzig,4.70112,HSx3,year,hot_spell_duration,days,7
+14730_Nordsachsen,4.757814,HSx3,year,hot_spell_duration,days,7
+15001_15091_15082_Region_um_Dessau-Rolau,4.6003437,HSx3,year,hot_spell_duration,days,7
+15001_Dessau-Roßlau,4.5703583,HSx3,year,hot_spell_duration,days,7
+15002_15088_Region_um_Halle_(Saale),4.738474,HSx3,year,hot_spell_duration,days,7
+15002_Halle (Saale),4.8382664,HSx3,year,hot_spell_duration,days,7
+15003_15083_15089_15086_Region_um_Magdeburg,4.162115,HSx3,year,hot_spell_duration,days,7
+15003_Magdeburg,4.3268757,HSx3,year,hot_spell_duration,days,7
+15081_Altmarkkreis Salzwedel,3.7817545,HSx3,year,hot_spell_duration,days,7
+15082_Anhalt-Bitterfeld,4.571533,HSx3,year,hot_spell_duration,days,7
+15083_Börde,3.9473393,HSx3,year,hot_spell_duration,days,7
+15084_Burgenlandkreis,4.5505695,HSx3,year,hot_spell_duration,days,7
+15085_Harz,3.3112094,HSx3,year,hot_spell_duration,days,7
+15086_Jerichower Land,4.2977805,HSx3,year,hot_spell_duration,days,7
+15087_Mansfeld-Südharz,3.9861002,HSx3,year,hot_spell_duration,days,7
+15088_Saalekreis,4.7286863,HSx3,year,hot_spell_duration,days,7
+15089_Salzlandkreis,4.3435645,HSx3,year,hot_spell_duration,days,7
+15090_Stendal,4.0342727,HSx3,year,hot_spell_duration,days,7
+15091_Wittenberg,4.625645,HSx3,year,hot_spell_duration,days,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,4.057696,HSx3,year,hot_spell_duration,days,7
+16051_Erfurt,4.405281,HSx3,year,hot_spell_duration,days,7
+16052_16076_15084_16074_Region_um_Gera,4.317766,HSx3,year,hot_spell_duration,days,7
+16052_Gera,4.3263416,HSx3,year,hot_spell_duration,days,7
+16053_16074_16071_16055_Region_um_Jena,4.250419,HSx3,year,hot_spell_duration,days,7
+16053_Jena,4.3568273,HSx3,year,hot_spell_duration,days,7
+16054_16066_16069_16070_Region_um_Suhl,3.8800855,HSx3,year,hot_spell_duration,days,7
+16054_Suhl,3.2822714,HSx3,year,hot_spell_duration,days,7
+16055_16071_Region_um_Weimar,4.24858,HSx3,year,hot_spell_duration,days,7
+16055_Weimar,4.218833,HSx3,year,hot_spell_duration,days,7
+16056_16063_06636_Region_um_Eisenach,3.8566928,HSx3,year,hot_spell_duration,days,7
+16056_Eisenach,4.055076,HSx3,year,hot_spell_duration,days,7
+16061_Eichsfeld,3.4537737,HSx3,year,hot_spell_duration,days,7
+16062_Nordhausen,3.6168234,HSx3,year,hot_spell_duration,days,7
+16063_Wartburgkreis,3.920512,HSx3,year,hot_spell_duration,days,7
+16064_Unstrut-Hainich-Kreis,4.0599017,HSx3,year,hot_spell_duration,days,7
+16065_Kyffhäuserkreis,4.2224064,HSx3,year,hot_spell_duration,days,7
+16066_Schmalkalden-Meiningen,3.896136,HSx3,year,hot_spell_duration,days,7
+16067_Gotha,3.8288307,HSx3,year,hot_spell_duration,days,7
+16068_Sömmerda,4.558514,HSx3,year,hot_spell_duration,days,7
+16069_Hildburghausen,4.2890472,HSx3,year,hot_spell_duration,days,7
+16070_Ilm-Kreis,3.491334,HSx3,year,hot_spell_duration,days,7
+16071_Weimarer Land,4.251988,HSx3,year,hot_spell_duration,days,7
+16072_Sonneberg,3.6966739,HSx3,year,hot_spell_duration,days,7
+16073_Saalfeld-Rudolstadt,3.6880002,HSx3,year,hot_spell_duration,days,7
+16074_Saale-Holzland-Kreis,4.236712,HSx3,year,hot_spell_duration,days,7
+16075_Saale-Orla-Kreis,3.5749495,HSx3,year,hot_spell_duration,days,7
+16076_Greiz,4.0099034,HSx3,year,hot_spell_duration,days,7
+16077_Altenburger Land,4.4838924,HSx3,year,hot_spell_duration,days,7

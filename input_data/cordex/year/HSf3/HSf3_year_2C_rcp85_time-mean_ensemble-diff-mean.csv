@@ -1,0 +1,512 @@
+region,HSf3_year_2C_rcp85_time-mean_ensemble-diff-mean,ci_name,ci_frequency,standard_name,units,mid_month
+01001_01059_Region_um_Flensburg,0.14156146,HSf3,year,hot_spell_frequency,,7
+01001_Flensburg,0.13698186,HSf3,year,hot_spell_frequency,,7
+01002_01057_01058_Region_um_Kiel,0.19729654,HSf3,year,hot_spell_frequency,,7
+01002_Kiel,0.19337197,HSf3,year,hot_spell_frequency,,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.2780464,HSf3,year,hot_spell_frequency,,7
+01003_Lübeck,0.28395492,HSf3,year,hot_spell_frequency,,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.22662652,HSf3,year,hot_spell_frequency,,7
+01004_Neumünster,0.28133175,HSf3,year,hot_spell_frequency,,7
+01051_Dithmarschen,0.18921064,HSf3,year,hot_spell_frequency,,7
+01053_Herzogtum Lauenburg,0.36453563,HSf3,year,hot_spell_frequency,,7
+01054_Nordfriesland,0.12262031,HSf3,year,hot_spell_frequency,,7
+01055_Ostholstein,0.14878227,HSf3,year,hot_spell_frequency,,7
+01056_Pinneberg,0.33521247,HSf3,year,hot_spell_frequency,,7
+01057_Plön,0.1711825,HSf3,year,hot_spell_frequency,,7
+01058_Rendsburg-Eckernförde,0.21052305,HSf3,year,hot_spell_frequency,,7
+01059_Schleswig-Flensburg,0.14168157,HSf3,year,hot_spell_frequency,,7
+01060_Segeberg,0.2973733,HSf3,year,hot_spell_frequency,,7
+01061_Steinburg,0.26758584,HSf3,year,hot_spell_frequency,,7
+01062_Stormarn,0.33844176,HSf3,year,hot_spell_frequency,,7
+02000_Hamburg,0.39466178,HSf3,year,hot_spell_frequency,,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.50179887,HSf3,year,hot_spell_frequency,,7
+03101_Braunschweig,0.5095736,HSf3,year,hot_spell_frequency,,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.43913385,HSf3,year,hot_spell_frequency,,7
+03102_Salzgitter,0.48761648,HSf3,year,hot_spell_frequency,,7
+03103_03154_03151_Region_um_Wolfsburg,0.5008591,HSf3,year,hot_spell_frequency,,7
+03103_Wolfsburg,0.50452816,HSf3,year,hot_spell_frequency,,7
+03151_Gifhorn,0.49985912,HSf3,year,hot_spell_frequency,,7
+03153_Goslar,0.29750043,HSf3,year,hot_spell_frequency,,7
+03154_Helmstedt,0.50205874,HSf3,year,hot_spell_frequency,,7
+03155_Northeim,0.449022,HSf3,year,hot_spell_frequency,,7
+03157_Peine,0.5162988,HSf3,year,hot_spell_frequency,,7
+03158_Wolfenbüttel,0.4967371,HSf3,year,hot_spell_frequency,,7
+03159_Göttingen,0.4290873,HSf3,year,hot_spell_frequency,,7
+03241_Region Hannover,0.5063498,HSf3,year,hot_spell_frequency,,7
+03251_Diepholz,0.43438923,HSf3,year,hot_spell_frequency,,7
+03252_Hameln-Pyrmont,0.42568967,HSf3,year,hot_spell_frequency,,7
+03254_Hildesheim,0.46305075,HSf3,year,hot_spell_frequency,,7
+03255_Holzminden,0.40844455,HSf3,year,hot_spell_frequency,,7
+03256_Nienburg (Weser),0.47884554,HSf3,year,hot_spell_frequency,,7
+03257_Schaumburg,0.44990185,HSf3,year,hot_spell_frequency,,7
+03351_Celle,0.48262563,HSf3,year,hot_spell_frequency,,7
+03352_Cuxhaven,0.25812608,HSf3,year,hot_spell_frequency,,7
+03353_Harburg,0.38756666,HSf3,year,hot_spell_frequency,,7
+03354_Lüchow-Dannenberg,0.502671,HSf3,year,hot_spell_frequency,,7
+03355_Lüneburg,0.4365425,HSf3,year,hot_spell_frequency,,7
+03356_Osterholz,0.364624,HSf3,year,hot_spell_frequency,,7
+03357_Rotenburg (Wümme),0.36905888,HSf3,year,hot_spell_frequency,,7
+03358_Heidekreis,0.43833765,HSf3,year,hot_spell_frequency,,7
+03359_Stade,0.30756217,HSf3,year,hot_spell_frequency,,7
+03360_Uelzen,0.44794905,HSf3,year,hot_spell_frequency,,7
+03361_Verden,0.43363154,HSf3,year,hot_spell_frequency,,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.39050713,HSf3,year,hot_spell_frequency,,7
+03401_Delmenhorst,0.3965097,HSf3,year,hot_spell_frequency,,7
+03402_03452_03457_Region_um_Emden,0.22199622,HSf3,year,hot_spell_frequency,,7
+03402_Emden,0.17678393,HSf3,year,hot_spell_frequency,,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.33652896,HSf3,year,hot_spell_frequency,,7
+03403_Oldenburg (Oldb),0.35464862,HSf3,year,hot_spell_frequency,,7
+03404_03459_05566_Region_um_Osnabrück,0.43503353,HSf3,year,hot_spell_frequency,,7
+03404_Osnabrück,0.4143224,HSf3,year,hot_spell_frequency,,7
+03405_03455_Region_um_Wilhelmshaven,0.18633464,HSf3,year,hot_spell_frequency,,7
+03405_Wilhelmshaven,0.12218554,HSf3,year,hot_spell_frequency,,7
+03451_Ammerland,0.32494146,HSf3,year,hot_spell_frequency,,7
+03452_Aurich,0.177656,HSf3,year,hot_spell_frequency,,7
+03453_Cloppenburg,0.37120742,HSf3,year,hot_spell_frequency,,7
+03454_Emsland,0.3784977,HSf3,year,hot_spell_frequency,,7
+03455_Friesland,0.19763538,HSf3,year,hot_spell_frequency,,7
+03456_Grafschaft Bentheim,0.40720987,HSf3,year,hot_spell_frequency,,7
+03457_Leer,0.28106782,HSf3,year,hot_spell_frequency,,7
+03458_Oldenburg,0.3866374,HSf3,year,hot_spell_frequency,,7
+03459_Osnabrück,0.42111444,HSf3,year,hot_spell_frequency,,7
+03460_Vechta,0.41693988,HSf3,year,hot_spell_frequency,,7
+03461_Wesermarsch,0.2813893,HSf3,year,hot_spell_frequency,,7
+03462_Wittmund,0.17689368,HSf3,year,hot_spell_frequency,,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.351922,HSf3,year,hot_spell_frequency,,7
+04011_Bremen,0.41048187,HSf3,year,hot_spell_frequency,,7
+04012_03352_03461_Region_um_Bremerhaven,0.2645379,HSf3,year,hot_spell_frequency,,7
+04012_Bremerhaven,0.2543724,HSf3,year,hot_spell_frequency,,7
+05111_05162_05158_05112_Region_um_Düsseldorf,0.62984747,HSf3,year,hot_spell_frequency,,7
+05111_Düsseldorf,0.6574307,HSf3,year,hot_spell_frequency,,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,0.5932655,HSf3,year,hot_spell_frequency,,7
+05112_Duisburg,0.6420288,HSf3,year,hot_spell_frequency,,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.5563206,HSf3,year,hot_spell_frequency,,7
+05113_Essen,0.56009483,HSf3,year,hot_spell_frequency,,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.6001979,HSf3,year,hot_spell_frequency,,7
+05114_Krefeld,0.633137,HSf3,year,hot_spell_frequency,,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.5936573,HSf3,year,hot_spell_frequency,,7
+05116_Mönchengladbach,0.5768593,HSf3,year,hot_spell_frequency,,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,0.5941879,HSf3,year,hot_spell_frequency,,7
+05117_Mülheim an der Ruhr,0.58790576,HSf3,year,hot_spell_frequency,,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,0.5830478,HSf3,year,hot_spell_frequency,,7
+05119_Oberhausen,0.6232968,HSf3,year,hot_spell_frequency,,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.46130297,HSf3,year,hot_spell_frequency,,7
+05120_Remscheid,0.41007626,HSf3,year,hot_spell_frequency,,7
+05122_05158_05124_05378_05120_Region_um_Solingen,0.5399228,HSf3,year,hot_spell_frequency,,7
+05122_Solingen,0.5393872,HSf3,year,hot_spell_frequency,,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.4550893,HSf3,year,hot_spell_frequency,,7
+05124_Wuppertal,0.44807252,HSf3,year,hot_spell_frequency,,7
+05154_Kleve,0.53257275,HSf3,year,hot_spell_frequency,,7
+05158_Mettmann,0.580066,HSf3,year,hot_spell_frequency,,7
+05162_Rhein-Kreis Neuss,0.6499522,HSf3,year,hot_spell_frequency,,7
+05166_Viersen,0.585387,HSf3,year,hot_spell_frequency,,7
+05170_Wesel,0.5671474,HSf3,year,hot_spell_frequency,,7
+05314_05382_Region_um_Bonn,0.5725198,HSf3,year,hot_spell_frequency,,7
+05314_Bonn,0.61318445,HSf3,year,hot_spell_frequency,,7
+05315_Köln,0.72222024,HSf3,year,hot_spell_frequency,,7
+05316_05315_05378_05158_Region_um_Leverkusen,0.62130207,HSf3,year,hot_spell_frequency,,7
+05316_Leverkusen,0.6721072,HSf3,year,hot_spell_frequency,,7
+05334_Städteregion Aachen,0.3409851,HSf3,year,hot_spell_frequency,,7
+05358_Düren,0.4753244,HSf3,year,hot_spell_frequency,,7
+05362_Rhein-Erft-Kreis,0.642815,HSf3,year,hot_spell_frequency,,7
+05366_Euskirchen,0.3284153,HSf3,year,hot_spell_frequency,,7
+05370_Heinsberg,0.55435246,HSf3,year,hot_spell_frequency,,7
+05374_Oberbergischer Kreis,0.41241,HSf3,year,hot_spell_frequency,,7
+05378_Rheinisch-Bergischer Kreis,0.5594367,HSf3,year,hot_spell_frequency,,7
+05382_Rhein-Sieg-Kreis,0.5674252,HSf3,year,hot_spell_frequency,,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.579206,HSf3,year,hot_spell_frequency,,7
+05512_Bottrop,0.6218639,HSf3,year,hot_spell_frequency,,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.5840032,HSf3,year,hot_spell_frequency,,7
+05513_Gelsenkirchen,0.6208442,HSf3,year,hot_spell_frequency,,7
+05515_05566_05558_05570_Region_um_Münster,0.48996902,HSf3,year,hot_spell_frequency,,7
+05515_Münster,0.52250135,HSf3,year,hot_spell_frequency,,7
+05554_Borken,0.47656184,HSf3,year,hot_spell_frequency,,7
+05558_Coesfeld,0.50514716,HSf3,year,hot_spell_frequency,,7
+05562_Recklinghausen,0.58521163,HSf3,year,hot_spell_frequency,,7
+05566_Steinfurt,0.45279962,HSf3,year,hot_spell_frequency,,7
+05570_Warendorf,0.52010095,HSf3,year,hot_spell_frequency,,7
+05711_05754_05758_05766_Region_um_Bielefeld,0.45105496,HSf3,year,hot_spell_frequency,,7
+05711_Bielefeld,0.46866673,HSf3,year,hot_spell_frequency,,7
+05754_Gütersloh,0.5032224,HSf3,year,hot_spell_frequency,,7
+05758_Herford,0.45174572,HSf3,year,hot_spell_frequency,,7
+05762_Höxter,0.4142669,HSf3,year,hot_spell_frequency,,7
+05766_Lippe,0.4066318,HSf3,year,hot_spell_frequency,,7
+05770_Minden-Lübbecke,0.47284397,HSf3,year,hot_spell_frequency,,7
+05774_Paderborn,0.39581835,HSf3,year,hot_spell_frequency,,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.54177386,HSf3,year,hot_spell_frequency,,7
+05911_Bochum,0.54789346,HSf3,year,hot_spell_frequency,,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.52339786,HSf3,year,hot_spell_frequency,,7
+05913_Dortmund,0.54282683,HSf3,year,hot_spell_frequency,,7
+05914_05954_05913_05978_05962_Region_um_Hagen,0.42103037,HSf3,year,hot_spell_frequency,,7
+05914_Hagen,0.39599437,HSf3,year,hot_spell_frequency,,7
+05915_05978_05974_05570_05558_Region_um_Hamm,0.4886214,HSf3,year,hot_spell_frequency,,7
+05915_Hamm,0.53353703,HSf3,year,hot_spell_frequency,,7
+05916_05513_05562_05911_Region_um_Herne,0.58503747,HSf3,year,hot_spell_frequency,,7
+05916_Herne,0.60882884,HSf3,year,hot_spell_frequency,,7
+05954_Ennepe-Ruhr-Kreis,0.41763017,HSf3,year,hot_spell_frequency,,7
+05958_Hochsauerlandkreis,0.2568081,HSf3,year,hot_spell_frequency,,7
+05962_Märkischer Kreis,0.34044322,HSf3,year,hot_spell_frequency,,7
+05966_Olpe,0.3183909,HSf3,year,hot_spell_frequency,,7
+05970_Siegen-Wittgenstein,0.30742064,HSf3,year,hot_spell_frequency,,7
+05974_Soest,0.41955924,HSf3,year,hot_spell_frequency,,7
+05978_Unna,0.5289512,HSf3,year,hot_spell_frequency,,7
+06411_06432_06438_Region_um_Darmstadt,0.86402947,HSf3,year,hot_spell_frequency,,7
+06411_Darmstadt,0.89434487,HSf3,year,hot_spell_frequency,,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.7538093,HSf3,year,hot_spell_frequency,,7
+06412_Frankfurt am Main,0.9288222,HSf3,year,hot_spell_frequency,,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,0.7397901,HSf3,year,hot_spell_frequency,,7
+06413_Offenbach am Main,0.9428938,HSf3,year,hot_spell_frequency,,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.7747651,HSf3,year,hot_spell_frequency,,7
+06414_Wiesbaden,0.7906283,HSf3,year,hot_spell_frequency,,7
+06431_Bergstraße,0.83597445,HSf3,year,hot_spell_frequency,,7
+06432_Darmstadt-Dieburg,0.8257723,HSf3,year,hot_spell_frequency,,7
+06433_Groß-Gerau,0.9694885,HSf3,year,hot_spell_frequency,,7
+06434_Hochtaunuskreis,0.63977796,HSf3,year,hot_spell_frequency,,7
+06435_Main-Kinzig-Kreis,0.65321517,HSf3,year,hot_spell_frequency,,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.7502477,HSf3,year,hot_spell_frequency,,7
+06436_Main-Taunus-Kreis,0.81956047,HSf3,year,hot_spell_frequency,,7
+06437_Odenwaldkreis,0.64166474,HSf3,year,hot_spell_frequency,,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,0.7767885,HSf3,year,hot_spell_frequency,,7
+06438_Offenbach,0.9270637,HSf3,year,hot_spell_frequency,,7
+06439_Rheingau-Taunus-Kreis,0.6122012,HSf3,year,hot_spell_frequency,,7
+06440_Wetteraukreis,0.7285406,HSf3,year,hot_spell_frequency,,7
+06531_Gießen,0.64637744,HSf3,year,hot_spell_frequency,,7
+06532_Lahn-Dill-Kreis,0.51713556,HSf3,year,hot_spell_frequency,,7
+06533_Limburg-Weilburg,0.5870777,HSf3,year,hot_spell_frequency,,7
+06534_Marburg-Biedenkopf,0.53231233,HSf3,year,hot_spell_frequency,,7
+06535_Vogelsbergkreis,0.46728462,HSf3,year,hot_spell_frequency,,7
+06611_06633_03159_Region_um_Kassel,0.44238555,HSf3,year,hot_spell_frequency,,7
+06611_Kassel,0.47035018,HSf3,year,hot_spell_frequency,,7
+06631_Fulda,0.4257255,HSf3,year,hot_spell_frequency,,7
+06632_Hersfeld-Rotenburg,0.4884222,HSf3,year,hot_spell_frequency,,7
+06633_Kassel,0.45831287,HSf3,year,hot_spell_frequency,,7
+06634_Schwalm-Eder-Kreis,0.48821288,HSf3,year,hot_spell_frequency,,7
+06635_Waldeck-Frankenberg,0.38890484,HSf3,year,hot_spell_frequency,,7
+06636_Werra-Meißner-Kreis,0.4618545,HSf3,year,hot_spell_frequency,,7
+07111_07137_07141_07143_Region_um_Koblenz,0.5280401,HSf3,year,hot_spell_frequency,,7
+07111_Koblenz,0.64339304,HSf3,year,hot_spell_frequency,,7
+07131_Ahrweiler,0.40826824,HSf3,year,hot_spell_frequency,,7
+07132_Altenkirchen (Westerwald),0.4318408,HSf3,year,hot_spell_frequency,,7
+07133_Bad Kreuznach,0.6649784,HSf3,year,hot_spell_frequency,,7
+07134_Birkenfeld,0.4636034,HSf3,year,hot_spell_frequency,,7
+07135_Cochem-Zell,0.50877583,HSf3,year,hot_spell_frequency,,7
+07137_Mayen-Koblenz,0.5431034,HSf3,year,hot_spell_frequency,,7
+07138_Neuwied,0.5651587,HSf3,year,hot_spell_frequency,,7
+07140_Rhein-Hunsrück-Kreis,0.48668468,HSf3,year,hot_spell_frequency,,7
+07141_Rhein-Lahn-Kreis,0.5695296,HSf3,year,hot_spell_frequency,,7
+07143_Westerwaldkreis,0.46987695,HSf3,year,hot_spell_frequency,,7
+07211_07235_Region_um_Trier,0.5331362,HSf3,year,hot_spell_frequency,,7
+07211_Trier,0.57488704,HSf3,year,hot_spell_frequency,,7
+07231_Bernkastel-Wittlich,0.5069364,HSf3,year,hot_spell_frequency,,7
+07232_Eifelkreis Bitburg-Prüm,0.40786642,HSf3,year,hot_spell_frequency,,7
+07233_Vulkaneifel,0.32212982,HSf3,year,hot_spell_frequency,,7
+07235_Trier-Saarburg,0.5284182,HSf3,year,hot_spell_frequency,,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),1.0206342,HSf3,year,hot_spell_frequency,,7
+07311_Frankenthal (Pfalz),1.0339195,HSf3,year,hot_spell_frequency,,7
+07312_07335_07332_Region_um_Kaiserslautern,0.7334977,HSf3,year,hot_spell_frequency,,7
+07312_Kaiserslautern,0.6728821,HSf3,year,hot_spell_frequency,,7
+07313_07337_Region_um_Landau_in_der_Pfalz,0.87036675,HSf3,year,hot_spell_frequency,,7
+07313_Landau in der Pfalz,0.85008913,HSf3,year,hot_spell_frequency,,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,1.0206693,HSf3,year,hot_spell_frequency,,7
+07314_Ludwigshafen am Rhein,1.0329683,HSf3,year,hot_spell_frequency,,7
+07315_07339_06414_06433_Region_um_Mainz,0.8654289,HSf3,year,hot_spell_frequency,,7
+07315_Mainz,0.87783605,HSf3,year,hot_spell_frequency,,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.8477823,HSf3,year,hot_spell_frequency,,7
+07316_Neustadt an der Weinstraße,0.87215227,HSf3,year,hot_spell_frequency,,7
+07317_07340_Region_um_Pirmasens,0.7049512,HSf3,year,hot_spell_frequency,,7
+07317_Pirmasens,0.6866938,HSf3,year,hot_spell_frequency,,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,0.9238979,HSf3,year,hot_spell_frequency,,7
+07318_Speyer,1.0201246,HSf3,year,hot_spell_frequency,,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.8754885,HSf3,year,hot_spell_frequency,,7
+07319_Worms,0.9667822,HSf3,year,hot_spell_frequency,,7
+07320_07340_10045_07317_Region_um_Zweibrücken,0.6961557,HSf3,year,hot_spell_frequency,,7
+07320_Zweibrücken,0.6725245,HSf3,year,hot_spell_frequency,,7
+07331_Alzey-Worms,0.8498876,HSf3,year,hot_spell_frequency,,7
+07332_Bad Dürkheim,0.8165165,HSf3,year,hot_spell_frequency,,7
+07333_Donnersbergkreis,0.72268665,HSf3,year,hot_spell_frequency,,7
+07334_Germersheim,1.0127419,HSf3,year,hot_spell_frequency,,7
+07335_Kaiserslautern,0.6676657,HSf3,year,hot_spell_frequency,,7
+07336_Kusel,0.6512354,HSf3,year,hot_spell_frequency,,7
+07337_Südliche Weinstraße,0.87326986,HSf3,year,hot_spell_frequency,,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.91354984,HSf3,year,hot_spell_frequency,,7
+07338_Rhein-Pfalz-Kreis,1.0186548,HSf3,year,hot_spell_frequency,,7
+07339_Mainz-Bingen,0.811739,HSf3,year,hot_spell_frequency,,7
+07340_Südwestpfalz,0.7062185,HSf3,year,hot_spell_frequency,,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.76991665,HSf3,year,hot_spell_frequency,,7
+08111_Stuttgart,0.84648824,HSf3,year,hot_spell_frequency,,7
+08115_Böblingen,0.70642084,HSf3,year,hot_spell_frequency,,7
+08116_Esslingen,0.7033169,HSf3,year,hot_spell_frequency,,7
+08117_Göppingen,0.5338892,HSf3,year,hot_spell_frequency,,7
+08118_Ludwigsburg,0.8676723,HSf3,year,hot_spell_frequency,,7
+08119_Rems-Murr-Kreis,0.7676659,HSf3,year,hot_spell_frequency,,7
+08121_08125_Region_um_Heilbronn,0.8797427,HSf3,year,hot_spell_frequency,,7
+08121_Heilbronn,0.93364596,HSf3,year,hot_spell_frequency,,7
+08125_Heilbronn,0.87447923,HSf3,year,hot_spell_frequency,,7
+08126_Hohenlohekreis,0.75767237,HSf3,year,hot_spell_frequency,,7
+08127_Schwäbisch Hall,0.66331416,HSf3,year,hot_spell_frequency,,7
+08128_Main-Tauber-Kreis,0.7196025,HSf3,year,hot_spell_frequency,,7
+08135_Heidenheim,0.5558347,HSf3,year,hot_spell_frequency,,7
+08136_Ostalbkreis,0.5768444,HSf3,year,hot_spell_frequency,,7
+08211_08216_Region_um_Baden-Baden,0.6837473,HSf3,year,hot_spell_frequency,,7
+08211_Baden-Baden,0.6513764,HSf3,year,hot_spell_frequency,,7
+08212_08215_07334_Region_um_Karlsruhe,0.9422301,HSf3,year,hot_spell_frequency,,7
+08212_Karlsruhe,0.944971,HSf3,year,hot_spell_frequency,,7
+08215_Karlsruhe,0.91194826,HSf3,year,hot_spell_frequency,,7
+08216_Rastatt,0.6897985,HSf3,year,hot_spell_frequency,,7
+08221_08226_08222_Region_um_Heidelberg,0.90441096,HSf3,year,hot_spell_frequency,,7
+08221_Heidelberg,0.911928,HSf3,year,hot_spell_frequency,,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,0.9069582,HSf3,year,hot_spell_frequency,,7
+08222_Mannheim,1.014075,HSf3,year,hot_spell_frequency,,7
+08225_Neckar-Odenwald-Kreis,0.7400276,HSf3,year,hot_spell_frequency,,7
+08226_Rhein-Neckar-Kreis,0.8882712,HSf3,year,hot_spell_frequency,,7
+08231_08236_08235_Region_um_Pforzheim,0.5808041,HSf3,year,hot_spell_frequency,,7
+08231_Pforzheim,0.6665776,HSf3,year,hot_spell_frequency,,7
+08235_Calw,0.4737924,HSf3,year,hot_spell_frequency,,7
+08236_Enzkreis,0.71385247,HSf3,year,hot_spell_frequency,,7
+08237_Freudenstadt,0.4228509,HSf3,year,hot_spell_frequency,,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,0.5710931,HSf3,year,hot_spell_frequency,,7
+08311_Freiburg im Breisgau,0.7020913,HSf3,year,hot_spell_frequency,,7
+08315_Breisgau-Hochschwarzwald,0.4934658,HSf3,year,hot_spell_frequency,,7
+08316_Emmendingen,0.6990549,HSf3,year,hot_spell_frequency,,7
+08317_Ortenaukreis,0.73846054,HSf3,year,hot_spell_frequency,,7
+08325_Rottweil,0.45353118,HSf3,year,hot_spell_frequency,,7
+08326_Schwarzwald-Baar-Kreis,0.33541024,HSf3,year,hot_spell_frequency,,7
+08327_Tuttlingen,0.41154754,HSf3,year,hot_spell_frequency,,7
+08335_Konstanz,0.6741571,HSf3,year,hot_spell_frequency,,7
+08336_Lörrach,0.65029985,HSf3,year,hot_spell_frequency,,7
+08337_Waldshut,0.5702592,HSf3,year,hot_spell_frequency,,7
+08415_Reutlingen,0.4109279,HSf3,year,hot_spell_frequency,,7
+08416_Tübingen,0.67328006,HSf3,year,hot_spell_frequency,,7
+08417_Zollernalbkreis,0.39956397,HSf3,year,hot_spell_frequency,,7
+08421_08425_09775_Region_um_Ulm,0.5538353,HSf3,year,hot_spell_frequency,,7
+08421_Ulm,0.60983133,HSf3,year,hot_spell_frequency,,7
+08425_Alb-Donau-Kreis,0.5180636,HSf3,year,hot_spell_frequency,,7
+08426_Biberach,0.54917514,HSf3,year,hot_spell_frequency,,7
+08435_Bodenseekreis,0.576565,HSf3,year,hot_spell_frequency,,7
+08436_Ravensburg,0.5008162,HSf3,year,hot_spell_frequency,,7
+08437_Sigmaringen,0.4704483,HSf3,year,hot_spell_frequency,,7
+09161_09176_09185_09186_Region_um_Ingolstadt,0.75437057,HSf3,year,hot_spell_frequency,,7
+09161_Ingolstadt,0.8455904,HSf3,year,hot_spell_frequency,,7
+09162_09184_09179_09174_Region_um_München,0.655207,HSf3,year,hot_spell_frequency,,7
+09162_München,0.73560244,HSf3,year,hot_spell_frequency,,7
+09163_09187_Region_um_Rosenheim,0.5331164,HSf3,year,hot_spell_frequency,,7
+09163_Rosenheim,0.6507817,HSf3,year,hot_spell_frequency,,7
+09171_Altötting,0.798438,HSf3,year,hot_spell_frequency,,7
+09172_Berchtesgadener Land,0.26451042,HSf3,year,hot_spell_frequency,,7
+09173_Bad Tölz-Wolfratshausen,0.28121337,HSf3,year,hot_spell_frequency,,7
+09174_Dachau,0.705838,HSf3,year,hot_spell_frequency,,7
+09175_Ebersberg,0.6440724,HSf3,year,hot_spell_frequency,,7
+09176_Eichstätt,0.7278599,HSf3,year,hot_spell_frequency,,7
+09177_Erding,0.7127485,HSf3,year,hot_spell_frequency,,7
+09178_Freising,0.74256563,HSf3,year,hot_spell_frequency,,7
+09179_Fürstenfeldbruck,0.60478634,HSf3,year,hot_spell_frequency,,7
+09180_Garmisch-Partenkirchen,0.1323101,HSf3,year,hot_spell_frequency,,7
+09181_Landsberg am Lech,0.47884658,HSf3,year,hot_spell_frequency,,7
+09182_Miesbach,0.22692636,HSf3,year,hot_spell_frequency,,7
+09183_Mühldorf a. Inn,0.7428098,HSf3,year,hot_spell_frequency,,7
+09184_München,0.6043163,HSf3,year,hot_spell_frequency,,7
+09185_Neuburg-Schrobenhausen,0.7798687,HSf3,year,hot_spell_frequency,,7
+09186_Pfaffenhofen a.d. Ilm,0.75551856,HSf3,year,hot_spell_frequency,,7
+09187_Rosenheim,0.52985436,HSf3,year,hot_spell_frequency,,7
+09188_Starnberg,0.487258,HSf3,year,hot_spell_frequency,,7
+09189_Traunstein,0.46114692,HSf3,year,hot_spell_frequency,,7
+09190_Weilheim-Schongau,0.37424338,HSf3,year,hot_spell_frequency,,7
+09261_09274_Region_um_Landshut,0.7616369,HSf3,year,hot_spell_frequency,,7
+09261_Landshut,0.76879007,HSf3,year,hot_spell_frequency,,7
+09262_09275_Region_um_Passau,0.8356817,HSf3,year,hot_spell_frequency,,7
+09262_Passau,0.9044894,HSf3,year,hot_spell_frequency,,7
+09263_09278_Region_um_Straubing,0.83045906,HSf3,year,hot_spell_frequency,,7
+09263_Straubing,0.93347675,HSf3,year,hot_spell_frequency,,7
+09271_Deggendorf,0.8509201,HSf3,year,hot_spell_frequency,,7
+09272_Freyung-Grafenau,0.42840007,HSf3,year,hot_spell_frequency,,7
+09273_Kelheim,0.78159446,HSf3,year,hot_spell_frequency,,7
+09274_Landshut,0.761254,HSf3,year,hot_spell_frequency,,7
+09275_Passau,0.83249193,HSf3,year,hot_spell_frequency,,7
+09276_Regen,0.4242649,HSf3,year,hot_spell_frequency,,7
+09277_Rottal-Inn,0.8216372,HSf3,year,hot_spell_frequency,,7
+09278_Straubing-Bogen,0.8243706,HSf3,year,hot_spell_frequency,,7
+09279_Dingolfing-Landau,0.84044755,HSf3,year,hot_spell_frequency,,7
+09361_09371_Region_um_Amberg,0.6473717,HSf3,year,hot_spell_frequency,,7
+09361_Amberg,0.68934035,HSf3,year,hot_spell_frequency,,7
+09362_09375_Region_um_Regensburg,0.8137337,HSf3,year,hot_spell_frequency,,7
+09362_Regensburg,0.87599194,HSf3,year,hot_spell_frequency,,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.5651693,HSf3,year,hot_spell_frequency,,7
+09363_Weiden i.d. OPf.,0.6067978,HSf3,year,hot_spell_frequency,,7
+09371_Amberg-Sulzbach,0.64562047,HSf3,year,hot_spell_frequency,,7
+09372_Cham,0.5973172,HSf3,year,hot_spell_frequency,,7
+09373_Neumarkt i.d. OPf.,0.6242854,HSf3,year,hot_spell_frequency,,7
+09374_Neustadt a.d. Waldnaab,0.56305075,HSf3,year,hot_spell_frequency,,7
+09375_Regensburg,0.8098192,HSf3,year,hot_spell_frequency,,7
+09376_Schwandorf,0.6892103,HSf3,year,hot_spell_frequency,,7
+09377_Tirschenreuth,0.46192735,HSf3,year,hot_spell_frequency,,7
+09461_09471_Region_um_Bamberg,0.70516956,HSf3,year,hot_spell_frequency,,7
+09461_Bamberg,0.7541896,HSf3,year,hot_spell_frequency,,7
+09462_09472_Region_um_Bayreuth,0.53287554,HSf3,year,hot_spell_frequency,,7
+09462_Bayreuth,0.57662815,HSf3,year,hot_spell_frequency,,7
+09463_09473_Region_um_Coburg,0.6511588,HSf3,year,hot_spell_frequency,,7
+09463_Coburg,0.6792137,HSf3,year,hot_spell_frequency,,7
+09464_09475_Region_um_Hof,0.35024637,HSf3,year,hot_spell_frequency,,7
+09464_Hof,0.36873278,HSf3,year,hot_spell_frequency,,7
+09471_Bamberg,0.7027506,HSf3,year,hot_spell_frequency,,7
+09472_Bayreuth,0.53045493,HSf3,year,hot_spell_frequency,,7
+09473_Coburg,0.64908814,HSf3,year,hot_spell_frequency,,7
+09474_Forchheim,0.6742793,HSf3,year,hot_spell_frequency,,7
+09475_Hof,0.3490612,HSf3,year,hot_spell_frequency,,7
+09476_Kronach,0.45457637,HSf3,year,hot_spell_frequency,,7
+09477_Kulmbach,0.54441583,HSf3,year,hot_spell_frequency,,7
+09478_Lichtenfels,0.6512382,HSf3,year,hot_spell_frequency,,7
+09479_Wunsiedel i. Fichtelgebirge,0.38684925,HSf3,year,hot_spell_frequency,,7
+09561_09571_Region_um_Ansbach,0.6495038,HSf3,year,hot_spell_frequency,,7
+09561_Ansbach,0.65375257,HSf3,year,hot_spell_frequency,,7
+09562_09572_09564_09563_Region_um_Erlangen,0.81929606,HSf3,year,hot_spell_frequency,,7
+09562_Erlangen,0.84200746,HSf3,year,hot_spell_frequency,,7
+09563_09573_09562_09564_Region_um_Fürth,0.8050335,HSf3,year,hot_spell_frequency,,7
+09563_Fürth,0.84030163,HSf3,year,hot_spell_frequency,,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.734635,HSf3,year,hot_spell_frequency,,7
+09564_Nürnberg,0.86481786,HSf3,year,hot_spell_frequency,,7
+09565_09576_09564_Region_um_Schwabach,0.7342861,HSf3,year,hot_spell_frequency,,7
+09565_Schwabach,0.8106818,HSf3,year,hot_spell_frequency,,7
+09571_Ansbach,0.64927346,HSf3,year,hot_spell_frequency,,7
+09572_Erlangen-Höchstadt,0.79957515,HSf3,year,hot_spell_frequency,,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.7022393,HSf3,year,hot_spell_frequency,,7
+09573_Fürth,0.75286,HSf3,year,hot_spell_frequency,,7
+09574_Nürnberger Land,0.6622423,HSf3,year,hot_spell_frequency,,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.7122461,HSf3,year,hot_spell_frequency,,7
+09576_Roth,0.7045903,HSf3,year,hot_spell_frequency,,7
+09577_Weißenburg-Gunzenhausen,0.63456786,HSf3,year,hot_spell_frequency,,7
+09661_09671_09676_Region_um_Aschaffenburg,0.6868177,HSf3,year,hot_spell_frequency,,7
+09661_Aschaffenburg,0.7976297,HSf3,year,hot_spell_frequency,,7
+09662_09678_Region_um_Schweinfurt,0.74380314,HSf3,year,hot_spell_frequency,,7
+09662_Schweinfurt,0.74244434,HSf3,year,hot_spell_frequency,,7
+09663_09679_Region_um_Würzburg,0.75755966,HSf3,year,hot_spell_frequency,,7
+09663_Würzburg,0.78211,HSf3,year,hot_spell_frequency,,7
+09671_Aschaffenburg,0.6913976,HSf3,year,hot_spell_frequency,,7
+09672_Bad Kissingen,0.6085641,HSf3,year,hot_spell_frequency,,7
+09673_Rhön-Grabfeld,0.5543808,HSf3,year,hot_spell_frequency,,7
+09674_Haßberge,0.71040434,HSf3,year,hot_spell_frequency,,7
+09675_Kitzingen,0.7544163,HSf3,year,hot_spell_frequency,,7
+09676_Miltenberg,0.67211837,HSf3,year,hot_spell_frequency,,7
+09677_Main-Spessart,0.6788356,HSf3,year,hot_spell_frequency,,7
+09678_Schweinfurt,0.7438617,HSf3,year,hot_spell_frequency,,7
+09679_Würzburg,0.75506026,HSf3,year,hot_spell_frequency,,7
+09761_09772_09771_Region_um_Augsburg,0.66717875,HSf3,year,hot_spell_frequency,,7
+09761_Augsburg,0.6810159,HSf3,year,hot_spell_frequency,,7
+09762_09777_Region_um_Kaufbeuren,0.2552453,HSf3,year,hot_spell_frequency,,7
+09762_Kaufbeuren,0.34791228,HSf3,year,hot_spell_frequency,,7
+09763_09780_Region_um_Kempten_(Allgäu),0.15189609,HSf3,year,hot_spell_frequency,,7
+09763_Kempten (Allgäu),0.29167044,HSf3,year,hot_spell_frequency,,7
+09764_09778_08436_Region_um_Memmingen,0.48087606,HSf3,year,hot_spell_frequency,,7
+09764_Memmingen,0.44914725,HSf3,year,hot_spell_frequency,,7
+09771_Aichach-Friedberg,0.69457114,HSf3,year,hot_spell_frequency,,7
+09772_Augsburg,0.64555043,HSf3,year,hot_spell_frequency,,7
+09773_Dillingen a.d. Donau,0.70250386,HSf3,year,hot_spell_frequency,,7
+09774_Günzburg,0.6417313,HSf3,year,hot_spell_frequency,,7
+09775_Neu-Ulm,0.6348628,HSf3,year,hot_spell_frequency,,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.3764183,HSf3,year,hot_spell_frequency,,7
+09776_Lindau (Bodensee),0.44441304,HSf3,year,hot_spell_frequency,,7
+09777_Ostallgäu,0.25237894,HSf3,year,hot_spell_frequency,,7
+09778_Unterallgäu,0.45650405,HSf3,year,hot_spell_frequency,,7
+09779_Donau-Ries,0.685102,HSf3,year,hot_spell_frequency,,7
+09780_Oberallgäu,0.14576359,HSf3,year,hot_spell_frequency,,7
+10041_Regionalverband Saarbrücken,0.7195447,HSf3,year,hot_spell_frequency,,7
+10042_Merzig-Wadern,0.5948731,HSf3,year,hot_spell_frequency,,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.65882266,HSf3,year,hot_spell_frequency,,7
+10043_Neunkirchen,0.67432564,HSf3,year,hot_spell_frequency,,7
+10044_Saarlouis,0.7082696,HSf3,year,hot_spell_frequency,,7
+10045_Saarpfalz-Kreis,0.67859507,HSf3,year,hot_spell_frequency,,7
+10046_St. Wendel,0.54058963,HSf3,year,hot_spell_frequency,,7
+11000_Berlin,0.71484244,HSf3,year,hot_spell_frequency,,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.6395507,HSf3,year,hot_spell_frequency,,7
+12051_Brandenburg an der Havel,0.64686763,HSf3,year,hot_spell_frequency,,7
+12052_12071_Region_um_Cottbus,0.753636,HSf3,year,hot_spell_frequency,,7
+12052_Cottbus,0.76002514,HSf3,year,hot_spell_frequency,,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.6738321,HSf3,year,hot_spell_frequency,,7
+12053_Frankfurt (Oder),0.68588704,HSf3,year,hot_spell_frequency,,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.6514134,HSf3,year,hot_spell_frequency,,7
+12054_Potsdam,0.6400266,HSf3,year,hot_spell_frequency,,7
+12060_Barnim,0.6060769,HSf3,year,hot_spell_frequency,,7
+12061_Dahme-Spreewald,0.7312523,HSf3,year,hot_spell_frequency,,7
+12062_Elbe-Elster,0.7560915,HSf3,year,hot_spell_frequency,,7
+12063_Havelland,0.62662864,HSf3,year,hot_spell_frequency,,7
+12064_Märkisch-Oderland,0.65312123,HSf3,year,hot_spell_frequency,,7
+12065_Oberhavel,0.58049005,HSf3,year,hot_spell_frequency,,7
+12066_Oberspreewald-Lausitz,0.74374455,HSf3,year,hot_spell_frequency,,7
+12067_Oder-Spree,0.69274575,HSf3,year,hot_spell_frequency,,7
+12068_Ostprignitz-Ruppin,0.5179535,HSf3,year,hot_spell_frequency,,7
+12069_Potsdam-Mittelmark,0.6475285,HSf3,year,hot_spell_frequency,,7
+12070_Prignitz,0.49137002,HSf3,year,hot_spell_frequency,,7
+12071_Spree-Neiße,0.75298375,HSf3,year,hot_spell_frequency,,7
+12072_Teltow-Fläming,0.6930478,HSf3,year,hot_spell_frequency,,7
+12073_Uckermark,0.5311202,HSf3,year,hot_spell_frequency,,7
+13003_13072_Region_um_Rostock,0.31356147,HSf3,year,hot_spell_frequency,,7
+13003_Rostock,0.24308564,HSf3,year,hot_spell_frequency,,7
+13004_13076_13074_Region_um_Schwerin,0.3760828,HSf3,year,hot_spell_frequency,,7
+13004_Schwerin,0.3635056,HSf3,year,hot_spell_frequency,,7
+13071_Mecklenburgische Seenplatte,0.3904784,HSf3,year,hot_spell_frequency,,7
+13072_Rostock,0.3172109,HSf3,year,hot_spell_frequency,,7
+13073_Vorpommern-Rügen,0.19456878,HSf3,year,hot_spell_frequency,,7
+13074_Nordwestmecklenburg,0.28825188,HSf3,year,hot_spell_frequency,,7
+13075_Vorpommern-Greifswald,0.36616677,HSf3,year,hot_spell_frequency,,7
+13076_Ludwigslust-Parchim,0.41567144,HSf3,year,hot_spell_frequency,,7
+14511_14524_14521_14522_Region_um_Chemnitz,0.42087835,HSf3,year,hot_spell_frequency,,7
+14511_Chemnitz,0.47810197,HSf3,year,hot_spell_frequency,,7
+14521_Erzgebirgskreis,0.28062963,HSf3,year,hot_spell_frequency,,7
+14522_Mittelsachsen,0.49588284,HSf3,year,hot_spell_frequency,,7
+14523_Vogtlandkreis,0.37676328,HSf3,year,hot_spell_frequency,,7
+14524_Zwickau,0.51361006,HSf3,year,hot_spell_frequency,,7
+14612_14627_14625_14628_Region_um_Dresden,0.6429733,HSf3,year,hot_spell_frequency,,7
+14612_Dresden,0.7272646,HSf3,year,hot_spell_frequency,,7
+14625_Bautzen,0.6672983,HSf3,year,hot_spell_frequency,,7
+14626_Görlitz,0.6752439,HSf3,year,hot_spell_frequency,,7
+14627_Meißen,0.7344772,HSf3,year,hot_spell_frequency,,7
+14628_Sächsische Schweiz-Osterzgebirge,0.51080626,HSf3,year,hot_spell_frequency,,7
+14713_14729_14730_Region_um_Leipzig,0.72762024,HSf3,year,hot_spell_frequency,,7
+14713_Leipzig,0.7721948,HSf3,year,hot_spell_frequency,,7
+14729_Leipzig,0.7072785,HSf3,year,hot_spell_frequency,,7
+14730_Nordsachsen,0.73754025,HSf3,year,hot_spell_frequency,,7
+15001_15091_15082_Region_um_Dessau-Rolau,0.7071278,HSf3,year,hot_spell_frequency,,7
+15001_Dessau-Roßlau,0.7164468,HSf3,year,hot_spell_frequency,,7
+15002_15088_Region_um_Halle_(Saale),0.7354852,HSf3,year,hot_spell_frequency,,7
+15002_Halle (Saale),0.78409475,HSf3,year,hot_spell_frequency,,7
+15003_15083_15089_15086_Region_um_Magdeburg,0.6144349,HSf3,year,hot_spell_frequency,,7
+15003_Magdeburg,0.64708716,HSf3,year,hot_spell_frequency,,7
+15081_Altmarkkreis Salzwedel,0.53222585,HSf3,year,hot_spell_frequency,,7
+15082_Anhalt-Bitterfeld,0.7137534,HSf3,year,hot_spell_frequency,,7
+15083_Börde,0.56481177,HSf3,year,hot_spell_frequency,,7
+15084_Burgenlandkreis,0.6763781,HSf3,year,hot_spell_frequency,,7
+15085_Harz,0.4196714,HSf3,year,hot_spell_frequency,,7
+15086_Jerichower Land,0.6389185,HSf3,year,hot_spell_frequency,,7
+15087_Mansfeld-Südharz,0.556174,HSf3,year,hot_spell_frequency,,7
+15088_Saalekreis,0.73071796,HSf3,year,hot_spell_frequency,,7
+15089_Salzlandkreis,0.6646218,HSf3,year,hot_spell_frequency,,7
+15090_Stendal,0.5762902,HSf3,year,hot_spell_frequency,,7
+15091_Wittenberg,0.7009997,HSf3,year,hot_spell_frequency,,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.51830864,HSf3,year,hot_spell_frequency,,7
+16051_Erfurt,0.61033857,HSf3,year,hot_spell_frequency,,7
+16052_16076_15084_16074_Region_um_Gera,0.6090618,HSf3,year,hot_spell_frequency,,7
+16052_Gera,0.6144954,HSf3,year,hot_spell_frequency,,7
+16053_16074_16071_16055_Region_um_Jena,0.58400446,HSf3,year,hot_spell_frequency,,7
+16053_Jena,0.61376196,HSf3,year,hot_spell_frequency,,7
+16054_16066_16069_16070_Region_um_Suhl,0.42362326,HSf3,year,hot_spell_frequency,,7
+16054_Suhl,0.31076914,HSf3,year,hot_spell_frequency,,7
+16055_16071_Region_um_Weimar,0.5774244,HSf3,year,hot_spell_frequency,,7
+16055_Weimar,0.5590579,HSf3,year,hot_spell_frequency,,7
+16056_16063_06636_Region_um_Eisenach,0.46304956,HSf3,year,hot_spell_frequency,,7
+16056_Eisenach,0.49344552,HSf3,year,hot_spell_frequency,,7
+16061_Eichsfeld,0.40522787,HSf3,year,hot_spell_frequency,,7
+16062_Nordhausen,0.44417214,HSf3,year,hot_spell_frequency,,7
+16063_Wartburgkreis,0.46130335,HSf3,year,hot_spell_frequency,,7
+16064_Unstrut-Hainich-Kreis,0.5147001,HSf3,year,hot_spell_frequency,,7
+16065_Kyffhäuserkreis,0.5779816,HSf3,year,hot_spell_frequency,,7
+16066_Schmalkalden-Meiningen,0.42193225,HSf3,year,hot_spell_frequency,,7
+16067_Gotha,0.44065657,HSf3,year,hot_spell_frequency,,7
+16068_Sömmerda,0.6644056,HSf3,year,hot_spell_frequency,,7
+16069_Hildburghausen,0.4941738,HSf3,year,hot_spell_frequency,,7
+16070_Ilm-Kreis,0.3652647,HSf3,year,hot_spell_frequency,,7
+16071_Weimarer Land,0.57952917,HSf3,year,hot_spell_frequency,,7
+16072_Sonneberg,0.40217707,HSf3,year,hot_spell_frequency,,7
+16073_Saalfeld-Rudolstadt,0.41404977,HSf3,year,hot_spell_frequency,,7
+16074_Saale-Holzland-Kreis,0.5867805,HSf3,year,hot_spell_frequency,,7
+16075_Saale-Orla-Kreis,0.40115106,HSf3,year,hot_spell_frequency,,7
+16076_Greiz,0.5183766,HSf3,year,hot_spell_frequency,,7
+16077_Altenburger Land,0.6434442,HSf3,year,hot_spell_frequency,,7

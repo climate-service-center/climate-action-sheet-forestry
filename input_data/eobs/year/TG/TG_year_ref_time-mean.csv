@@ -1,0 +1,512 @@
+realization,region,TG_year_ref_time-mean,ci_name,ci_frequency,standard_name,units,mid_month
+nan_GERICS_nan_nan_nan_nan_year_TG,01001_01059_Region_um_Flensburg,281.5074,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01001_Flensburg,281.4819,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01002_01057_01058_Region_um_Kiel,281.70743,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01002_Kiel,281.79706,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01003_13074_01055_01053_01062_Region_um_Lübeck,281.808,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01003_Lübeck,281.87225,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01004_01058_01060_01057_01002_Region_um_Neumünster,281.71545,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01004_Neumünster,281.84296,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01051_Dithmarschen,281.73044,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01053_Herzogtum Lauenburg,281.85266,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01054_Nordfriesland,281.57547,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01055_Ostholstein,281.75253,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01056_Pinneberg,281.92493,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01057_Plön,281.7381,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01058_Rendsburg-Eckernförde,281.6879,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01059_Schleswig-Flensburg,281.5081,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01060_Segeberg,281.72748,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01061_Steinburg,281.7493,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,01062_Stormarn,281.79337,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,02000_Hamburg,282.31516,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,282.28558,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03101_Braunschweig,282.41727,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,281.86118,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03102_Salzgitter,282.3365,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03103_03154_03151_Region_um_Wolfsburg,282.2448,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03103_Wolfsburg,282.46588,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03151_Gifhorn,282.21545,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03153_Goslar,280.6724,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03154_Helmstedt,282.24496,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03155_Northeim,281.6584,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03157_Peine,282.4342,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03158_Wolfenbüttel,282.26315,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03159_Göttingen,281.30725,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03241_Region Hannover,282.45404,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03251_Diepholz,282.3795,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03252_Hameln-Pyrmont,282.17194,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03254_Hildesheim,282.1367,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03255_Holzminden,281.6523,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03256_Nienburg (Weser),282.5487,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03257_Schaumburg,282.43497,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03351_Celle,282.0917,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03352_Cuxhaven,282.21838,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03353_Harburg,281.91296,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03354_Lüchow-Dannenberg,282.01324,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03355_Lüneburg,282.03302,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03356_Osterholz,282.1556,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03357_Rotenburg (Wümme),282.04446,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03358_Heidekreis,282.00388,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03359_Stade,281.99188,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03360_Uelzen,281.86588,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03361_Verden,282.3127,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03401_03458_04011_03251_03461_Region_um_Delmenhorst,282.34882,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03401_Delmenhorst,282.38495,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03402_03452_03457_Region_um_Emden,282.2345,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03402_Emden,282.42142,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),282.29572,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03403_Oldenburg (Oldb),282.28992,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03404_03459_05566_Region_um_Osnabrück,282.61908,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03404_Osnabrück,282.59964,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03405_03455_Region_um_Wilhelmshaven,282.22153,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03405_Wilhelmshaven,282.2651,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03451_Ammerland,282.2549,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03452_Aurich,282.22525,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03453_Cloppenburg,282.3254,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03454_Emsland,282.50797,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03455_Friesland,282.21603,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03456_Grafschaft Bentheim,282.64612,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03457_Leer,282.22525,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03458_Oldenburg,282.26254,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03459_Osnabrück,282.5025,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03460_Vechta,282.37265,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03461_Wesermarsch,282.3786,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,03462_Wittmund,282.15524,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,282.3023,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,04011_Bremen,282.3577,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,04012_03352_03461_Region_um_Bremerhaven,282.2702,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,04012_Bremerhaven,282.52838,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05111_05162_05158_05112_Region_um_Düsseldorf,283.6113,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05111_Düsseldorf,283.6995,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,283.6092,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05112_Duisburg,284.0836,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,283.18875,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05113_Essen,283.34363,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05114_05112_05162_05166_05170_Region_um_Krefeld,283.621,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05114_Krefeld,283.8722,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05116_05370_05166_05162_Region_um_Mönchengladbach,283.42523,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05116_Mönchengladbach,283.3731,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,283.5333,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05117_Mülheim an der Ruhr,283.676,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,283.63342,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05119_Oberhausen,283.79245,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05120_05124_05122_05378_05374_Region_um_Remscheid,282.06897,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05120_Remscheid,282.03903,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05122_05158_05124_05378_05120_Region_um_Solingen,282.7359,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05122_Solingen,282.678,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,282.2863,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05124_Wuppertal,282.30533,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05154_Kleve,283.2093,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05158_Mettmann,283.23322,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05162_Rhein-Kreis Neuss,283.65445,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05166_Viersen,283.4124,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05170_Wesel,283.57803,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05314_05382_Region_um_Bonn,282.89447,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05314_Bonn,283.40793,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05315_Köln,283.88492,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05316_05315_05378_05158_Region_um_Leverkusen,283.23132,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05316_Leverkusen,283.6484,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05334_Städteregion Aachen,282.2177,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05358_Düren,282.86127,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05362_Rhein-Erft-Kreis,283.53998,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05366_Euskirchen,281.58575,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05370_Heinsberg,283.24246,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05374_Oberbergischer Kreis,281.72476,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05378_Rheinisch-Bergischer Kreis,282.56976,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05382_Rhein-Sieg-Kreis,282.83014,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05512_05119_05513_05113_05170_05562_Region_um_Bottrop,283.43573,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05512_Bottrop,283.59265,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,283.29593,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05513_Gelsenkirchen,283.4248,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05515_05566_05558_05570_Region_um_Münster,282.8114,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05515_Münster,282.91882,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05554_Borken,282.86655,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05558_Coesfeld,282.87347,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05562_Recklinghausen,283.20987,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05566_Steinfurt,282.75742,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05570_Warendorf,282.8076,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05711_05754_05758_05766_Region_um_Bielefeld,282.4328,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05711_Bielefeld,282.54324,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05754_Gütersloh,282.676,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05758_Herford,282.5584,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05762_Höxter,281.77097,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05766_Lippe,282.17468,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05770_Minden-Lübbecke,282.62933,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05774_Paderborn,281.9469,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,283.1146,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05911_Bochum,283.3487,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,283.0051,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05913_Dortmund,283.21713,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05914_05954_05913_05978_05962_Region_um_Hagen,282.30002,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05914_Hagen,282.44052,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05915_05978_05974_05570_05558_Region_um_Hamm,282.67325,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05915_Hamm,282.952,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05916_05513_05562_05911_Region_um_Herne,283.25784,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05916_Herne,283.37607,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05954_Ennepe-Ruhr-Kreis,282.54935,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05958_Hochsauerlandkreis,280.6293,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05962_Märkischer Kreis,281.5985,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05966_Olpe,280.87943,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05970_Siegen-Wittgenstein,280.65295,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05974_Soest,282.19534,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,05978_Unna,282.9942,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06411_06432_06438_Region_um_Darmstadt,283.06024,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06411_Darmstadt,283.16995,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,282.45328,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06412_Frankfurt am Main,283.45316,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06413_06438_06435_06412_Region_um_Offenbach_am_Main,282.36035,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06413_Offenbach am Main,283.54474,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,282.73053,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06414_Wiesbaden,282.77353,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06431_Bergstraße,282.92822,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06432_Darmstadt-Dieburg,282.89145,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06433_Groß-Gerau,283.63342,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06434_Hochtaunuskreis,281.7508,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06435_Main-Kinzig-Kreis,281.88315,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,282.48175,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06436_Main-Taunus-Kreis,282.82434,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06437_Odenwaldkreis,281.9394,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,282.52097,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06438_Offenbach,283.34714,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06439_Rheingau-Taunus-Kreis,281.82086,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06440_Wetteraukreis,282.37814,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06531_Gießen,282.0498,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06532_Lahn-Dill-Kreis,281.34686,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06533_Limburg-Weilburg,281.9925,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06534_Marburg-Biedenkopf,281.4875,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06535_Vogelsbergkreis,281.0414,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06611_06633_03159_Region_um_Kassel,281.37408,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06611_Kassel,281.8448,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06631_Fulda,280.8593,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06632_Hersfeld-Rotenburg,281.4612,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06633_Kassel,281.42474,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06634_Schwalm-Eder-Kreis,281.4915,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06635_Waldeck-Frankenberg,280.93195,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,06636_Werra-Meißner-Kreis,281.26288,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07111_07137_07141_07143_Region_um_Koblenz,281.88898,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07111_Koblenz,283.03683,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07131_Ahrweiler,281.8638,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07132_Altenkirchen (Westerwald),281.80072,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07133_Bad Kreuznach,281.98456,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07134_Birkenfeld,281.03986,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07135_Cochem-Zell,282.00244,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07137_Mayen-Koblenz,282.2574,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07138_Neuwied,282.33417,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07140_Rhein-Hunsrück-Kreis,281.6027,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07141_Rhein-Lahn-Kreis,282.01553,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07143_Westerwaldkreis,281.35843,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07211_07235_Region_um_Trier,282.15002,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07211_Trier,282.6747,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07231_Bernkastel-Wittlich,281.95993,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07232_Eifelkreis Bitburg-Prüm,281.27057,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07233_Vulkaneifel,280.9106,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07235_Trier-Saarburg,282.09076,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),283.78714,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07311_Frankenthal (Pfalz),283.74246,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07312_07335_07332_Region_um_Kaiserslautern,282.48032,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07312_Kaiserslautern,282.46268,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07313_07337_Region_um_Landau_in_der_Pfalz,283.20062,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07313_Landau in der Pfalz,283.15002,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,283.7786,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07314_Ludwigshafen am Rhein,283.7581,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07315_07339_06414_06433_Region_um_Mainz,283.26236,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07315_Mainz,283.54544,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,283.0459,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07316_Neustadt an der Weinstraße,283.2247,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07317_07340_Region_um_Pirmasens,282.0172,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07317_Pirmasens,281.6942,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,283.28738,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07318_Speyer,283.91156,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,283.13956,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07319_Worms,283.6522,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07320_07340_10045_07317_Region_um_Zweibrücken,282.12714,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07320_Zweibrücken,282.1229,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07331_Alzey-Worms,283.1226,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07332_Bad Dürkheim,282.82962,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07333_Donnersbergkreis,282.41006,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07334_Germersheim,283.82614,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07335_Kaiserslautern,282.14813,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07336_Kusel,281.82297,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07337_Südliche Weinstraße,283.2079,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,283.2926,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07338_Rhein-Pfalz-Kreis,283.74838,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07339_Mainz-Bingen,283.10986,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,07340_Südwestpfalz,282.0396,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08111_08115_08116_08118_08119_Region_um_Stuttgart,282.252,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08111_Stuttgart,282.77573,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08115_Böblingen,281.7632,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08116_Esslingen,282.08966,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08117_Göppingen,281.47998,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08118_Ludwigsburg,282.91653,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08119_Rems-Murr-Kreis,282.0611,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08121_08125_Region_um_Heilbronn,282.77936,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08121_Heilbronn,283.12003,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08125_Heilbronn,282.74612,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08126_Hohenlohekreis,282.03036,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08127_Schwäbisch Hall,281.53375,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08128_Main-Tauber-Kreis,281.7938,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08135_Heidenheim,280.70392,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08136_Ostalbkreis,281.23108,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08211_08216_Region_um_Baden-Baden,282.3457,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08211_Baden-Baden,282.39642,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08212_08215_07334_Region_um_Karlsruhe,283.41296,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08212_Karlsruhe,283.47638,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08215_Karlsruhe,283.2277,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08216_Rastatt,282.33624,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08221_08226_08222_Region_um_Heidelberg,283.20547,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08221_Heidelberg,283.30383,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,283.23065,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08222_Mannheim,283.86383,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08225_Neckar-Odenwald-Kreis,281.79456,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08226_Rhein-Neckar-Kreis,283.10306,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08231_08236_08235_Region_um_Pforzheim,281.38373,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08231_Pforzheim,281.8247,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08235_Calw,280.7472,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08236_Enzkreis,282.1878,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08237_Freudenstadt,280.61084,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08311_08316_08315_Region_um_Freiburg_im_Breisgau,281.68088,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08311_Freiburg im Breisgau,282.97028,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08315_Breisgau-Hochschwarzwald,281.14267,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08316_Emmendingen,282.47665,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08317_Ortenaukreis,282.65482,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08325_Rottweil,280.7156,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08326_Schwarzwald-Baar-Kreis,279.88412,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08327_Tuttlingen,280.10968,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08335_Konstanz,281.5981,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08336_Lörrach,281.46335,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08337_Waldshut,280.6411,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08415_Reutlingen,280.55194,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08416_Tübingen,281.63684,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08417_Zollernalbkreis,280.4153,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08421_08425_09775_Region_um_Ulm,281.01486,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08421_Ulm,281.31375,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08425_Alb-Donau-Kreis,280.8688,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08426_Biberach,281.05313,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08435_Bodenseekreis,281.79626,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08436_Ravensburg,280.9922,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,08437_Sigmaringen,280.3672,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09161_09176_09185_09186_Region_um_Ingolstadt,281.27362,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09161_Ingolstadt,281.50427,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09162_09184_09179_09174_Region_um_München,281.44418,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09162_München,281.9263,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09163_09187_Region_um_Rosenheim,280.99854,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09163_Rosenheim,281.74957,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09171_Altötting,281.77527,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09172_Berchtesgadener Land,279.95004,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09173_Bad Tölz-Wolfratshausen,280.23343,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09174_Dachau,281.28787,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09175_Ebersberg,281.348,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09176_Eichstätt,281.16586,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09177_Erding,281.36084,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09178_Freising,281.2533,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09179_Fürstenfeldbruck,281.36435,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09180_Garmisch-Partenkirchen,279.07132,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09181_Landsberg am Lech,281.03085,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09182_Miesbach,279.67346,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09183_Mühldorf a. Inn,281.3736,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09184_München,281.3989,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09185_Neuburg-Schrobenhausen,281.38806,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09186_Pfaffenhofen a.d. Ilm,281.29373,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09187_Rosenheim,280.9777,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09188_Starnberg,281.19614,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09189_Traunstein,280.88937,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09190_Weilheim-Schongau,280.78192,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09261_09274_Region_um_Landshut,281.42548,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09261_Landshut,281.57352,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09262_09275_Region_um_Passau,281.2157,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09262_Passau,281.47314,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09263_09278_Region_um_Straubing,281.13837,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09263_Straubing,281.52493,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09271_Deggendorf,280.97266,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09272_Freyung-Grafenau,279.68338,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09273_Kelheim,281.43732,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09274_Landshut,281.4176,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09275_Passau,281.20374,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09276_Regen,279.40314,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09277_Rottal-Inn,281.5205,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09278_Straubing-Bogen,281.11554,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09279_Dingolfing-Landau,281.43076,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09361_09371_Region_um_Amberg,280.84674,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09361_Amberg,281.1388,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09362_09375_Region_um_Regensburg,281.44855,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09362_Regensburg,281.68204,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09363_09374_Region_um_Weiden_in_der_Oberpfalz,280.61377,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09363_Weiden i.d. OPf.,280.93338,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09371_Amberg-Sulzbach,280.83456,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09372_Cham,280.55338,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09373_Neumarkt i.d. OPf.,280.9642,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09374_Neustadt a.d. Waldnaab,280.5975,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09375_Regensburg,281.43387,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09376_Schwandorf,280.93503,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09377_Tirschenreuth,280.0426,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09461_09471_Region_um_Bamberg,281.41074,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09461_Bamberg,281.82523,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09462_09472_Region_um_Bayreuth,280.53073,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09462_Bayreuth,281.01416,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09463_09473_Region_um_Coburg,281.39023,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09463_Coburg,281.56534,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09464_09475_Region_um_Hof,279.90393,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09464_Hof,280.11145,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09471_Bamberg,281.39026,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09472_Bayreuth,280.50397,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09473_Coburg,281.37735,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09474_Forchheim,281.28094,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09475_Hof,279.89066,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09476_Kronach,280.4206,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09477_Kulmbach,280.73157,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09478_Lichtenfels,281.2291,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09479_Wunsiedel i. Fichtelgebirge,279.81165,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09561_09571_Region_um_Ansbach,281.38193,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09561_Ansbach,281.32623,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09562_09572_09564_09563_Region_um_Erlangen,281.90253,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09562_Erlangen,281.94174,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09563_09573_09562_09564_Region_um_Fürth,281.94397,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09563_Fürth,282.11377,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,281.54428,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09564_Nürnberg,282.1037,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09565_09576_09564_Region_um_Schwabach,281.607,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09565_Schwabach,281.88498,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09571_Ansbach,281.38498,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09572_Erlangen-Höchstadt,281.8105,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,281.5092,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09573_Fürth,281.81485,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09574_Nürnberger Land,281.07617,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09575_Neustadt a.d. Aisch-Bad Windsheim,281.63385,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09576_Roth,281.49463,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09577_Weißenburg-Gunzenhausen,281.27286,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09661_09671_09676_Region_um_Aschaffenburg,281.84656,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09661_Aschaffenburg,282.50153,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09662_09678_Region_um_Schweinfurt,281.79813,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09662_Schweinfurt,282.08875,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09663_09679_Region_um_Würzburg,282.11673,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09663_Würzburg,282.38092,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09671_Aschaffenburg,281.79147,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09672_Bad Kissingen,281.3469,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09673_Rhön-Grabfeld,281.04233,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09674_Haßberge,281.50015,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09675_Kitzingen,281.9706,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09676_Miltenberg,281.83798,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09677_Main-Spessart,281.57492,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09678_Schweinfurt,281.78558,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09679_Würzburg,282.08984,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09761_09772_09771_Region_um_Augsburg,281.40784,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09761_Augsburg,281.5091,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09762_09777_Region_um_Kaufbeuren,280.20908,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09762_Kaufbeuren,280.6143,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09763_09780_Region_um_Kempten_(Allgäu),279.22806,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09763_Kempten (Allgäu),280.3086,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09764_09778_08436_Region_um_Memmingen,280.99664,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09764_Memmingen,281.1605,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09771_Aichach-Friedberg,281.39157,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09772_Augsburg,281.4054,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09773_Dillingen a.d. Donau,281.5081,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09774_Günzburg,281.25235,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09775_Neu-Ulm,281.3298,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),280.45,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09776_Lindau (Bodensee),280.9689,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09777_Ostallgäu,280.19656,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09778_Unterallgäu,280.99234,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09779_Donau-Ries,281.3727,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,09780_Oberallgäu,279.18066,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10041_Regionalverband Saarbrücken,282.91193,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10042_Merzig-Wadern,282.28757,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,282.26544,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10043_Neunkirchen,282.29547,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10044_Saarlouis,282.7446,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10045_Saarpfalz-Kreis,282.39404,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,10046_St. Wendel,281.64767,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,11000_Berlin,282.6981,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12051_12063_12069_Region_um_Brandenburg_an_der_Havel,282.28616,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12051_Brandenburg an der Havel,282.35638,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12052_12071_Region_um_Cottbus,282.35556,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12052_Cottbus,282.44363,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12053_12067_12064_Region_um_Frankfurt_(Oder),282.10403,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12053_Frankfurt (Oder),282.07993,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12054_12063_12069_11000_12051_Region_um_Potsdam,282.35715,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12054_Potsdam,282.46924,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12060_Barnim,282.05853,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12061_Dahme-Spreewald,282.24673,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12062_Elbe-Elster,282.25226,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12063_Havelland,282.31516,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12064_Märkisch-Oderland,282.04144,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12065_Oberhavel,281.97357,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12066_Oberspreewald-Lausitz,282.39178,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12067_Oder-Spree,282.16525,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12068_Ostprignitz-Ruppin,281.8776,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12069_Potsdam-Mittelmark,282.26022,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12070_Prignitz,281.8552,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12071_Spree-Neiße,282.34656,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12072_Teltow-Fläming,282.1799,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,12073_Uckermark,281.67947,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13003_13072_Region_um_Rostock,281.59164,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13003_Rostock,281.78104,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13004_13076_13074_Region_um_Schwerin,281.85056,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13004_Schwerin,281.90305,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13071_Mecklenburgische Seenplatte,281.51657,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13072_Rostock,281.58212,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13073_Vorpommern-Rügen,281.4763,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13074_Nordwestmecklenburg,281.8129,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13075_Vorpommern-Greifswald,281.59283,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,13076_Ludwigslust-Parchim,281.86505,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14511_14524_14521_14522_Region_um_Chemnitz,280.92538,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14511_Chemnitz,281.58685,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14521_Erzgebirgskreis,280.00613,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14522_Mittelsachsen,281.38812,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14523_Vogtlandkreis,280.30508,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14524_Zwickau,281.5319,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14612_14627_14625_14628_Region_um_Dresden,281.99234,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14612_Dresden,282.3074,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14625_Bautzen,282.20724,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14626_Görlitz,281.80136,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14627_Meißen,282.3804,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14628_Sächsische Schweiz-Osterzgebirge,281.27823,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14713_14729_14730_Region_um_Leipzig,282.42917,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14713_Leipzig,282.68008,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14729_Leipzig,282.45462,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,14730_Nordsachsen,282.37216,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15001_15091_15082_Region_um_Dessau-Rolau,282.42142,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15001_Dessau-Roßlau,282.54495,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15002_15088_Region_um_Halle_(Saale),282.43457,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15002_Halle (Saale),282.5611,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15003_15083_15089_15086_Region_um_Magdeburg,282.33344,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15003_Magdeburg,282.40887,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15081_Altmarkkreis Salzwedel,282.0694,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15082_Anhalt-Bitterfeld,282.512,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15083_Börde,282.21356,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15084_Burgenlandkreis,282.26773,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15085_Harz,281.44516,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15086_Jerichower Land,282.331,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15087_Mansfeld-Südharz,281.61725,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15088_Saalekreis,282.42218,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15089_Salzlandkreis,282.52267,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15090_Stendal,282.13373,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,15091_Wittenberg,282.3381,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16051_16067_16068_16070_16071_16055_Region_um_Erfurt,281.41898,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16051_Erfurt,281.82425,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16052_16076_15084_16074_Region_um_Gera,281.8262,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16052_Gera,281.68347,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16053_16074_16071_16055_Region_um_Jena,281.7643,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16053_Jena,281.99463,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16054_16066_16069_16070_Region_um_Suhl,280.5487,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16054_Suhl,279.58475,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16055_16071_Region_um_Weimar,281.74854,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16055_Weimar,281.81265,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16056_16063_06636_Region_um_Eisenach,281.23544,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16056_Eisenach,281.428,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16061_Eichsfeld,281.1199,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16062_Nordhausen,281.34607,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16063_Wartburgkreis,281.19547,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16064_Unstrut-Hainich-Kreis,281.58313,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16065_Kyffhäuserkreis,281.6804,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16066_Schmalkalden-Meiningen,280.5446,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16067_Gotha,281.11383,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16068_Sömmerda,282.14395,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16069_Hildburghausen,280.714,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16070_Ilm-Kreis,280.5424,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16071_Weimarer Land,281.7412,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16072_Sonneberg,280.0387,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16073_Saalfeld-Rudolstadt,280.5804,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16074_Saale-Holzland-Kreis,281.74744,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16075_Saale-Orla-Kreis,280.4977,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16076_Greiz,281.2,TG,year,air_temperature,K,7
+nan_GERICS_nan_nan_nan_nan_year_TG,16077_Altenburger Land,282.07993,TG,year,air_temperature,K,7

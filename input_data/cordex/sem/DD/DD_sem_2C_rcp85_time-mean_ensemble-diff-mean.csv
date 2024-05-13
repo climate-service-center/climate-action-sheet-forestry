@@ -1,0 +1,2045 @@
+region,DD_sem_2C_rcp85_time-mean_ensemble-diff-mean,ci_name,ci_frequency,standard_name,units,mid_month
+01001_Flensburg,0.0059768273,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01002_Kiel,-0.49374554,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01003_Lübeck,-0.41413093,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01004_Neumünster,-0.28963697,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01051_Dithmarschen,-0.45859438,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01053_Herzogtum Lauenburg,-0.5093919,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01054_Nordfriesland,-0.30520716,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01055_Ostholstein,-0.5417139,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01057_Plön,-0.45103025,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01058_Rendsburg-Eckernförde,-0.4207217,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01059_Schleswig-Flensburg,-0.24531592,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01060_Segeberg,-0.30704942,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01061_Steinburg,-0.5308551,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01062_Stormarn,-0.38841,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+02000_Hamburg,-0.59026057,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03101_Braunschweig,-1.3500468,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03102_Salzgitter,-1.3737372,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03103_Wolfsburg,-1.1837304,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03151_Gifhorn,-0.9918256,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03159_Göttingen,-1.1886828,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03153_Goslar,-0.76252705,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03154_Helmstedt,-1.418018,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03155_Northeim,-1.1529752,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03157_Peine,-1.2767704,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03158_Wolfenbüttel,-1.4544547,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03241_Region Hannover,-0.98860174,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03251_Diepholz,-0.49399203,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03252_Hameln-Pyrmont,-0.8710576,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03254_Hildesheim,-1.1651281,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03255_Holzminden,-0.9870334,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01056_Pinneberg,-0.5721105,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03256_Nienburg (Weser),-0.66093695,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03257_Schaumburg,-0.72088134,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03351_Celle,-0.7921463,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03352_Cuxhaven,-0.62830645,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03353_Harburg,-0.53371936,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03354_Lüchow-Dannenberg,-0.99048215,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03355_Lüneburg,-0.7760967,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03356_Osterholz,-0.41953763,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03357_Rotenburg (Wümme),-0.41448683,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03358_Heidekreis,-0.54000497,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03359_Stade,-0.522965,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03360_Uelzen,-0.7762668,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03361_Verden,-0.51208866,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03401_Delmenhorst,-0.48493573,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03402_Emden,-0.49901587,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03403_Oldenburg (Oldb),-0.3614631,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03404_Osnabrück,-0.21542218,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03405_Wilhelmshaven,-0.6070986,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03451_Ammerland,-0.3334052,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03452_Aurich,-0.4795218,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03453_Cloppenburg,-0.2845688,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03454_Emsland,-0.34021997,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03455_Friesland,-0.46289915,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03456_Grafschaft Bentheim,-0.37215284,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03457_Leer,-0.37188947,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03458_Oldenburg,-0.34132984,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03459_Osnabrück,-0.36296666,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03460_Vechta,-0.40531546,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03461_Wesermarsch,-0.4977475,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03462_Wittmund,-0.4822089,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+04011_Bremen,-0.46365646,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+04012_Bremerhaven,-0.7009715,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05111_Düsseldorf,-0.6230514,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05112_Duisburg,-0.51713014,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05113_Essen,-0.43433735,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05114_Krefeld,-0.5394482,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05116_Mönchengladbach,-0.65904343,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05117_Mülheim an der Ruhr,-0.48634622,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05119_Oberhausen,-0.48150364,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05120_Remscheid,-0.3206936,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05122_Solingen,-0.5121147,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05124_Wuppertal,-0.3201113,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05154_Kleve,-0.48377612,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05158_Mettmann,-0.52941877,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05162_Rhein-Kreis Neuss,-0.7661971,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05166_Viersen,-0.53749126,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05170_Wesel,-0.4367591,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05314_Bonn,-1.1850867,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05315_Köln,-0.9398973,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05316_Leverkusen,-0.7415906,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05334_Städteregion Aachen,-0.6086372,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05358_Düren,-1.0531619,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05362_Rhein-Erft-Kreis,-1.1317273,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05366_Euskirchen,-0.94635934,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05370_Heinsberg,-0.7113109,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05374_Oberbergischer Kreis,-0.4803341,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05378_Rheinisch-Bergischer Kreis,-0.62990075,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05382_Rhein-Sieg-Kreis,-1.0117368,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05512_Bottrop,-0.42152068,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05513_Gelsenkirchen,-0.48043466,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05515_Münster,-0.5055141,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05554_Borken,-0.34130624,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05558_Coesfeld,-0.38752967,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05562_Recklinghausen,-0.4568385,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05566_Steinfurt,-0.39394438,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05570_Warendorf,-0.6716346,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05711_Bielefeld,-0.55299985,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05754_Gütersloh,-0.6784118,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05758_Herford,-0.63700175,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05762_Höxter,-0.9972589,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05766_Lippe,-0.6669172,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05770_Minden-Lübbecke,-0.7624875,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05774_Paderborn,-0.9295359,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05911_Bochum,-0.5129723,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05913_Dortmund,-0.67853063,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05914_Hagen,-0.48911467,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05915_Hamm,-0.8028517,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05916_Herne,-0.5544459,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05954_Ennepe-Ruhr-Kreis,-0.39894268,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05958_Hochsauerlandkreis,-0.5738871,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05962_Märkischer Kreis,-0.42146704,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05966_Olpe,-0.29988798,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05970_Siegen-Wittgenstein,-0.3693482,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05974_Soest,-0.8739025,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05978_Unna,-0.7202283,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06411_Darmstadt,-1.2875624,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06412_Frankfurt am Main,-1.1725477,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06413_Offenbach am Main,-1.2599663,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06414_Wiesbaden,-1.0394397,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06431_Bergstraße,-1.0040145,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06432_Darmstadt-Dieburg,-1.1439072,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06433_Groß-Gerau,-1.4353051,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06434_Hochtaunuskreis,-0.78558844,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06435_Main-Kinzig-Kreis,-0.71048176,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06436_Main-Taunus-Kreis,-0.99668044,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06437_Odenwaldkreis,-0.7364462,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06438_Offenbach,-1.1968691,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06439_Rheingau-Taunus-Kreis,-0.96782976,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06440_Wetteraukreis,-0.9492867,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06531_Gießen,-0.85002506,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06532_Lahn-Dill-Kreis,-0.72613597,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06533_Limburg-Weilburg,-0.95958483,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06534_Marburg-Biedenkopf,-0.71141803,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06535_Vogelsbergkreis,-0.69654804,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06611_Kassel,-1.2478051,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06631_Fulda,-0.82325995,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06632_Hersfeld-Rotenburg,-1.1329511,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06633_Kassel,-1.2856402,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06634_Schwalm-Eder-Kreis,-1.0310087,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06635_Waldeck-Frankenberg,-0.92515016,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06636_Werra-Meißner-Kreis,-1.0866039,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07111_Koblenz,-1.3392875,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07131_Ahrweiler,-1.0855006,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07132_Altenkirchen (Westerwald),-0.6941797,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07133_Bad Kreuznach,-1.3288357,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07134_Birkenfeld,-0.733407,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07135_Cochem-Zell,-0.91196585,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07137_Mayen-Koblenz,-1.2024381,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07138_Neuwied,-0.9921618,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07140_Rhein-Hunsrück-Kreis,-1.0250349,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07141_Rhein-Lahn-Kreis,-1.1335002,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07143_Westerwaldkreis,-0.7084765,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07211_Trier,-0.5837701,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07231_Bernkastel-Wittlich,-0.6799336,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07232_Eifelkreis Bitburg-Prüm,-0.3481528,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07233_Vulkaneifel,-0.45562372,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07235_Trier-Saarburg,-0.47851396,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07311_Frankenthal (Pfalz),-1.4908367,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07312_Kaiserslautern,-0.6938942,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07313_Landau in der Pfalz,-0.9856689,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07314_Ludwigshafen am Rhein,-1.4900106,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07315_Mainz,-1.3475846,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07316_Neustadt an der Weinstraße,-1.2062172,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07317_Pirmasens,-0.58823293,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07318_Speyer,-1.4537171,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07319_Worms,-1.4831834,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07320_Zweibrücken,-0.5762472,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07331_Alzey-Worms,-1.5415467,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07332_Bad Dürkheim,-1.1902856,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07333_Donnersbergkreis,-1.268234,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07334_Germersheim,-1.3290883,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07335_Kaiserslautern,-0.7335178,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07336_Kusel,-0.84354687,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07337_Südliche Weinstraße,-1.0297028,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07338_Rhein-Pfalz-Kreis,-1.4687246,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07339_Mainz-Bingen,-1.457311,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07340_Südwestpfalz,-0.6242409,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08111_Stuttgart,-1.7152469,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08115_Böblingen,-1.6661634,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08116_Esslingen,-1.6237397,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08117_Göppingen,-1.4864568,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08118_Ludwigsburg,-1.4456843,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08119_Rems-Murr-Kreis,-1.2633675,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08121_Heilbronn,-1.1138748,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08125_Heilbronn,-1.087535,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08126_Hohenlohekreis,-0.978034,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08127_Schwäbisch Hall,-1.0141453,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08128_Main-Tauber-Kreis,-1.2513165,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08135_Heidenheim,-1.4694288,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08136_Ostalbkreis,-1.2710285,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08211_Baden-Baden,-0.86244965,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08212_Karlsruhe,-1.2189326,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08215_Karlsruhe,-1.2427663,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08216_Rastatt,-0.99201167,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08221_Heidelberg,-0.97902733,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08222_Mannheim,-1.424227,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08225_Neckar-Odenwald-Kreis,-0.8853668,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08226_Rhein-Neckar-Kreis,-0.9926179,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08231_Pforzheim,-1.4321378,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08235_Calw,-1.2320626,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08236_Enzkreis,-1.3610201,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08237_Freudenstadt,-1.0198313,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08311_Freiburg im Breisgau,-1.1729865,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08315_Breisgau-Hochschwarzwald,-1.0104961,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08316_Emmendingen,-1.2278689,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08317_Ortenaukreis,-1.2131554,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08325_Rottweil,-1.363569,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08326_Schwarzwald-Baar-Kreis,-1.2656875,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08327_Tuttlingen,-1.2974287,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08335_Konstanz,-1.3564005,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08336_Lörrach,-0.86234874,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08337_Waldshut,-1.048614,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08415_Reutlingen,-1.5439146,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08416_Tübingen,-1.700531,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08417_Zollernalbkreis,-1.4459541,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08421_Ulm,-1.6381849,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08425_Alb-Donau-Kreis,-1.5611517,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08426_Biberach,-1.4587297,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08435_Bodenseekreis,-1.2567989,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08436_Ravensburg,-1.1596675,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08437_Sigmaringen,-1.3223321,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09161_Ingolstadt,-1.6577617,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09162_München,-1.5812702,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09163_Rosenheim,-1.7773178,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09171_Altötting,-1.4643278,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09172_Berchtesgadener Land,-1.3208218,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09173_Bad Tölz-Wolfratshausen,-1.4748204,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09174_Dachau,-1.5570893,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09175_Ebersberg,-1.494946,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09176_Eichstätt,-1.4927132,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09177_Erding,-1.4922718,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09178_Freising,-1.5106193,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09179_Fürstenfeldbruck,-1.5806248,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09180_Garmisch-Partenkirchen,-1.4915798,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09181_Landsberg am Lech,-1.5605901,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09182_Miesbach,-1.3805534,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09183_Mühldorf a. Inn,-1.4429684,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09184_München,-1.4628515,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09185_Neuburg-Schrobenhausen,-1.7169237,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09186_Pfaffenhofen a.d. Ilm,-1.6268913,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09187_Rosenheim,-1.5177859,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09188_Starnberg,-1.6135541,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09189_Traunstein,-1.4064331,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09190_Weilheim-Schongau,-1.5879803,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09261_Landshut,-1.5825543,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09262_Passau,-0.98930764,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09263_Straubing,-1.4101945,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09271_Deggendorf,-1.1906794,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09272_Freyung-Grafenau,-0.95847017,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09273_Kelheim,-1.55163,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09274_Landshut,-1.5355299,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09275_Passau,-1.0828959,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09276_Regen,-0.99258274,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09277_Rottal-Inn,-1.3881807,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09278_Straubing-Bogen,-1.3652667,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09279_Dingolfing-Landau,-1.532426,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09361_Amberg,-1.2142483,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09362_Regensburg,-1.5820812,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09363_Weiden i.d. OPf.,-0.99032533,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09371_Amberg-Sulzbach,-1.1289394,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09372_Cham,-1.0720912,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09373_Neumarkt i.d. OPf.,-1.2524152,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09374_Neustadt a.d. Waldnaab,-0.9507813,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09375_Regensburg,-1.4871085,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09376_Schwandorf,-1.230125,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09377_Tirschenreuth,-0.85852385,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09461_Bamberg,-1.1678774,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09462_Bayreuth,-1.0112865,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09463_Coburg,-0.81281626,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09464_Hof,-1.1553172,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09471_Bamberg,-1.0604378,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09472_Bayreuth,-0.8657397,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09473_Coburg,-0.79866284,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09474_Forchheim,-0.9949789,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09475_Hof,-0.8456038,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09476_Kronach,-0.5319135,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09477_Kulmbach,-0.80169034,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09478_Lichtenfels,-0.91100055,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09479_Wunsiedel i. Fichtelgebirge,-0.95680225,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09561_Ansbach,-1.3454201,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09562_Erlangen,-1.3662246,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09563_Fürth,-1.3577678,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09564_Nürnberg,-1.3550423,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09565_Schwabach,-1.4436878,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09571_Ansbach,-1.3589609,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09572_Erlangen-Höchstadt,-1.31423,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09573_Fürth,-1.4146619,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09574_Nürnberger Land,-1.0553527,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09575_Neustadt a.d. Aisch-Bad Windsheim,-1.3641198,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09576_Roth,-1.4627436,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09577_Weißenburg-Gunzenhausen,-1.4806061,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09661_Aschaffenburg,-1.0745293,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09662_Schweinfurt,-1.1342294,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09663_Würzburg,-1.3703524,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09671_Aschaffenburg,-0.8187486,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09672_Bad Kissingen,-0.80206954,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09673_Rhön-Grabfeld,-0.92781425,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09674_Haßberge,-1.0450131,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09675_Kitzingen,-1.3417848,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09676_Miltenberg,-0.9861416,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09677_Main-Spessart,-0.91163504,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09678_Schweinfurt,-1.1804887,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09679_Würzburg,-1.350867,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09761_Augsburg,-1.7686617,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09762_Kaufbeuren,-1.3680688,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09763_Kempten (Allgäu),-1.2522922,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09764_Memmingen,-1.2552972,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09771_Aichach-Friedberg,-1.7376542,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09772_Augsburg,-1.7122413,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09773_Dillingen a.d. Donau,-1.7434688,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09774_Günzburg,-1.7371542,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09775_Neu-Ulm,-1.6876197,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09776_Lindau (Bodensee),-1.2442479,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09777_Ostallgäu,-1.3769836,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09778_Unterallgäu,-1.3758425,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09779_Donau-Ries,-1.6541526,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09780_Oberallgäu,-1.283841,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10041_Regionalverband Saarbrücken,-0.64548504,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10042_Merzig-Wadern,-0.41492304,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10043_Neunkirchen,-0.53518945,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10044_Saarlouis,-0.57608426,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10045_Saarpfalz-Kreis,-0.62241286,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10046_St. Wendel,-0.40750065,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+11000_Berlin,-1.0775805,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12051_Brandenburg an der Havel,-1.2874671,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12052_Cottbus,-1.4475884,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12053_Frankfurt (Oder),-1.1538352,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12054_Potsdam,-1.1404563,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12060_Barnim,-0.9113858,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12061_Dahme-Spreewald,-1.339556,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12062_Elbe-Elster,-1.6037214,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12063_Havelland,-1.1384792,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12064_Märkisch-Oderland,-1.0739739,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12065_Oberhavel,-0.8814352,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12066_Oberspreewald-Lausitz,-1.563347,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12067_Oder-Spree,-1.1645157,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12068_Ostprignitz-Ruppin,-0.8181955,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12069_Potsdam-Mittelmark,-1.2721785,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12070_Prignitz,-0.78837204,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12071_Spree-Neiße,-1.4051824,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12072_Teltow-Fläming,-1.3073215,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12073_Uckermark,-0.9111473,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13003_Rostock,-0.8055678,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13004_Schwerin,-0.43071547,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13072_Rostock,-0.6768297,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13076_Ludwigslust-Parchim,-0.60912144,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13071_Mecklenburgische Seenplatte,-0.77792084,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13073_Vorpommern-Rügen,-0.7463566,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13074_Nordwestmecklenburg,-0.5518124,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13075_Vorpommern-Greifswald,-0.7884491,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14511_Chemnitz,-1.7552514,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14522_Mittelsachsen,-1.6624954,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14523_Vogtlandkreis,-1.4037762,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14521_Erzgebirgskreis,-1.5145063,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14524_Zwickau,-1.8155509,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14612_Dresden,-1.7118328,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14626_Görlitz,-1.6398579,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14625_Bautzen,-1.5965438,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14627_Meißen,-1.7069879,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14628_Sächsische Schweiz-Osterzgebirge,-1.6818588,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14713_Leipzig,-1.8516356,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14729_Leipzig,-1.8025448,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14730_Nordsachsen,-1.7422541,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15001_Dessau-Roßlau,-1.6513846,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15082_Anhalt-Bitterfeld,-1.7318565,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15091_Wittenberg,-1.4585282,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15002_Halle (Saale),-1.9418298,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15084_Burgenlandkreis,-1.9077451,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15088_Saalekreis,-1.9173778,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15087_Mansfeld-Südharz,-1.6740047,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15003_Magdeburg,-1.8031565,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15085_Harz,-1.4034044,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15086_Jerichower Land,-1.5686611,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15083_Börde,-1.62659,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15090_Stendal,-1.2281449,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15089_Salzlandkreis,-1.9848177,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15081_Altmarkkreis Salzwedel,-1.2035832,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16051_Erfurt,-1.9942932,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16052_Gera,-1.875392,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16053_Jena,-1.9132262,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16054_Suhl,-0.52024585,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16055_Weimar,-1.8164028,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16056_Eisenach,-1.0729203,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16061_Eichsfeld,-1.2019644,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16062_Nordhausen,-1.2601886,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16063_Wartburgkreis,-1.1120588,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16064_Unstrut-Hainich-Kreis,-1.5022656,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16065_Kyffhäuserkreis,-1.705299,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16066_Schmalkalden-Meiningen,-0.8737757,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16067_Gotha,-1.3140495,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16068_Sömmerda,-1.9090724,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16069_Hildburghausen,-0.6441225,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16070_Ilm-Kreis,-1.2634606,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16071_Weimarer Land,-1.9046748,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16072_Sonneberg,-0.39419273,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16073_Saalfeld-Rudolstadt,-1.2735888,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16074_Saale-Holzland-Kreis,-1.8910301,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16075_Saale-Orla-Kreis,-1.4494462,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16076_Greiz,-1.8436804,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16077_Altenburger Land,-2.0126064,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01001_01059_Region_um_Flensburg,-0.23889327,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01002_01057_01058_Region_um_Kiel,-0.4330624,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01003_13074_01055_01053_01062_Region_um_Lübeck,-0.5129511,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01004_01058_01060_01057_01002_Region_um_Neumünster,-0.39549845,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,-1.227062,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,-1.1561686,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03103_03154_03151_Region_um_Wolfsburg,-1.1250956,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,-0.45494902,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03402_03452_03457_Region_um_Emden,-0.4342087,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),-0.38800615,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03404_03459_05566_Region_um_Osnabrück,-0.3723183,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+03405_03455_Region_um_Wilhelmshaven,-0.48449752,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,-0.5308625,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+04012_03352_03461_Region_um_Bremerhaven,-0.59356135,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05111_05162_05158_05112_Region_um_Düsseldorf,-0.6360349,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,-0.49084353,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,-0.46476993,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05114_05112_05162_05166_05170_Region_um_Krefeld,-0.5459336,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05116_05370_05166_05162_Region_um_Mönchengladbach,-0.6726145,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,-0.49981877,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,-0.45093048,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05120_05124_05122_05378_05374_Region_um_Remscheid,-0.49862292,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05122_05158_05124_05378_05120_Region_um_Solingen,-0.5233169,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,-0.4566167,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05314_05382_Region_um_Bonn,-1.0310359,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05316_05315_05378_05158_Region_um_Leverkusen,-0.69912034,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,-0.44595444,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,-0.4622239,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05515_05566_05558_05570_Region_um_Münster,-0.48089114,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05711_05754_05758_05766_Region_um_Bielefeld,-0.6559306,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,-0.48159593,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,-0.54147047,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05914_05954_05913_05978_05962_Region_um_Hagen,-0.51685137,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05915_05978_05974_05570_05558_Region_um_Hamm,-0.67424864,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+05916_05513_05562_05911_Region_um_Herne,-0.471644,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06411_06432_06438_Region_um_Darmstadt,-1.1757853,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,-0.94261247,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,-0.861749,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,-1.2039577,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,-1.048181,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,-0.9802382,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+06611_06633_03159_Region_um_Kassel,-1.2300062,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07111_07137_07141_07143_Region_um_Koblenz,-1.0065817,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07211_07235_Region_um_Trier,-0.48920056,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),-1.4615743,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07312_07335_07332_Region_um_Kaiserslautern,-0.92964494,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07313_07337_Region_um_Landau_in_der_Pfalz,-1.0241878,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,-1.4621136,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07315_07339_06414_06433_Region_um_Mainz,-1.3782167,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,-1.1082215,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07317_07340_Region_um_Pirmasens,-0.62190485,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,-1.1861275,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,-1.2859061,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07320_07340_10045_07317_Region_um_Zweibrücken,-0.6200272,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,-1.1859275,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08111_08115_08116_08118_08119_Region_um_Stuttgart,-1.4952018,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08121_08125_Region_um_Heilbronn,-1.089879,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08211_08216_Region_um_Baden-Baden,-0.9716065,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08212_08215_07334_Region_um_Karlsruhe,-1.2633227,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08221_08226_08222_Region_um_Heidelberg,-1.0401034,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,-1.1114632,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08231_08236_08235_Region_um_Pforzheim,-1.2964396,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,-1.0883384,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+08421_08425_09775_Region_um_Ulm,-1.5985656,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09161_09176_09185_09186_Region_um_Ingolstadt,-1.5941937,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09162_09184_09179_09174_Region_um_München,-1.5351017,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09163_09187_Region_um_Rosenheim,-1.5247856,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09261_09274_Region_um_Landshut,-1.5379214,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09262_09275_Region_um_Passau,-1.0787498,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09263_09278_Region_um_Straubing,-1.3677737,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09361_09371_Region_um_Amberg,-1.132358,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09362_09375_Region_um_Regensburg,-1.4927269,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,-0.952696,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09461_09471_Region_um_Bamberg,-1.0654905,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09462_09472_Region_um_Bayreuth,-0.8733701,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09463_09473_Region_um_Coburg,-0.79963565,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09464_09475_Region_um_Hof,-0.864262,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09561_09571_Region_um_Ansbach,-1.3582637,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09562_09572_09564_09563_Region_um_Erlangen,-1.3301327,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09563_09573_09562_09564_Region_um_Fürth,-1.3856897,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,-1.3063276,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09565_09576_09564_Region_um_Schwabach,-1.4447895,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,-1.3349818,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09661_09671_09676_Region_um_Aschaffenburg,-0.9121525,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09662_09678_Region_um_Schweinfurt,-1.1785798,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09663_09679_Region_um_Würzburg,-1.3526673,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09761_09772_09771_Region_um_Augsburg,-1.7263033,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09762_09777_Region_um_Kaufbeuren,-1.3767163,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09763_09780_Region_um_Kempten_(Allgäu),-1.2825154,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09764_09778_08436_Region_um_Memmingen,-1.2528646,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),-1.2280298,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,-0.6206031,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,-1.2221698,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12052_12071_Region_um_Cottbus,-1.4091103,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12053_12067_12064_Region_um_Frankfurt_(Oder),-1.1214643,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+12054_12063_12069_11000_12051_Region_um_Potsdam,-1.1966488,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13003_13072_Region_um_Rostock,-0.6831657,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+13004_13076_13074_Region_um_Schwerin,-0.58845466,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14511_14524_14521_14522_Region_um_Chemnitz,-1.641423,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14612_14627_14625_14628_Region_um_Dresden,-1.6546918,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+14713_14729_14730_Region_um_Leipzig,-1.7753006,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15001_15091_15082_Region_um_Dessau-Rolau,-1.580433,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15002_15088_Region_um_Halle_(Saale),-1.9195621,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+15003_15083_15089_15086_Region_um_Magdeburg,-1.7087947,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,-1.6218894,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16052_16076_15084_16074_Region_um_Gera,-1.8850553,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16053_16074_16071_16055_Region_um_Jena,-1.8947195,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16054_16066_16069_16070_Region_um_Suhl,-0.8884325,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16055_16071_Region_um_Weimar,-1.8955996,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+16056_16063_06636_Region_um_Eisenach,-1.0992343,DD,sem,days_with_precipitation_amount_below_threshold,days,1
+01001_Flensburg,-0.77852744,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01002_Kiel,-1.1328166,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01003_Lübeck,-1.112333,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01004_Neumünster,-1.1499529,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01051_Dithmarschen,-1.1206067,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01053_Herzogtum Lauenburg,-1.1987233,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01054_Nordfriesland,-1.1289498,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01055_Ostholstein,-1.2018067,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01057_Plön,-1.1473287,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01058_Rendsburg-Eckernförde,-1.0967612,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01059_Schleswig-Flensburg,-1.0096331,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01060_Segeberg,-1.1390839,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01061_Steinburg,-1.1252626,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01062_Stormarn,-1.1347893,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+02000_Hamburg,-1.1259465,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03101_Braunschweig,-1.1686659,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03102_Salzgitter,-1.3231432,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03103_Wolfsburg,-1.1226872,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03151_Gifhorn,-1.1496087,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03159_Göttingen,-1.100467,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03153_Goslar,-1.0752946,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03154_Helmstedt,-1.1689847,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03155_Northeim,-1.0583179,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03157_Peine,-1.1994117,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03158_Wolfenbüttel,-1.2787102,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03241_Region Hannover,-1.0581913,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03251_Diepholz,-1.0909066,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03252_Hameln-Pyrmont,-1.0624568,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03254_Hildesheim,-1.1969053,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03255_Holzminden,-0.99555826,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01056_Pinneberg,-1.1061339,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03256_Nienburg (Weser),-1.0730151,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03257_Schaumburg,-0.9418609,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03351_Celle,-1.086811,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03352_Cuxhaven,-1.0619539,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03353_Harburg,-1.0195106,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03354_Lüchow-Dannenberg,-1.2123847,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03355_Lüneburg,-1.1664094,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03356_Osterholz,-1.0023341,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03357_Rotenburg (Wümme),-0.9789372,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03358_Heidekreis,-0.9999061,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03359_Stade,-1.0145124,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03360_Uelzen,-1.1814823,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03361_Verden,-1.030169,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03401_Delmenhorst,-0.9469713,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03402_Emden,-1.1720785,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03403_Oldenburg (Oldb),-0.9930054,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03404_Osnabrück,-0.9419477,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03405_Wilhelmshaven,-1.1676719,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03451_Ammerland,-0.9481614,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03452_Aurich,-1.1216444,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03453_Cloppenburg,-1.0361668,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03454_Emsland,-0.9757446,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03455_Friesland,-1.018559,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03456_Grafschaft Bentheim,-0.9885078,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03457_Leer,-1.0149764,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03458_Oldenburg,-0.9683853,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03459_Osnabrück,-0.974499,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03460_Vechta,-1.0131627,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03461_Wesermarsch,-0.9774596,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03462_Wittmund,-1.0624479,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+04011_Bremen,-0.9508127,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+04012_Bremerhaven,-1.0755587,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05111_Düsseldorf,-0.7755728,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05112_Duisburg,-0.834009,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05113_Essen,-0.8102216,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05114_Krefeld,-0.79872435,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05116_Mönchengladbach,-0.7395199,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05117_Mülheim an der Ruhr,-0.82268727,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05119_Oberhausen,-0.88356984,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05120_Remscheid,-0.6135448,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05122_Solingen,-0.66596997,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05124_Wuppertal,-0.61983186,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05154_Kleve,-0.8604736,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05158_Mettmann,-0.7614341,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05162_Rhein-Kreis Neuss,-0.76235974,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05166_Viersen,-0.7967619,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05170_Wesel,-0.88850135,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05314_Bonn,-0.8748639,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05315_Köln,-0.8364475,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05316_Leverkusen,-0.7755507,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05334_Städteregion Aachen,-0.89401555,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05358_Düren,-0.85492593,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05362_Rhein-Erft-Kreis,-0.8094975,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05366_Euskirchen,-0.97378093,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05370_Heinsberg,-0.7724969,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05374_Oberbergischer Kreis,-0.7435647,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05378_Rheinisch-Bergischer Kreis,-0.708606,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05382_Rhein-Sieg-Kreis,-0.8777089,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05512_Bottrop,-0.90187544,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05513_Gelsenkirchen,-0.8898479,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05515_Münster,-0.87535256,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05554_Borken,-0.9241155,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05558_Coesfeld,-0.8098462,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05562_Recklinghausen,-0.82815987,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05566_Steinfurt,-0.97443014,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05570_Warendorf,-0.82796174,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05711_Bielefeld,-0.93702376,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05754_Gütersloh,-0.90508604,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05758_Herford,-1.0076833,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05762_Höxter,-1.0241212,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05766_Lippe,-1.0266159,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05770_Minden-Lübbecke,-1.0259954,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05774_Paderborn,-0.9184952,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05911_Bochum,-0.7831388,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05913_Dortmund,-0.8318919,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05914_Hagen,-0.8014886,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05915_Hamm,-0.85249203,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05916_Herne,-0.86646867,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05954_Ennepe-Ruhr-Kreis,-0.72556084,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05958_Hochsauerlandkreis,-0.7702887,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05962_Märkischer Kreis,-0.7592052,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05966_Olpe,-0.68959045,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05970_Siegen-Wittgenstein,-0.6420884,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05974_Soest,-0.919034,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05978_Unna,-0.82607615,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06411_Darmstadt,-1.1295142,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06412_Frankfurt am Main,-1.2201364,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06413_Offenbach am Main,-1.2217463,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06414_Wiesbaden,-1.106327,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06431_Bergstraße,-1.0812845,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06432_Darmstadt-Dieburg,-1.0741538,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06433_Groß-Gerau,-1.2815694,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06434_Hochtaunuskreis,-0.94927865,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06435_Main-Kinzig-Kreis,-1.0420644,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06436_Main-Taunus-Kreis,-1.1307268,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06437_Odenwaldkreis,-0.9046071,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06438_Offenbach,-1.1628681,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06439_Rheingau-Taunus-Kreis,-0.9301324,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06440_Wetteraukreis,-1.0861052,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06531_Gießen,-0.98654926,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06532_Lahn-Dill-Kreis,-0.77450156,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06533_Limburg-Weilburg,-0.9780847,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06534_Marburg-Biedenkopf,-1.0011808,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06535_Vogelsbergkreis,-1.0591574,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06611_Kassel,-1.0755986,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06631_Fulda,-1.1042562,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06632_Hersfeld-Rotenburg,-1.2188936,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06633_Kassel,-1.092202,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06634_Schwalm-Eder-Kreis,-1.1965579,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06635_Waldeck-Frankenberg,-1.0313666,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06636_Werra-Meißner-Kreis,-1.1833154,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07111_Koblenz,-1.1249577,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07131_Ahrweiler,-0.86134994,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07132_Altenkirchen (Westerwald),-0.7629024,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07133_Bad Kreuznach,-1.0114576,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07134_Birkenfeld,-0.76774853,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07135_Cochem-Zell,-0.91593075,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07137_Mayen-Koblenz,-0.9332788,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07138_Neuwied,-0.75690615,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07140_Rhein-Hunsrück-Kreis,-0.8012152,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07141_Rhein-Lahn-Kreis,-0.9339397,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07143_Westerwaldkreis,-0.7281638,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07211_Trier,-0.69018096,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07231_Bernkastel-Wittlich,-0.77442193,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07232_Eifelkreis Bitburg-Prüm,-0.6349707,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07233_Vulkaneifel,-0.7876657,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07235_Trier-Saarburg,-0.6256806,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07311_Frankenthal (Pfalz),-1.326205,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07312_Kaiserslautern,-0.94327396,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07313_Landau in der Pfalz,-0.9735238,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07314_Ludwigshafen am Rhein,-1.2955357,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07315_Mainz,-1.1223358,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07316_Neustadt an der Weinstraße,-1.1298568,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07317_Pirmasens,-0.80254567,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07318_Speyer,-1.2874506,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07319_Worms,-1.273785,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07320_Zweibrücken,-0.74977607,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07331_Alzey-Worms,-1.1496674,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07332_Bad Dürkheim,-1.0360137,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07333_Donnersbergkreis,-1.0265046,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07334_Germersheim,-1.2455573,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07335_Kaiserslautern,-0.95355445,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07336_Kusel,-0.92282873,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07337_Südliche Weinstraße,-0.9656621,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07338_Rhein-Pfalz-Kreis,-1.2943226,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07339_Mainz-Bingen,-1.1092283,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07340_Südwestpfalz,-0.80212444,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08111_Stuttgart,-1.0954267,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08115_Böblingen,-1.1184707,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08116_Esslingen,-1.2621747,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08117_Göppingen,-1.188646,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08118_Ludwigsburg,-1.0936766,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08119_Rems-Murr-Kreis,-1.0420719,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08121_Heilbronn,-1.1728272,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08125_Heilbronn,-1.0924706,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08126_Hohenlohekreis,-1.0672196,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08127_Schwäbisch Hall,-1.0595776,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08128_Main-Tauber-Kreis,-1.1278753,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08135_Heidenheim,-1.3060113,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08136_Ostalbkreis,-1.1026324,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08211_Baden-Baden,-0.7755944,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08212_Karlsruhe,-1.0950539,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08215_Karlsruhe,-1.0902739,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08216_Rastatt,-0.84488124,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08221_Heidelberg,-1.1141305,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08222_Mannheim,-1.3052903,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08225_Neckar-Odenwald-Kreis,-1.0162791,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08226_Rhein-Neckar-Kreis,-1.0633237,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08231_Pforzheim,-0.977491,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08235_Calw,-0.9238838,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08236_Enzkreis,-0.9983666,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08237_Freudenstadt,-0.8966752,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08311_Freiburg im Breisgau,-0.9303863,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08315_Breisgau-Hochschwarzwald,-0.9362905,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08316_Emmendingen,-0.8403953,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08317_Ortenaukreis,-0.8384562,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08325_Rottweil,-1.0833153,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08326_Schwarzwald-Baar-Kreis,-1.1303703,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08327_Tuttlingen,-1.2470678,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08335_Konstanz,-1.4663587,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08336_Lörrach,-0.878077,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08337_Waldshut,-1.1518548,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08415_Reutlingen,-1.2364007,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08416_Tübingen,-1.2908475,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08417_Zollernalbkreis,-1.1641792,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08421_Ulm,-1.6151849,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08425_Alb-Donau-Kreis,-1.4573706,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08426_Biberach,-1.4486756,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08435_Bodenseekreis,-1.4648317,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08436_Ravensburg,-1.2858974,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08437_Sigmaringen,-1.3136685,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09161_Ingolstadt,-1.5858991,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09162_München,-1.4923366,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09163_Rosenheim,-1.5894771,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09171_Altötting,-1.3685051,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09172_Berchtesgadener Land,-1.6787689,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09173_Bad Tölz-Wolfratshausen,-1.5497875,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09174_Dachau,-1.4465137,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09175_Ebersberg,-1.4998696,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09176_Eichstätt,-1.4181634,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09177_Erding,-1.4668014,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09178_Freising,-1.516556,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09179_Fürstenfeldbruck,-1.4551938,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09180_Garmisch-Partenkirchen,-1.7513262,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09181_Landsberg am Lech,-1.3649585,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09182_Miesbach,-1.4568769,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09183_Mühldorf a. Inn,-1.3619658,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09184_München,-1.4866015,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09185_Neuburg-Schrobenhausen,-1.5054326,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09186_Pfaffenhofen a.d. Ilm,-1.5047612,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09187_Rosenheim,-1.51932,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09188_Starnberg,-1.5875659,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09189_Traunstein,-1.4896036,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09190_Weilheim-Schongau,-1.5945631,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09261_Landshut,-1.4490741,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09262_Passau,-1.3694552,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09263_Straubing,-1.375707,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09271_Deggendorf,-1.2809025,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09272_Freyung-Grafenau,-1.4480104,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09273_Kelheim,-1.3911755,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09274_Landshut,-1.3690059,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09275_Passau,-1.3441323,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09276_Regen,-1.212924,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09277_Rottal-Inn,-1.3420392,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09278_Straubing-Bogen,-1.2900747,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09279_Dingolfing-Landau,-1.3226471,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09361_Amberg,-1.2527077,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09362_Regensburg,-1.3474538,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09363_Weiden i.d. OPf.,-1.3235356,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09371_Amberg-Sulzbach,-1.2153325,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09372_Cham,-1.2273716,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09373_Neumarkt i.d. OPf.,-1.1054839,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09374_Neustadt a.d. Waldnaab,-1.226843,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09375_Regensburg,-1.2999892,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09376_Schwandorf,-1.2691566,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09377_Tirschenreuth,-1.138398,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09461_Bamberg,-1.1870822,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09462_Bayreuth,-1.1606731,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09463_Coburg,-0.98967546,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09464_Hof,-1.3022784,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09471_Bamberg,-1.1178782,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09472_Bayreuth,-1.1094983,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09473_Coburg,-1.0433487,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09474_Forchheim,-1.1176102,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09475_Hof,-1.1464558,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09476_Kronach,-1.055676,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09477_Kulmbach,-1.1180191,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09478_Lichtenfels,-0.9834609,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09479_Wunsiedel i. Fichtelgebirge,-1.1696252,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09561_Ansbach,-1.2457458,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09562_Erlangen,-1.2310323,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09563_Fürth,-1.2536067,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09564_Nürnberg,-1.3097334,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09565_Schwabach,-1.3534819,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09571_Ansbach,-1.217255,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09572_Erlangen-Höchstadt,-1.1950858,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09573_Fürth,-1.2563672,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09574_Nürnberger Land,-1.1795977,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09575_Neustadt a.d. Aisch-Bad Windsheim,-1.1967392,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09576_Roth,-1.3181107,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09577_Weißenburg-Gunzenhausen,-1.3101563,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09661_Aschaffenburg,-1.0830845,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09662_Schweinfurt,-1.1800315,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09663_Würzburg,-1.149878,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09671_Aschaffenburg,-0.9622935,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09672_Bad Kissingen,-1.0572245,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09673_Rhön-Grabfeld,-1.0900885,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09674_Haßberge,-1.1016375,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09675_Kitzingen,-1.1899012,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09676_Miltenberg,-0.9742847,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09677_Main-Spessart,-1.0270987,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09678_Schweinfurt,-1.1681898,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09679_Würzburg,-1.1453207,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09761_Augsburg,-1.3955764,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09762_Kaufbeuren,-1.4776646,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09763_Kempten (Allgäu),-1.5269347,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09764_Memmingen,-1.2872071,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09771_Aichach-Friedberg,-1.4027274,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09772_Augsburg,-1.380166,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09773_Dillingen a.d. Donau,-1.4558161,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09774_Günzburg,-1.4262055,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09775_Neu-Ulm,-1.4792713,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09776_Lindau (Bodensee),-1.3921871,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09777_Ostallgäu,-1.5889413,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09778_Unterallgäu,-1.3241063,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09779_Donau-Ries,-1.3989584,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09780_Oberallgäu,-1.7126331,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10041_Regionalverband Saarbrücken,-0.6538599,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10042_Merzig-Wadern,-0.6565253,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10043_Neunkirchen,-0.76387393,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10044_Saarlouis,-0.7293849,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10045_Saarpfalz-Kreis,-0.70484716,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10046_St. Wendel,-0.7525652,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+11000_Berlin,-1.4667656,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12051_Brandenburg an der Havel,-1.5051527,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12052_Cottbus,-1.3276752,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12053_Frankfurt (Oder),-1.4128766,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12054_Potsdam,-1.4810518,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12060_Barnim,-1.4683737,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12061_Dahme-Spreewald,-1.384462,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12062_Elbe-Elster,-1.3219097,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12063_Havelland,-1.4514419,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12064_Märkisch-Oderland,-1.4610345,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12065_Oberhavel,-1.4659419,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12066_Oberspreewald-Lausitz,-1.256453,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12067_Oder-Spree,-1.4367632,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12068_Ostprignitz-Ruppin,-1.3896308,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12069_Potsdam-Mittelmark,-1.3842453,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12070_Prignitz,-1.3060423,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12071_Spree-Neiße,-1.2651734,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12072_Teltow-Fläming,-1.4077781,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12073_Uckermark,-1.490252,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13003_Rostock,-1.3715702,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13004_Schwerin,-1.3608613,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13072_Rostock,-1.3329077,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13076_Ludwigslust-Parchim,-1.3067892,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13071_Mecklenburgische Seenplatte,-1.401641,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13073_Vorpommern-Rügen,-1.4048066,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13074_Nordwestmecklenburg,-1.2620156,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13075_Vorpommern-Greifswald,-1.4217194,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14511_Chemnitz,-1.0924815,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14522_Mittelsachsen,-1.1466576,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14523_Vogtlandkreis,-1.2144687,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14521_Erzgebirgskreis,-1.0569949,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14524_Zwickau,-1.1504989,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14612_Dresden,-1.3202745,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14626_Görlitz,-1.2918361,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14625_Bautzen,-1.2505076,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14627_Meißen,-1.3068209,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14628_Sächsische Schweiz-Osterzgebirge,-1.167945,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14713_Leipzig,-1.4171563,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14729_Leipzig,-1.3599811,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14730_Nordsachsen,-1.26338,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15001_Dessau-Roßlau,-1.2627583,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15082_Anhalt-Bitterfeld,-1.2713344,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15091_Wittenberg,-1.2957472,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15002_Halle (Saale),-1.3461108,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15084_Burgenlandkreis,-1.2451706,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15088_Saalekreis,-1.2802614,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15087_Mansfeld-Südharz,-1.2200365,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15003_Magdeburg,-1.298917,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15085_Harz,-1.1788397,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15086_Jerichower Land,-1.3850716,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15083_Börde,-1.2187588,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15090_Stendal,-1.3608289,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15089_Salzlandkreis,-1.2646209,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15081_Altmarkkreis Salzwedel,-1.2252479,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16051_Erfurt,-1.2593261,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16052_Gera,-1.3487433,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16053_Jena,-1.3494602,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16054_Suhl,-0.9333465,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16055_Weimar,-1.1323887,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16056_Eisenach,-1.1407481,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16061_Eichsfeld,-0.99817705,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16062_Nordhausen,-1.0932395,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16063_Wartburgkreis,-1.199067,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16064_Unstrut-Hainich-Kreis,-1.1758236,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16065_Kyffhäuserkreis,-1.1764928,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16066_Schmalkalden-Meiningen,-1.0768325,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16067_Gotha,-1.1678293,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16068_Sömmerda,-1.3459706,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16069_Hildburghausen,-1.0496043,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16070_Ilm-Kreis,-1.1540422,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16071_Weimarer Land,-1.1676486,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16072_Sonneberg,-0.97775865,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16073_Saalfeld-Rudolstadt,-1.2023565,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16074_Saale-Holzland-Kreis,-1.2478707,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16075_Saale-Orla-Kreis,-1.1802375,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16076_Greiz,-1.2473656,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16077_Altenburger Land,-1.2276653,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01001_01059_Region_um_Flensburg,-1.0037274,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01002_01057_01058_Region_um_Kiel,-1.1142653,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01003_13074_01055_01053_01062_Region_um_Lübeck,-1.2109121,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01004_01058_01060_01057_01002_Region_um_Neumünster,-1.1217889,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,-1.1909947,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,-1.188255,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03103_03154_03151_Region_um_Wolfsburg,-1.1526428,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,-1.025614,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03402_03452_03457_Region_um_Emden,-1.078136,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),-0.96671766,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03404_03459_05566_Region_um_Osnabrück,-0.97348577,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+03405_03455_Region_um_Wilhelmshaven,-1.0408924,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,-1.0442632,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+04012_03352_03461_Region_um_Bremerhaven,-1.0386653,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05111_05162_05158_05112_Region_um_Düsseldorf,-0.7758343,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,-0.8395084,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,-0.80310476,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05114_05112_05162_05166_05170_Region_um_Krefeld,-0.8301343,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05116_05370_05166_05162_Region_um_Mönchengladbach,-0.77369267,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,-0.80267704,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,-0.8690079,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05120_05124_05122_05378_05374_Region_um_Remscheid,-0.71227574,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05122_05158_05124_05378_05120_Region_um_Solingen,-0.70524275,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,-0.7255124,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05314_05382_Region_um_Bonn,-0.8773909,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05316_05315_05378_05158_Region_um_Leverkusen,-0.7672234,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,-0.8619297,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,-0.8326027,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05515_05566_05558_05570_Region_um_Münster,-0.8847036,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05711_05754_05758_05766_Region_um_Bielefeld,-0.97563565,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,-0.8066771,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,-0.8067725,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05914_05954_05913_05978_05962_Region_um_Hagen,-0.7793575,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05915_05978_05974_05570_05558_Region_um_Hamm,-0.8513707,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+05916_05513_05562_05911_Region_um_Herne,-0.83029604,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06411_06432_06438_Region_um_Darmstadt,-1.1071445,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,-1.0945314,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,-1.0883263,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,-1.0826871,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,-1.0618969,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,-1.0873002,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+06611_06633_03159_Region_um_Kassel,-1.0962325,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07111_07137_07141_07143_Region_um_Koblenz,-0.86604726,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07211_07235_Region_um_Trier,-0.6322281,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),-1.2988975,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07312_07335_07332_Region_um_Kaiserslautern,-0.98862994,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07313_07337_Region_um_Landau_in_der_Pfalz,-0.96664816,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,-1.2996837,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07315_07339_06414_06433_Region_um_Mainz,-1.1668327,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,-1.0084252,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07317_07340_Region_um_Pirmasens,-0.8021529,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,-1.1154248,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,-1.1355832,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07320_07340_10045_07317_Region_um_Zweibrücken,-0.77265644,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,-1.1056899,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08111_08115_08116_08118_08119_Region_um_Stuttgart,-1.119843,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08121_08125_Region_um_Heilbronn,-1.0996194,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08211_08216_Region_um_Baden-Baden,-0.8339689,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08212_08215_07334_Region_um_Karlsruhe,-1.1321702,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08221_08226_08222_Region_um_Heidelberg,-1.0948081,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,-1.1290662,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08231_08236_08235_Region_um_Pforzheim,-0.95664316,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,-0.9067441,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+08421_08425_09775_Region_um_Ulm,-1.4723893,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09161_09176_09185_09186_Region_um_Ingolstadt,-1.4719485,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09162_09184_09179_09174_Region_um_München,-1.4689993,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09163_09187_Region_um_Rosenheim,-1.5212123,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09261_09274_Region_um_Landshut,-1.3730761,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09262_09275_Region_um_Passau,-1.3452538,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09263_09278_Region_um_Straubing,-1.2948527,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09361_09371_Region_um_Amberg,-1.2168299,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09362_09375_Region_um_Regensburg,-1.3027983,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,-1.2315269,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09461_09471_Region_um_Bamberg,-1.1211315,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09462_09472_Region_um_Bayreuth,-1.112181,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09463_09473_Region_um_Coburg,-1.0396605,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09464_09475_Region_um_Hof,-1.1558428,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09561_09571_Region_um_Ansbach,-1.2187197,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09562_09572_09564_09563_Region_um_Erlangen,-1.2253678,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09563_09573_09562_09564_Region_um_Fürth,-1.2680546,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,-1.2462891,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09565_09576_09564_Region_um_Schwabach,-1.3181286,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,-1.227279,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09661_09671_09676_Region_um_Aschaffenburg,-0.97365046,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09662_09678_Region_um_Schweinfurt,-1.1686783,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09663_09679_Region_um_Würzburg,-1.145742,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09761_09772_09771_Region_um_Augsburg,-1.3900517,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09762_09777_Region_um_Kaufbeuren,-1.5856047,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09763_09780_Region_um_Kempten_(Allgäu),-1.7048286,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09764_09778_08436_Region_um_Memmingen,-1.3019642,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),-1.4809867,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,-0.7644763,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,-1.4161425,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12052_12071_Region_um_Cottbus,-1.2709613,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12053_12067_12064_Region_um_Frankfurt_(Oder),-1.4474179,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+12054_12063_12069_11000_12051_Region_um_Potsdam,-1.4263091,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13003_13072_Region_um_Rostock,-1.3348124,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+13004_13076_13074_Region_um_Schwerin,-1.2942152,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14511_14524_14521_14522_Region_um_Chemnitz,-1.1127765,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14612_14627_14625_14628_Region_um_Dresden,-1.245019,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+14713_14729_14730_Region_um_Leipzig,-1.3147296,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15001_15091_15082_Region_um_Dessau-Rolau,-1.2837853,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15002_15088_Region_um_Halle_(Saale),-1.2861395,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+15003_15083_15089_15086_Region_um_Magdeburg,-1.2805036,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,-1.2094191,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16052_16076_15084_16074_Region_um_Gera,-1.2515452,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16053_16074_16071_16055_Region_um_Jena,-1.2137387,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16054_16066_16069_16070_Region_um_Suhl,-1.0816793,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16055_16071_Region_um_Weimar,-1.1640236,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+16056_16063_06636_Region_um_Eisenach,-1.1895297,DD,sem,days_with_precipitation_amount_below_threshold,days,4
+01001_Flensburg,0.2936779,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01002_Kiel,0.29049882,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01003_Lübeck,0.07430027,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01004_Neumünster,0.20482703,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01051_Dithmarschen,-0.20404254,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01053_Herzogtum Lauenburg,0.2859212,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01054_Nordfriesland,-0.16715428,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01055_Ostholstein,0.05225486,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01057_Plön,0.26146016,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01058_Rendsburg-Eckernförde,0.1834166,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01059_Schleswig-Flensburg,0.1368366,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01060_Segeberg,0.2848836,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01061_Steinburg,0.17719604,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01062_Stormarn,0.27154094,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+02000_Hamburg,0.22858784,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03101_Braunschweig,0.3728981,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03102_Salzgitter,0.299034,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03103_Wolfsburg,0.36501125,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03151_Gifhorn,0.33560053,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03159_Göttingen,0.560557,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03153_Goslar,0.6279675,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03154_Helmstedt,0.38551497,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03155_Northeim,0.50419164,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03157_Peine,0.41246045,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03158_Wolfenbüttel,0.31547037,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03241_Region Hannover,0.26391214,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03251_Diepholz,0.40168247,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03252_Hameln-Pyrmont,0.40598416,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03254_Hildesheim,0.3478172,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03255_Holzminden,0.53733563,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01056_Pinneberg,0.2404808,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03256_Nienburg (Weser),0.2818973,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03257_Schaumburg,0.35410863,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03351_Celle,0.28852075,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03352_Cuxhaven,0.16306224,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03353_Harburg,0.23128636,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03354_Lüchow-Dannenberg,0.24058098,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03355_Lüneburg,0.33060557,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03356_Osterholz,0.31106138,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03357_Rotenburg (Wümme),0.20652142,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03358_Heidekreis,0.22896877,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03359_Stade,0.23000556,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03360_Uelzen,0.32326353,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03361_Verden,0.2819574,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03401_Delmenhorst,0.39315823,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03402_Emden,0.2407426,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03403_Oldenburg (Oldb),0.39109582,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03404_Osnabrück,0.6782489,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03405_Wilhelmshaven,0.08657951,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03451_Ammerland,0.48235822,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03452_Aurich,0.2435974,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03453_Cloppenburg,0.50180125,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03454_Emsland,0.6038003,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03455_Friesland,0.40438944,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03456_Grafschaft Bentheim,0.7404822,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03457_Leer,0.43966755,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03458_Oldenburg,0.42076692,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03459_Osnabrück,0.63022065,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03460_Vechta,0.5095502,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03461_Wesermarsch,0.3621023,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03462_Wittmund,0.3146567,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+04011_Bremen,0.3918528,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+04012_Bremerhaven,0.16162792,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05111_Düsseldorf,0.98285806,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05112_Duisburg,0.9903697,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05113_Essen,1.0273395,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05114_Krefeld,0.97636473,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05116_Mönchengladbach,0.9757652,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05117_Mülheim an der Ruhr,0.9119704,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05119_Oberhausen,1.0296086,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05120_Remscheid,1.2311474,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05122_Solingen,1.1076708,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05124_Wuppertal,1.145586,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05154_Kleve,1.0436865,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05158_Mettmann,1.0529436,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05162_Rhein-Kreis Neuss,0.9159061,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05166_Viersen,1.0305985,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05170_Wesel,1.0589145,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05314_Bonn,0.9773321,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05315_Köln,0.94660133,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05316_Leverkusen,1.0367823,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05334_Städteregion Aachen,1.3150696,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05358_Düren,1.0260572,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05362_Rhein-Erft-Kreis,0.9968185,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05366_Euskirchen,1.260598,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05370_Heinsberg,1.0658579,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05374_Oberbergischer Kreis,1.2264712,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05378_Rheinisch-Bergischer Kreis,1.1343492,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05382_Rhein-Sieg-Kreis,1.0608242,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05512_Bottrop,1.009534,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05513_Gelsenkirchen,0.92715275,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05515_Münster,0.63596296,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05554_Borken,0.91239816,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05558_Coesfeld,0.7656374,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05562_Recklinghausen,0.8864983,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05566_Steinfurt,0.7071506,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05570_Warendorf,0.5747578,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05711_Bielefeld,0.586327,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05754_Gütersloh,0.5683871,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05758_Herford,0.4952441,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05762_Höxter,0.6507042,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05766_Lippe,0.6051414,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05770_Minden-Lübbecke,0.40552214,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05774_Paderborn,0.66919124,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05911_Bochum,0.8412008,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05913_Dortmund,0.6887378,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05914_Hagen,0.86730075,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05915_Hamm,0.59382725,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05916_Herne,0.874052,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05954_Ennepe-Ruhr-Kreis,0.9804465,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05958_Hochsauerlandkreis,1.0634015,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05962_Märkischer Kreis,1.0208335,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05966_Olpe,1.1942592,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05970_Siegen-Wittgenstein,1.3011736,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05974_Soest,0.6657839,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05978_Unna,0.6215392,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06411_Darmstadt,0.98348093,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06412_Frankfurt am Main,0.87674457,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06413_Offenbach am Main,0.90368193,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06414_Wiesbaden,0.90537167,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06431_Bergstraße,1.125407,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06432_Darmstadt-Dieburg,0.97771466,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06433_Groß-Gerau,0.8517349,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06434_Hochtaunuskreis,1.0586389,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06435_Main-Kinzig-Kreis,1.109261,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06436_Main-Taunus-Kreis,0.92201066,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06437_Odenwaldkreis,1.1092498,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06438_Offenbach,0.8712405,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06439_Rheingau-Taunus-Kreis,1.09717,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06440_Wetteraukreis,0.95706356,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06531_Gießen,0.89321584,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06532_Lahn-Dill-Kreis,1.084468,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06533_Limburg-Weilburg,0.99549407,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06534_Marburg-Biedenkopf,0.92978865,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06535_Vogelsbergkreis,1.0480572,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06611_Kassel,0.6369448,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06631_Fulda,0.9605596,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06632_Hersfeld-Rotenburg,0.6957735,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06633_Kassel,0.67341864,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06634_Schwalm-Eder-Kreis,0.7907645,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06635_Waldeck-Frankenberg,0.81654865,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06636_Werra-Meißner-Kreis,0.6345231,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07111_Koblenz,1.0786353,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07131_Ahrweiler,1.1081847,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07132_Altenkirchen (Westerwald),1.1967185,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07133_Bad Kreuznach,0.96878594,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07134_Birkenfeld,1.46858,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07135_Cochem-Zell,1.3082628,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07137_Mayen-Koblenz,1.0642438,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07138_Neuwied,1.115989,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07140_Rhein-Hunsrück-Kreis,1.2423351,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07141_Rhein-Lahn-Kreis,1.1566939,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07143_Westerwaldkreis,1.2905964,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07211_Trier,1.6477123,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07231_Bernkastel-Wittlich,1.560242,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07232_Eifelkreis Bitburg-Prüm,1.7462928,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07233_Vulkaneifel,1.5933971,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07235_Trier-Saarburg,1.7744337,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07311_Frankenthal (Pfalz),0.8209219,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07312_Kaiserslautern,1.2347515,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07313_Landau in der Pfalz,1.1125207,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07314_Ludwigshafen am Rhein,0.86743826,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07315_Mainz,0.91096705,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07316_Neustadt an der Weinstraße,0.9677071,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07317_Pirmasens,1.4049152,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07318_Speyer,1.0364692,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07319_Worms,0.791541,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07320_Zweibrücken,1.5634654,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07331_Alzey-Worms,0.85028875,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07332_Bad Dürkheim,0.94676554,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07333_Donnersbergkreis,1.0338906,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07334_Germersheim,1.1109135,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07335_Kaiserslautern,1.2813132,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07336_Kusel,1.2924781,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07337_Südliche Weinstraße,1.1119578,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07338_Rhein-Pfalz-Kreis,0.9476132,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07339_Mainz-Bingen,0.8902767,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07340_Südwestpfalz,1.3435553,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08111_Stuttgart,1.1503627,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08115_Böblingen,1.1588818,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08116_Esslingen,1.1776996,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08117_Göppingen,1.2610986,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08118_Ludwigsburg,1.0234848,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08119_Rems-Murr-Kreis,1.2353625,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08121_Heilbronn,1.0742965,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08125_Heilbronn,1.0661741,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08126_Hohenlohekreis,1.0258116,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08127_Schwäbisch Hall,1.0270071,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08128_Main-Tauber-Kreis,1.0290536,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08135_Heidenheim,1.166448,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08136_Ostalbkreis,1.1641684,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08211_Baden-Baden,1.590372,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08212_Karlsruhe,1.1874397,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08215_Karlsruhe,1.1817248,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08216_Rastatt,1.5457876,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08221_Heidelberg,1.2599577,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08222_Mannheim,0.97595555,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08225_Neckar-Odenwald-Kreis,1.1074961,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08226_Rhein-Neckar-Kreis,1.1764301,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08231_Pforzheim,1.2935247,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08235_Calw,1.525622,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08236_Enzkreis,1.2276506,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08237_Freudenstadt,1.6945359,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08311_Freiburg im Breisgau,1.5648763,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08315_Breisgau-Hochschwarzwald,1.7598357,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08316_Emmendingen,1.6528301,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08317_Ortenaukreis,1.6452013,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08325_Rottweil,1.556972,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08326_Schwarzwald-Baar-Kreis,1.5950025,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08327_Tuttlingen,1.4427181,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08335_Konstanz,1.1287794,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08336_Lörrach,1.9473711,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08337_Waldshut,1.6184572,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08415_Reutlingen,1.4775896,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08416_Tübingen,1.1651167,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08417_Zollernalbkreis,1.4991157,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08421_Ulm,0.91829157,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08425_Alb-Donau-Kreis,1.1077716,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08426_Biberach,1.0869906,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08435_Bodenseekreis,1.006693,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08436_Ravensburg,1.283832,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08437_Sigmaringen,1.2289008,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09161_Ingolstadt,0.80949545,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09162_München,1.0369606,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09163_Rosenheim,1.0488713,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09171_Altötting,0.9632125,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09172_Berchtesgadener Land,1.2577887,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09173_Bad Tölz-Wolfratshausen,1.3434906,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09174_Dachau,0.9160143,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09175_Ebersberg,1.2396795,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09176_Eichstätt,0.8719016,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09177_Erding,0.9865961,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09178_Freising,0.8418734,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09179_Fürstenfeldbruck,1.0919129,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09180_Garmisch-Partenkirchen,1.2053838,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09181_Landsberg am Lech,1.2431372,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09182_Miesbach,1.354062,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09183_Mühldorf a. Inn,0.98043376,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09184_München,1.2473637,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09185_Neuburg-Schrobenhausen,0.91384965,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09186_Pfaffenhofen a.d. Ilm,0.8630906,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09187_Rosenheim,1.2811217,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09188_Starnberg,1.2118145,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09189_Traunstein,1.3738438,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09190_Weilheim-Schongau,1.2582126,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09261_Landshut,0.883301,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09262_Passau,0.9174438,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09263_Straubing,0.80530715,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09271_Deggendorf,0.8576037,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09272_Freyung-Grafenau,1.0718737,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09273_Kelheim,0.8141827,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09274_Landshut,0.8474986,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09275_Passau,0.93584496,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09276_Regen,1.1262968,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09277_Rottal-Inn,0.9531766,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09278_Straubing-Bogen,0.8495198,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09279_Dingolfing-Landau,0.8157747,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09361_Amberg,0.87588525,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09362_Regensburg,0.6405862,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09363_Weiden i.d. OPf.,0.7625154,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09371_Amberg-Sulzbach,0.8789331,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09372_Cham,0.9828801,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09373_Neumarkt i.d. OPf.,0.88847834,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09374_Neustadt a.d. Waldnaab,0.8947036,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09375_Regensburg,0.7455009,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09376_Schwandorf,0.82076025,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09377_Tirschenreuth,0.9438227,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09461_Bamberg,0.792635,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09462_Bayreuth,0.8743664,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09463_Coburg,0.6935216,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09464_Hof,0.71572334,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09471_Bamberg,0.86772066,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09472_Bayreuth,0.91829646,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09473_Coburg,0.7767567,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09474_Forchheim,0.8710222,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09475_Hof,0.87010664,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09476_Kronach,0.91875064,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09477_Kulmbach,0.861448,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09478_Lichtenfels,0.7867419,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09479_Wunsiedel i. Fichtelgebirge,0.8531857,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09561_Ansbach,0.88143337,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09562_Erlangen,0.6998747,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09563_Fürth,0.64105827,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09564_Nürnberg,0.6933867,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09565_Schwabach,0.7819402,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09571_Ansbach,0.9089172,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09572_Erlangen-Höchstadt,0.7927345,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09573_Fürth,0.699678,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09574_Nürnberger Land,0.9632428,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09575_Neustadt a.d. Aisch-Bad Windsheim,0.8873136,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09576_Roth,0.8262655,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09577_Weißenburg-Gunzenhausen,0.9321228,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09661_Aschaffenburg,0.9851228,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09662_Schweinfurt,0.90114045,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09663_Würzburg,0.82127637,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09671_Aschaffenburg,1.1141878,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09672_Bad Kissingen,1.0108032,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09673_Rhön-Grabfeld,0.8855008,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09674_Haßberge,0.86865157,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09675_Kitzingen,0.87429774,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09676_Miltenberg,1.0936848,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09677_Main-Spessart,1.0472053,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09678_Schweinfurt,0.8742626,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09679_Würzburg,0.9265421,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09761_Augsburg,0.9544006,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09762_Kaufbeuren,1.2792002,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09763_Kempten (Allgäu),1.5098029,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09764_Memmingen,1.2365592,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09771_Aichach-Friedberg,0.97517353,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09772_Augsburg,1.0243719,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09773_Dillingen a.d. Donau,0.98953867,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09774_Günzburg,1.0272595,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09775_Neu-Ulm,0.997376,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09776_Lindau (Bodensee),1.5295702,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09777_Ostallgäu,1.3673055,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09778_Unterallgäu,1.1746974,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09779_Donau-Ries,0.9655085,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09780_Oberallgäu,1.439871,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10041_Regionalverband Saarbrücken,1.6824992,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10042_Merzig-Wadern,1.7412072,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10043_Neunkirchen,1.6961985,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10044_Saarlouis,1.625208,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10045_Saarpfalz-Kreis,1.6127776,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10046_St. Wendel,1.6530061,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+11000_Berlin,0.048140742,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12051_Brandenburg an der Havel,0.123109184,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12052_Cottbus,0.25651965,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12053_Frankfurt (Oder),0.04326663,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12054_Potsdam,0.04123186,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12060_Barnim,0.18736514,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12061_Dahme-Spreewald,0.17119618,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12062_Elbe-Elster,0.21731788,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12063_Havelland,0.17182374,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12064_Märkisch-Oderland,0.060161658,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12065_Oberhavel,0.17044435,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12066_Oberspreewald-Lausitz,0.2973521,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12067_Oder-Spree,0.086835496,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12068_Ostprignitz-Ruppin,0.2047059,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12069_Potsdam-Mittelmark,0.19518983,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12070_Prignitz,0.15331945,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12071_Spree-Neiße,0.283192,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12072_Teltow-Fläming,0.1825522,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12073_Uckermark,0.14772716,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13003_Rostock,-0.36067387,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13004_Schwerin,0.22639893,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13072_Rostock,-0.053005286,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13076_Ludwigslust-Parchim,0.17807522,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13071_Mecklenburgische Seenplatte,0.0133164385,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13073_Vorpommern-Rügen,-0.41105604,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13074_Nordwestmecklenburg,0.13612634,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13075_Vorpommern-Greifswald,0.0072136596,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14511_Chemnitz,0.5603113,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14522_Mittelsachsen,0.52590346,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14523_Vogtlandkreis,0.67097133,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14521_Erzgebirgskreis,0.7394717,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14524_Zwickau,0.44088402,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14612_Dresden,0.4063839,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14626_Görlitz,0.3998203,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14625_Bautzen,0.42368484,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14627_Meißen,0.3095728,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14628_Sächsische Schweiz-Osterzgebirge,0.5623843,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14713_Leipzig,0.19265465,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14729_Leipzig,0.30039027,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14730_Nordsachsen,0.28112805,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15001_Dessau-Roßlau,0.17968328,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15082_Anhalt-Bitterfeld,0.22684565,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15091_Wittenberg,0.27653003,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15002_Halle (Saale),0.21024698,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15084_Burgenlandkreis,0.4173313,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15088_Saalekreis,0.30053082,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15087_Mansfeld-Südharz,0.34690756,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15003_Magdeburg,0.2929341,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15085_Harz,0.37066972,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15086_Jerichower Land,0.27962887,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15083_Börde,0.3496504,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15090_Stendal,0.28402013,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15089_Salzlandkreis,0.14462581,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15081_Altmarkkreis Salzwedel,0.23798083,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16051_Erfurt,0.40070644,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16052_Gera,0.37109476,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16053_Jena,0.6056992,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16054_Suhl,1.0987834,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16055_Weimar,0.68968046,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16056_Eisenach,0.60575926,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16061_Eichsfeld,0.6027525,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16062_Nordhausen,0.47079623,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16063_Wartburgkreis,0.68377817,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16064_Unstrut-Hainich-Kreis,0.50585663,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16065_Kyffhäuserkreis,0.48440096,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16066_Schmalkalden-Meiningen,0.8716572,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16067_Gotha,0.6563649,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16068_Sömmerda,0.29703087,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16069_Hildburghausen,0.91512126,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16070_Ilm-Kreis,0.7746074,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16071_Weimarer Land,0.62347853,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16072_Sonneberg,0.987135,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16073_Saalfeld-Rudolstadt,0.72088456,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16074_Saale-Holzland-Kreis,0.61481905,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16075_Saale-Orla-Kreis,0.7526796,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16076_Greiz,0.52465314,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16077_Altenburger Land,0.30032638,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01001_01059_Region_um_Flensburg,0.14084545,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01002_01057_01058_Region_um_Kiel,0.21228355,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01003_13074_01055_01053_01062_Region_um_Lübeck,0.1646062,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01004_01058_01060_01057_01002_Region_um_Neumünster,0.23240715,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,0.35126528,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,0.41907495,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03103_03154_03151_Region_um_Wolfsburg,0.35179693,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,0.3977388,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03402_03452_03457_Region_um_Emden,0.32761323,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),0.41810754,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03404_03459_05566_Region_um_Osnabrück,0.6659646,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+03405_03455_Region_um_Wilhelmshaven,0.35678884,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,0.29876322,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+04012_03352_03461_Region_um_Bremerhaven,0.21866006,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05111_05162_05158_05112_Region_um_Düsseldorf,0.97741294,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,1.0307113,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,0.9539435,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05114_05112_05162_05166_05170_Region_um_Krefeld,1.0098075,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05116_05370_05166_05162_Region_um_Mönchengladbach,1.0033809,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,1.0186579,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,1.0340083,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05120_05124_05122_05378_05374_Region_um_Remscheid,1.1881847,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05122_05158_05124_05378_05120_Region_um_Solingen,1.1120101,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,1.1323186,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05314_05382_Region_um_Bonn,1.051529,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05316_05315_05378_05158_Region_um_Leverkusen,1.0471331,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,0.98986155,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,0.91507834,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05515_05566_05558_05570_Region_um_Münster,0.678051,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05711_05754_05758_05766_Region_um_Bielefeld,0.57411516,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,0.89189357,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,0.8141115,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05914_05954_05913_05978_05962_Region_um_Hagen,0.8787734,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05915_05978_05974_05570_05558_Region_um_Hamm,0.65472704,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+05916_05513_05562_05911_Region_um_Herne,0.88387614,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06411_06432_06438_Region_um_Darmstadt,0.9460743,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,0.9933423,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,1.0359527,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.9587112,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.9892851,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,1.0171795,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+06611_06633_03159_Region_um_Kassel,0.6089292,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07111_07137_07141_07143_Region_um_Koblenz,1.1748923,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07211_07235_Region_um_Trier,1.7615688,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),0.9404984,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07312_07335_07332_Region_um_Kaiserslautern,1.129666,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07313_07337_Region_um_Landau_in_der_Pfalz,1.1120263,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,0.9339022,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07315_07339_06414_06433_Region_um_Mainz,0.88126755,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,1.031236,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07317_07340_Region_um_Pirmasens,1.3475372,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,1.1373845,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.96523404,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07320_07340_10045_07317_Region_um_Zweibrücken,1.4311717,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,1.0949422,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08111_08115_08116_08118_08119_Region_um_Stuttgart,1.1531513,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08121_08125_Region_um_Heilbronn,1.0668966,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08211_08216_Region_um_Baden-Baden,1.5528091,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08212_08215_07334_Region_um_Karlsruhe,1.1634349,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08221_08226_08222_Region_um_Heidelberg,1.1608025,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,1.1068757,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08231_08236_08235_Region_um_Pforzheim,1.393309,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,1.7131352,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+08421_08425_09775_Region_um_Ulm,1.0678868,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09161_09176_09185_09186_Region_um_Ingolstadt,0.877224,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09162_09184_09179_09174_Region_um_München,1.0829382,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09163_09187_Region_um_Rosenheim,1.2748574,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09261_09274_Region_um_Landshut,0.84931856,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09262_09275_Region_um_Passau,0.9350313,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09263_09278_Region_um_Straubing,0.8470515,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09361_09371_Region_um_Amberg,0.8788104,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09362_09375_Region_um_Regensburg,0.7392955,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,0.88830304,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09461_09471_Region_um_Bamberg,0.8641907,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09462_09472_Region_um_Bayreuth,0.9159918,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09463_09473_Region_um_Coburg,0.7710341,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09464_09475_Region_um_Hof,0.86080706,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09561_09571_Region_um_Ansbach,0.9075038,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09562_09572_09564_09563_Region_um_Erlangen,0.75370026,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09563_09573_09562_09564_Region_um_Fürth,0.69185233,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,0.82756114,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09565_09576_09564_Region_um_Schwabach,0.8033148,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,0.8657826,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09661_09671_09676_Region_um_Aschaffenburg,1.0982981,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09662_09678_Region_um_Schweinfurt,0.87537307,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09663_09679_Region_um_Würzburg,0.9168157,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09761_09772_09771_Region_um_Augsburg,1.0000885,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09762_09777_Region_um_Kaufbeuren,1.3646615,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09763_09780_Region_um_Kempten_(Allgäu),1.442809,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09764_09778_08436_Region_um_Memmingen,1.2368087,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),1.3188276,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,1.5690656,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,0.18251795,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12052_12071_Region_um_Cottbus,0.28072137,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12053_12067_12064_Region_um_Frankfurt_(Oder),0.072813064,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+12054_12063_12069_11000_12051_Region_um_Potsdam,0.15658583,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13003_13072_Region_um_Rostock,-0.06815479,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+13004_13076_13074_Region_um_Schwerin,0.16625313,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14511_14524_14521_14522_Region_um_Chemnitz,0.5885666,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14612_14627_14625_14628_Region_um_Dresden,0.4337588,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+14713_14729_14730_Region_um_Leipzig,0.28249648,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15001_15091_15082_Region_um_Dessau-Rolau,0.25015324,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15002_15088_Region_um_Halle_(Saale),0.2924671,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+15003_15083_15089_15086_Region_um_Magdeburg,0.2749227,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,0.5786752,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16052_16076_15084_16074_Region_um_Gera,0.4932678,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16053_16074_16071_16055_Region_um_Jena,0.62175,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16054_16066_16069_16070_Region_um_Suhl,0.87055576,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16055_16071_Region_um_Weimar,0.63028467,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+16056_16063_06636_Region_um_Eisenach,0.6588572,DD,sem,days_with_precipitation_amount_below_threshold,days,7
+01001_Flensburg,0.13353856,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01002_Kiel,-0.12688881,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01003_Lübeck,-0.31969425,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01004_Neumünster,-0.5120598,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01051_Dithmarschen,-0.6151037,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01053_Herzogtum Lauenburg,-0.4662202,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01054_Nordfriesland,-0.33870143,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01055_Ostholstein,-0.20900974,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01057_Plön,-0.19292611,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01058_Rendsburg-Eckernförde,-0.32642934,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01059_Schleswig-Flensburg,-0.04164174,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01060_Segeberg,-0.42794424,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01061_Steinburg,-0.5957547,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01062_Stormarn,-0.45827317,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+02000_Hamburg,-0.557946,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03101_Braunschweig,-0.7521699,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03102_Salzgitter,-0.66805923,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03103_Wolfsburg,-0.56941605,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03151_Gifhorn,-0.6074287,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03159_Göttingen,-0.56671685,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03153_Goslar,-0.27010438,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03154_Helmstedt,-0.59894705,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03155_Northeim,-0.49459195,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03157_Peine,-0.6936967,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03158_Wolfenbüttel,-0.72914785,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03241_Region Hannover,-0.54594624,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03251_Diepholz,-0.35631528,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03252_Hameln-Pyrmont,-0.3088458,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03254_Hildesheim,-0.5431618,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03255_Holzminden,-0.27808928,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01056_Pinneberg,-0.6914366,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03256_Nienburg (Weser),-0.3727931,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03257_Schaumburg,-0.3291353,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03351_Celle,-0.6395958,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03352_Cuxhaven,-0.60662156,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03353_Harburg,-0.45459354,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03354_Lüchow-Dannenberg,-0.51833713,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03355_Lüneburg,-0.46064812,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03356_Osterholz,-0.45747182,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03357_Rotenburg (Wümme),-0.549651,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03358_Heidekreis,-0.51252544,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03359_Stade,-0.61202663,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03360_Uelzen,-0.45662662,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03361_Verden,-0.55557233,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03401_Delmenhorst,-0.36742917,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03402_Emden,-0.4591263,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03403_Oldenburg (Oldb),-0.1945853,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03404_Osnabrück,-0.27160236,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03405_Wilhelmshaven,-0.33491817,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03451_Ammerland,-0.21646714,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03452_Aurich,-0.36904863,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03453_Cloppenburg,-0.2528868,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03454_Emsland,-0.25417924,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03455_Friesland,-0.193668,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03456_Grafschaft Bentheim,-0.20835227,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03457_Leer,-0.20204711,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03458_Oldenburg,-0.28861785,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03459_Osnabrück,-0.25073832,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03460_Vechta,-0.26962072,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03461_Wesermarsch,-0.36836952,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03462_Wittmund,-0.2908344,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+04011_Bremen,-0.4770575,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+04012_Bremerhaven,-0.39928985,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05111_Düsseldorf,-0.03145499,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05112_Duisburg,-0.032525916,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05113_Essen,-0.06702577,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05114_Krefeld,0.085700184,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05116_Mönchengladbach,0.17950988,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05117_Mülheim an der Ruhr,-0.03543218,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05119_Oberhausen,-0.047609966,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05120_Remscheid,0.24690206,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05122_Solingen,0.023321588,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05124_Wuppertal,0.1711134,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05154_Kleve,-0.0012863561,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05158_Mettmann,0.015938208,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05162_Rhein-Kreis Neuss,0.080751784,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05166_Viersen,0.1012857,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05170_Wesel,-0.057431206,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05314_Bonn,0.11545496,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05315_Köln,0.028606549,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05316_Leverkusen,-0.035452258,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05334_Städteregion Aachen,0.4832338,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05358_Düren,0.37190348,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05362_Rhein-Erft-Kreis,0.15750852,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05366_Euskirchen,0.6296094,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05370_Heinsberg,0.1639338,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05374_Oberbergischer Kreis,0.20398046,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05378_Rheinisch-Bergischer Kreis,0.09480292,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05382_Rhein-Sieg-Kreis,0.1484019,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05512_Bottrop,-0.17257524,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05513_Gelsenkirchen,-0.21432549,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05515_Münster,-0.23122607,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05554_Borken,-0.17912593,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05558_Coesfeld,-0.14137134,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05562_Recklinghausen,-0.18212235,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05566_Steinfurt,-0.22151071,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05570_Warendorf,-0.28269088,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05711_Bielefeld,-0.24864973,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05754_Gütersloh,-0.31926733,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05758_Herford,-0.26935664,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05762_Höxter,-0.21856381,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05766_Lippe,-0.17324308,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05770_Minden-Lübbecke,-0.2938737,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05774_Paderborn,-0.1835014,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05911_Bochum,-0.08818315,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05913_Dortmund,-0.1865114,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05914_Hagen,0.07242176,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05915_Hamm,-0.3527923,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05916_Herne,-0.20186253,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05954_Ennepe-Ruhr-Kreis,0.14909048,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05958_Hochsauerlandkreis,0.17282067,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05962_Märkischer Kreis,0.20868024,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05966_Olpe,0.23150297,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05970_Siegen-Wittgenstein,0.4249493,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05974_Soest,-0.2638861,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05978_Unna,-0.2602215,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06411_Darmstadt,0.011903662,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06412_Frankfurt am Main,0.007014425,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06413_Offenbach am Main,-0.08178543,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06414_Wiesbaden,0.20527562,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06431_Bergstraße,0.005369153,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06432_Darmstadt-Dieburg,0.03443012,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06433_Groß-Gerau,-0.16075462,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06434_Hochtaunuskreis,0.33544046,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06435_Main-Kinzig-Kreis,-0.06358438,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06436_Main-Taunus-Kreis,0.13031936,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06437_Odenwaldkreis,0.21160722,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06438_Offenbach,-0.101577155,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06439_Rheingau-Taunus-Kreis,0.45400238,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06440_Wetteraukreis,-0.016699405,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06531_Gießen,-0.016059875,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06532_Lahn-Dill-Kreis,0.3251834,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06533_Limburg-Weilburg,0.08694927,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06534_Marburg-Biedenkopf,0.14108303,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06535_Vogelsbergkreis,0.087833874,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06611_Kassel,-0.421749,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06631_Fulda,-0.056279168,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06632_Hersfeld-Rotenburg,-0.25827783,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06633_Kassel,-0.33695182,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06634_Schwalm-Eder-Kreis,-0.22594753,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06635_Waldeck-Frankenberg,0.13824055,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06636_Werra-Meißner-Kreis,-0.28089786,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07111_Koblenz,-0.04317414,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07131_Ahrweiler,0.5818351,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07132_Altenkirchen (Westerwald),0.16848755,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07133_Bad Kreuznach,0.31364548,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07134_Birkenfeld,0.79394317,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07135_Cochem-Zell,0.45494628,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07137_Mayen-Koblenz,0.31156003,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07138_Neuwied,0.22564442,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07140_Rhein-Hunsrück-Kreis,0.57442296,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07141_Rhein-Lahn-Kreis,0.27354684,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07143_Westerwaldkreis,0.3576628,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07211_Trier,0.6232443,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07231_Bernkastel-Wittlich,0.61631435,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07232_Eifelkreis Bitburg-Prüm,0.872739,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07233_Vulkaneifel,0.8849273,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07235_Trier-Saarburg,0.76025546,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07311_Frankenthal (Pfalz),-0.1631793,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07312_Kaiserslautern,0.3833206,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07313_Landau in der Pfalz,0.27983248,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07314_Ludwigshafen am Rhein,-0.10483765,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07315_Mainz,0.051764637,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07316_Neustadt an der Weinstraße,0.17050338,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07317_Pirmasens,0.4557002,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07318_Speyer,-0.10312345,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07319_Worms,-0.041590508,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07320_Zweibrücken,0.51226175,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07331_Alzey-Worms,0.088061616,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07332_Bad Dürkheim,0.22622675,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07333_Donnersbergkreis,0.33793247,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07334_Germersheim,0.01013739,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07335_Kaiserslautern,0.4426552,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07336_Kusel,0.4600731,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07337_Südliche Weinstraße,0.2764422,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07338_Rhein-Pfalz-Kreis,-0.11878211,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07339_Mainz-Bingen,0.08582366,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07340_Südwestpfalz,0.48755887,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08111_Stuttgart,0.053053405,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08115_Böblingen,0.116844915,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08116_Esslingen,-0.031323615,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08117_Göppingen,0.036465093,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08118_Ludwigsburg,0.026165009,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08119_Rems-Murr-Kreis,0.11072554,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08121_Heilbronn,-0.101077095,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08125_Heilbronn,-0.01913325,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08126_Hohenlohekreis,-8.874191e-05,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08127_Schwäbisch Hall,0.080730304,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08128_Main-Tauber-Kreis,-0.14006878,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08135_Heidenheim,0.02723995,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08136_Ostalbkreis,0.06700262,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08211_Baden-Baden,0.47404653,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08212_Karlsruhe,-0.037043586,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08215_Karlsruhe,-0.019652985,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08216_Rastatt,0.42075235,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08221_Heidelberg,-0.02077464,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08222_Mannheim,-0.12116556,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08225_Neckar-Odenwald-Kreis,0.030197678,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08226_Rhein-Neckar-Kreis,-0.010473753,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08231_Pforzheim,0.2294636,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08235_Calw,0.50515753,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08236_Enzkreis,0.16861115,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08237_Freudenstadt,0.59829396,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08311_Freiburg im Breisgau,0.29959935,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08315_Breisgau-Hochschwarzwald,0.6480795,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08316_Emmendingen,0.40761632,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08317_Ortenaukreis,0.30980623,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08325_Rottweil,0.41387644,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08326_Schwarzwald-Baar-Kreis,0.5972733,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08327_Tuttlingen,0.2651831,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08335_Konstanz,-0.1002752,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08336_Lörrach,0.59188825,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08337_Waldshut,0.5433203,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08415_Reutlingen,0.21832383,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08416_Tübingen,-0.038186323,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08417_Zollernalbkreis,0.36525792,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08421_Ulm,-0.19287792,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08425_Alb-Donau-Kreis,-0.047868427,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08426_Biberach,-0.07690015,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08435_Bodenseekreis,-0.08337389,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08436_Ravensburg,0.05648991,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08437_Sigmaringen,0.10730944,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09161_Ingolstadt,-0.40011966,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09162_München,-0.37286258,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09163_Rosenheim,-0.50099033,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09171_Altötting,-0.40396768,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09172_Berchtesgadener Land,-0.07453597,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09173_Bad Tölz-Wolfratshausen,-0.022906387,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09174_Dachau,-0.26301026,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09175_Ebersberg,-0.3137604,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09176_Eichstätt,-0.30596483,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09177_Erding,-0.35353652,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09178_Freising,-0.38456398,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09179_Fürstenfeldbruck,-0.2403102,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09180_Garmisch-Partenkirchen,0.16882886,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09181_Landsberg am Lech,-0.1462211,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09182_Miesbach,0.08279225,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09183_Mühldorf a. Inn,-0.33405283,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09184_München,-0.25346407,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09185_Neuburg-Schrobenhausen,-0.27258983,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09186_Pfaffenhofen a.d. Ilm,-0.33939153,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09187_Rosenheim,-0.2560426,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09188_Starnberg,-0.24038121,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09189_Traunstein,-0.13814338,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09190_Weilheim-Schongau,-0.01871062,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09261_Landshut,-0.39803255,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09262_Passau,-0.75004065,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09263_Straubing,-0.66382873,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09271_Deggendorf,-0.6321635,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09272_Freyung-Grafenau,-0.4490675,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09273_Kelheim,-0.45535806,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09274_Landshut,-0.42802718,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09275_Passau,-0.6771884,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09276_Regen,-0.30804724,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09277_Rottal-Inn,-0.53349185,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09278_Straubing-Bogen,-0.57858866,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09279_Dingolfing-Landau,-0.62368876,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09361_Amberg,-0.4248603,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09362_Regensburg,-0.6549916,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09363_Weiden i.d. OPf.,-0.65561736,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09371_Amberg-Sulzbach,-0.4291355,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09372_Cham,-0.40831193,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09373_Neumarkt i.d. OPf.,-0.26263863,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09374_Neustadt a.d. Waldnaab,-0.53394055,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09375_Regensburg,-0.5540935,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09376_Schwandorf,-0.50756335,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09377_Tirschenreuth,-0.51058614,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09461_Bamberg,-0.5905839,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09462_Bayreuth,-0.6687654,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09463_Coburg,-0.5804102,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09464_Hof,-0.53817487,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09471_Bamberg,-0.4443671,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09472_Bayreuth,-0.46055597,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09473_Coburg,-0.5504236,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09474_Forchheim,-0.49842298,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09475_Hof,-0.36278486,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09476_Kronach,-0.36628938,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09477_Kulmbach,-0.5082456,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09478_Lichtenfels,-0.49304327,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09479_Wunsiedel i. Fichtelgebirge,-0.4140328,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09561_Ansbach,-0.17895629,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09562_Erlangen,-0.57477796,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09563_Fürth,-0.4819244,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09564_Nürnberg,-0.5453139,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09565_Schwabach,-0.49120572,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09571_Ansbach,-0.15892905,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09572_Erlangen-Höchstadt,-0.49991265,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09573_Fürth,-0.37388784,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09574_Nürnberger Land,-0.3553187,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09575_Neustadt a.d. Aisch-Bad Windsheim,-0.26376924,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09576_Roth,-0.30219376,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09577_Weißenburg-Gunzenhausen,-0.15145326,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09661_Aschaffenburg,-0.3147178,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09662_Schweinfurt,-0.2505583,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09663_Würzburg,-0.1747927,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09671_Aschaffenburg,-0.14094248,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09672_Bad Kissingen,-0.08704457,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09673_Rhön-Grabfeld,-0.09112529,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09674_Haßberge,-0.35026142,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09675_Kitzingen,-0.33330154,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09676_Miltenberg,-0.059487794,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09677_Main-Spessart,-0.048941694,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09678_Schweinfurt,-0.27717924,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09679_Würzburg,-0.19045953,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09761_Augsburg,-0.24964055,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09762_Kaufbeuren,0.017661447,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09763_Kempten (Allgäu),0.08206083,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09764_Memmingen,-0.023467215,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09771_Aichach-Friedberg,-0.22379002,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09772_Augsburg,-0.21096112,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09773_Dillingen a.d. Donau,-0.22731587,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09774_Günzburg,-0.2222881,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09775_Neu-Ulm,-0.21565461,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09776_Lindau (Bodensee),0.08543878,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09777_Ostallgäu,0.15812992,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09778_Unterallgäu,-0.11902096,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09779_Donau-Ries,-0.14205718,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09780_Oberallgäu,0.36217868,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10041_Regionalverband Saarbrücken,0.5827117,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10042_Merzig-Wadern,0.7930908,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10043_Neunkirchen,0.6176344,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10044_Saarlouis,0.5853487,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10045_Saarpfalz-Kreis,0.6041203,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10046_St. Wendel,0.7891608,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+11000_Berlin,-0.7533822,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12051_Brandenburg an der Havel,-0.5812276,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12052_Cottbus,-0.7254983,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12053_Frankfurt (Oder),-0.5259505,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12054_Potsdam,-0.73904455,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12060_Barnim,-0.5694658,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12061_Dahme-Spreewald,-0.5692797,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12062_Elbe-Elster,-0.6418521,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12063_Havelland,-0.6966235,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12064_Märkisch-Oderland,-0.53214884,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12065_Oberhavel,-0.6454517,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12066_Oberspreewald-Lausitz,-0.58915293,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12067_Oder-Spree,-0.5079661,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12068_Ostprignitz-Ruppin,-0.56196034,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12069_Potsdam-Mittelmark,-0.53945637,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12070_Prignitz,-0.61488336,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12071_Spree-Neiße,-0.6498554,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12072_Teltow-Fläming,-0.5961851,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12073_Uckermark,-0.46082053,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13003_Rostock,-0.70217985,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13004_Schwerin,-0.2825427,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13072_Rostock,-0.4384413,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13076_Ludwigslust-Parchim,-0.460952,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13071_Mecklenburgische Seenplatte,-0.41233337,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13073_Vorpommern-Rügen,-0.5127777,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13074_Nordwestmecklenburg,-0.366157,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13075_Vorpommern-Greifswald,-0.20058863,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14511_Chemnitz,-0.70255816,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14522_Mittelsachsen,-0.6738912,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14523_Vogtlandkreis,-0.63053066,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14521_Erzgebirgskreis,-0.46444154,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14524_Zwickau,-0.7029246,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14612_Dresden,-0.79091275,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14626_Görlitz,-0.65085834,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14625_Bautzen,-0.60293144,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14627_Meißen,-0.80015254,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14628_Sächsische Schweiz-Osterzgebirge,-0.5094734,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14713_Leipzig,-0.7695532,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14729_Leipzig,-0.81214744,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14730_Nordsachsen,-0.7375413,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15001_Dessau-Roßlau,-0.7121215,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15082_Anhalt-Bitterfeld,-0.74309486,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15091_Wittenberg,-0.57490003,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15002_Halle (Saale),-0.9090599,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15084_Burgenlandkreis,-0.5695195,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15088_Saalekreis,-0.7231611,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15087_Mansfeld-Südharz,-0.5546571,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15003_Magdeburg,-0.59241337,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15085_Harz,-0.32459494,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15086_Jerichower Land,-0.60557914,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15083_Börde,-0.52099955,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15090_Stendal,-0.60159266,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15089_Salzlandkreis,-0.6930164,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15081_Altmarkkreis Salzwedel,-0.53507257,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16051_Erfurt,-0.61696464,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16052_Gera,-0.58451647,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16053_Jena,-0.5730329,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16054_Suhl,0.04883174,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16055_Weimar,-0.50133526,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16056_Eisenach,-0.31160328,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16061_Eichsfeld,-0.4383401,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16062_Nordhausen,-0.57717,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16063_Wartburgkreis,-0.37148532,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16064_Unstrut-Hainich-Kreis,-0.47261274,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16065_Kyffhäuserkreis,-0.55783087,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16066_Schmalkalden-Meiningen,-0.12621683,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16067_Gotha,-0.161839,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16068_Sömmerda,-0.70797884,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16069_Hildburghausen,-0.29240096,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16070_Ilm-Kreis,-0.120315485,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16071_Weimarer Land,-0.5268869,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16072_Sonneberg,-0.14894265,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16073_Saalfeld-Rudolstadt,-0.2845908,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16074_Saale-Holzland-Kreis,-0.5399284,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16075_Saale-Orla-Kreis,-0.43306524,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16076_Greiz,-0.52480924,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16077_Altenburger Land,-0.74711484,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01001_01059_Region_um_Flensburg,-0.037164923,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01002_01057_01058_Region_um_Kiel,-0.27645853,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01003_13074_01055_01053_01062_Region_um_Lübeck,-0.36091593,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+01004_01058_01060_01057_01002_Region_um_Neumünster,-0.32268056,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03101_03157_03154_03151_03102_03158_03103_Region_um_Braunschweig,-0.6469294,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03102_03254_03157_03158_03153_03101_Region_um_Salzgitter,-0.54872614,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03103_03154_03151_Region_um_Wolfsburg,-0.6018746,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03401_03458_04011_03251_03461_Region_um_Delmenhorst,-0.3517406,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03402_03452_03457_Region_um_Emden,-0.30143163,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03403_03458_03451_03461_Region_um_Oldenburg_(Oldenburg),-0.29004148,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03404_03459_05566_Region_um_Osnabrück,-0.23834021,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+03405_03455_Region_um_Wilhelmshaven,-0.21482414,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+04011_03361_03251_03401_03461_03356_03352_04012_Region_um_Bremen,-0.47299334,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+04012_03352_03461_Region_um_Bremerhaven,-0.53504515,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05111_05162_05158_05112_Region_um_Düsseldorf,0.026609186,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05112_05114_05119_05117_05170_05158_05111_Region_um_Duisburg,-0.028636063,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05113_05119_05117_05513_05512_05158_05911_05954_05562_05513_05916_Region_um_Essen,-0.06639996,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05114_05112_05162_05166_05170_Region_um_Krefeld,0.0184802,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05116_05370_05166_05162_Region_um_Mönchengladbach,0.12241531,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05117_05112_05158_05119_05113_Region_um_Mülheim_an_der_Ruhr,-0.021448504,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05119_05170_05512_05113_05117_05112_Region_um_Oberhausen,-0.060315784,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05120_05124_05122_05378_05374_Region_um_Remscheid,0.16452117,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05122_05158_05124_05378_05120_Region_um_Solingen,0.082834676,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05124_05122_05120_05158_05954_05374_Region_um_Wuppertal,0.1470118,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05314_05382_Region_um_Bonn,0.14473249,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05316_05315_05378_05158_Region_um_Leverkusen,0.0433276,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05512_05119_05513_05113_05170_05562_Region_um_Bottrop,-0.11147041,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05513_05113_05916_05911_05562_05512_Region_um_Gelsenkirchen,-0.15761572,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05515_05566_05558_05570_Region_um_Münster,-0.22037748,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05711_05754_05758_05766_Region_um_Bielefeld,-0.24315308,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05911_05954_05913_05513_05113_05916_05562_Region_um_Bochum,-0.09735623,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05913_05914_05911_05916_05978_05954_05562_Region_um_Dortmund,-0.12049451,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05914_05954_05913_05978_05962_Region_um_Hagen,0.04223479,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05915_05978_05974_05570_05558_Region_um_Hamm,-0.24359894,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+05916_05513_05562_05911_Region_um_Herne,-0.17397094,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06411_06432_06438_Region_um_Darmstadt,-0.009277076,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06412_06413_06436_06434_06440_06435_06438_06433_Region_um_Frankfurt_am_Main,-0.006356691,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06413_06438_06435_06412_Region_um_Offenbach_am_Main,-0.061886504,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06414_07315_07339_06439_06436_06433_Region_um_Wiesbaden,0.17821898,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06436_06412_06414_06433_06439_06434_Region_um_Main-Taunus-Kreis,0.22020654,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06438_06432_06411_06433_06413_06435_06412_09671_Region_um_Offenbach,-0.06828569,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+06611_06633_03159_Region_um_Kassel,-0.4686189,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07111_07137_07141_07143_Region_um_Koblenz,0.30277488,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07211_07235_Region_um_Trier,0.7463449,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07311_07318_07314_07338_08222_Region_um_Frankenthal_(Pfalz),-0.11963205,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07312_07335_07332_Region_um_Kaiserslautern,0.3414591,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07313_07337_Region_um_Landau_in_der_Pfalz,0.27686605,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07314_07311_07338_08222_Region_um_Ludwigshafen_am_Rhein,-0.12076495,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07315_07339_06414_06433_Region_um_Mainz,0.0200202,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07316_07337_07332_07313_Region_um_Neustadt_an_der_Weinstraße,0.24734765,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07317_07340_Region_um_Pirmasens,0.48549142,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07318_07311_07314_07338_08215_08226_08212_Region_um_Speyer,-0.034157738,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07319_07331_07332_06431_07338_07311_07318_07314_Region_um_Worms,0.05307074,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07320_07340_10045_07317_Region_um_Zweibrücken,0.51980907,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+07338_07311_07318_07314_08222_08226_08215_07334_07337_07313_07316_07332_07319_08221_08212_Region_um_Rhein-Pfalz-Kreis,0.047877997,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08111_08115_08116_08118_08119_Region_um_Stuttgart,0.05848814,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08121_08125_Region_um_Heilbronn,-0.026423203,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08211_08216_Region_um_Baden-Baden,0.42914468,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08212_08215_07334_Region_um_Karlsruhe,-0.013505568,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08221_08226_08222_Region_um_Heidelberg,-0.023800967,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08222_08221_08226_06431_07338_07311_07318_07314_Region_um_Mannheim,-0.033375256,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08231_08236_08235_Region_um_Pforzheim,0.3547479,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08311_08316_08315_Region_um_Freiburg_im_Breisgau,0.5496688,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+08421_08425_09775_Region_um_Ulm,-0.10003388,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09161_09176_09185_09186_Region_um_Ingolstadt,-0.31099078,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09162_09184_09179_09174_Region_um_München,-0.27265796,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09163_09187_Region_um_Rosenheim,-0.26264906,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09261_09274_Region_um_Landshut,-0.42650363,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09262_09275_Region_um_Passau,-0.68041646,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09263_09278_Region_um_Straubing,-0.5833437,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09361_09371_Region_um_Amberg,-0.4289654,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09362_09375_Region_um_Regensburg,-0.5600613,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09363_09374_Region_um_Weiden_in_der_Oberpfalz,-0.53983325,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09461_09471_Region_um_Bamberg,-0.45124322,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09462_09472_Region_um_Bayreuth,-0.47146922,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09463_09473_Region_um_Coburg,-0.55248547,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09464_09475_Region_um_Hof,-0.37335032,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09561_09571_Region_um_Ansbach,-0.15995982,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09562_09572_09564_09563_Region_um_Erlangen,-0.5143017,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09563_09573_09562_09564_Region_um_Fürth,-0.45925415,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09564_09563_09574_09565_09573_09572_09576_09562_Region_um_Nürnberg,-0.39153403,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09565_09576_09564_Region_um_Schwabach,-0.3483281,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09573_09572_09562_09563_09574_09565_09576_09561_09571_09575_09564_Region_um_Fürth,-0.28994316,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09661_09671_09676_Region_um_Aschaffenburg,-0.109068215,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09662_09678_Region_um_Schweinfurt,-0.27607954,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09663_09679_Region_um_Würzburg,-0.18901223,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09761_09772_09771_Region_um_Augsburg,-0.21882401,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09762_09777_Region_um_Kaufbeuren,0.15391521,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09763_09780_Region_um_Kempten_(Allgäu),0.35040316,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09764_09778_08436_Region_um_Memmingen,-0.01923792,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+09776_08435_08436_09780_09763_Region_um_Lindau_(Bodensee),0.14780144,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+10043_10044_10045_10041_10046_07336_Region_um_Neunkirchen,0.5996621,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12051_12063_12069_Region_um_Brandenburg_an_der_Havel,-0.6013855,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12052_12071_Region_um_Cottbus,-0.65686196,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12053_12067_12064_Region_um_Frankfurt_(Oder),-0.5199668,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+12054_12063_12069_11000_12051_Region_um_Potsdam,-0.6299684,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13003_13072_Region_um_Rostock,-0.45142654,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+13004_13076_13074_Region_um_Schwerin,-0.428921,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14511_14524_14521_14522_Region_um_Chemnitz,-0.60503745,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14612_14627_14625_14628_Region_um_Dresden,-0.63601583,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+14713_14729_14730_Region_um_Leipzig,-0.770739,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15001_15091_15082_Region_um_Dessau-Rolau,-0.65117973,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15002_15088_Region_um_Halle_(Saale),-0.7397657,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+15003_15083_15089_15086_Region_um_Magdeburg,-0.5918446,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16051_16067_16068_16070_16071_16055_Region_um_Erfurt,-0.3919712,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16052_16076_15084_16074_Region_um_Gera,-0.5510042,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16053_16074_16071_16055_Region_um_Jena,-0.5344809,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16054_16066_16069_16070_Region_um_Suhl,-0.16591953,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16055_16071_Region_um_Weimar,-0.52425975,DD,sem,days_with_precipitation_amount_below_threshold,days,10
+16056_16063_06636_Region_um_Eisenach,-0.32957673,DD,sem,days_with_precipitation_amount_below_threshold,days,10

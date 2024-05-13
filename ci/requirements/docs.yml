@@ -1,0 +1,21 @@
+name: flyer_forestry-docs
+
+channels:
+    - conda-forge
+    - nodefaults
+
+dependencies:
+    - python==3.10
+    - docutils
+    - nbconvert
+    - numpydoc
+    - pillow
+    - pip
+    - sphinx_rtd_theme
+    - sphinx
+    - pandoc
+    - nbsphinx
+    - nbsphinx-link
+    - ipython
+    - pip:
+      - sphinxcontrib-mockautodoc
