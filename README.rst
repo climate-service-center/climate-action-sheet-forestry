@@ -15,8 +15,7 @@ Klima-Taten-Blatt
 
 
 
-.. image:: plots/karlsruhe-stripes.png
-
+.. image:: docs/plots/karlsruhe-stripes.png
 
 Dieses Repository ist eine Sammlung von Klimadatenanalysen, die im Klima-Taten-Blatt für den Stadtwald Karlsruhe enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus dem Klima-Taten-Blatt. Darüber hinaus enthält das Repository Hintergrundinformationen zur Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 
