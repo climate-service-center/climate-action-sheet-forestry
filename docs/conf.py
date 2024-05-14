@@ -128,7 +128,7 @@ html_theme = "sphinx_book_theme"
 html_title = "Klima-Taten-Blatt"
 
 # not sure about the license here...
-html_logo = "../Titel.png"
+html_logo = "plots/karlsruhe-stripes.png"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
