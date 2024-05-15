@@ -22,7 +22,8 @@ Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CO
 
 Ensembles für verschiedene Erwärmungsniveaus
 ............................................
-Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL ändert sich. Zum Beispiel ist es in der Abbildung 4 offensichtlich, dass die Projektionen unter Verwendung von RCP2.6 keine globale Erwärmung von 3 °C erreichen.
+
+Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL variiert. Zum Beispiel erreichen die Projektionen unter Verwendung des RCP2.6 Szenarios keine globale Erwärmung von 3 °C (siehe Abbildung 4).
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
@@ -32,7 +33,7 @@ Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL ändert sic
 
    $ Notebooks/read_atlas_cmip5.ipynb
 
-Es werden die EURO-CORDEX-Projektionen unter Verwendung von RCP8.5 für jedes Erwärmungsniveau untersucht, somit bleibt das Ensemble über alle GWL einigermaßen konstant (Nicht alle Globalmodelle erreichendas GWL 4°C). Das Ensemble von EURO-CORDEX RCP8.5 enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (Bärring_, 2018), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, alle Szenarien für einige Variablen zu kombinieren, aber nicht für alle Variablen, siehe Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
+Die EURO-CORDEX-Projektionen werden unter Verwendung des RCP8.5 Szenarios für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (Bärring_, 2018), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Kapitel 11`_.
 
 Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simulationen pro RCP für das gesammte Globalmodell Ensemble des IPCC mit dem Ensemble der Globalmodelle, welche für EURO-CORDEX als Antrieb verwendet wurden, verglichen.
 
