@@ -1,4 +1,4 @@
-name: flyer_forestry-docs
+name: sheet-forestry-docs
 
 channels:
     - conda-forge

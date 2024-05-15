@@ -4,7 +4,7 @@ Dieses Repository bietet einen Überblick über die einzelnen Verfahren der Date
 
 .. image:: plots/Climatestripes_deviation_to_1971_2000_EOBS_08212_08215_07334_Region_um_Karlsruhe.png
 
-** Abbildung 1** zeigt die *Climate stripes* der jährlich Temperaturabweichung zu 1971-2000 auf Grundlage der Beobachtungen (E-OBS). Diese Abbildung befinden sich auf der Titelseite des *Klima-Taten-Blatts*.
+**Abbildung 1** zeigt die *Climate stripes* der jährlich Temperaturabweichung zu 1971-2000 auf Grundlage der Beobachtungen (E-OBS). Diese Abbildung befinden sich auf der Titelseite des *Klima-Taten-Blatts*.
 
 **Karlsruhe** liegt im südwestlichen Bundesland Baden-Württemberg. Karlsruhe zählt 306.502 Einwohner auf einer Fläche von 173,42 km². Karlsruhe ist eine der wärmsten Städte Deutschlands mit heißen Sommern und milden Wintern, was auf die geschützte Lage im Oberrheingraben zurückzuführen ist. Empfindliche Pflanzen- und Tiergemeinschaften sind an dieses regionale Klima angepasst. Untypische Wetterextreme wie die langanhaltende große Hitze und Trockenheit im Sommer 2022 und in den Vorjahren führen zu dauerhaften Waldschäden. Die Folgen der klimatisch veränderten Lebensräume sind im Karlsruher Stadtwald unübersehbar. Karlsruhe ist eine sehr grüne Stadt, 26% der Stadtfläche sind mit Misch- und Laubwäldern bedeckt. Das Forstamt setzt sich dafür ein, die vielfältigen Waldökosysteme in Karlsruhe zu erhalten, wiederherzustellen oder in einen naturnahen, risikoärmeren Zustand zu bringen und damit langfristig klimastabiler weiterzuentwickeln.
 
