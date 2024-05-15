@@ -21,16 +21,15 @@ Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CO
 
 Ensembles für verschiedene Erwärmungsniveaus
 ............................................
-Die Anzahl der Projektionen in den Ensembles für jedes GWL ändert sich. Zum Beispiel ist es in der obigen Grafik offensichtlich, dass die Projektionen unter Verwendung von RCP2.6 keine globale Erwärmung von 3 °C erreichen.
+Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL ändert sich. Zum Beispiel ist es in der Abbildung 4 offensichtlich, dass die Projektionen unter Verwendung von RCP2.6 keine globale Erwärmung von 3 °C erreichen.
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
-**Abbildung 4** zeigt alle CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien und die letzte Spalte der Legende repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
+**Abbildung 4** zeigt alle CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
 
 .. code-block:: console
 
    $ Notebooks/read_atlas_cmip5.ipynb
-
 
 Es werden die EURO-CORDEX-Projektionen unter Verwendung von RCP8.5 für jedes Erwärmungsniveau untersucht, somit bleibt das Ensemble über alle GWL einigermaßen konstant (Nicht alle Globalmodelle erreichendas GWL 4°C). Das Ensemble von EURO-CORDEX RCP8.5 enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (Bärring_, 2018), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, alle Szenarien für einige Variablen zu kombinieren, aber nicht für alle Variablen, siehe Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
 
@@ -44,7 +43,7 @@ Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simul
 
    $ GWL_table/plot_GWL_years.ipynb
 
-Der Vergleich der zentralen Jahre der Erwärmungsstufen zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die Globalen Erwärmungsstufen 1.5°C und 2°C. Für die Globale Erwärmungsstufe 3° ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szeanrio stimmt der Median des CMIP5 Ensemble gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das  Globale Erwärmungsniveau 4°C, welches nur von einigen RCP85 Simulation erreicht wird und es weicht der Median der beiden ensemble um 8 Jahre von einander ab.
+Der Vergleich der zentralen Jahre der Erwärmungsstufen zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die Globalen Erwärmungsstufen 1.5°C und 2°C. Für die Globale Erwärmungsstufe 3° ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szeanrio stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das  Globale Erwärmungsniveau 4°C, welches nur von einigen RCP85 Simulation erreicht wird und es weicht der Median der beiden ensemble um 8 Jahre von einander ab.
 
 In der Tabelle der Klimaparameter im *Klima-Taten-Blatts* ist das 30 jährige Mittel für den historischen Zeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt, sowie der Median der Änderungen im EURO-CORDEX-Ensembles zum historischen Zeitraum für die verschiedenen Globalen Erwärmungsstufen nur auf Grundlage des RCP85 Szenarios um das Ensemble einigermaßen Konstant zu halten über die vier globalen Erwärumnungsstufen.
 

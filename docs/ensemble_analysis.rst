@@ -1,9 +1,14 @@
-Experteneinschätzung
---------------------
-
 Berechnung der Signifikanz und Robustheit
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Ein Ensemble von Klimasimulationen wird verwendet, um die Unsicherheit in den Modellprojektionen zu berücksichtigen und die Robustheit der Ergebnisse zu erhöhen. 
+
+Klimamodelle sind vereinfachte Darstellungen des realen Klimasystems und beruhen auf verschiedenen Annahmen und Parametern. Durch die Verwendung eines Ensembles können verschiedene Modelle mit unterschiedlichen Parametern berücksichtigt werden, um die Bandbreite der möglichen Ergebnisse zu erfassen und die Unsicherheit zu reduzieren.
+
 Die statistische Signifikanz der Klimaänderung wird für jede einzelne Klimasimulation berechnet.  Dies geschieht mit einem statistischen Testverfahren, das bewertet, ob eine gegebene Veränderung so stark ist, dass sie die zufälligen (natürlichen) Schwankungen übersteigt. Eine Klimaänderung wird hier als signifikant definiert, wenn sie gemäß eines sogenannten Mann-Whitney-U-Tests mit einer Wahrscheinlichkeit von unter 5% mit zufälligen Schwankungen erklärbar ist.
+
+Experteneinschätzung
+....................
 
 Die Ergebnisse des ausgewählten Modellensembles sind mit Signifikanz und Robustheit versehen. Die berechnung wurde unter Verwendung von xclim_ durchgeführt.
 
