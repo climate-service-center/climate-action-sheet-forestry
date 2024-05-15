@@ -1,17 +1,18 @@
-globale Erwärmungsstufen
+Globale Erwärmungsstufen
 ------------------------
 
-Die Zeiträume, in denen die globalen Erwärmungsstufen (GWL) von +1.5, +2, +3 und +4 °C erreicht werden beziehen sich auf den vorindustriellen Durchschnittswert von 1850-1900. Sie werden für CMIP5 Projektionen unter Verwendung eines gleitenden 30-Jahres Mittels berechnet.
+Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL)) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Sie werden für CMIP5 Projektionen unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.
 
-Für die Berechnung der Globalen Erwärmungsstufen wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für diese Untersuchungen wurde lediglich die 20-Jahres-Zeitspanne in dem Programm scripts/getGWL.R auf eine 30-Jahres-Zeitspanne geändert. Der `Unterschied`_ zwischen dem 20 bzw. 30 jährigen Mittel ist gering, manchmal verschiebt sich das zentrale Jahr des Zeitraums um ein Jahr.
+Für die Berechnung der GWL wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für diese Untersuchungen wurde lediglich die 20-Jährige Zeitspanne im Programm scripts/getGWL.R auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
 
 Vorindustriell und heute
 ........................
-Die globalen Erwärmungsniveaus werden im Vergleich zur vorindustriellen Periode (PI) 1851-1900 berechnet. Um zu klären, wie stark sich die Temperatur global von 1971-2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (_`Morice`), welcher üblicherweise in Studien zu globale Erwärmungsstufen verwendet wird. Global ist im HadCRUT Datensatz bereichts ein Temperaturanstieg von 0.51 K im Mittel über 1971-2000 zum vorindustriell Zeitraum zu erkennen.
+
+Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1851 bis 1900 berechnet. Um zu untersuchen, wie stark sich die Temperatur global in den Jahren 1971 bis 2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (_`Morice`), welcher üblicherweise in GWL-Studien verwendet wird. Global ist im HadCRUT Datensatz bereits ein mittlerer Temperaturanstieg von 0,51 °K im Vergleich zum vorindustriellen Zeitraum der Jahre 1971 bis 2000 zu erkennen.
 
 .. image:: plots/HadCRU_GWL_PI_new_version24.png
 
-**Abbildung 3** zeigt die jährliche Anomalie der globalen Mitteltemperatur zum vorindustriellen Zeitraum 1851-1900. Die mittlere globale Temperaturänderung im historischen Zeitraum 1971-2000 von 0.51 K ist eingezeichnet.
+**Abbildung 3** zeigt die jährliche Anomalie der global gemittelten Temperatur im Vergleich zum vorindustriellen Zeitraum von 1851 1900. Die mittlere Änderung im historischen Zeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet.
 
 .. code-block:: console
 
