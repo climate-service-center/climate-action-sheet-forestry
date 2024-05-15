@@ -134,6 +134,17 @@ html_logo = "plots/karlsruhe-stripes.png"
 # further.  For a list of options available for each theme, see the
 # documentation.
 # html_theme_options = {}
+html_theme_options = dict(
+    repository_url="https://github.com/climate-service-center/climate-action-sheet-forestry",
+    repository_branch="main",
+    path_to_docs="docs",
+    use_edit_page_button=True,
+    use_repository_button=True,
+    use_issues_button=True,
+    home_page_in_toc=False,
+    extra_navbar="",
+    navbar_footer_text="",
+)
 
 # does not work on rdt
 # html_theme_options = {'logo_only': True}
