@@ -69,7 +69,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "climate-action-sheet-forestry"
-copyright = "2023, Katharina Bülow"
+copyright = "2024, Katharina Bülow"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -272,3 +272,9 @@ for nb in notebooks:
         ),
         shell=True,
     )
+simplepdf_vars = {
+    'primary': '#f08100', #'#5e7068',
+    'secondary': '#f08100',
+    'cover-bg': '#3b7f69',
+}
+simplepdf_file_name = "Aktionsblatt-Klima-Stadtwald-Karlsruhe.pdf"
