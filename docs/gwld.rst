@@ -39,15 +39,15 @@ Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simul
 
 .. image:: plots/years_of_GWL_scenario_ensemble.png
 
-**Abbildung 5** zeigt das zentrale Jahr der Erwärmungsstufe eines 30-Jahres-Zeitraums für jedes Globalmodell. Es werden für jedes Szenario das Ensemble der CMIP5 Modelle (*verwendet im IPCC Atlas*) mit dem Ensemble der CMIP5 Modelle (*verwendet als Antrieb für in EURO-CORDEX*) mit einander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
+**Abbildung 5** zeigt das zentrale Jahr der Erwärmungsstufe eines 30-Jährigen Zeitraumes für jedes Globalmodell. Es werden für jedes Szenario das Ensemble der CMIP5 Modelle (*verwendet im IPCC Atlas*) mit dem Ensemble der CMIP5 Modelle (*verwendet als Antrieb für in EURO-CORDEX*) mit einander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
 
 .. code-block:: console
 
    $ GWL_table/plot_GWL_years.ipynb
 
-Der Vergleich der zentralen Jahre der Erwärmungsstufen zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die Globalen Erwärmungsstufen 1.5°C und 2°C. Für die Globale Erwärmungsstufe 3° ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szeanrio stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das  Globale Erwärmungsniveau 4°C, welches nur von einigen RCP85 Simulation erreicht wird und es weicht der Median der beiden ensemble um 8 Jahre von einander ab.
+Der Vergleich der zentralen Jahre der GWL zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die GWL 1.5 °C und 2 °C. Für die GWL 3 °C ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szenario stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP85 Simulation erreicht wird. Hier zeigt sich ein Differenz von 8 Jahren zwischen den Medianen der beiden Ensemble.
 
-In der Tabelle der Klimaparameter im *Klima-Taten-Blatts* ist das 30 jährige Mittel für den historischen Zeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt, sowie der Median der Änderungen im EURO-CORDEX-Ensembles zum historischen Zeitraum für die verschiedenen Globalen Erwärmungsstufen nur auf Grundlage des RCP85 Szenarios um das Ensemble einigermaßen Konstant zu halten über die vier globalen Erwärumnungsstufen.
+In der Tabelle der Klimaparameter im *Klima-Taten-Blatt* ist der 30-Jährige Mittelwert für den historischen Zeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt. Der Median der Änderungen im EURO-CORDEX-Ensemble im Vergleich zum historischen Zeitraum für die verschiedenen GWL ist nur auf Grundlage des RCP85 Szenarios gezeigt, um das Ensemble über die vier GWL einigermaßen konstant zu halten.
 
 Literatur
 ..........
