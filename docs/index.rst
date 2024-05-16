@@ -1,5 +1,5 @@
-Herzlich willkommen zur Dokumentation des Klima-Taten-Blatts
-============================================================
+Herzlich Willkommen zur Dokumentation des Klima-Taten-Blattes
+=============================================================
 
 .. toctree::
    :maxdepth: 2

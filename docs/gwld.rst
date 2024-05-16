@@ -1,17 +1,18 @@
-globale Erwärmungsstufen
+Globale Erwärmungsstufen
 ------------------------
 
-Die Zeiträume, in denen die globalen Erwärmungsstufen (GWL) von +1.5, +2, +3 und +4 °C erreicht werden beziehen sich auf den vorindustriellen Durchschnittswert von 1850-1900. Sie werden für CMIP5 Projektionen unter Verwendung eines gleitenden 30-Jahres Mittels berechnet.
+Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL)) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Sie werden für CMIP5 Projektionen unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.
 
-Für die Berechnung der Globalen Erwärmungsstufen wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für diese Untersuchungen wurde lediglich die 20-Jahres-Zeitspanne in dem Programm scripts/getGWL.R auf eine 30-Jahres-Zeitspanne geändert. Der `Unterschied`_ zwischen dem 20 bzw. 30 jährigen Mittel ist gering, manchmal verschiebt sich das zentrale Jahr des Zeitraums um ein Jahr.
+Für die Berechnung der GWL wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für diese Untersuchungen wurde lediglich die 20-Jährige Zeitspanne im Programm scripts/getGWL.R auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
 
 Vorindustriell und heute
 ........................
-Die globalen Erwärmungsniveaus werden im Vergleich zur vorindustriellen Periode (PI) 1851-1900 berechnet. Um zu klären, wie stark sich die Temperatur global von 1971-2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (_`Morice`), welcher üblicherweise in Studien zu globale Erwärmungsstufen verwendet wird. Global ist im HadCRUT Datensatz bereichts ein Temperaturanstieg von 0.51 K im Mittel über 1971-2000 zum vorindustriell Zeitraum zu erkennen.
+
+Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1851 bis 1900 berechnet. Um zu untersuchen, wie stark sich die Temperatur global in den Jahren 1971 bis 2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (_`Morice`), welcher üblicherweise in GWL-Studien verwendet wird. Global ist im HadCRUT Datensatz bereits ein mittlerer Temperaturanstieg von 0,51 °K im Vergleich zum vorindustriellen Zeitraum der Jahre 1971 bis 2000 zu erkennen.
 
 .. image:: plots/HadCRU_GWL_PI_new_version24.png
 
-**Abbildung 3** zeigt die jährliche Anomalie der globalen Mitteltemperatur zum vorindustriellen Zeitraum 1851-1900. Die mittlere globale Temperaturänderung im historischen Zeitraum 1971-2000 von 0.51 K ist eingezeichnet.
+**Abbildung 3** zeigt die jährliche Anomalie der global gemittelten Temperatur im Vergleich zum vorindustriellen Zeitraum von 1851 1900. Die mittlere Änderung im historischen Zeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet.
 
 .. code-block:: console
 
@@ -21,7 +22,8 @@ Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CO
 
 Ensembles für verschiedene Erwärmungsniveaus
 ............................................
-Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL ändert sich. Zum Beispiel ist es in der Abbildung 4 offensichtlich, dass die Projektionen unter Verwendung von RCP2.6 keine globale Erwärmung von 3 °C erreichen.
+
+Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL variiert. Zum Beispiel erreichen die Projektionen unter Verwendung des RCP2.6 Szenarios keine globale Erwärmung von 3 °C (siehe Abbildung 4).
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
@@ -31,21 +33,21 @@ Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL ändert sic
 
    $ Notebooks/read_atlas_cmip5.ipynb
 
-Es werden die EURO-CORDEX-Projektionen unter Verwendung von RCP8.5 für jedes Erwärmungsniveau untersucht, somit bleibt das Ensemble über alle GWL einigermaßen konstant (Nicht alle Globalmodelle erreichendas GWL 4°C). Das Ensemble von EURO-CORDEX RCP8.5 enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (Bärring_, 2018), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, alle Szenarien für einige Variablen zu kombinieren, aber nicht für alle Variablen, siehe Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
+Die EURO-CORDEX-Projektionen werden unter Verwendung des RCP8.5 Szenarios für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (Bärring_, 2018), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Kapitel 11`_.
 
 Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simulationen pro RCP für das gesammte Globalmodell Ensemble des IPCC mit dem Ensemble der Globalmodelle, welche für EURO-CORDEX als Antrieb verwendet wurden, verglichen.
 
 .. image:: plots/years_of_GWL_scenario_ensemble.png
 
-**Abbildung 5** zeigt das zentrale Jahr der Erwärmungsstufe eines 30-Jahres-Zeitraums für jedes Globalmodell. Es werden für jedes Szenario das Ensemble der CMIP5 Modelle (*verwendet im IPCC Atlas*) mit dem Ensemble der CMIP5 Modelle (*verwendet als Antrieb für in EURO-CORDEX*) mit einander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
+**Abbildung 5** zeigt das zentrale Jahr der Erwärmungsstufe eines 30-Jährigen Zeitraumes für jedes Globalmodell. Es werden für jedes Szenario das Ensemble der CMIP5 Modelle (*verwendet im IPCC Atlas*) mit dem Ensemble der CMIP5 Modelle (*verwendet als Antrieb für in EURO-CORDEX*) mit einander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
 
 .. code-block:: console
 
    $ GWL_table/plot_GWL_years.ipynb
 
-Der Vergleich der zentralen Jahre der Erwärmungsstufen zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die Globalen Erwärmungsstufen 1.5°C und 2°C. Für die Globale Erwärmungsstufe 3° ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szeanrio stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das  Globale Erwärmungsniveau 4°C, welches nur von einigen RCP85 Simulation erreicht wird und es weicht der Median der beiden ensemble um 8 Jahre von einander ab.
+Der Vergleich der zentralen Jahre der GWL zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die GWL 1.5 °C und 2 °C. Für die GWL 3 °C ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szenario stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP85 Simulation erreicht wird. Hier zeigt sich ein Differenz von 8 Jahren zwischen den Medianen der beiden Ensemble.
 
-In der Tabelle der Klimaparameter im *Klima-Taten-Blatts* ist das 30 jährige Mittel für den historischen Zeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt, sowie der Median der Änderungen im EURO-CORDEX-Ensembles zum historischen Zeitraum für die verschiedenen Globalen Erwärmungsstufen nur auf Grundlage des RCP85 Szenarios um das Ensemble einigermaßen Konstant zu halten über die vier globalen Erwärumnungsstufen.
+In der Tabelle der Klimaparameter im *Klima-Taten-Blatt* ist der 30-Jährige Mittelwert für den historischen Zeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt. Der Median der Änderungen im EURO-CORDEX-Ensemble im Vergleich zum historischen Zeitraum für die verschiedenen GWL ist nur auf Grundlage des RCP85 Szenarios gezeigt, um das Ensemble über die vier GWL einigermaßen konstant zu halten.
 
 Literatur
 ..........
