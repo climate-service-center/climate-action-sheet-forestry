@@ -11,6 +11,7 @@ Contributors
 ------------
 
 * Ludwig Lierhammer <ludwig.lierhammer@hereon.de>
+* `Lars Buntemeyer <https://github.com/larsbuntemeyer>`_ <lars.buntemeyer@hereon.de>
 
 References
 ----------
