@@ -1,5 +1,5 @@
-Herzlich Willkommen zur Dokumentation des Klima-Taten-Blattes
-=============================================================
+Herzlich willkommen zur Dokumentation des Aktionsblatts Klima - Stadtwald Karlsruhe
+===================================================================================
 
 .. toctree::
    :maxdepth: 2

@@ -10,6 +10,8 @@ Parallel zur Untersuchung der Veränderung bei verschiedenen globalen Erwärmung
 
 **Abbildung 2** zeigt die Temperatur und Niederschlagsanomlien von 1950 bis 2023 im Verlich zu dem 30-jährigen Mittel über die Jahre 1971 bis 2000. Für die Temperatur ist ein deutlicher Anstieg ab dem Jahr 2000 zu erkennen. In der Graphik der Niederschlagsanomalien sind die einzelnen Dürrejahre 2003, 2015 und 2018 bis 2020 kenntlich gemacht.
 
+Diese Abbildung kann mit dem folgenden Notebook erstellt werden. Das Notebook verwendet die Daten, welche in  *climate-action-sheet-forestry/input_data* liegen.
+
 Notebook
 ........
 .. code-block:: console
