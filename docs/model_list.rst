@@ -1,10 +1,15 @@
-Liste der Klimasimulation
--------------------------
+Liste der Klimasimulationen
+---------------------------
 
 Tabelle mit den verwendeten EURO-CORDEX Simulationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Die `EURO-CORDEX`_ Simulationen liegen mit einer horizontalen Auflösung von 12 Km (EUR11) vor.
-Die Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur Verfügung und weitere Informationen_ zu den Modellen und ihrem Datenformat sind dokumentiert. Weitere informationen und Diagnostik_ sind dokumentier und in `Diez-Sierra et al., 2022`_ zusammenfassende. Die folge Liste faßt eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen zusammen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel zu den **globale Erwärmungstufen** dokumentiert.
+Im Rahmen der Europäischen Initiative `EURO-CORDEX`_ (Coordinated Downscaling Experiment for Europe) werden globale Klimasimulationen der weltweiten CMIP5-Initiative (Coupled Model Intercomparison Project Phase 5) mit dynamischen regionalen Klimamodellen regionalisiert.
+
+In den hier erläuterten Untersuchungen wurden die `EURO-CORDEX`_ Simulationen mit einer horizontalen Auflösung von 12 Km (EUR11) verwendet. 
+
+Diese Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur Verfügung. Details zu den einzelnen Modellen und ihrem Datenformat sind dokumentiert_. Weitere Informationen und Diagnostik_ sind in `Diez-Sierra et al., 2022`_ nach zulesen.
+
+Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel zu den **globale Erwärmungstufen** dokumentiert.
 
 +---------------------+-------------------+----------+-------------+----------------+
 | Regionales          | Globales          | Szenario | Realisation | GWL            |
@@ -125,10 +130,10 @@ Die Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur V
 | SMHI-RCA4           | NCC-NorESM1-M     | rcp85    | r1i1p1      | 1.5, 2, 3°C    |
 +---------------------+-------------------+----------+-------------+----------------+
 
-**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile bestehend aus Regionalmodellname, Globalmodellname, Szenarioname, Realisation des Globalmodells und dem Namen der globalen Erwärmungstufe, welche von der jeweilige globalen Simulation erreicht wird und somit in die Ensemble Analyse eingeht.
+**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile enthält den Regionalmodellnamen, Globalmodellnamen, Szenarionamen, die Realisation des Globalmodells und die globalen Erwärmungstufen, welche von der jeweilige globalen Simulation erreicht werden und somit in die Ensemble Analyse eingehen.
 
 
-.. _Informationen: https://confluence.ecmwf.int/display/CKB/CORDEX%3A+Regional+climate+projections
+.. _dokumentiert: https://confluence.ecmwf.int/display/CKB/CORDEX%3A+Regional+climate+projections
 
 .. _Diagnostik: https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
 
@@ -136,4 +141,4 @@ Die Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur V
 
 .. _esgf: https://esgf-data.dkrz.de/search/cordex-dkrz
 
-.. _`EURO-CORDEX`: https://www.euro-cordex.net/060377/index.php.en
+.. _`EURO-CORDEX`: https://www.euro-cordex.net/index.php.en

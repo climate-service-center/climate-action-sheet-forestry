@@ -1,18 +1,18 @@
 Globale Erwärmungsstufen
 ------------------------
 
-Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL)) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Sie werden für CMIP5 Projektionen unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.
+Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL) `Nikulin (2018)`_) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Dies bedeutet, dass der globale Mittelwert der bodennahen Temperatur um 1,5°C, 2°C, 3°C und 4 °C wärmer ist als im vorindustriellen Mittel. Die globalen Erwärmungsstufen werden für die globalen Projektionen von CMIP5 (*Coupled Modelling Intercomparison Project 5*) unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.
 
-Für die Berechnung der GWL wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für diese Untersuchungen wurde lediglich die 20-Jährige Zeitspanne im Programm scripts/getGWL.R auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
+Für die Berechnung der GWL wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für die hier vorliegenden Untersuchungen wurde lediglich die 20-Jährige Zeitspanne im Programm scripts/getGWL.R auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ zwischen den Ergebnisse für eine 20-Jährige und 30-Jährige Zeitspanne ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
 
 Vorindustriell und heute
 ........................
 
-Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1851 bis 1900 berechnet. Um zu untersuchen, wie stark sich die Temperatur global in den Jahren 1971 bis 2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (_`Morice (2020)`), welcher üblicherweise in GWL-Studien verwendet wird. Global ist im HadCRUT Datensatz bereits ein mittlerer Temperaturanstieg von 0,51 °K im Vergleich zum vorindustriellen Zeitraum der Jahre 1971 bis 2000 zu erkennen.
+Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1850 bis 1900 berechnet. Um zu untersuchen, wie stark sich die Temperatur global in den Jahren 1971 bis 2000 verändert hat, verwenden wir den HadCRUT5_ Datensatz (`Morice (2020)`_), welcher üblicherweise in GWL-Studien verwendet wird. Global ist im HadCRUT Datensatz bereits ein mittlerer Temperaturanstieg von 0,51 °K im Vergleich zum vorindustriellen Zeitraum der Jahre 1971 bis 2000 zu erkennen.
 
 .. image:: plots/HadCRU_GWL_PI_new_version24.png
 
-**Abbildung 3** zeigt die jährliche Anomalie der global gemittelten Temperatur im Vergleich zum vorindustriellen Zeitraum von 1851 1900. Die mittlere Änderung im Referenzzeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet.
+**Abbildung 3** zeigt die jährliche Anomalie der global gemittelten Temperatur im Vergleich zum vorindustriellen Zeitraum von 1850 bis 1900. Die mittlere Änderung im Referenzzeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet.
 
 Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
@@ -37,7 +37,7 @@ Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
    $ Notebooks/read_atlas_cmip5.ipynb
 
-Die EURO-CORDEX-Projektionen werden unter Verwendung des RCP8.5 Szenarios für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (`Bärring (2018)`_), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Kapitel 11`_.
+Die EURO-CORDEX-Projektionen werden unter Verwendung des RCP8.5 Szenarios für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (`Bärring (2018)`_), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
 
 Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simulationen pro RCP für das gesammte Globalmodell Ensemble des IPCC mit dem Ensemble der Globalmodelle, welche für EURO-CORDEX als Antrieb verwendet wurden, verglichen.
 
@@ -53,22 +53,22 @@ Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
 Der Vergleich der zentralen Jahre der GWL zwischen dem CMIP5-Ensemble (CMIP5) (*verwendet im IPCC Atlas*) und dem CMIP5-Ensemble (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) zeigt geringe Unterschiede zwischen den Szenarien für die GWL 1.5 °C und 2 °C. Für die GWL 3 °C ist der Unterschied bezüglich des Zeitraumes zwischen RCP45 und RCP85 größer als 10 Jahre. Für jedes Szenario stimmt der Median des CMIP5 Ensembles gut mit dem Median des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP85 Simulation erreicht wird. Hier zeigt sich ein Differenz von 8 Jahren zwischen den Medianen der beiden Ensemble.
 
-In der Tabelle der Klimaparameter im *Aktionsblatt Klima - Stadtwald Karlsruhe* ist der 30-Jährige Mittelwert für den Referenzzeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt. Der Median der Änderungen im EURO-CORDEX-Ensemble im Vergleich zum Referenzzeitraum für die verschiedenen GWL ist nur auf Grundlage des RCP85 Szenarios gezeigt, um das Ensemble über die vier GWL einigermaßen konstant zu halten.
+In der Tabelle der Klimaparameter in der Broschüre *Stadtwald Karlsruhe im Klimawandel* ist der 30-Jährige Mittelwert für den Referenzzeitraum auf Grundlage von Beobachtungen (siehe vorrangehendes Kapitel) dargestellt. Der Median der Änderungen im EURO-CORDEX-Ensemble im Vergleich zum Referenzzeitraum für die verschiedenen GWL ist nur auf Grundlage des RCP85 Szenarios gezeigt, um das Ensemble über die vier GWL einigermaßen konstant zu halten.
 
 Literatur
 ..........
-Der beste Überblick über die unterschiedlichen Methoden zur Berechnung der globalen Erwärmungsstufen sind in `Nikolin (2018)`_ um im `IPCC`_ Atlas dargelegt. Weiterführen Information enthalten `Vautard (2014)`_ und `Kjellstroem (2017)`_.
+Der beste Überblick über die unterschiedlichen Methoden zur Berechnung der globalen Erwärmungsstufen sind in `Nikulin (2018)`_ um im `IPCC`_ Atlas dargelegt. Weiterführen Information enthalten `Vautard (2014)`_ und `Kjellstroem (2017)`_.
 
 
-.. _Bärring (2018): ../literature/Bärring_2018_Environ._Res._Lett._13_024029.pdf
+.. _Bärring (2018): https://iopscience.iop.org/article/10.1088/1748-9326/aa9f72
 
 .. _`Mathias Hauser`: https://github.com/mathause/cmip_warming_levels
 
-.. _`Vautard (2014)`: literature/The_European_climate_under_a_2_C_global_warming.pdf
+.. _`Vautard (2014)`: https://iopscience.iop.org/article/10.1088/1748-9326/9/3/034006
 
-.. _`Kjellstroem (2017)`: literature/Kjellstroem_2018.pdf
+.. _`Kjellstroem (2017)`: https://esd.copernicus.org/articles/9/459/2018/
 
-.. _`Nikolin (2018)`: literature/Nikulin_2018_Environ._Res._Lett._13_065003.pdf
+.. _`Nikulin (2018)`: https://iopscience.iop.org/article/10.1088/1748-9326/aab1b1
 
 .. _IPCC: https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels
 
@@ -79,3 +79,5 @@ Der beste Überblick über die unterschiedlichen Methoden zur Berechnung der glo
 .. _`IPCC AR6 WG1 Chapter 11`: https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/
 
 .. _`Morice (2020)`: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD032361
+
+.. _`Unterschied`: https://github.com/IPCC-WG1/Atlas/blob/main/warming-levels/CMIP5_WarmingLevels_spread_RCP85.pdf

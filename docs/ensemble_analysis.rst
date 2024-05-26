@@ -1,18 +1,18 @@
-Berechnung der Signifikanz und Robustheit
------------------------------------------
+Berechnung von Signifikanz und Robustheit der Klimaänderung
+-----------------------------------------------------------
 
-Ein Ensemble von Klimasimulationen wird verwendet, um die Unsicherheit in den Modellprojektionen zu berücksichtigen und die Robustheit der Ergebnisse zu erhöhen. 
+Ein Ensemble von Klimasimulationen wird verwendet, um die Unsicherheit in den Modellprojektionen zu berücksichtigen und die Robustheit der Ergebnisse zu erhöhen.
 
-Klimamodelle sind vereinfachte Darstellungen des realen Klimasystems und beruhen auf verschiedenen Annahmen und Parametern. Durch die Verwendung eines Ensembles können verschiedene Modelle mit unterschiedlichen Parametern berücksichtigt werden, um die Bandbreite der möglichen Ergebnisse zu erfassen und die Unsicherheit zu reduzieren.
+Die Unsicherheiten_ in der Klimamodellierung resultieren aus der Komplexität des Klimasystemsmit seinen Wechselwirkungen, den erforderlichen Vereinfachungen der Klimaprozesse in den Modellen (computerbedingte numerische Parameterisierung), der natürlichen Klimavariabilität und den Annahmen über die zukünftigen Entwicklungen der Treibhausgaskonzentrationen, der Aerosole und der Landnutzung.
 
-Die statistische Signifikanz der Klimaänderung wird für jede einzelne Klimasimulation berechnet.  Dies geschieht mit einem statistischen Testverfahren, das bewertet, ob eine gegebene Veränderung so stark ist, dass sie die zufälligen (natürlichen) Schwankungen übersteigt. Eine Klimaänderung wird hier als signifikant definiert, wenn sie gemäß eines sogenannten Mann-Whitney-U-Tests mit einer Wahrscheinlichkeit von unter 5% mit zufälligen Schwankungen erklärbar ist.
+Die statistische Signifikanz der Klimaänderung wird für jede einzelne Klimasimulation berechnet.  Dies geschieht mit einem statistischen Testverfahren, das bewertet, ob eine gegebene Veränderung so stark ist, dass sie die zufälligen (natürlichen) Schwankungen übersteigt. Eine Klimaänderung wird hier als signifikant definiert, wenn sie gemäß eines sogenannten `Mann-Whitney-U-Tests`_ mit einer Wahrscheinlichkeit von unter 5% mit zufälligen Schwankungen erklärbar ist.
 
 Experteneinschätzung
 ....................
 
-Die Ergebnisse des ausgewählten Modellensembles sind mit Signifikanz und Robustheit versehen. Die berechnung wurde unter Verwendung von xclim_ durchgeführt.
+Die Ergebnisse des ausgewählten Modellensembles sind mit Informationen zu Signifikanz und Robustheit versehen. Die Berechnung wurde unter Verwendung von xclim_ durchgeführt.
 
-**Robuste-Zunahme**: Mindestens 2/3 der Simulationen zeigen eine Zunahme und mindestens 50% der Simulationen sogar eine significante Zunahme.
+**Robuste-Zunahme**: Mindestens 2/3 der Simulationen zeigen eine Zunahme und mindestens 50% der Simulationen sogar eine signifikante Zunahme.
 
 **Robuste-Abnahme**:  Mindestens 2/3 der Simulationen zeigen eine Abnahme und mindestens 50% der Simulationen sogar eine signifikante Abnahme.
 
@@ -26,3 +26,7 @@ Die Ergebnisse des ausgewählten Modellensembles sind mit Signifikanz und Robust
 
 
 .. _xclim: https://github.com/Ouranosinc/xclim
+
+.. _`Mann-Whitney-U-Tests`: https://de.wikipedia.org/wiki/Wilcoxon-Mann-Whitney-Test
+
+.. _`Unsicherheiten`: https://link.springer.com/chapter/10.1007/978-3-662-66696-8_5#Sec3

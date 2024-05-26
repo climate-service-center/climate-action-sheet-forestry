@@ -1,9 +1,9 @@
-Herzlich willkommen zur Dokumentation des Aktionsblatts Klima - Stadtwald Karlsruhe
-===================================================================================
+Herzlich willkommen zur Dokumentation der Broschüre *Stadtwald Karlsruhe - im Klimawandel*
+==========================================================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalt:
 
    readme
    introduction

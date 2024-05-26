@@ -1,15 +1,14 @@
-========================================
-Aktionsblatt Klima - Stadtwald Karlsruhe
-========================================
+==============================================
+Broschüre - Stadtwald Karlsruhe im Klimawandel
+==============================================
 
 +----------------------------+-----------------------------------------------------+
 | Open Source                | |license|                                           |
 +----------------------------+-----------------------------------------------------+
 
 .. image:: plots/karlsruhe-stripes.png
-
 	   
-Dieses Repository ist eine Sammlung von Klimadatenanalysen, die im Klima-Taten-Blatt für den Stadtwald Karlsruhe enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus dem Klima-Taten-Blatt. Darüber hinaus enthält das Repository Hintergrundinformationen zur Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
+In diesem Repositorium sind die Klimadatenanalysen, die in der Broschüre *Stadtwald Karlsruhe im Klimawandel* enthalten sind zusammengestellt. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus der Broschüre. Darüber hinaus enthält das Repositorium Hintergrundinformationen zur Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 
 
 Kontakt
