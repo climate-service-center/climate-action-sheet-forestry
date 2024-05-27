@@ -12,7 +12,10 @@ Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1850 bis
 
 .. image:: plots/HadCRU_GWL_PI_new_version24.png
 
-**Abbildung 3** zeigt die jährliche Anomalie der global gemittelten Temperatur im Vergleich zum vorindustriellen Zeitraum von 1850 bis 1900. Die mittlere Änderung im Referenzzeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet.
+**Abbildung 3** zeigt die jährlichen Anomalien der global gemittelten oberflächennahen Temperatur im Vergleich zum vorindustriellen Zeitraum von 1850 bis 1900. Die mittlere Änderung im Referenzzeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet. Es wurde die neue Version der globalen oberflächennahen Temperaturdatasatzes *HadCRUT5* des *Met Office Hadley Centre/Climatic Research Unit* verwendet.
+
+Im orginal besteht der *HadCRUT5* Datensatz vom *Met Office Hadley Centre/Climatic Research Unit* aus monatlichen durchschnittlichen Anomalien der Oberflächentemperatur im Vergleich zum Zeitraum 1961-1990 auf einem regelmäßigen Raster von 5° Breitengrad mal 5° Längengrad von 1850 bis 2023. HadCRUT5 ist eine Kombination aus Messungen der Meeresoberflächentemperatur (SST) über dem Ozean von Schiffen und Bojen und Messungen der bodennahen Lufttemperatur von Wetterstationen über der Landoberfläche. 
+
 
 Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
@@ -20,18 +23,18 @@ Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
    $ Notebooks/HadCru_GWL-update2024.ipynb
 
-Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CORDEX Ensemble die Änderung zwischen dem vorindustriellen Zeitraum zu den Zeiträumen der Globalen Erwärmungsstufen zu berechnen, da das EURO-CORDEX Ensemble erst im Jahr 1971 beginnt. Als Referenzzeitraum wird daher 1971-2000 festgelegt. In diesen Untersuchungen können wir nur zeigen, wie sich das Klima während des Zeitraums einer Erwärmungstufe im Vergleich zum Referenzzeitraum verändert hat. Die Temperatur ist bereits im Referenzzeitraum angestiegen.
+Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CORDEX Ensemble die Änderung zwischen dem vorindustriellen Zeitraum zu den Zeiträumen der globalen Erwärmungsstufen zu berechnen, da das EURO-CORDEX Ensemble erst im Jahr 1971 beginnt. Als Referenzzeitraum wird daher 1971-2000 festgelegt. In den hier vorliegenden Untersuchungen kann nur gezeigt werden, wie sich das Klima während des Zeitraums einer Erwärmungstufe im Vergleich zum Referenzzeitraum verändert hat. Die Temperatur ist bereits im Referenzzeitraum 1971-2000 im Vergleich zum vorindustriellen Zeitraum global angestiegen.
 
-Ensembles für verschiedene Erwärmungsniveaus
-............................................
+Ensembles für verschiedene Erwärmungsstufen
+...........................................
 
 Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL variiert. Zum Beispiel erreichen die Projektionen unter Verwendung des RCP2.6 Szenarios keine globale Erwärmung von 3 °C (siehe Abbildung 4).
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
-**Abbildung 4** zeigt alle CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
+**Abbildung 4** zeigt die Temperaturanomalien aller CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die Fraben stehen für RCP26 (blau), RCP45 (gelb) und RCP85 (rot). Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
 
-Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
+Diese Abbildung kann mit dem folgenden Notebook unter Verwendung der Daten des IPCC Atlas erstellt werden:
 
 .. code-block:: console
 
@@ -81,3 +84,6 @@ Der beste Überblick über die unterschiedlichen Methoden zur Berechnung der glo
 .. _`Morice (2020)`: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD032361
 
 .. _`Unterschied`: https://github.com/IPCC-WG1/Atlas/blob/main/warming-levels/CMIP5_WarmingLevels_spread_RCP85.pdf
+
+
+"change from 1850: the HadCRUT5 data set. Journal of Geophysical Research: Atmospheres, 126, e2019JD032361

@@ -3,7 +3,7 @@ Beobachtete Veränderungen in der Vergangenheit
 
 In den letzten Jahren litt Karlsruhe unter extrem trockenen und heißen Sommern.
 
-Die hier verwendeten Temperatur- und Niderschlagsdaten gehören zu dem europäischen Klimaüberwachungsprodukt, welches auf In-situ-Bodenbeobachtungen beruht. Die Daten werden von bodengestützten Beobachtungsnetzen gesammelt, die den nationalen Wetterdiensten und anderen gehören und von ihnen betrieben werden. `E-OBS`_ bietet einen langen Zeitraum seit 1950 an.
+Die hier verwendeten Temperatur- und Niderschlagsdaten gehören zu dem europäischen Klimaüberwachungsprodukt `E-OBS`_, welches auf In-situ-Bodenbeobachtungen beruht. Die Daten werden von bodengestützten Beobachtungsnetzen gesammelt, die den nationalen Wetterdiensten und anderen gehören und von ihnen betrieben werden. `E-OBS`_ bietet einen langen Zeitraum seit 1950 an.
 
 .. image:: plots/EOBS_Annual_anomaly_deviation-2023_to_1971_2000_08212_08215_07334_Region_um_Karlsruheneu.png
 
