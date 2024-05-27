@@ -6,7 +6,7 @@ Broschüre - Stadtwald Karlsruhe im Klimawandel
 | Open Source                | |license|                                           |
 +----------------------------+-----------------------------------------------------+
 
-.. image:: plots/karlsruhe-stripes.png
+.. image:: karlsruhe-stripes.png
 	   
 In diesem Repositorium sind die Klimadatenanalysen, die in der Broschüre *Stadtwald Karlsruhe im Klimawandel* enthalten sind zusammengestellt. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus der Broschüre. Darüber hinaus enthält das Repositorium Hintergrundinformationen zur Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 

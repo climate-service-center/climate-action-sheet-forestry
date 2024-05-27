@@ -25,14 +25,14 @@ Diese Abbildung kann mit dem folgenden Notebook erstellt werden:
 
 Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CORDEX Ensemble die Änderung zwischen dem vorindustriellen Zeitraum zu den Zeiträumen der globalen Erwärmungsstufen zu berechnen, da das EURO-CORDEX Ensemble erst im Jahr 1971 beginnt. Als Referenzzeitraum wird daher 1971-2000 festgelegt. In den hier vorliegenden Untersuchungen kann nur gezeigt werden, wie sich das Klima während des Zeitraums einer Erwärmungstufe im Vergleich zum Referenzzeitraum verändert hat. Die Temperatur ist bereits im Referenzzeitraum 1971-2000 im Vergleich zum vorindustriellen Zeitraum global angestiegen.
 
-Ensembles für verschiedene Erwärmungsstufen
-...........................................
+Ensembles für verschiedene globale Erwärmungsstufen
+...................................................
 
-Die Anzahl der globalen Projektionen in den Ensembles für jedes GWL variiert. Zum Beispiel erreichen die Projektionen unter Verwendung des RCP2.6 Szenarios keine globale Erwärmung von 3 °C (siehe Abbildung 4).
+Die Anzahl der globalen Projektionen in den Ensembles für die einzelnen globalen Erwärmungsstufen (GWL) variiert. Alle globalen Projektionen des RCP45 (gelb) und RCP85 (rot) erreichen die globalen Erwärumsstufen 1,5 °C und 2°C. Aber Projektionen unter Verwendung des RCP26 Szenarios (blau) erreichen nur zum Teil die globale Erwärmungsstufe 1,5°C (siehe Abbildung 4). Aus diesem Grund wird hier das Modellensemble unter Verwendung des RCP85 benutzt, da so wenigstens die Anzahl der Projektionen für GWL 1,5°C, 2°C und 3°C konstant bleibt. Für das GWL 4°C reduziert sich das Ensemble auch unter Verwendung des RCP85 um 3 globale Simulationen.
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
-**Abbildung 4** zeigt die Temperaturanomalien aller CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die Fraben stehen für RCP26 (blau), RCP45 (gelb) und RCP85 (rot). Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
+**Abbildung 4** zeigt die Temperaturanomalien aller CMIP5 Projektionen, die im IPCC Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die Farben stehen für RCP2.6 (blau), RCP4.5 (gelb) und RCP8.5 (rot). Die als Antrieb verwendeten GCMs decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab.
 
 Diese Abbildung kann mit dem folgenden Notebook unter Verwendung der Daten des IPCC Atlas erstellt werden:
 
@@ -40,7 +40,7 @@ Diese Abbildung kann mit dem folgenden Notebook unter Verwendung der Daten des I
 
    $ Notebooks/read_atlas_cmip5.ipynb
 
-Die EURO-CORDEX-Projektionen werden unter Verwendung des RCP8.5 Szenarios für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (`Bärring (2018)`_), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
+Die EURO-CORDEX-Projektionen, welche das RCP8.5 Szenario verwenden, werden für jede globale Erwärmungsstuffe (GWL) analysiert. Dadurch bleibt das Ensemble über alle GWL einigermaßen konstant. Nicht alle globalen Klimamodelle erreichen jedoch das GWL von 4 °C. Das EURO-CORDEX-Ensemble mit RCP8.5 Szenario enthält die meisten Kombinationen von globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM). Dennoch besteht eine Unsicherheit, da unterschiedliche Treibhausgasantriebe eine Wirkung haben können (`Bärring (2018)`_), insbesondere im Hinblick auf Extremereignisse. Andere Autoren empfehlen, für bestimmte Variablen alle Szenarien zu kombinieren. Weitere Informationen dazu finden sich in Querkapitel-Box 11.1 im `IPCC AR6 WG1 Chapter 11`_ .
 
 Im folgenden werden Zeitscheiben, der globalen Erwärmsstufen der einzelen Simulationen pro RCP für das gesammte Globalmodell Ensemble des IPCC mit dem Ensemble der Globalmodelle, welche für EURO-CORDEX als Antrieb verwendet wurden, verglichen.
 
