@@ -1,9 +1,9 @@
-============
-Mitwirkende:
-============
+===========
+Mitwirkende
+===========
 
-Entwicklungsteam:
------------------
+Entwicklungsteam
+----------------
 
 * `Katharina Bülow <https://github.com/KatharinaBuelow>`_ <katharina.buelow@hereon.de>
 * `Ludwig Lierhammer <https://github.com/ludwiglierhammer>`_ <ludwig.lierhammer@hereon.de>
@@ -11,7 +11,7 @@ Entwicklungsteam:
 
 
 
-Übersetzungen:
---------------
+Übersetzungen
+-------------
 
 Es wurde zum Übersetzen aus dem Englischen ins Deutsche teilweise ChatGPT (Mai 2024) verwendet.
