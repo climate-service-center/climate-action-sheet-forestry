@@ -4,7 +4,7 @@ Dieses Repositorium bietet einen Überblick über die einzelnen Verfahren der Da
 
 .. image:: plots/Climatestripes_deviation_to_1971_2000_EOBS_08212_08215_07334_Region_um_Karlsruhe.png
 
-**Abbildung 1** zeigt die *Erwärmungsstreifen* (* `climate stripes`_ *) der jährlichen mittleren Temperaturabweichung zum Mittel über die Jahre 1971 bis 2000 für das Gebiet des Landkreises Karlsruhe. Dabei steht dunkles Blau für kühl und dunkles Rot für warm. Die Datengrundlage sind die Beobachtungen E-OBS_ aus dem EU-FP6-Projekt UERRA , Copernicus Climate Change Service und dem ECA&D-Projekt. Diese Abbildung befindet sich auf der Titelseite der Broschüre *Stadtwald Karlsruhe im Klimawandel*.
+**Abbildung 1** zeigt die Erwärmungsstreifen (`climate stripes`_) der jährlichen mittleren Temperaturabweichung zum Mittel über die Jahre 1971 bis 2000 für das Gebiet des Landkreises Karlsruhe. Dabei steht dunkles Blau für kühl und dunkles Rot für warm. Die Datengrundlage sind die Beobachtungen E-OBS_ aus dem EU-FP6-Projekt UERRA , Copernicus Climate Change Service und dem ECA&D-Projekt. Diese Abbildung befindet sich auf der Titelseite der Broschüre *Stadtwald Karlsruhe im Klimawandel*.
 
 Der Stadtwald ist ein wichtiger Teil der grünen Lunge von Karlsruhe - er bietet Menschen einen Ort der Erholung und ist Lebensraum für Tiere, Pflanzen und Pilze. Doch die Auswirkungen des Klimawandels sind auch hier bereits spürbar: insbesondere die langanhaltende Hitze sowie die Trockenheit in den vergangenen Sommern haben zu dauerhaften Schäden geführt.
 
