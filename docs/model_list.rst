@@ -130,7 +130,7 @@ Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung
 | SMHI-RCA4           | NCC-NorESM1-M     | RCP8.5    | r1i1p1      | 1.5, 2, 3°C    |
 +---------------------+-------------------+-----------+-------------+----------------+
 
-**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile enthält den Regionalmodellnamen, Globalmodellnamen, Szenario Namen, die Realisation des Globalmodells und die globalen Erwärmungsstufen, welche von der jeweiligen globalen Simulation erreicht werden und somit in die Ensemble Analyse eingehen.
+**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile enthält den Regionalmodellnamen, Globalmodellnamen, Szenarionamen, die Realisation des Globalmodells und die globalen Erwärmungsstufen, welche von den jeweiligen Ergebnissen der globalen Simulation erreicht werden und somit in die Ensemble Analyse eingehen.
 
 
 .. _dokumentiert: https://confluence.ecmwf.int/display/CKB/CORDEX%3A+Regional+climate+projections
