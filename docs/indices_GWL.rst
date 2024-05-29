@@ -5,7 +5,7 @@ Jede in Tabelle 3 dargestellte Klimakenngröße wurde mit einer Experteneinschä
 
 .. image:: plots/Karlsruhe_table_GWL_08212_08215_07334_Region_um_Karlsruhe_median_grey_300.png
 
-In **Tabelle 3** sind die ausgewählten Klimakenngrößen und deren zukünftige mittlere Veränderungen im Vergleich zum Zeitraum 1971 bis 2000 jeweils für den Fall einer Erhöhung der globalen Mitteltemperatur um 1,5°C, 2°C, 3°C und 4°C im Vergleich zum vorindustriellen Niveau aufgelistet. In der 1. Spalte steht der mittlere beobachtete Wert über die Jahre von 1971 bis 2000 (E-OBS_). Die Klimaänderungen wurden mit einer Vielzahl von Modellen berechnet, deren Ergebnisse zwischen dem angegebenen Minimum und Maximum (Min-Max) liegen. Darüber steht die Zahl (Median), unter und über der jeweils die Hälfte der Modelle liegen.
+In **Tabelle 3** sind die ausgewählten Klimakenngrößen und deren zukünftige mittlere Veränderungen im Vergleich zum Zeitraum 1971 bis 2000 jeweils für den Fall einer Erhöhung der globalen Mitteltemperatur um +1.5, +2, +3 und +4°C im Vergleich zum vorindustriellen Niveau aufgelistet. In der 1. Spalte steht der mittlere beobachtete Wert über die Jahre von 1971 bis 2000 (E-OBS_). Die Klimaänderungen wurden mit einer Vielzahl von Modellen berechnet, deren Ergebnisse zwischen dem angegebenen Minimum und Maximum (Min-Max) liegen. Darüber steht die Zahl (Median), unter und über der jeweils die Hälfte der Modelle liegen.
 
 Diese Tabelle kann mit dem folgenden Notebook erstellt werden:
 
