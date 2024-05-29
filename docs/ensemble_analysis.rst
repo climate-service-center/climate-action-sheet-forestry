@@ -3,7 +3,7 @@ Berechnung von Signifikanz und Robustheit der Klimaänderung
 
 Ein Ensemble von Klimasimulationen wird verwendet, um die Unsicherheit in den Modellprojektionen zu berücksichtigen und die Robustheit der Ergebnisse zu erhöhen.
 
-Die Unsicherheiten_ in der Klimamodellierung resultieren aus der Komplexität des Klimasystemsmit seinen Wechselwirkungen, den erforderlichen Vereinfachungen der Klimaprozesse in den Modellen (computerbedingte numerische Parameterisierung), der natürlichen Klimavariabilität und den Annahmen über die zukünftigen Entwicklungen der Treibhausgaskonzentrationen, der Aerosole und der Landnutzung.
+Die Unsicherheiten_ in der Klimamodellierung resultieren aus der Komplexität des Klimasystems mit seinen Wechselwirkungen, den erforderlichen Vereinfachungen der Klimaprozesse in den Modellen (computerbedingte numerische Parametrisierung), der natürlichen Klimavariabilität und den Annahmen über die zukünftigen Entwicklungen der Treibhausgaskonzentrationen, der Aerosole und der Landnutzung.
 
 Die statistische Signifikanz der Klimaänderung wird für jede einzelne Klimasimulation berechnet.  Dies geschieht mit einem statistischen Testverfahren, das bewertet, ob eine gegebene Veränderung so stark ist, dass sie die zufälligen (natürlichen) Schwankungen übersteigt. Eine Klimaänderung wird hier als signifikant definiert, wenn sie gemäß eines sogenannten `Mann-Whitney-U-Tests`_ mit einer Wahrscheinlichkeit von unter 5% mit zufälligen Schwankungen erklärbar ist.
 
