@@ -9,7 +9,7 @@ In den hier erläuterten Untersuchungen wurden die `EURO-CORDEX`_ Simulationen m
 
 Diese Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur Verfügung. Details zu den einzelnen Modellen und ihrem Datenformat sind dokumentiert_. Weitere Informationen zu den Klimamodellen und `Modell-Diagnostik`_ sind in `Diez-Sierra et al., 2022`_ nachzulesen.
 
-Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel zu den **globale Erwärmungsstufen** dokumentiert.
+Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel **globale Erwärmungsstufen** dokumentiert.
 
 +---------------------+-------------------+-----------+-------------+----------------+
 | Regionales          | Globales          | Szenario  | Realisation | GWL            |
