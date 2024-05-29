@@ -1,6 +1,6 @@
-==============================================
-Broschüre - Stadtwald Karlsruhe im Klimawandel
-==============================================
+=====================================================
+GERICS Broschüre - Stadtwald Karlsruhe im Klimawandel
+=====================================================
 
 +----------------------------+-----------------------------------------------------+
 | Open Source                | |license|                                           |
@@ -8,7 +8,7 @@ Broschüre - Stadtwald Karlsruhe im Klimawandel
 
 .. image:: plots/karlsruhe-stripes.png
 	   
-In diesem Repositorium sind die Klimadatenanalysen zusammengestellt, die in der Broschüre *Stadtwald Karlsruhe im Klimawandel* enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus der Broschüre. Darüber hinaus enthält das Repositorium Hintergrundinformationen zu den Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
+In diesem Repositorium sind die Klimadatenanalysen zusammengestellt, die in der GERICS Broschüre *Stadtwald Karlsruhe im Klimawandel* enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus der GERICS Broschüre. Darüber hinaus enthält das Repositorium Hintergrundinformationen zu den Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 
 
 Kontakt

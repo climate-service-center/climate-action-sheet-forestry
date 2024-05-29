@@ -1,5 +1,5 @@
-Herzlich willkommen zur Dokumentation der Broschüre
-===================================================
+Herzlich willkommen zur Dokumentation der GERICS Broschüre
+==========================================================
 *Stadtwald Karlsruhe - im Klimawandel*
 ======================================
 

@@ -1,7 +1,7 @@
 Klimaparameter
 --------------
 
-Die verwendeten Klimaparamter werden mit dem `index_calculator`_ berechnet. Der *Index Calculator* verwendet xclim_.
+Die verwendeten Klimaparamter werden mit dem GERICS `index_calculator`_ berechnet. Der *Index Calculator* verwendet xclim_.
 
 +-------+--------------------------------+--------------------------+---------+
 | Index | Name                           | Variable                 | Ausgabe |
