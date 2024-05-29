@@ -28,7 +28,7 @@ Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CO
 Ensembles für verschiedene globale Erwärmungsstufen
 ...................................................
 
-Die Anzahl der globalen Projektionen in den Ensembles für die einzelnen GWL variiert. Alle globalen Projektionen des RCP4.5 (gelb) und RCP8.5 (rot) erreichen die GWL +1,5 und 2 °C. Aber Projektionen unter Verwendung des RCP2.6 Szenarios (blau) erreichen nur zum Teil die GWL 1.5 und 2 °C (siehe Abbildung 4). Aus diesem Grund wird hier das Modellensemble unter Verwendung des RCP8.5 verwendet. So bleibt wenigstens die Anzahl der Projektionen für GWL 1.5, 2 und 3 °C konstant. Für das GWL 4 °C reduziert sich das Ensemble auch unter Verwendung des RCP8.5 um 3 globale Simulationen.
+Die Anzahl der globalen Projektionen in den Ensembles für die einzelnen GWL variiert. Alle globalen Projektionen des RCP4.5 (gelb) und RCP8.5 (rot) erreichen die GWL +1.5 und 2 °C. Aber Projektionen unter Verwendung des RCP2.6 Szenarios (blau) erreichen nur zum Teil die GWL 1.5 und 2 °C (siehe Abbildung 4). Aus diesem Grund wird hier das Modellensemble unter Verwendung des RCP8.5 verwendet. So bleibt wenigstens die Anzahl der Projektionen für GWL 1.5, 2 und 3 °C konstant. Für das GWL 4 °C reduziert sich das Ensemble auch unter Verwendung des RCP8.5 um 3 globale Simulationen.
 
 .. image:: plots/cmip_HadCRUt5_GWL_all_deutsch.png
 
@@ -56,7 +56,7 @@ Abbildung 5 kann mit dem folgenden Notebook erstellt werden:
 
    $ GWL_table/plot_GWL_years.ipynb
 
-Die zentralen Jahre der GWL der Ergebnisse des CMIP5 Ensembles (CMIP5) (*verwendet im IPCC-Atlas*) und den Ergebnissen des CMIP5-CORDEX Ensembles (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) liegen für GWL 1.5 °C und 2 °C jeweils für alle drei RCP-Szenarien überwiegend innerhalb einer Dekade. Für GWL 3 °C ist der Unterschied zwischen dem Median der zentralen Jahre für RCP4.5 und RCP8.5 größer als 10 Jahre.
+Die zentralen Jahre der GWL der Ergebnisse des CMIP5 Ensembles (CMIP5) (*verwendet im IPCC-Atlas*) und den Ergebnissen des CMIP5-CORDEX Ensembles (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) liegen für GWL 1.5 und 2 °C jeweils für alle drei RCP-Szenarien überwiegend innerhalb einer Dekade. Für GWL 3 °C ist der Unterschied zwischen dem Median der zentralen Jahre für RCP4.5 und RCP8.5 größer als 10 Jahre.
 
 Für jedes einzelne RCP-Szenario stimmt der Median der Ergebnisse des CMIP5 Ensembles gut mit dem Median der Ergebnisse des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP8.5 Simulationen der EURO-CORDEX Simulationen erreicht wird. Hier zeigt sich eine Differenz von 8 Jahren zwischen den Medianen der beiden Ensembles.
 
