@@ -1,5 +1,7 @@
-Herzlich willkommen zur Dokumentation der Broschüre *Stadtwald Karlsruhe - im Klimawandel*
-==========================================================================================
+Herzlich willkommen zur Dokumentation der Broschüre
+===================================================
+*Stadtwald Karlsruhe - im Klimawandel*
+======================================
 
 .. toctree::
    :maxdepth: 2
