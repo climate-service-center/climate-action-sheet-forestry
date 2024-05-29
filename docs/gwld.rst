@@ -3,7 +3,7 @@ Globale Erwärmungsstufen
 
 Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL) `Nikulin (2018)`_) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Dies bedeutet, dass der globale Mittelwert der bodennahen Temperatur um 1,5°C, 2°C, 3°C und 4 °C wärmer ist als im vorindustriellen Mittel. Die GWL werden für die globalen Projektionen von CMIP5 (*Coupled Modelling Intercomparison Project 5*) unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.
 
-Für die Berechnung der GWL wird die Methode aus dem `IPCC Atlas`_ verwendet (`Mathias Hauser`_). Für die hier vorliegenden Untersuchungen wurde lediglich die 20-jährige Zeitspanne im Programm_ des IPCC Atlas auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ zwischen den Ergebnissen für eine 20-jährige und 30-jährige Zeitspanne ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
+Für die Berechnung der GWL wird die Methode aus dem `IPCC-Atlas`_ verwendet (`Mathias Hauser`_). Für die hier vorliegenden Untersuchungen wurde lediglich die 20-jährige Zeitspanne im Programm_ des IPCC-Atlas auf eine 30-Jährige Zeitspanne erweitert. Der `Unterschied`_ zwischen den Ergebnissen für eine 20-jährige und 30-jährige Zeitspanne ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.
 
 Vorindustriell und heute
 ........................
@@ -48,7 +48,7 @@ Im Folgenden werden die Ergebnisse des gesamten Globalmodell-Ensembles des IPCC 
 
 .. image:: plots/years_of_GWL_scenario_ensemble.png
 
-**Abbildung 5** zeigt das zentrale Jahr der globalen Erwärmungsstufe (GWL) eines 30-jährigen Zeitraumes für jedes Globalmodell. Es werden für jedes Szenario die Ergebnisse des Ensembles der CMIP5 Modelle (*verwendet im IPCC-Atlas*) mit den Ergebnissen der CMIP5-CORDEX Modelle (*verwendet als Antrieb für in EURO-CORDEX*) miteinander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
+**Abbildung 5** zeigt das zentrale Jahr der globalen Erwärmungsstufe (GWL) eines 30-jährigen Zeitraumes für jedes Globalmodell. Es werden für jedes RCP-Szenario die Ergebnisse des Ensembles der CMIP5 Modelle (*verwendet im IPCC-Atlas*) mit den Ergebnissen der CMIP5-CORDEX Modelle (*verwendet als Antrieb für in EURO-CORDEX*) miteinander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.
 
 Abbildung 5 kann mit dem folgenden Notebook erstellt werden:
 
@@ -58,11 +58,11 @@ Abbildung 5 kann mit dem folgenden Notebook erstellt werden:
 
 Die zentralen Jahre der GWL der Ergebnisse des CMIP5 Ensembles (CMIP5) (*verwendet im IPCC-Atlas*) und den Ergebnissen des CMIP5-CORDEX Ensembles (CMIP5-CORDEX) (*verwendet als Antrieb für EURO-CORDEX*) liegen für GWL 1.5 °C und 2 °C jeweils für alle drei RCP-Szenarien überwiegend innerhalb einer Dekade. Für GWL 3 °C ist der Unterschied zwischen dem Median der zentralen Jahre für RCP4.5 und RCP8.5 größer als 10 Jahre.
 
-Für jedes einzelne Szenario stimmt der Median der Ergebnisse des CMIP5 Ensembles gut mit dem Median der Ergebnisse des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP8.5 Simulationen der EURO-CORDEX Simulationen erreicht wird. Hier zeigt sich eine Differenz von 8 Jahren zwischen den Medianen der beiden Ensembles.
+Für jedes einzelne RCP-Szenario stimmt der Median der Ergebnisse des CMIP5 Ensembles gut mit dem Median der Ergebnisse des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP8.5 Simulationen der EURO-CORDEX Simulationen erreicht wird. Hier zeigt sich eine Differenz von 8 Jahren zwischen den Medianen der beiden Ensembles.
 
 Literatur
 ..........
-Weiterführende Informationen zu den unterschiedlichen Methoden zur Berechnung der globalen Erwärmungsstufen sind in `Nikulin (2018)`_ , im `IPCC`_ Atlas, `Vautard (2014)`_ und `Kjellstroem (2017)`_ erläutert.
+Weiterführende Informationen zu den unterschiedlichen Methoden zur Berechnung der globalen Erwärmungsstufen sind in `Nikulin (2018)`_ , der Dokumentation_ des IPCC-Atlas, `Vautard (2014)`_ und `Kjellstroem (2017)`_ erläutert.
 
 
 .. _Bärring (2018): https://iopscience.iop.org/article/10.1088/1748-9326/aa9f72
@@ -75,11 +75,11 @@ Weiterführende Informationen zu den unterschiedlichen Methoden zur Berechnung d
 
 .. _`Nikulin (2018)`: https://iopscience.iop.org/article/10.1088/1748-9326/aab1b1
 
-.. _IPCC: https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels
+.. _Dokumentation: https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels
 
 .. _HadCRUT5: https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.0.2.0/download.html
 
-.. _`IPCC Atlas`: https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels
+.. _`IPCC-Atlas`: https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels
 
 .. _`IPCC AR6 WG1 Chapter 11`: https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/
 

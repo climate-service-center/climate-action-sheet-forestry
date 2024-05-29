@@ -125,7 +125,7 @@ pygments_style = "sphinx"
 # a list of builtin themes.
 # html_theme = "sphinx_rtd_theme"
 html_theme = "sphinx_book_theme"
-html_title = "Klima-Taten-Blatt"
+html_title = "Wald Broschüre"
 
 # not sure about the license here...
 html_logo = "plots/karlsruhe-stripes.png"

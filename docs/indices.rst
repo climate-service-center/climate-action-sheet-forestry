@@ -43,7 +43,7 @@ Die verwendeten Klimaparamter werden mit dem `index_calculator`_ berechnet. Der 
 |       | Länge >= 3 Tage                |                          |         |
 +-------+--------------------------------+--------------------------+---------+
 
-Die in **Tabelle 2** aufgeführten Klimaparameter werden auf Grundlage der EURO-CORDEX Simulationen berechnet.
+Die in **Tabelle 2** aufgeführten Klimaparameter werden auf Grundlage der Ergebnisse der EURO-CORDEX Simulationen berechnet.
 
 
 

@@ -12,8 +12,7 @@ Die hier verwendeten Temperatur- und Niederschlagsdaten gehören zu dem europäi
 
 Diese Abbildung kann mit dem folgenden Notebook erstellt werden. Das Notebook verwendet die Daten, welche in  *climate-action-sheet-forestry/input_data* liegen.
 
-Notebook
-........
+
 .. code-block:: console
 
    $ Notebooks/EOBS/Plot_EOBS_annual_anomaly-new_color.ipynb
