@@ -15,10 +15,3 @@ Herzlich willkommen zur Dokumentation der Broschüre *Stadtwald Karlsruhe - im K
    gwld
    indices_GWL
    authors
-
-
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
