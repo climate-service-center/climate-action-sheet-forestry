@@ -19,4 +19,4 @@ Die Erwärmungsstreifen können mit dem folgenden Notebook erstellt werden:
 
 .. _`E-OBS`: https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-europe
 
-.. _`climate stripes`: https://www.climate-lab-book.ac.uk/
+.. _`climate stripes`: https://www.climate-lab-book.ac.uk/warming-stripes/
