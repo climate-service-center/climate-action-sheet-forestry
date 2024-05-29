@@ -14,4 +14,4 @@ Entwicklungsteam:
 Übersetzungen:
 --------------
 
-Es wurde zum Übersetzen aus dem Englischen ins Deutsche teilweise https://chat.openai.com verwendet
+Es wurde zum Übersetzen aus dem Englischen ins Deutsche teilweise ChatGPT (Mai 2024) verwendet.

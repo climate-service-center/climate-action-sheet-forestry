@@ -7,9 +7,9 @@ Im Rahmen der Europäischen Initiative `EURO-CORDEX`_ (Coordinated Downscaling E
 
 In den hier erläuterten Untersuchungen wurden die `EURO-CORDEX`_ Simulationen mit einer horizontalen Auflösung von 12 Km (EUR11) verwendet. 
 
-Diese Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur Verfügung. Details zu den einzelnen Modellen und ihrem Datenformat sind dokumentiert_. Weitere Informationen und Diagnostik_ sind in `Diez-Sierra et al., 2022`_ nach zulesen.
+Diese Daten stehen im Earth System Grid Federation (esgf_) zum Herunterladen zur Verfügung. Details zu den einzelnen Modellen und ihrem Datenformat sind dokumentiert_. Weitere Informationen zu den Klimamodellen und `Modell-Diagnostik`_ sind in `Diez-Sierra et al., 2022`_ nachzulesen.
 
-Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel zu den **globale Erwärmungstufen** dokumentiert.
+Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung stehenden Klimasimulationen. Die Vorgehensweise der Auswahl der Simulationen ist im folgenden Kapitel zu den **globale Erwärmungsstufen** dokumentiert.
 
 +---------------------+-------------------+----------+-------------+----------------+
 | Regionales          | Globales          | Szenario | Realisation | GWL            |
@@ -130,12 +130,12 @@ Die folgende Liste (Tabelle 1) umfasst eine Auswahl der insgesamt zur Verfügung
 | SMHI-RCA4           | NCC-NorESM1-M     | rcp85    | r1i1p1      | 1.5, 2, 3°C    |
 +---------------------+-------------------+----------+-------------+----------------+
 
-**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile enthält den Regionalmodellnamen, Globalmodellnamen, Szenarionamen, die Realisation des Globalmodells und die globalen Erwärmungstufen, welche von der jeweilige globalen Simulation erreicht werden und somit in die Ensemble Analyse eingehen.
+**Tabelle 1** führt die verwendeten Simulationen auf. Jede Zeile enthält den Regionalmodellnamen, Globalmodellnamen, Szenario Namen, die Realisation des Globalmodells und die globalen Erwärmungsstufen, welche von der jeweiligen globalen Simulation erreicht werden und somit in die Ensemble Analyse eingehen.
 
 
 .. _dokumentiert: https://confluence.ecmwf.int/display/CKB/CORDEX%3A+Regional+climate+projections
 
-.. _Diagnostik: https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
+.. _`Modell-Diagnostik`: https://confluence.ecmwf.int/display/CKB/Evaluation+of+CDS+climate+projections
 
 .. _`Diez-Sierra et al., 2022`:  https://journals.ametsoc.org/view/journals/bams/103/12/BAMS-D-22-0111.1.xml
 
