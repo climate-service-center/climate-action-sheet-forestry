@@ -3,7 +3,7 @@ GERICS Broschüre - Stadtwald Karlsruhe im Klimawandel
 =====================================================
 
 +----------------------------+-----------------------------------------------------+
-| Open Source                | |license|                                           |
+| Open Source                | |license|  |doi|                                    |
 +----------------------------+-----------------------------------------------------+
 
 
@@ -26,5 +26,5 @@ katharina.buelow@hereon.de oder gerics-wald@hereon.de
 .. |license| image:: https://img.shields.io/badge/License-MIT-yellow.svg
     :target: https://opensource.org/licenses/MIT
 
-.. |doi-flyer| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.11473737.svg
-    :target: https://doi.org/10.5281/zenodo.11473737
+.. |doi| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.11476347.svg
+    :target: https://doi.org/10.5281/zenodo.11476347
