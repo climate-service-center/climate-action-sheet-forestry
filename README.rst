@@ -27,4 +27,4 @@ katharina.buelow@hereon.de oder gerics-wald@hereon.de
     :target: https://doi.org/10.5281/zenodo.11476347
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg
-    :target: https://mybinder.org/v2/gh/climate-service-center/climate-action-sheet-forestry/binder?urlpath=lab/tree
+    :target: https://mybinder.org/v2/gh/climate-service-center/climate-action-sheet-forestry/binder?urlpath=lab%2Ftree
