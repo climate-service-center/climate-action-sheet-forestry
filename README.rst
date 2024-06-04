@@ -2,7 +2,7 @@
 GERICS Broschüre - Stadtwald Karlsruhe im Klimawandel
 =====================================================
 
-|license|  |doi|
+|license|  |doi| |binder|
 
 .. image:: karlsruhe-stripes.png
 	   
@@ -25,3 +25,6 @@ katharina.buelow@hereon.de oder gerics-wald@hereon.de
 
 .. |doi| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.11476347.svg
     :target: https://doi.org/10.5281/zenodo.11476347
+
+.. |binder| image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/climate-service-center/climate-action-sheet-forestry/binder?urlpath=lab/tree
