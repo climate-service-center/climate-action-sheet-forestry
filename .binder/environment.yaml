@@ -1,0 +1,6 @@
+name: flyer_forestry
+dependencies:
+    - matplotlib
+    - pandas
+    - pooch
+    - seaborn
