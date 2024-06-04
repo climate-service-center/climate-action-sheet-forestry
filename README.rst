@@ -11,6 +11,10 @@ GERICS Broschüre - Stadtwald Karlsruhe im Klimawandel
 	   
 In diesem Repositorium sind die Klimadatenanalysen zusammengestellt, die in der `GERICS Broschüre "Stadtwald Karlsruhe im Klimawandel"<https://doi.org/10.5281/zenodo.11473737>`_ enthalten sind. Die Skripte zur Datenverarbeitung sind hier ebenfalls zu finden, und sie ermöglichen die Reproduktion der Grafiken und Tabellen aus der GERICS Broschüre. Darüber hinaus enthält das Repositorium Hintergrundinformationen zu den Berechnungen der globalen Erwärmungsstufen und zusätzliche Analysen.
 
+Referenzen
+..........
+
+Bülow, K., Bauer, S., Steuri, B., Groth, M., Knutzen, F., & Rechid, D. (2024). Stadtwald Karlsruhe im Klimawandel - Der Wald heute und in Zukunft. Zenodo. https://doi.org/10.5281/zenodo.11473737
 
 Kontakt
 .......
