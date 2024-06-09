@@ -16,7 +16,7 @@ Bülow, K., Bauer, S., Steuri, B., Groth, M., Knutzen, F., & Rechid, D. (2024). 
 Kontakt
 .......
 
-Im Falle von Problemen oder Wünschen zögern Sie bitte nicht, Kontakt aufzunehmen:
+Im Falle von Wünschen oder Problemen zögern Sie bitte nicht, Kontakt aufzunehmen:
 
 katharina.buelow@hereon.de oder gerics-wald@hereon.de
 
