@@ -1,0 +1,541 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Globale Erwärmungsstufen &#8212; Wald Broschüre</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'gwld';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Indizes für Beobachtungsdaten und Ergebnisse der EURO-CORDEX Simulationen für verschiedene globale Erwärmungsstufen" href="indices_GWL.html" />
+    <link rel="prev" title="Berechnung von Signifikanz und Robustheit der Klimaänderung" href="ensemble_analysis.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/karlsruhe-stripes.png" class="logo__image only-light" alt="Wald Broschüre - Home"/>
+    <script>document.write(`<img src="_static/karlsruhe-stripes.png" class="logo__image only-dark" alt="Wald Broschüre - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Inhalt:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="readme.html">GERICS Broschüre - Stadtwald Karlsruhe im Klimawandel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">Einleitung</a></li>
+<li class="toctree-l1"><a class="reference internal" href="observed.html">Beobachtete Veränderungen in der Vergangenheit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_list.html">Liste der Klimasimulationen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="indices.html">Klimaparameter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="regions.html">Gewichtetes Mittel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ensemble_analysis.html">Berechnung von Signifikanz und Robustheit der Klimaänderung</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Globale Erwärmungsstufen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="indices_GWL.html">Indizes für Beobachtungsdaten und Ergebnisse der EURO-CORDEX Simulationen für verschiedene globale Erwärmungsstufen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="authors.html">Mitwirkende</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/climate-service-center/climate-action-sheet-forestry" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/climate-service-center/climate-action-sheet-forestry/edit/main/docs/gwld.rst" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/climate-service-center/climate-action-sheet-forestry/issues/new?title=Issue%20on%20page%20%2Fgwld.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/gwld.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Globale Erwärmungsstufen</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vorindustriell-und-heute">Vorindustriell und heute</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ensembles-fur-verschiedene-globale-erwarmungsstufen">Ensembles für verschiedene globale Erwärmungsstufen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#literatur">Literatur</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="globale-erwarmungsstufen">
+<h1>Globale Erwärmungsstufen<a class="headerlink" href="#globale-erwarmungsstufen" title="Link to this heading">#</a></h1>
+<p>Die Zeiträume, in denen die globalen Erwärmungsstufen (engl.: global warming level (GWL) <a class="reference external" href="https://iopscience.iop.org/article/10.1088/1748-9326/aab1b1">Nikulin (2018)</a>) von +1.5, +2, +3 und +4 °C erreicht werden, beziehen sich auf den vorindustriellen Durchschnittswert der Jahre 1850 bis 1900. Dies bedeutet, dass der globale Mittelwert der bodennahen Temperatur um 1.5, 2, 3 und 4 °C wärmer ist als im vorindustriellen Mittel. Die GWL werden für die globalen Projektionen von CMIP5 (<em>Coupled Modelling Intercomparison Project 5</em>) unter Verwendung eines gleitenden 30-Jährigen Mittelwertes berechnet.</p>
+<p>Für die Berechnung der GWL wird die Methode aus dem <a class="reference external" href="https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels">IPCC-Atlas</a> verwendet (<a class="reference external" href="https://github.com/mathause/cmip_warming_levels">Mathias Hauser</a>). Für die hier vorliegenden Untersuchungen wurde lediglich die 20-jährige Zeitspanne im <a class="reference external" href="https://github.com/IPCC-WG1/Atlas/blob/main/warming-levels/scripts/getGWL.R">Programm</a> des IPCC-Atlas auf eine 30-Jährige Zeitspanne erweitert. Der <a class="reference external" href="https://github.com/IPCC-WG1/Atlas/blob/main/warming-levels/CMIP5_WarmingLevels_spread_RCP85.pdf">Unterschied</a> zwischen den Ergebnissen für eine 20-jährige und 30-jährige Zeitspanne ist gering, in Einzelfällen verschiebt sich das zentrale Jahr des gemittelten Zeitraumes um ein Jahr.</p>
+<section id="vorindustriell-und-heute">
+<h2>Vorindustriell und heute<a class="headerlink" href="#vorindustriell-und-heute" title="Link to this heading">#</a></h2>
+<p>Die GWL werden im Vergleich zur vorindustriellen Periode (PI) der Jahre 1850 bis 1900 berechnet. Um zu untersuchen, wie stark sich die Temperatur global in den Jahren 1971 bis 2000 verändert hat, verwenden wir den <a class="reference external" href="https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.0.2.0/download.html">HadCRUT5</a> Datensatz (<a class="reference external" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JD032361">Morice (2020)</a>), welcher üblicherweise in GWL-Studien verwendet wird. Global ist im HadCRUT Datensatz bereits ein mittlerer Temperaturanstieg von 0,51 °K im Vergleich zum vorindustriellen Zeitraum der Jahre 1971 bis 2000 zu erkennen.</p>
+<img alt="_images/HadCRU_GWL_PI_new_version24.png" src="_images/HadCRU_GWL_PI_new_version24.png" />
+<p><strong>Abbildung 3</strong> zeigt die jährlichen Anomalien der global gemittelten oberflächennahen Temperatur im Vergleich zum vorindustriellen Zeitraum von 1850 bis 1900. Die mittlere Änderung im Referenzzeitraum von 1971 bis 2000 beträgt 0.51 K und ist eingezeichnet. Es wurde die neue Version des globalen oberflächennahen Temperatur Datasatzes <em>HadCRUT5</em> des <em>Met Office Hadley Centre/Climatic Research Unit</em> verwendet.</p>
+<p>Im Original besteht der <em>HadCRUT5</em> Datensatz vom <em>Met Office Hadley Centre/Climatic Research Unit</em> aus monatlichen durchschnittlichen Anomalien der Oberflächentemperatur im Vergleich zum Zeitraum 1961-1990 auf einem regelmäßigen Raster von 5° Breitengrad mal 5° Längengrad von 1850 bis 2023. HadCRUT5 ist eine Kombination aus Messungen der Meeresoberflächentemperatur (SST) über dem Ozean von Schiffen und Bojen und Messungen der bodennahen Lufttemperatur von Wetterstationen über der Landoberfläche.</p>
+<p>Diese Abbildung kann mit dem folgenden Notebook erstellt werden:</p>
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">$ </span>Notebooks/HadCru_GWL-update2024.ipynb
+</pre></div>
+</div>
+<p>Es ist nicht möglich mit Hilfe der regionalen Klimasimulationen aus dem EURO-CORDEX Ensemble die Änderung zwischen dem vorindustriellen Zeitraum zu den Zeiträumen der GWL zu berechnen, da das EURO-CORDEX Ensemble erst im Jahr 1971 beginnt. Als Referenzzeitraum wird daher 1971-2000 festgelegt. In den hier vorliegenden Untersuchungen kann nur gezeigt werden, wie sich das Klima während des Zeitraums eines GWL im Vergleich zum Referenzzeitraum verändert hat. Die Temperatur ist bereits im Referenzzeitraum 1971-2000 im Vergleich zum vorindustriellen Zeitraum global angestiegen.</p>
+</section>
+<section id="ensembles-fur-verschiedene-globale-erwarmungsstufen">
+<h2>Ensembles für verschiedene globale Erwärmungsstufen<a class="headerlink" href="#ensembles-fur-verschiedene-globale-erwarmungsstufen" title="Link to this heading">#</a></h2>
+<p>Die Anzahl der globalen Projektionen in den Ensembles für die einzelnen GWL variiert. Alle globalen Projektionen des RCP4.5 (gelb) und RCP8.5 (rot) erreichen die GWL +1.5 und 2 °C. Aber Projektionen unter Verwendung des RCP2.6 Szenarios (blau) erreichen nur zum Teil die GWL 1.5 und 2 °C (siehe Abbildung 4). Aus diesem Grund wird hier das Modellensemble unter Verwendung des RCP8.5 verwendet. So bleibt wenigstens die Anzahl der Projektionen für GWL 1.5, 2 und 3 °C konstant. Für das GWL 4 °C reduziert sich das Ensemble auch unter Verwendung des RCP8.5 um 3 globale Simulationen.</p>
+<img alt="_images/cmip_HadCRUt5_GWL_all_deutsch.png" src="_images/cmip_HadCRUt5_GWL_all_deutsch.png" />
+<p><strong>Abbildung 4</strong> zeigt die Temperaturanomalien im Vergleich zum vorindustriellen Zeitraum von 1850 bis 1900 aller CMIP5 Projektionen, die im IPCC-Atlas verwendet werden. Die helleren Linien repräsentieren die globalen Klimamodelle, die nicht als Antrieb in EURO-CORDEX verwendet werden, die dunkleren Linien repräsentieren die GCMs, die als Antrieb in EURO-CORDEX verwendet werden. Die Farben stehen für RCP2.6 (blau), RCP4.5 (gelb) und RCP8.5 (rot). Die Ergebnisse, der als Antrieb verwendeten GCMs, decken nahezu die gesamte Bandbreite der Temperaturveränderung auf globaler Ebene ab. In schwarz sind zusätzlich die jährlichen Anomalien der global gemittelten oberflächennahen Temperatur HadCRUT5 aus Abbildung 3 eingezeichnet.</p>
+<p>Abbildung 4 kann mit dem folgenden Notebook unter Verwendung der Daten des IPCC-Atlas erstellt werden:</p>
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">$ </span>Notebooks/read_atlas_cmip5.ipynb
+</pre></div>
+</div>
+<p>Die Analysen, die der GERICS Broschüre zu Grunde liegen, basieren auf den EURO-CORDEX Projektionen, welche das RCP8.5 Szenario verwenden. Diese werden für jedes GWL analysiert. Dadurch bleibt das Ensemble über alle GWLs konstant für 1.5, 2 und 3 °C, jedoch nicht alle globalen Klimamodelle erreichen das GWL von 4 °C. Der Anteil des EURO-CORDEX-Ensembles, für den das RCP8.5 Szenario verwendet wurde, enthält die meisten Kombinationen aus globalen Klimamodellen (GCM) und regionalen Klimamodellen (RCM).
+Durch die Auswahl des einen bestimmten Szenarios RCP8.5 bleibt das Modell Ensemble bestmöglich konstant. Es wird dadurch jedoch nicht berücksichtigt, dass eventuell unterschiedliche Treibhausgasantriebe eine Wirkung haben können, insbesondere im Hinblick auf Extremereignisse (<a class="reference external" href="https://iopscience.iop.org/article/10.1088/1748-9326/aa9f72">Bärring (2018)</a>). Weitere Informationen dazu befinden sich in Querkapitel-Box 11.1 im <a class="reference external" href="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/">IPCC AR6 WG1 Chapter 11</a> .</p>
+<p>Im Folgenden werden die Ergebnisse des gesamten Globalmodell-Ensembles des IPCC mit den Ergebnissen des Teilensembles der Globalmodelle (GCM), welche als Antrieb für EURO-CORDEX verwendet wurden, verglichen. Dieser Vergleich wird für jedes GWL und jedes RCP-Szenario durchgeführt. Ziel dieses Vergleichs ist es zu zeigen, ob die Ergebnisse des Teilensembles (bestehend aus GCMs verwendet als Antrieb für EURO-CORDEX) die gesamte Bandbreite der Ergebnisse des IPCC Globalmodell-Ensembles abdecken. Somit kann die Verlässlichkeit des Teilensembles eingeschätzt werden.</p>
+<img alt="_images/years_of_GWL_scenario_ensemble.png" src="_images/years_of_GWL_scenario_ensemble.png" />
+<p><strong>Abbildung 5</strong> zeigt das zentrale Jahr der globalen Erwärmungsstufe (GWL) eines 30-jährigen Zeitraumes für jedes Globalmodell. Es werden für jedes RCP-Szenario die Ergebnisse des Ensembles der CMIP5 Modelle (<em>verwendet im IPCC-Atlas</em>) mit den Ergebnissen der CMIP5-CORDEX Modelle (<em>verwendet als Antrieb für in EURO-CORDEX</em>) miteinander verglichen. Die farbige Box erstreckt sich über den Bereich vom 25. bis zum 75. Perzentil, wobei der Median als schwarze Linie in der Mitte dargestellt wird. Der Median wird auch als blaue Zahl oben aufgeführt, und die schwarze Zahl unten gibt die Anzahl der Simulationen an, die das jeweilige GWL erreicht.</p>
+<p>Abbildung 5 kann mit dem folgenden Notebook erstellt werden:</p>
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="gp">$ </span>GWL_table/plot_GWL_years.ipynb
+</pre></div>
+</div>
+<p>Die zentralen Jahre der GWL der Ergebnisse des CMIP5 Ensembles (CMIP5) (<em>verwendet im IPCC-Atlas</em>) und den Ergebnissen des CMIP5-CORDEX Ensembles (CMIP5-CORDEX) (<em>verwendet als Antrieb für EURO-CORDEX</em>) liegen für GWL 1.5 und 2 °C jeweils für alle drei RCP-Szenarien überwiegend innerhalb einer Dekade. Für GWL 3 °C ist der Unterschied zwischen dem Median der zentralen Jahre für RCP4.5 und RCP8.5 größer als 10 Jahre.</p>
+<p>Für jedes einzelne RCP-Szenario stimmt der Median der Ergebnisse des CMIP5 Ensembles gut mit dem Median der Ergebnisse des CMIP5-CORDEX Ensembles überein. Eine Ausnahme bildet das GWL 4 °C, welches nur von einigen RCP8.5 Simulationen der EURO-CORDEX Simulationen erreicht wird. Hier zeigt sich eine Differenz von 8 Jahren zwischen den Medianen der beiden Ensembles.</p>
+</section>
+<section id="literatur">
+<h2>Literatur<a class="headerlink" href="#literatur" title="Link to this heading">#</a></h2>
+<p>Weiterführende Informationen zu den unterschiedlichen Methoden zur Berechnung der globalen Erwärmungsstufen sind in <a class="reference external" href="https://iopscience.iop.org/article/10.1088/1748-9326/aab1b1">Nikulin (2018)</a> , der <a class="reference external" href="https://github.com/IPCC-WG1/Atlas/tree/main/warming-levels">Dokumentation</a> des IPCC-Atlas, <a class="reference external" href="https://iopscience.iop.org/article/10.1088/1748-9326/9/3/034006">Vautard (2014)</a> und <a class="reference external" href="https://esd.copernicus.org/articles/9/459/2018/">Kjellstroem (2017)</a> erläutert.</p>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="ensemble_analysis.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Berechnung von Signifikanz und Robustheit der Klimaänderung</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="indices_GWL.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Indizes für Beobachtungsdaten und Ergebnisse der EURO-CORDEX Simulationen für verschiedene globale Erwärmungsstufen</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vorindustriell-und-heute">Vorindustriell und heute</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ensembles-fur-verschiedene-globale-erwarmungsstufen">Ensembles für verschiedene globale Erwärmungsstufen</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#literatur">Literatur</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Author name not set
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024, Katharina Bülow.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
